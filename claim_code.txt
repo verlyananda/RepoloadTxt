@@ -30,5 +30,6 @@
 "bg_sadew": [94149745612422],
 "felipe_cardealchip99": [94149745612422],
 "DiavoloFt67BST": [94149745612422],
-"mobilpelansekali74": [94149745612422]
+"mobilpelansekali74": [94149745612422],
+"x0xkenzzz_V": [94149745612422, 110389011388134]
 }
