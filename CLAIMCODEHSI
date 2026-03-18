@@ -1,8 +1,7 @@
-
 {
-  "codes": [
-    { "code": "HSIMAX", "reward": 50000 },
-    { "code": "HSIJAYA", "reward": 75000 },
-    { "code": "HSIKEREN", "reward": 100000 }
-  ]
+    "codes": [
+        { "code": "HSIMAX", "reward": 50000 },
+        { "code": "HSIJAYA", "reward": 75000 },
+        { "code": "HSIKEREN", "reward": 100000 }
+    ]
 }
