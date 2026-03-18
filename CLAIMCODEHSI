@@ -3,5 +3,5 @@
     { "code": "HSIMAX", "reward": 50000 },
     { "code": "HSIUPDATE", "reward": 100000 },
     { "code": "VERLYGAMEDEV", "reward": 500000 }
-  ], <--- INI KOMA HARAM! BIKIN ERROR "Missing a name"
+  ]
 }
