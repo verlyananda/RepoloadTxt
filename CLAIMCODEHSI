@@ -2,6 +2,6 @@
   "codes": [
     { "code": "HSIMAX", "reward": 11000000 },
     { "code": "HSIUPDATE", "reward": 12000000 },
-    { "code": "VERLYGAMEDEV", "reward": 300000000 }
+    { "code": "VERLYGAMEDEV", "reward": 30000000 }
   ]
 }
