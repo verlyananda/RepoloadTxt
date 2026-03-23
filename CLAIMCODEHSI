@@ -3,6 +3,7 @@
     { "code": "HSIMAX", "reward": 1000000 },
     { "code": "HSIUPDATE", "reward": 2000000 },
     { "code": "VERLYGAMEDEV", "reward": 10000000 },
-    { "code": "THRLEBARAN", "reward": 25000000 }
+    { "code": "THRLEBARAN", "reward": 25000000 },
+   { "code": "THRHSIMAX", "reward": 10000000 }
   ]
 }
