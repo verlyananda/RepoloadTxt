@@ -25,6 +25,8 @@
     { "code": "SENGGOLBANG", "reward": 50000000 },
     { "code": "KAYAMENDADAK", "reward": 50000000 },
     { "code": "DUITGRATIS", "reward": 50000000 },
+    { "code": "KUCAITEA", "reward": 50000000 },
+    { "code": "ARYAWIJAYA", "reward": 50000000 },
     { "code": "MABARUPDATE", "reward": 50000000 }
   ]
 }
