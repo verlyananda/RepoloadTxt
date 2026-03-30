@@ -205,6 +205,12 @@
  { "code": "HSIMAXALAMAK", "reward": 90000000 },
  { "code": "HSIMAXADIDAW", "reward": 90000000 },
  { "code": "HSIMAXGEGE", "reward": 90000000 },
+ { "code": "HSISLEBEWGEMINK", "reward": 90000000 },
+ { "code": "HSIADUH", "reward": 90000000 },
+ { "code": "HSIMAXGG", "reward": 90000000 },
+ { "code": "HSIGACOR", "reward": 90000000 },
+ { "code": "NYAWITAJA", "reward": 90000000 },
+ { "code": "PRIASOLO", "reward": 90000000 },
     { "code": "GAS-MESIN-R5", "reward": 100000000 }
   ]
 }
