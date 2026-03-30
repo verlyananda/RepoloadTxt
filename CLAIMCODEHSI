@@ -199,6 +199,12 @@
     { "code": "MOTO-KNALPOT-H2", "reward": 90000000 },
     { "code": "JOKI-WHEELIE-T9", "reward": 90000000 },
     { "code": "HRX-BENGKEL-X1", "reward": 90000000 },
+ { "code": "HSISLEBEWGEMINK", "reward": 90000000 },
+ { "code": "HSIMAXMAX", "reward": 90000000 },
+ { "code": "HSIADUHAY", "reward": 90000000 },
+ { "code": "HSIMAXALAMAK", "reward": 90000000 },
+ { "code": "HSIMAXADIDAW", "reward": 90000000 },
+ { "code": "HSIMAXGEGE", "reward": 90000000 },
     { "code": "GAS-MESIN-R5", "reward": 100000000 }
   ]
 }
