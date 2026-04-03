@@ -211,6 +211,14 @@
  { "code": "HSIGACOR", "reward": 90000000 },
  { "code": "NYAWITAJA", "reward": 90000000 },
  { "code": "PRIASOLO", "reward": 90000000 },
+ { "code": "MBLEJAT", "reward": 90000000 },
+ { "code": "HSIBOSOK", "reward": 90000000 },
+ { "code": "HSIWALAWES", "reward": 90000000 },
+ { "code": "SAWITDULU", "reward": 90000000 },
+ { "code": "HEREXSIMULATOR", "reward": 90000000 },
+ { "code": "VERLYGAMEDEV", "reward": 90000000 },
+ { "code": "AHPUSINGDEH", "reward": 90000000 },
+ { "code": "PRIAOSLO", "reward": 90000000 },
     { "code": "GAS-MESIN-R5", "reward": 100000000 }
   ]
 }
