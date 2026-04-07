@@ -2,6 +2,6 @@
     "latestVersion": "1.0.59",
     "title": "INFO",
     "message": "UPDATE SEKARANG ADA FITUR LAMPU! ",
-    "showPopup": true,
+    "showPopup": false,
     "updateLink": "https://play.google.com/store/apps/details?id=net.verlygamedev.herexsimulatorindonesiamax"
 }
