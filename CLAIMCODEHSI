@@ -8,7 +8,15 @@
   { "code": "LAHKOKTANYASAYA", "reward": 90000000 },
  { "code": "KUCAITEA", "reward": 90000000 },
   { "code": "HSILAGI", "reward": 90000000 },
- { "code": "SANSAJGTYEPPING", "reward": 90000000 },
+  { "code": "HSIITULAGI", "reward": 90000000 },
+  { "code": "HSIBOSOKBGT", "reward": 90000000 },
+ { "code": "HSIJELEK", "reward": 90000000 },
+  { "code": "HSIGATAU", "reward": 90000000 },
+ { "code": "HSIKAHINI", "reward": 90000000 },
+  { "code": "LAHKOCAKGEMING", "reward": 90000000 },
+ { "code": "APALAH", "reward": 90000000 },
+  { "code": "PRIAOSLOITU", "reward": 90000000 },
+ { "code": "NYAWITAJA", "reward": 90000000 },
     { "code": "GAS-MESIN-R5", "reward": 100000000 }
   ]
 }
