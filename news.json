@@ -1,7 +1,7 @@
 {
-    "latestVersion": "1.0.54",
+    "latestVersion": "1.0.59",
     "title": "INFO",
-    "message": "MAU REDEEM LAGI GA? CEK SALURAN GW ! ",
-    "showPopup": false,
+    "message": "UPDATE SEKARANG ADA FITUR LAMPU! ",
+    "showPopup": true,
     "updateLink": "https://play.google.com/store/apps/details?id=net.verlygamedev.herexsimulatorindonesiamax"
 }
