@@ -17,6 +17,15 @@
  { "code": "APALAH", "reward": 90000000 },
   { "code": "PRIAOSLOITU", "reward": 90000000 },
  { "code": "NYAWITAJA", "reward": 90000000 },
+ { "code": "HSIRACING", "reward": 90000000 },
+  { "code": "PRIAITULAGI", "reward": 90000000 },
+ { "code": "SAWITWOWO", "reward": 90000000 },
+  { "code": "BENSINMAHAL", "reward": 90000000 },
+ { "code": "REJAARAP", "reward": 90000000 },
+  { "code": "PRIASOLOITULAGI", "reward": 90000000 },
+ { "code": "BAHLILAJA", "reward": 90000000 },
+  { "code": "BAKSOENAK", "reward": 90000000 },
+
     { "code": "GAS-MESIN-R5", "reward": 100000000 }
   ]
 }
