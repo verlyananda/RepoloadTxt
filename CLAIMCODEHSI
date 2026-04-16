@@ -18,6 +18,15 @@
   { "code": "PRIAOSLOGT", "reward": 90000000 },
  { "code": "MOKONDO", "reward": 90000000 },
  { "code": "HSILAGI", "reward": 90000000 },
+  { "code": "RAMEIN", "reward": 90000000 },
+  { "code": "KAMUGG", "reward": 90000000 },
+ { "code": "KAMUGANTENG", "reward": 90000000 },
+  { "code": "KAMUCANTIK", "reward": 90000000 },
+ { "code": "HSIGEGE", "reward": 90000000 },
+  { "code": "GASKEUN", "reward": 90000000 },
+ { "code": "FFTERBAIK", "reward": 90000000 },
+  { "code": "HSIGGS", "reward": 90000000 },
+  { "code": "MYAWITKUY", "reward": 90000000 },
     { "code": "GAS-MESIN-R5", "reward": 100000000 }
   ]
 }
