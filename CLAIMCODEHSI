@@ -1,34 +1,124 @@
 {
   "codes": [
-{ "code": "GASPOLBRO", "reward": 90000000 },
-{ "code": "MOTORJOSS", "reward": 90000000 },
-{ "code": "DRIFTKING", "reward": 90000000 },
-{ "code": "STARTENGINE", "reward": 90000000 },
-{ "code": "PITLANEGG", "reward": 90000000 },
-{ "code": "TURBONMAX", "reward": 90000000 },
-{ "code": "WHEELIEBRO", "reward": 90000000 },
-{ "code": "BURNOUTGG", "reward": 90000000 },
-{ "code": "GRIDSTART", "reward": 90000000 },
-{ "code": "CHECKFLAG", "reward": 90000000 },
-{ "code": "PODIUMSATU", "reward": 90000000 },
-{ "code": "RPMMERAH", "reward": 90000000 },
-{ "code": "SIRKUITGG", "reward": 90000000 },
-{ "code": "KOPLINGGG", "reward": 90000000 },
-{ "code": "MOTORNYALA", "reward": 90000000 },
-{ "code": "BENSINPAT", "reward": 90000000 },
-{ "code": "TRACKDAYS", "reward": 90000000 },
-{ "code": "RACEBOSS", "reward": 90000000 },
-{ "code": "JOKIHANDAL", "reward": 90000000 },
-{ "code": "SPRINTFULL", "reward": 90000000 },
-{ "code": "OVERTAKEBRO", "reward": 90000000 },
-{ "code": "NITROBOOST", "reward": 90000000 },
-{ "code": "ENGINEROAR", "reward": 90000000 },
-{ "code": "LAPPERTAMA", "reward": 90000000 },
-{ "code": "CEPETBANG", "reward": 90000000 },
-{ "code": "STANGKIRI", "reward": 90000000 },
-{ "code": "FINISH LINE", "reward": 90000000 },
-{ "code": "GASREMGAS", "reward": 90000000 },
-{ "code": "PODIUMHSI", "reward": 100000000 },
-{ "code": "LEGENDRACER", "reward": 100000000 }
+    {
+      "code": "GASPOLMAX",
+      "reward": 90000000
+    },
+    {
+      "code": "RACINGMODE",
+      "reward": 90000000
+    },
+    {
+      "code": "FULLTHROTL",
+      "reward": 90000000
+    },
+    {
+      "code": "LAPMASTER",
+      "reward": 90000000
+    },
+    {
+      "code": "BOOSTZONE",
+      "reward": 90000000
+    },
+    {
+      "code": "POWERSLIDE",
+      "reward": 90000000
+    },
+    {
+      "code": "REVSUP",
+      "reward": 90000000
+    },
+    {
+      "code": "SLIPSTREAM",
+      "reward": 90000000
+    },
+    {
+      "code": "PODIUMRACE",
+      "reward": 90000000
+    },
+    {
+      "code": "PITCREW99",
+      "reward": 90000000
+    },
+    {
+      "code": "BURNRUBBER",
+      "reward": 90000000
+    },
+    {
+      "code": "TARMACKING",
+      "reward": 90000000
+    },
+    {
+      "code": "APEXHUNTER",
+      "reward": 90000000
+    },
+    {
+      "code": "DRAFTKILL",
+      "reward": 90000000
+    },
+    {
+      "code": "HOTLAPPER",
+      "reward": 90000000
+    },
+    {
+      "code": "CLUTCHHERO",
+      "reward": 90000000
+    },
+    {
+      "code": "SPEEDZONE",
+      "reward": 90000000
+    },
+    {
+      "code": "MOTORHEAD",
+      "reward": 90000000
+    },
+    {
+      "code": "GASBUSTER",
+      "reward": 90000000
+    },
+    {
+      "code": "TRACKBOSS",
+      "reward": 90000000
+    },
+    {
+      "code": "NITROKING",
+      "reward": 90000000
+    },
+    {
+      "code": "RACEPILOT",
+      "reward": 90000000
+    },
+    {
+      "code": "TIREWALL",
+      "reward": 90000000
+    },
+    {
+      "code": "SECTORONE",
+      "reward": 90000000
+    },
+    {
+      "code": "GRIDLOCKED",
+      "reward": 90000000
+    },
+    {
+      "code": "OVERSTEER",
+      "reward": 90000000
+    },
+    {
+      "code": "DOWNFORCE",
+      "reward": 90000000
+    },
+    {
+      "code": "PITMASTER",
+      "reward": 90000000
+    },
+    {
+      "code": "TURBORACE",
+      "reward": 100000000
+    },
+    {
+      "code": "ULTIMATELAP",
+      "reward": 100000000
+    }
   ]
 }
