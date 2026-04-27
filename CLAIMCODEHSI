@@ -1,17 +1,399 @@
 {
   "codes": [
     {
-      "code": "GASPOLMAX",
+      "code": "BLAZETRACK",
       "reward": 90000000
     },
     {
-
+      "code": "DRIFTSTORM",
+      "reward": 90000000
+    },
     {
-      "code": "TURBORACE",
+      "code": "REVLIMIT",
+      "reward": 90000000
+    },
+    {
+      "code": "WHEELSPIN",
+      "reward": 90000000
+    },
+    {
+      "code": "FUELDUMP",
+      "reward": 90000000
+    },
+    {
+      "code": "RACEWILD",
+      "reward": 90000000
+    },
+    {
+      "code": "GEARSHIFT",
+      "reward": 90000000
+    },
+    {
+      "code": "CORNERCUT",
+      "reward": 90000000
+    },
+    {
+      "code": "BRAKEZONE",
+      "reward": 90000000
+    },
+    {
+      "code": "PITSTOPGG",
+      "reward": 90000000
+    },
+    {
+      "code": "TURBOPUSH",
+      "reward": 90000000
+    },
+    {
+      "code": "FASTLANE",
+      "reward": 90000000
+    },
+    {
+      "code": "TOPGEAR99",
+      "reward": 90000000
+    },
+    {
+      "code": "RACEGHOST",
+      "reward": 90000000
+    },
+    {
+      "code": "LAUNCHPAD",
+      "reward": 90000000
+    },
+    {
+      "code": "GRIPZONE",
+      "reward": 90000000
+    },
+    {
+      "code": "ABSBRAKE",
+      "reward": 90000000
+    },
+    {
+      "code": "CAMSHAFT",
+      "reward": 90000000
+    },
+    {
+      "code": "THROTTLUP",
+      "reward": 90000000
+    },
+    {
+      "code": "BURNTRACK",
+      "reward": 90000000
+    },
+    {
+      "code": "PODIUMGG",
+      "reward": 90000000
+    },
+    {
+      "code": "SPEEDTRAP",
+      "reward": 90000000
+    },
+    {
+      "code": "DRIFTPRO",
+      "reward": 90000000
+    },
+    {
+      "code": "ENGINEON",
+      "reward": 90000000
+    },
+    {
+      "code": "HOTWHEEL",
+      "reward": 90000000
+    },
+    {
+      "code": "LAPKILLER",
+      "reward": 90000000
+    },
+    {
+      "code": "RACEHARD",
+      "reward": 90000000
+    },
+    {
+      "code": "SKIDMARK",
+      "reward": 90000000
+    },
+    {
+      "code": "FULLPOWER",
+      "reward": 90000000
+    },
+    {
+      "code": "ZOOMZOOM",
+      "reward": 90000000
+    },
+    {
+      "code": "RACETIME",
+      "reward": 90000000
+    },
+    {
+      "code": "SPEEDRUN",
+      "reward": 90000000
+    },
+    {
+      "code": "MOTORPRO",
+      "reward": 90000000
+    },
+    {
+      "code": "GASPEDAL",
+      "reward": 90000000
+    },
+    {
+      "code": "DRAFTKING",
+      "reward": 90000000
+    },
+    {
+      "code": "FASTGEAR",
+      "reward": 90000000
+    },
+    {
+      "code": "RACEFLEET",
+      "reward": 90000000
+    },
+    {
+      "code": "TURBOLAP",
+      "reward": 90000000
+    },
+    {
+      "code": "MOTORFUEL",
+      "reward": 90000000
+    },
+    {
+      "code": "TRACKSTAR",
+      "reward": 90000000
+    },
+    {
+      "code": "PITLANE88",
+      "reward": 90000000
+    },
+    {
+      "code": "ZEROLAG",
+      "reward": 90000000
+    },
+    {
+      "code": "HOTSTART",
+      "reward": 90000000
+    },
+    {
+      "code": "RACEDAY",
+      "reward": 90000000
+    },
+    {
+      "code": "BURNOUT99",
+      "reward": 90000000
+    },
+    {
+      "code": "GASSTOP",
+      "reward": 90000000
+    },
+    {
+      "code": "MAXSPEED",
+      "reward": 90000000
+    },
+    {
+      "code": "RACEZONE",
+      "reward": 90000000
+    },
+    {
+      "code": "SLIPDRIFT",
+      "reward": 90000000
+    },
+    {
+      "code": "PITROAD",
+      "reward": 90000000
+    },
+    {
+      "code": "FUELPUMP",
+      "reward": 90000000
+    },
+    {
+      "code": "TURBOJET",
+      "reward": 90000000
+    },
+    {
+      "code": "APEXLINE",
+      "reward": 90000000
+    },
+    {
+      "code": "REVHIGH",
+      "reward": 90000000
+    },
+    {
+      "code": "STARTLINE",
+      "reward": 90000000
+    },
+    {
+      "code": "MOTORMAX",
+      "reward": 90000000
+    },
+    {
+      "code": "RACEWIND",
+      "reward": 90000000
+    },
+    {
+      "code": "GEARRIP",
+      "reward": 90000000
+    },
+    {
+      "code": "TIREBURN",
+      "reward": 90000000
+    },
+    {
+      "code": "BOOSTMAX",
+      "reward": 90000000
+    },
+    {
+      "code": "SPEEDKILL",
+      "reward": 90000000
+    },
+    {
+      "code": "DRIFTHERO",
+      "reward": 90000000
+    },
+    {
+      "code": "RACEFUEL",
+      "reward": 90000000
+    },
+    {
+      "code": "PITSPEED",
+      "reward": 90000000
+    },
+    {
+      "code": "TURBOFULL",
+      "reward": 90000000
+    },
+    {
+      "code": "ENGINEREV",
+      "reward": 90000000
+    },
+    {
+      "code": "GASFIRE",
+      "reward": 90000000
+    },
+    {
+      "code": "LAPCHAMP",
+      "reward": 90000000
+    },
+    {
+      "code": "RACEBLAST",
+      "reward": 90000000
+    },
+    {
+      "code": "MOTORBURN",
+      "reward": 90000000
+    },
+    {
+      "code": "GEARLOCK",
+      "reward": 90000000
+    },
+    {
+      "code": "SPEEDMAX",
+      "reward": 90000000
+    },
+    {
+      "code": "RACECRASH",
+      "reward": 90000000
+    },
+    {
+      "code": "TIREWEAR",
+      "reward": 90000000
+    },
+    {
+      "code": "BOOSTKING",
+      "reward": 90000000
+    },
+    {
+      "code": "DRIFTZONE",
+      "reward": 90000000
+    },
+    {
+      "code": "RACEPUMP",
+      "reward": 90000000
+    },
+    {
+      "code": "MOTORGEAR",
+      "reward": 90000000
+    },
+    {
+      "code": "GASBLAST",
+      "reward": 90000000
+    },
+    {
+      "code": "TURBOSPIN",
+      "reward": 90000000
+    },
+    {
+      "code": "LAPQUEEN",
+      "reward": 90000000
+    },
+    {
+      "code": "RACENITRO",
+      "reward": 90000000
+    },
+    {
+      "code": "PITCHAMP",
+      "reward": 90000000
+    },
+    {
+      "code": "ENGINEPRO",
+      "reward": 90000000
+    },
+    {
+      "code": "SPEEDPRO",
+      "reward": 90000000
+    },
+    {
+      "code": "DRIFTMAX",
+      "reward": 90000000
+    },
+    {
+      "code": "RACEGEAR",
+      "reward": 90000000
+    },
+    {
+      "code": "MOTORZONE",
+      "reward": 90000000
+    },
+    {
+      "code": "GASHERO",
+      "reward": 90000000
+    },
+    {
+      "code": "TURBOZONE",
+      "reward": 90000000
+    },
+    {
+      "code": "LAPZONE",
+      "reward": 90000000
+    },
+    {
+      "code": "RACESPEED",
+      "reward": 90000000
+    },
+    {
+      "code": "PITZONE",
+      "reward": 90000000
+    },
+    {
+      "code": "ENGINEMAX",
+      "reward": 90000000
+    },
+    {
+      "code": "SPEEDHERO",
+      "reward": 90000000
+    },
+    {
+      "code": "DRIFTPUMP",
+      "reward": 90000000
+    },
+    {
+      "code": "RACESPIN",
+      "reward": 90000000
+    },
+    {
+      "code": "GRANDPRIX",
       "reward": 100000000
     },
     {
-      "code": "ULTIMATELAP",
+      "code": "CHAMPRACE",
       "reward": 100000000
     }
   ]
