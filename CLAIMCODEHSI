@@ -1,399 +1,403 @@
 {
   "codes": [
     {
-      "code": "BLAZETRACK",
+      "code": "KARBURATOR",
       "reward": 90000000
     },
     {
-      "code": "DRIFTSTORM",
+      "code": "KNALPOTBRO",
       "reward": 90000000
     },
     {
-      "code": "REVLIMIT",
+      "code": "KOPLING123",
       "reward": 90000000
     },
     {
-      "code": "WHEELSPIN",
+      "code": "STANGBALIK",
       "reward": 90000000
     },
     {
-      "code": "FUELDUMP",
+      "code": "VELGJARI",
       "reward": 90000000
     },
     {
-      "code": "RACEWILD",
+      "code": "SPROKETGG",
       "reward": 90000000
     },
     {
-      "code": "GEARSHIFT",
+      "code": "RANTAIGAS",
       "reward": 90000000
     },
     {
-      "code": "CORNERCUT",
+      "code": "SETIRPRO",
       "reward": 90000000
     },
     {
-      "code": "BRAKEZONE",
+      "code": "BENSINhabis",
       "reward": 90000000
     },
     {
-      "code": "PITSTOPGG",
+      "code": "OLISAMPING",
       "reward": 90000000
     },
     {
-      "code": "TURBOPUSH",
+      "code": "BUSIBAKAR",
       "reward": 90000000
     },
     {
-      "code": "FASTLANE",
+      "code": "KABELGAS",
       "reward": 90000000
     },
     {
-      "code": "TOPGEAR99",
+      "code": "REMCAKRAM",
       "reward": 90000000
     },
     {
-      "code": "RACEGHOST",
+      "code": "SHOCKBREKER",
       "reward": 90000000
     },
     {
-      "code": "LAUNCHPAD",
+      "code": "PELAKNOB",
       "reward": 90000000
     },
     {
-      "code": "GRIPZONE",
+      "code": "BANMATI",
       "reward": 90000000
     },
     {
-      "code": "ABSBRAKE",
+      "code": "TROMOLBRO",
       "reward": 90000000
     },
     {
-      "code": "CAMSHAFT",
+      "code": "SEHERNAIK",
       "reward": 90000000
     },
     {
-      "code": "THROTTLUP",
+      "code": "KLEPSETING",
       "reward": 90000000
     },
     {
-      "code": "BURNTRACK",
+      "code": "NOKENASGG",
       "reward": 90000000
     },
     {
-      "code": "PODIUMGG",
+      "code": "STROKERKIT",
       "reward": 90000000
     },
     {
-      "code": "SPEEDTRAP",
+      "code": "PISTONBARU",
       "reward": 90000000
     },
     {
-      "code": "DRIFTPRO",
+      "code": "KRUKASPU",
       "reward": 90000000
     },
     {
-      "code": "ENGINEON",
+      "code": "MAGNETTO",
       "reward": 90000000
     },
     {
-      "code": "HOTWHEEL",
+      "code": "ACURATOR",
       "reward": 90000000
     },
     {
-      "code": "LAPKILLER",
+      "code": "FUELPUMP88",
       "reward": 90000000
     },
     {
-      "code": "RACEHARD",
+      "code": "INJEKSIBRO",
       "reward": 90000000
     },
     {
-      "code": "SKIDMARK",
+      "code": "THROTTLBDY",
       "reward": 90000000
     },
     {
-      "code": "FULLPOWER",
+      "code": "AIRFILTERR",
       "reward": 90000000
     },
     {
-      "code": "ZOOMZOOM",
+      "code": "RADIATORR",
       "reward": 90000000
     },
     {
-      "code": "RACETIME",
+      "code": "WATERTEMP",
       "reward": 90000000
     },
     {
-      "code": "SPEEDRUN",
+      "code": "KIPASRADITR",
       "reward": 90000000
     },
     {
-      "code": "MOTORPRO",
+      "code": "KOILBAKAR",
       "reward": 90000000
     },
     {
-      "code": "GASPEDAL",
+      "code": "CDIracing",
       "reward": 90000000
     },
     {
-      "code": "DRAFTKING",
+      "code": "RECTORGG",
       "reward": 90000000
     },
     {
-      "code": "FASTGEAR",
+      "code": "ACIBARU",
       "reward": 90000000
     },
     {
-      "code": "RACEFLEET",
+      "code": "STARTERREM",
       "reward": 90000000
     },
     {
-      "code": "TURBOLAP",
+      "code": "DINAAMO",
       "reward": 90000000
     },
     {
-      "code": "MOTORFUEL",
+      "code": "KIPASKOPAS",
       "reward": 90000000
     },
     {
-      "code": "TRACKSTAR",
+      "code": "KAMRATGG",
       "reward": 90000000
     },
     {
-      "code": "PITLANE88",
+      "code": "GEARBOX88",
       "reward": 90000000
     },
     {
-      "code": "ZEROLAG",
+      "code": "GIGIRASIO",
       "reward": 90000000
     },
     {
-      "code": "HOTSTART",
+      "code": "PRIMARYGG",
       "reward": 90000000
     },
     {
-      "code": "RACEDAY",
+      "code": "CLUTHPLATE",
       "reward": 90000000
     },
     {
-      "code": "BURNOUT99",
+      "code": "PEGAS123",
       "reward": 90000000
     },
     {
-      "code": "GASSTOP",
+      "code": "PUSHRODGG",
       "reward": 90000000
     },
     {
-      "code": "MAXSPEED",
+      "code": "ROCKER ARM",
       "reward": 90000000
     },
     {
-      "code": "RACEZONE",
+      "code": "TIMINGBELT",
       "reward": 90000000
     },
     {
-      "code": "SLIPDRIFT",
+      "code": "KAMPASREM",
       "reward": 90000000
     },
     {
-      "code": "PITROAD",
+      "code": "MASTERREM",
       "reward": 90000000
     },
     {
-      "code": "FUELPUMP",
+      "code": "SELANGREM",
       "reward": 90000000
     },
     {
-      "code": "TURBOJET",
+      "code": "MINYAKREM",
       "reward": 90000000
     },
     {
-      "code": "APEXLINE",
+      "code": "BANTUBLES",
       "reward": 90000000
     },
     {
-      "code": "REVHIGH",
+      "code": "VELGCNC",
       "reward": 90000000
     },
     {
-      "code": "STARTLINE",
+      "code": "JARIJALII",
       "reward": 90000000
     },
     {
-      "code": "MOTORMAX",
+      "code": "ASNRODA",
       "reward": 90000000
     },
     {
-      "code": "RACEWIND",
+      "code": "LAHERGG",
       "reward": 90000000
     },
     {
-      "code": "GEARRIP",
+      "code": "STEMPELBRO",
       "reward": 90000000
     },
     {
-      "code": "TIREBURN",
+      "code": "KLAPMOTOR",
       "reward": 90000000
     },
     {
-      "code": "BOOSTMAX",
+      "code": "GASPOLSIP",
       "reward": 90000000
     },
     {
-      "code": "SPEEDKILL",
+      "code": "TOKERPRO",
       "reward": 90000000
     },
     {
-      "code": "DRIFTHERO",
+      "code": "BLOKMESIN",
       "reward": 90000000
     },
     {
-      "code": "RACEFUEL",
+      "code": "HEADSILNDR",
       "reward": 90000000
     },
     {
-      "code": "PITSPEED",
+      "code": "PAKINGSET",
       "reward": 90000000
     },
     {
-      "code": "TURBOFULL",
+      "code": "OLI10W40",
       "reward": 90000000
     },
     {
-      "code": "ENGINEREV",
+      "code": "OLIGARPU",
       "reward": 90000000
     },
     {
-      "code": "GASFIRE",
+      "code": "OLITRAFO",
       "reward": 90000000
     },
     {
-      "code": "LAPCHAMP",
+      "code": "FILTEROIL",
       "reward": 90000000
     },
     {
-      "code": "RACEBLAST",
+      "code": "BAUTMESIN",
       "reward": 90000000
     },
     {
-      "code": "MOTORBURN",
+      "code": "MURSKRUP",
       "reward": 90000000
     },
     {
-      "code": "GEARLOCK",
+      "code": "KUNCIMOTOR",
       "reward": 90000000
     },
     {
-      "code": "SPEEDMAX",
+      "code": "DONGKRAKGG",
       "reward": 90000000
     },
     {
-      "code": "RACECRASH",
+      "code": "STANDSATU",
       "reward": 90000000
     },
     {
-      "code": "TIREWEAR",
+      "code": "STANDDUA",
       "reward": 90000000
     },
     {
-      "code": "BOOSTKING",
+      "code": "SPEEDOGG",
       "reward": 90000000
     },
     {
-      "code": "DRIFTZONE",
+      "code": "TACHOMETER",
       "reward": 90000000
     },
     {
-      "code": "RACEPUMP",
+      "code": "LAMPUDEPAN",
       "reward": 90000000
     },
     {
-      "code": "MOTORGEAR",
+      "code": "LAMPUREM",
       "reward": 90000000
     },
     {
-      "code": "GASBLAST",
+      "code": "LAMPSEIN",
       "reward": 90000000
     },
     {
-      "code": "TURBOSPIN",
+      "code": "KLATSON88",
       "reward": 90000000
     },
     {
-      "code": "LAPQUEEN",
+      "code": "SPIONMOTOR",
       "reward": 90000000
     },
     {
-      "code": "RACENITRO",
+      "code": "COVERMOTOR",
       "reward": 90000000
     },
     {
-      "code": "PITCHAMP",
+      "code": "SEATBOSS",
       "reward": 90000000
     },
     {
-      "code": "ENGINEPRO",
+      "code": "JOKRACING",
       "reward": 90000000
     },
     {
-      "code": "SPEEDPRO",
+      "code": "FOOTSTEP",
       "reward": 90000000
     },
     {
-      "code": "DRIFTMAX",
+      "code": "HANDGRIP",
       "reward": 90000000
     },
     {
-      "code": "RACEGEAR",
+      "code": "THROTTLTWST",
       "reward": 90000000
     },
     {
-      "code": "MOTORZONE",
+      "code": "SWITCHREM",
       "reward": 90000000
     },
     {
-      "code": "GASHERO",
+      "code": "KUNCIKONTAK",
       "reward": 90000000
     },
     {
-      "code": "TURBOZONE",
+      "code": "PLATNOML",
       "reward": 90000000
     },
     {
-      "code": "LAPZONE",
+      "code": "TNKBENSIN",
       "reward": 90000000
     },
     {
-      "code": "RACESPEED",
+      "code": "TUTUPTNK",
       "reward": 90000000
     },
     {
-      "code": "PITZONE",
+      "code": "SELANGBNSN",
       "reward": 90000000
     },
     {
-      "code": "ENGINEMAX",
+      "code": "KRANENSIN",
       "reward": 90000000
     },
     {
-      "code": "SPEEDHERO",
+      "code": "CHOKEBRO",
       "reward": 90000000
     },
     {
-      "code": "DRIFTPUMP",
+      "code": "KICKSTRT",
       "reward": 90000000
     },
     {
-      "code": "RACESPIN",
+      "code": "PEDALREM",
       "reward": 90000000
     },
     {
-      "code": "GRANDPRIX",
+      "code": "PEDALKOPL",
+      "reward": 90000000
+    },
+    {
+      "code": "MESINBESAR",
       "reward": 100000000
     },
     {
-      "code": "CHAMPRACE",
+      "code": "MOTORLEGEND",
       "reward": 100000000
     }
   ]
