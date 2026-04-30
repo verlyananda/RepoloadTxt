@@ -1,399 +1,399 @@
 {
   "codes": [
     {
-      "code": "JOKIJALANAN",
+      "code": "JALANANMALAM",
       "reward": 90000000
     },
     {
-      "code": "NGOPIBENSIN",
+      "code": "KONVOIMALAM",
       "reward": 90000000
     },
     {
-      "code": "MOTORNYETIR",
+      "code": "KOPDARMOTOR",
       "reward": 90000000
     },
     {
-      "code": "ASPALBASAH",
+      "code": "TOURDEJAWA",
       "reward": 90000000
     },
     {
-      "code": "TIKUNGANMAUT",
+      "code": "MUDIKMOTORAN",
       "reward": 90000000
     },
     {
-      "code": "BALAPSUBUH",
+      "code": "LINTASSUMATERA",
       "reward": 90000000
     },
     {
-      "code": "MESINPANAS",
+      "code": "JALANPANTURA",
       "reward": 90000000
     },
     {
-      "code": "OLIHABIS",
+      "code": "PEGUNUNGAN",
       "reward": 90000000
     },
     {
-      "code": "KNALPOTPECAH",
+      "code": "JALANBERLIKU",
       "reward": 90000000
     },
     {
-      "code": "BANBOTAK",
+      "code": "DESABALAPAN",
       "reward": 90000000
     },
     {
-      "code": "KOPLINGABUS",
+      "code": "KAMPUNGRACIN",
       "reward": 90000000
     },
     {
-      "code": "BUSIMATI",
+      "code": "WARUNGBENSIN",
       "reward": 90000000
     },
     {
-      "code": "RANTAILEPAS",
+      "code": "POMBENSINSUN",
       "reward": 90000000
     },
     {
-      "code": "SETANGMIRING",
+      "code": "PERTAMAXPLUS",
       "reward": 90000000
     },
     {
-      "code": "VELGPEYANG",
+      "code": "RONSELITER",
       "reward": 90000000
     },
     {
-      "code": "SHOCKBOCOR",
+      "code": "OJOLMOTOR",
       "reward": 90000000
     },
     {
-      "code": "REMPIGSAN",
+      "code": "KURIRMOTORIN",
       "reward": 90000000
     },
     {
-      "code": "BENSINMERAH",
+      "code": "TAXIMOTOR",
       "reward": 90000000
     },
     {
-      "code": "STARTERNGADAT",
+      "code": "MOTORHARIAN",
       "reward": 90000000
     },
     {
-      "code": "KABELKORSLOT",
+      "code": "MOTORSEKOLAH",
       "reward": 90000000
     },
     {
-      "code": "ACIMATI",
+      "code": "MOTORPERTAMA",
       "reward": 90000000
     },
     {
-      "code": "LAMPUKEDIP",
+      "code": "KREDITMOTORIN",
       "reward": 90000000
     },
     {
-      "code": "SEINMACET",
+      "code": "CICILANLUNAS",
       "reward": 90000000
     },
     {
-      "code": "KLATSONSERAK",
+      "code": "BPKBMOTOR",
       "reward": 90000000
     },
     {
-      "code": "SPIONPATAH",
+      "code": "STNKBARU",
       "reward": 90000000
     },
     {
-      "code": "PLATCOPOT",
+      "code": "PAJAKMOTOR",
       "reward": 90000000
     },
     {
-      "code": "JOKROBEK",
+      "code": "SIMRACING",
       "reward": 90000000
     },
     {
-      "code": "PEGALKOPLING",
+      "code": "TILANGPOLISI",
       "reward": 90000000
     },
     {
-      "code": "GASNYANGKUT",
+      "code": "HELMSNI",
       "reward": 90000000
     },
     {
-      "code": "GIRDORONG",
+      "code": "JAKETMOTOR",
       "reward": 90000000
     },
     {
-      "code": "TUNGGANGANKU",
+      "code": "SARUNGMOTOR",
       "reward": 90000000
     },
     {
-      "code": "MOTORWARISAN",
+      "code": "KOVERMOTOR",
       "reward": 90000000
     },
     {
-      "code": "MODIFSEMALAMAN",
+      "code": "ALARMMOTOR",
       "reward": 90000000
     },
     {
-      "code": "BENGKELJALANAN",
+      "code": "KUNCIREMOT",
       "reward": 90000000
     },
     {
-      "code": "TAMBALBAN",
+      "code": "GPSTRACKER",
       "reward": 90000000
     },
     {
-      "code": "CUCIMOTOR",
+      "code": "DASHCAMMOTOR",
       "reward": 90000000
     },
     {
-      "code": "SERVISRUTIN",
+      "code": "LAMPULED",
       "reward": 90000000
     },
     {
-      "code": "GANTIOLI",
+      "code": "PROJEKTORHID",
       "reward": 90000000
     },
     {
-      "code": "STELKLEP",
+      "code": "LAMPUANGEL",
       "reward": 90000000
     },
     {
-      "code": "SETEMKARBU",
+      "code": "UNDERBODYLAMP",
       "reward": 90000000
     },
     {
-      "code": "BORINGAN",
+      "code": "STRIPMOTORAN",
       "reward": 90000000
     },
     {
-      "code": "STROKERUP",
+      "code": "CATCUSTOM",
       "reward": 90000000
     },
     {
-      "code": "PORTPOLISH",
+      "code": "AIRBRUSHKEREN",
       "reward": 90000000
     },
     {
-      "code": "RACINGHEAD",
+      "code": "CHROME MOTOR",
       "reward": 90000000
     },
     {
-      "code": "CAMRACING",
+      "code": "MATTE FINISH",
       "reward": 90000000
     },
     {
-      "code": "PISTONFORGED",
+      "code": "GLOSSYCAT",
       "reward": 90000000
     },
     {
-      "code": "KRUKASBALANCE",
+      "code": "WRAPVINYL",
       "reward": 90000000
     },
     {
-      "code": "KOILRACING",
+      "code": "STIKERBOM",
       "reward": 90000000
     },
     {
-      "code": "CDIPROGRAM",
+      "code": "DECALRACING",
       "reward": 90000000
     },
     {
-      "code": "INJEKSIRACING",
+      "code": "GRAFITIJALAN",
       "reward": 90000000
     },
     {
-      "code": "THROTTLEBESAR",
+      "code": "COMUNITAS",
       "reward": 90000000
     },
     {
-      "code": "FILTERUDARA",
+      "code": "CLUBMOTOR",
       "reward": 90000000
     },
     {
-      "code": "KNALPOTracing",
+      "code": "GATHERMOTORIN",
       "reward": 90000000
     },
     {
-      "code": "SILENSERLEPAS",
+      "code": "ROLLING ROAD",
       "reward": 90000000
     },
     {
-      "code": "SUARABESAR",
+      "code": "DRAGSTRIP",
       "reward": 90000000
     },
     {
-      "code": "DECATPIPE",
+      "code": "SIRKUITLOCAL",
       "reward": 90000000
     },
     {
-      "code": "HEADERRACING",
+      "code": "TREKKLURUS",
       "reward": 90000000
     },
     {
-      "code": "MANIFOLDBESAR",
+      "code": "STARTREAKSI",
       "reward": 90000000
     },
     {
-      "code": "KARBURACIN",
+      "code": "LAMPHIJAU",
       "reward": 90000000
     },
     {
-      "code": "VENTURIBESAR",
+      "code": "YELLOWFLAG",
       "reward": 90000000
     },
     {
-      "code": "JARUMSETING",
+      "code": "REDFLAGGED",
       "reward": 90000000
     },
     {
-      "code": "MAINJETBESAR",
+      "code": "SAFETYCARIN",
       "reward": 90000000
     },
     {
-      "code": "SLOWJETTUNING",
+      "code": "MARSHALJAGA",
       "reward": 90000000
     },
     {
-      "code": "AFRRACING",
+      "code": "PADDOCKAREA",
       "reward": 90000000
     },
     {
-      "code": "DYNOTEST",
+      "code": "SCRUTINEERING",
       "reward": 90000000
     },
     {
-      "code": "LAPTIMER",
+      "code": "WEIGHBRIDGE",
       "reward": 90000000
     },
     {
-      "code": "DATALOGGER",
+      "code": "FUELTANK",
       "reward": 90000000
     },
     {
-      "code": "TIREWARMER",
+      "code": "GASBOTOL",
       "reward": 90000000
     },
     {
-      "code": "SLICKRACING",
+      "code": "NITROUSKIT",
       "reward": 90000000
     },
     {
-      "code": "SEMISLICK",
+      "code": "INTERCOOLER",
       "reward": 90000000
     },
     {
-      "code": "SOFTKOMPOUND",
+      "code": "TURBOCHARGER",
       "reward": 90000000
     },
     {
-      "code": "GRIPASPAL",
+      "code": "SUPERCHARGER",
       "reward": 90000000
     },
     {
-      "code": "TRAKSIKONTROL",
+      "code": "RAMMAIR",
       "reward": 90000000
     },
     {
-      "code": "QUICKSHIFTER",
+      "code": "FORCEDINDUKSI",
       "reward": 90000000
     },
     {
-      "code": "AUTOBLIP",
+      "code": "BOOSTGAUGE",
       "reward": 90000000
     },
     {
-      "code": "SLIPPER",
+      "code": "WIDEBAND02",
       "reward": 90000000
     },
     {
-      "code": "ANTIHOPPING",
+      "code": "EGTGAUGE",
       "reward": 90000000
     },
     {
-      "code": "RADIALBRAKE",
+      "code": "OILTEMP",
       "reward": 90000000
     },
     {
-      "code": "BREMBORACING",
+      "code": "OILPRESSURE",
       "reward": 90000000
     },
     {
-      "code": "STEELBRAIDED",
+      "code": "FUELPRESSURE",
       "reward": 90000000
     },
     {
-      "code": "REARSET",
+      "code": "MANIFOLDPRES",
       "reward": 90000000
     },
     {
-      "code": "CLIPON",
+      "code": "ECUFLASHING",
       "reward": 90000000
     },
     {
-      "code": "TRIPLEKCL",
+      "code": "PIGGYBACK",
       "reward": 90000000
     },
     {
-      "code": "SWINGARMCNC",
+      "code": "REMAPTUNE",
       "reward": 90000000
     },
     {
-      "code": "SUBFRAMEALUM",
+      "code": "STANDALONECU",
       "reward": 90000000
     },
     {
-      "code": "FAIRINGRACIN",
+      "code": "TRACTION MAP",
       "reward": 90000000
     },
     {
-      "code": "WINDSCREENLBR",
+      "code": "LAUNCHCONTRL",
       "reward": 90000000
     },
     {
-      "code": "SEATCOWL",
+      "code": "ANTILAG",
       "reward": 90000000
     },
     {
-      "code": "UNDERCOWL",
+      "code": "FLATSHIFT",
       "reward": 90000000
     },
     {
-      "code": "BELLYPAN",
+      "code": "GEARCUT",
       "reward": 90000000
     },
     {
-      "code": "LIVERYRACIN",
+      "code": "PITLIMITER",
       "reward": 90000000
     },
     {
-      "code": "NOMORRACING",
+      "code": "REVLIMITER",
       "reward": 90000000
     },
     {
-      "code": "SPONSORDECAL",
+      "code": "SHIFTLIGHT",
       "reward": 90000000
     },
     {
-      "code": "HELMETRACIN",
+      "code": "DASHBOARDDIGIT",
       "reward": 90000000
     },
     {
-      "code": "RACINGSUIT",
+      "code": "TELEMETRIDATA",
       "reward": 90000000
     },
     {
-      "code": "GLOVESRACIN",
+      "code": "SEKTORWAKTU",
       "reward": 90000000
     },
     {
-      "code": "BOOTSRACIN",
+      "code": "BESTLAP",
       "reward": 90000000
     },
     {
-      "code": "PODIUMJUARA",
+      "code": "SULTANASPAL",
       "reward": 100000000
     },
     {
-      "code": "RAJAAASPAL",
+      "code": "LEGENDARACER",
       "reward": 100000000
     }
   ]
