@@ -2,7 +2,7 @@
   "version": 1,
   "limitedMotors": [
     {
-      "motorID": "ABP_VarioRebah",
+      "motorID": "VarioRebah",
       "lockUntil": "2026-05-15T00:00:00Z"
     },
     {
