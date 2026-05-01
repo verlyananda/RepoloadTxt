@@ -7,19 +7,19 @@
     },
     {
       "motorID": "CopperTiger",
-      "lockUntil": "2026-05-01T00:00:00"
+      "lockUntil": "2026-05-03T00:16:18"
     },
     {
       "motorID": "HarleyRG",
-      "lockUntil": "2026-05-01T00:00:00"
+     "lockUntil": "2026-05-03T00:16:18"
     },
     {
       "motorID": "FizrRebah",
-      "lockUntil": "2026-05-01T00:00:00"
+     "lockUntil": "2026-05-03T00:16:18"
     },
     {
       "motorID": "MioRebah",
-      "lockUntil": "2026-05-01T00:00:00"
+    "lockUntil": "2026-05-03T00:16:18"
     }
   ]
 }
