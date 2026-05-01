@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "limitedMotors": [
+    {
+      "motorID": "Vario160",
+      "lockUntil": "2026-05-15T00:00:00Z"
+    },
+    {
+      "motorID": "Aerox155",
+      "lockUntil": "2026-06-01T00:00:00Z"
+    }
+  ]
+}
