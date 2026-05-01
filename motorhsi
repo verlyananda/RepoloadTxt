@@ -3,25 +3,23 @@
   "limitedMotors": [
     {
       "motorID": "VarioRebah",
-      "lockUntil": "2026-04-15T00:22:55"
+      "lockUntil": "2026-05-01T00:00:00"
     },
-
-{
+    {
       "motorID": "CopperTiger",
-      "lockUntil": "2026-05-15T00:00:00Z"
+      "lockUntil": "2026-05-01T00:00:00"
     },
-{
+    {
       "motorID": "HarleyRG",
-      "lockUntil": "2026-05-15T00:00:00Z"
+      "lockUntil": "2026-05-01T00:00:00"
     },
-{
+    {
       "motorID": "FizrRebah",
-      "lockUntil": "2026-05-15T00:00:00Z"
+      "lockUntil": "2026-05-01T00:00:00"
     },
-{
+    {
       "motorID": "MioRebah",
-      "lockUntil": "2026-05-15T00:00:00Z"
+      "lockUntil": "2026-05-01T00:00:00"
     }
-   
   ]
 }
