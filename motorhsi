@@ -3,7 +3,7 @@
   "limitedMotors": [
     {
       "motorID": "VarioRebah",
-      "lockUntil": "2026-05-01T00:10:00"
+      "lockUntil": "2026-05-01T00:00:15"
     },
     {
       "motorID": "CopperTiger",
