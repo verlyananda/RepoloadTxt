@@ -1,403 +1,395 @@
 {
   "codes": [
     {
-      "code": "YAMAHAVIXION",
+      "code": "HEREXGASPOOL",
       "reward": 90000000
     },
     {
-      "code": "HONDAPCX160",
+      "code": "HEREXDRIFT",
       "reward": 90000000
     },
     {
-      "code": "KAWASAKIZ25",
+      "code": "HEREXTURBO",
       "reward": 90000000
     },
     {
-      "code": "SUZUKIGSXR",
+      "code": "HEREXBOOST",
       "reward": 90000000
     },
     {
-      "code": "BAJAJPULSAR",
+      "code": "HEREXNITRO",
       "reward": 90000000
     },
     {
-      "code": "VESPAMATIC",
+      "code": "HEREXSPEED",
       "reward": 90000000
     },
- {
-      "code": "DESICANTIK",
-      "reward": 90000000
-    },
-    {
-      "code": "BEATRACK150",
-      "reward": 90000000
-    },
     {
-      "code": "NMAX155CC",
+      "code": "HEREXCHAMP",
       "reward": 90000000
     },
     {
-      "code": "AEROX155VVA",
+      "code": "HEREXJUARA",
       "reward": 90000000
     },
     {
-      "code": "LEXI125LX",
+      "code": "HEREXKENCENG",
       "reward": 90000000
     },
     {
-      "code": "FILANO125",
+      "code": "HEREXMODIF",
       "reward": 90000000
     },
     {
-      "code": "FAZZIO125",
+      "code": "HEREXJOKI",
       "reward": 90000000
     },
     {
-      "code": "FREEGO125",
+      "code": "HEREXTRACK",
       "reward": 90000000
     },
     {
-      "code": "MIOSOULDANCER",
+      "code": "HEREXLAP",
       "reward": 90000000
     },
     {
-      "code": "BEATSTREET",
+      "code": "HEREXSIRKUIT",
       "reward": 90000000
     },
     {
-      "code": "SCOOPYISH",
+      "code": "HEREXDRAGRACE",
       "reward": 90000000
     },
     {
-      "code": "VESPA946",
+      "code": "HEREXBALAPAN",
       "reward": 90000000
     },
     {
-      "code": "KLXTRAIL150",
+      "code": "HEREXINDONESIA",
       "reward": 90000000
     },
     {
-      "code": "CBRL150R",
+      "code": "HEREXSIMULATOR",
       "reward": 90000000
     },
     {
-      "code": "VARIO160CBS",
+      "code": "HEREXMAX2024",
       "reward": 90000000
     },
     {
-      "code": "ADVRACING150",
+      "code": "HEREXUPDATE",
       "reward": 90000000
     },
     {
-      "code": "CBRR250RR",
+      "code": "HEREXVERLYDEV",
       "reward": 90000000
     },
     {
-      "code": "NINJAR400",
+      "code": "HEREXMOTORKU",
       "reward": 90000000
     },
     {
-      "code": "Z900NAKED",
+      "code": "HEREXASPAL",
       "reward": 90000000
     },
     {
-      "code": "MT07HYPER",
+      "code": "HEREXSTART",
       "reward": 90000000
     },
     {
-      "code": "R15CONNECTED",
+      "code": "HEREXPODIUM",
       "reward": 90000000
     },
     {
-      "code": "XSR155RETRO",
+      "code": "SIMULATORGASSS",
       "reward": 90000000
     },
     {
-      "code": "WR155ROFFROAD",
+      "code": "SIMULATORJUARA",
       "reward": 90000000
     },
     {
-      "code": "TENERE700",
+      "code": "SIMULATORDRIFT",
       "reward": 90000000
     },
     {
-      "code": "TRAILBOSS",
+      "code": "SIMULATORMOTOR",
       "reward": 90000000
     },
     {
-      "code": "ENDUROMOTOR",
+      "code": "SIMBALAPLURUS",
       "reward": 90000000
     },
     {
-      "code": "SCRAMBLERRIDER",
+      "code": "SIMSIRKUITINDO",
       "reward": 90000000
     },
     {
-      "code": "CAFERACERBRO",
+      "code": "SIMTEKNIKGAS",
       "reward": 90000000
     },
     {
-      "code": "BOBBERCHOP",
+      "code": "SIMMODIFMOTOR",
       "reward": 90000000
     },
     {
-      "code": "CHOPPERKING",
+      "code": "SIMKENCENGBRO",
       "reward": 90000000
     },
     {
-      "code": "HARDTAILFRAME",
+      "code": "SIMJOKIHANDAL",
       "reward": 90000000
     },
     {
-      "code": "CUSTOMBUILD",
+      "code": "MOTORINDOGAME",
       "reward": 90000000
     },
     {
-      "code": "RESTOMOTORAN",
+      "code": "GAMEBALAP2024",
       "reward": 90000000
     },
     {
-      "code": "KLASIKMOTOR",
+      "code": "GAMESIMULATOR",
       "reward": 90000000
     },
     {
-      "code": "VINTAGESTYLE",
+      "code": "GAMEHEREX",
       "reward": 90000000
     },
     {
-      "code": "RETROMOTOR",
+      "code": "GAMEJOKINASIONAL",
       "reward": 90000000
     },
     {
-      "code": "OLDSCHOOLBRO",
+      "code": "PLAYHEREXMAX",
       "reward": 90000000
     },
     {
-      "code": "SUPERMOTO",
+      "code": "DOWNLOADHEREX",
       "reward": 90000000
     },
     {
-      "code": "MOTOCROSS",
+      "code": "INSTALLHEREX",
       "reward": 90000000
     },
     {
-      "code": "TWOSTROKES",
+      "code": "UPDATEHEREX",
       "reward": 90000000
     },
     {
-      "code": "FOURSTROKES",
+      "code": "OPENHEREX",
       "reward": 90000000
     },
     {
-      "code": "INLINEEMPAT",
+      "code": "MAINHEREXBRO",
       "reward": 90000000
     },
     {
-      "code": "VTWINPOWER",
+      "code": "GASHEREXMAX",
       "reward": 90000000
     },
     {
-      "code": "PARALELTWIN",
+      "code": "NGEBOTHEREX",
       "reward": 90000000
     },
     {
-      "code": "SINGLECYL",
+      "code": "RACINGHEREX",
       "reward": 90000000
     },
     {
-      "code": "TRIPLETWIN",
+      "code": "DRIFTHEREX",
       "reward": 90000000
     },
     {
-      "code": "BOXERTWIN",
+      "code": "MOTORVIXIONHEREX",
       "reward": 90000000
     },
     {
-      "code": "LIQUIDCOOL",
+      "code": "MOTORNMAXHEREX",
       "reward": 90000000
     },
     {
-      "code": "AIRCOOLED",
+      "code": "MOTORAEROXHEREX",
       "reward": 90000000
     },
     {
-      "code": "OILCOOLED",
+      "code": "MOTORCBRHEREX",
       "reward": 90000000
     },
     {
-      "code": "DOHECAM",
+      "code": "MOTORKLXHEREX",
       "reward": 90000000
     },
     {
-      "code": "SOHECAM",
+      "code": "MOTORR15HEREX",
       "reward": 90000000
     },
     {
-      "code": "SIXGEARBOX",
+      "code": "MOTORPCXHEREX",
       "reward": 90000000
     },
     {
-      "code": "FIVESPEED",
+      "code": "MOTORADV",
       "reward": 90000000
     },
     {
-      "code": "CVTMATIC",
+      "code": "MOTORVARIOHEREX",
       "reward": 90000000
     },
     {
-      "code": "DCTGEARBOX",
+      "code": "MOTORBEATHEREX",
       "reward": 90000000
     },
     {
-      "code": "WETCLUTCH",
+      "code": "BUILDMOTORHEREX",
       "reward": 90000000
     },
     {
-      "code": "DRYCLUTCH",
+      "code": "UPGRADEHEREX",
       "reward": 90000000
     },
     {
-      "code": "MONOSHOCK",
+      "code": "TUNNINGHEREX",
       "reward": 90000000
     },
     {
-      "code": "DUALSUSPEND",
+      "code": "SETTINGHEREX",
       "reward": 90000000
     },
     {
-      "code": "UPSIDEFORK",
+      "code": "KNALPOTHEREX",
       "reward": 90000000
     },
     {
-      "code": "TELESCOPFORK",
+      "code": "VELGHEREX",
       "reward": 90000000
     },
     {
-      "code": "LINKAGESUS",
+      "code": "BORINGHEREX",
       "reward": 90000000
     },
     {
-      "code": "PRELOADSET",
+      "code": "STROKEHEREX",
       "reward": 90000000
     },
     {
-      "code": "REBOUNDSET",
+      "code": "KARBUHEREX",
       "reward": 90000000
     },
     {
-      "code": "COMPRESSIONSET",
+      "code": "INJEKSIHEREX",
       "reward": 90000000
     },
     {
-      "code": "CASTERSUDUT",
+      "code": "CDIHEREX",
       "reward": 90000000
     },
     {
-      "code": "TRAILGEOMTRI",
+      "code": "KOILHEREX",
       "reward": 90000000
     },
     {
-      "code": "WHEELBASEPJG",
+      "code": "BUSIBERHEREX",
       "reward": 90000000
     },
     {
-      "code": "SEATHEIGHT",
+      "code": "OLIHEREX",
       "reward": 90000000
     },
     {
-      "code": "ERGONOMISBRO",
+      "code": "SERVISHEREX",
       "reward": 90000000
     },
     {
-      "code": "WINDPROTECT",
+      "code": "REMHEREX",
       "reward": 90000000
     },
     {
-      "code": "PANNIERBOX",
+      "code": "BANHEREX",
       "reward": 90000000
     },
     {
-      "code": "TOPBOX48L",
+      "code": "SHOCKHEREX",
       "reward": 90000000
     },
     {
-      "code": "TANKBAG",
+      "code": "KOPLINGHEREX",
       "reward": 90000000
     },
     {
-      "code": "SADDLEBAG",
+      "code": "RANTAIHEREX",
       "reward": 90000000
     },
     {
-      "code": "RIDEBYWIREBRO",
+      "code": "SPROKETHEREX",
       "reward": 90000000
     },
     {
-      "code": "CORNERING ABS",
+      "code": "HEREXLEVELMAX",
       "reward": 90000000
     },
     {
-      "code": "HILLASSIST",
+      "code": "HEREXRANK1",
       "reward": 90000000
     },
     {
-      "code": "CRUISECONTROL",
+      "code": "HEREXTOPSKOR",
       "reward": 90000000
     },
     {
-      "code": "QUICKSHIFTUP",
+      "code": "HEREXVIRALL",
       "reward": 90000000
     },
     {
-      "code": "RIDEMODE",
+      "code": "HEREXKONTEN",
       "reward": 90000000
     },
     {
-      "code": "RAINMODE",
+      "code": "HEREXTIKTOK",
       "reward": 90000000
     },
     {
-      "code": "SPORTMODE",
+      "code": "HEREXYT",
       "reward": 90000000
     },
     {
-      "code": "TRACKMODE",
+      "code": "HEREXLIVE",
       "reward": 90000000
     },
     {
-      "code": "OFFROADMODE",
+      "code": "HEREXSTREAMING",
       "reward": 90000000
     },
     {
-      "code": "SMARTKEYMOTOR",
+      "code": "HEREXCREATOR",
       "reward": 90000000
     },
     {
-      "code": "ANSWERCALL",
+      "code": "HEREXCOMMUNITY",
       "reward": 90000000
     },
     {
-      "code": "BLUETOOTHHELM",
+      "code": "HEREXFANS",
       "reward": 90000000
     },
     {
-      "code": "USBCHARGING",
+      "code": "HEREXPLAYER",
       "reward": 90000000
     },
     {
-      "code": "TFTDISPLAY",
+      "code": "HEREXGAMER",
       "reward": 90000000
     },
     {
-      "code": "ANDROIDAUTO",
+      "code": "HEREXADDICTED",
       "reward": 90000000
     },
     {
-      "code": "ABSSULTAN",
+      "code": "HEREXLEGEND",
       "reward": 100000000
     },
     {
-      "code": "MOTORIMPIAN",
+      "code": "HEREXGODSPEED",
       "reward": 100000000
     }
   ]
