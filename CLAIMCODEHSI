@@ -1,407 +1,395 @@
 {
   "codes": [
     {
-      "code": "HEREXGASPOOL",
+      "code": "GASSINDONESIA",
       "reward": 90000000
     },
     {
-      "code": "HEREXDRIFT",
+      "code": "BALAPKAMPUNG",
       "reward": 90000000
     },
     {
-      "code": "HEREXTURBO",
+      "code": "JOKIANDALAN",
       "reward": 90000000
     },
     {
-      "code": "HEREXBOOST",
+      "code": "MOTORGARASI",
       "reward": 90000000
     },
     {
-      "code": "HEREXNITRO",
+      "code": "TUKANGMODIF",
       "reward": 90000000
     },
     {
-      "code": "HEREXSPEED",
+      "code": "BENGKELRACIN",
       "reward": 90000000
     },
     {
-      "code": "HEREXCHAMP",
+      "code": "MEKANIKPRO",
       "reward": 90000000
     },
     {
-      "code": "HEREXJUARA",
+      "code": "TEKNISIBRO",
       "reward": 90000000
     },
     {
-      "code": "HEREXKENCENG",
+      "code": "SPAREPART88",
       "reward": 90000000
     },
     {
-      "code": "HEREXMODIF",
+      "code": "ONDERDILBARU",
       "reward": 90000000
     },
     {
-      "code": "HEREXJOKI",
+      "code": "KUNCIPAS10",
       "reward": 90000000
     },
     {
-      "code": "HEREXTRACK",
+      "code": "OBENGMINUS",
       "reward": 90000000
     },
     {
-      "code": "HEREXLAP",
+      "code": "TANGPASMOTOR",
       "reward": 90000000
     },
     {
-      "code": "HEREXSIRKUIT",
+      "code": "JACKHIDROLIK",
       "reward": 90000000
     },
     {
-      "code": "HEREXDRAGRACE",
+      "code": "COMPRESSORUD",
       "reward": 90000000
     },
     {
-      "code": "HEREXBALAPAN",
+      "code": "GERINDABRO",
       "reward": 90000000
     },
     {
-      "code": "HEREXINDONESIA",
+      "code": "LASLISTRIK",
       "reward": 90000000
     },
     {
-      "code": "HEREXSIMULATOR",
+      "code": "CATPILOX",
       "reward": 90000000
     },
     {
-      "code": "HEREXMAX2024",
+      "code": "AMINERBRO",
       "reward": 90000000
     },
     {
-      "code": "HEREXUPDATE",
+      "code": "AMPLAS800",
       "reward": 90000000
     },
     {
-      "code": "HEREXVERLYDEV",
+      "code": "DEMPULMOTOR",
       "reward": 90000000
     },
     {
-      "code": "HEREXMOTORKU",
+      "code": "CLEARCOATBRO",
       "reward": 90000000
     },
     {
-      "code": "HEREXASPAL",
+      "code": "POLESMOTOR",
       "reward": 90000000
     },
     {
-      "code": "HEREXSTART",
+      "code": "SILIKONLUB",
       "reward": 90000000
     },
     {
-      "code": "HEREXPODIUM",
+      "code": "CHAINLUBE",
       "reward": 90000000
     },
     {
-      "code": "SIMULATORGASSS",
+      "code": "BRAKEFLUID",
       "reward": 90000000
     },
     {
-      "code": "SIMULATORJUARA",
+      "code": "COOLANTMOTOR",
       "reward": 90000000
     },
     {
-      "code": "SIMULATORDRIFT",
+      "code": "ADDITIVEOIL",
       "reward": 90000000
     },
     {
-      "code": "SIMULATORMOTOR",
+      "code": "CARBONCLEAN",
       "reward": 90000000
     },
     {
-      "code": "SIMBALAPLURUS",
+      "code": "INJEKTORCLEAN",
       "reward": 90000000
     },
     {
-      "code": "SIMSIRKUITINDO",
+      "code": "THROTTLECLEAN",
       "reward": 90000000
     },
     {
-      "code": "SIMTEKNIKGAS",
+      "code": "KARBUCLEAN",
       "reward": 90000000
     },
     {
-      "code": "SIMMODIFMOTOR",
+      "code": "REMCLEAN",
       "reward": 90000000
     },
     {
-      "code": "SIMKENCENGBRO",
+      "code": "KONTAKCLEAN",
       "reward": 90000000
     },
     {
-      "code": "SIMJOKIHANDAL",
+      "code": "RUSTREMOVER",
       "reward": 90000000
     },
     {
-      "code": "MOTORINDOGAME",
+      "code": "ANTIPERKARAT",
       "reward": 90000000
     },
     {
-      "code": "GAMEBALAP2024",
+      "code": "SEALMOTOR",
       "reward": 90000000
     },
     {
-      "code": "GAMESIMULATOR",
+      "code": "GASKETMAKER",
       "reward": 90000000
     },
     {
-      "code": "GAMEHEREX",
+      "code": "LOCTITEBRO",
       "reward": 90000000
     },
     {
-      "code": "GAMEJOKINASIONAL",
+      "code": "THREADLOCK",
       "reward": 90000000
     },
     {
-      "code": "PLAYHEREXMAX",
+      "code": "EPOKSIBESI",
       "reward": 90000000
     },
     {
-      "code": "DOWNLOADHEREX",
+      "code": "SOLDERAN",
       "reward": 90000000
     },
     {
-      "code": "INSTALLHEREX",
+      "code": "ISOLASIBAKAR",
       "reward": 90000000
     },
     {
-      "code": "UPDATEHEREX",
+      "code": "TERMINALaki",
       "reward": 90000000
     },
     {
-      "code": "OPENHEREX",
+      "code": "SEKRINGMOTOR",
       "reward": 90000000
     },
     {
-      "code": "MAINHEREXBRO",
+      "code": "RELAYMOTOR",
       "reward": 90000000
     },
     {
-      "code": "GASHEREXMAX",
+      "code": "SOKETMOTOR",
       "reward": 90000000
     },
     {
-      "code": "NGEBOTHEREX",
+      "code": "KABELBAKAR",
       "reward": 90000000
     },
     {
-      "code": "RACINGHEREX",
+      "code": "INSTALASIMOTOR",
       "reward": 90000000
     },
     {
-      "code": "DRIFTHEREX",
+      "code": "WIRINGHARNESS",
       "reward": 90000000
     },
     {
-      "code": "MOTORVIXIONHEREX",
+      "code": "KODEHEREX001",
       "reward": 90000000
     },
     {
-      "code": "MOTORNMAXHEREX",
+      "code": "KODEHEREX002",
       "reward": 90000000
     },
     {
-      "code": "MOTORAEROXHEREX",
+      "code": "KODEHEREX003",
       "reward": 90000000
     },
     {
-      "code": "MOTORCBRHEREX",
+      "code": "KODEHEREX004",
       "reward": 90000000
     },
     {
-      "code": "MOTORKLXHEREX",
+      "code": "KODEHEREX005",
       "reward": 90000000
     },
     {
-      "code": "MOTORR15HEREX",
+      "code": "HEREXOPEN",
       "reward": 90000000
     },
     {
-      "code": "MOTORPCXHEREX",
+      "code": "HEREXPLAY",
       "reward": 90000000
     },
     {
-      "code": "MOTORADV",
+      "code": "HEREXWIN",
       "reward": 90000000
     },
     {
-      "code": "MOTORVARIOHEREX",
+      "code": "HEREXLOSE",
       "reward": 90000000
     },
     {
-      "code": "MOTORBEATHEREX",
+      "code": "HEREXREMATCH",
       "reward": 90000000
     },
     {
-      "code": "BUILDMOTORHEREX",
+      "code": "HEREXRONDE1",
       "reward": 90000000
     },
     {
-      "code": "UPGRADEHEREX",
+      "code": "HEREXRONDE2",
       "reward": 90000000
     },
     {
-      "code": "TUNNINGHEREX",
+      "code": "HEREXRONDE3",
       "reward": 90000000
     },
     {
-      "code": "SETTINGHEREX",
+      "code": "HEREXFINAL",
       "reward": 90000000
     },
     {
-      "code": "KNALPOTHEREX",
+      "code": "HEREXSEMIFINAL",
       "reward": 90000000
     },
     {
-      "code": "VELGHEREX",
+      "code": "HEREXKUARFINAL",
       "reward": 90000000
     },
     {
-      "code": "BORINGHEREX",
+      "code": "HEREXGRUPA",
       "reward": 90000000
     },
     {
-      "code": "STROKEHEREX",
+      "code": "HEREXGRUPB",
       "reward": 90000000
     },
     {
-      "code": "KARBUHEREX",
+      "code": "HEREXGRUPC",
       "reward": 90000000
     },
     {
-      "code": "INJEKSIHEREX",
+      "code": "HEREXGRUPD",
       "reward": 90000000
     },
     {
-      "code": "CDIHEREX",
+      "code": "HEREXSEASON1",
       "reward": 90000000
     },
     {
-      "code": "KOILHEREX",
+      "code": "HEREXSEASON2",
       "reward": 90000000
     },
     {
-      "code": "BUSIBERHEREX",
+      "code": "HEREXSEASON3",
       "reward": 90000000
     },
     {
-      "code": "OLIHEREX",
+      "code": "HEREXEVENT",
       "reward": 90000000
     },
     {
-      "code": "SERVISHEREX",
+      "code": "HEREXTOURNAMENT",
       "reward": 90000000
     },
     {
-      "code": "REMHEREX",
+      "code": "HEREXCHALLENGE",
       "reward": 90000000
     },
     {
-      "code": "BANHEREX",
+      "code": "HEREXMISSION",
       "reward": 90000000
     },
     {
-      "code": "SHOCKHEREX",
+      "code": "HEREXQUEST",
       "reward": 90000000
     },
     {
-      "code": "KOPLINGHEREX",
+      "code": "HEREXDAILY",
       "reward": 90000000
     },
     {
-      "code": "RANTAIHEREX",
+      "code": "HEREXWEEKLY",
       "reward": 90000000
     },
     {
-      "code": "SPROKETHEREX",
+      "code": "HEREXMONTHLY",
       "reward": 90000000
     },
     {
-      "code": "HEREXLEVELMAX",
+      "code": "HEREXREWARD",
       "reward": 90000000
     },
     {
-      "code": "HEREXRANK1",
+      "code": "HEREXBONUS",
       "reward": 90000000
     },
     {
-      "code": "HEREXTOPSKOR",
+      "code": "HEREXPOIN",
       "reward": 90000000
     },
     {
-      "code": "HEREXVIRALL",
+      "code": "HEREXKOIN",
       "reward": 90000000
     },
     {
-      "code": "HEREXKONTEN",
+      "code": "HEREXGEMS",
       "reward": 90000000
     },
     {
-      "code": "HEREXTIKTOK",
+      "code": "HEREXCASH",
       "reward": 90000000
     },
     {
-      "code": "HEREXYT",
+      "code": "HEREXVIP",
       "reward": 90000000
     },
     {
-      "code": "HEREXLIVE",
+      "code": "HEREXPREMIUM",
       "reward": 90000000
     },
     {
-      "code": "HEREXSTREAMING",
+      "code": "HEREXSKIN",
       "reward": 90000000
     },
     {
-      "code": "HEREXCREATOR",
+      "code": "HEREXHELMET",
       "reward": 90000000
     },
     {
-      "code": "HEREXCOMMUNITY",
+      "code": "HEREXLIVERY",
       "reward": 90000000
     },
     {
-      "code": "HEREXFANS",
+      "code": "HEREXUNLOCK",
       "reward": 90000000
     },
     {
-      "code": "HEREXPLAYER",
+      "code": "HEREXFREEITEM",
       "reward": 90000000
     },
     {
-      "code": "HEREXGAMER",
+      "code": "HEREXSPECIAL",
       "reward": 90000000
     },
     {
-      "code": "HEREXADDICTED",
+      "code": "HEREXEXCLUSIVE",
       "reward": 90000000
     },
     {
-      "code": "GASPOL",
-      "reward": 25000000
-    },
-    {
-      "code": "NDANGAKNDANGAK",
-      "reward": 25000000
-    },
-    {
-      "code": "HEREXMANIA",
-      "reward": 50000000
-    },
-    {
-      "code": "HEREXLEGEND",
+      "code": "HEREXULTIMATE",
       "reward": 100000000
     },
     {
-      "code": "HEREXGODSPEED",
+      "code": "HEREXMVP2024",
       "reward": 100000000
     }
   ]
