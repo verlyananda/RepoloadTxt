@@ -393,8 +393,32 @@
       "reward": 100000000
     },
  {
-      "code": "KUCAIONLY",
-      "reward": 3000000000
+      "code": "KUCAIONLY1",
+      "reward": 700000000
+    },
+ {
+      "code": "KUCAIONLY2",
+      "reward": 700000000
+    },
+ {
+      "code": "KUCAIONLY3",
+      "reward": 700000000
+    },
+ {
+      "code": "KUCAIONLY4",
+      "reward": 700000000
+    },
+ {
+      "code": "KUCAIONLY5",
+      "reward": 700000000
+    },
+ {
+      "code": "KUCAIONLY6",
+      "reward": 700000000
+    },
+ {
+      "code": "KUCAIONLY7",
+      "reward": 700000000
     },
     {
       "code": "HEREXMOTOGP",
