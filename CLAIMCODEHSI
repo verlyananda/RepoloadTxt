@@ -392,6 +392,10 @@
       "code": "HEREXMANDALIKA",
       "reward": 100000000
     },
+ {
+      "code": "KUCAIONLY",
+      "reward": 3000000000
+    },
     {
       "code": "HEREXMOTOGP",
       "reward": 100000000
