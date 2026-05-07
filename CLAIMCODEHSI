@@ -1,399 +1,403 @@
 {
   "codes": [
     {
-      "code": "HEREXJAKARTA",
+      "code": "HEREX1JUTA",
       "reward": 90000000
     },
     {
-      "code": "HEREXBANDUNG",
+      "code": "HEREX10JUTA",
       "reward": 90000000
     },
     {
-      "code": "HEREXSURABAYA",
+      "code": "HEREX100JUTA",
       "reward": 90000000
     },
     {
-      "code": "HEREXMEDAN",
+      "code": "HEREX1MILYAR",
       "reward": 90000000
     },
     {
-      "code": "HEREXMAKASSAR",
+      "code": "HEREXDOWNLOAD1",
       "reward": 90000000
     },
     {
-      "code": "HEREXSEMARANG",
+      "code": "HEREXDOWNLOAD10",
       "reward": 90000000
     },
     {
-      "code": "HEREXYOGYA",
+      "code": "HEREXDOWNLOAD100",
       "reward": 90000000
     },
     {
-      "code": "HEREXPALEMBANG",
+      "code": "HEREXDOWNLOAD1JT",
       "reward": 90000000
     },
     {
-      "code": "HEREXBALIKPAPAN",
+      "code": "HEREXRATING45",
       "reward": 90000000
     },
     {
-      "code": "HEREXMANADO",
+      "code": "HEREXRATING50",
       "reward": 90000000
     },
     {
-      "code": "HEREXBALI",
+      "code": "HEREXULASAN1",
       "reward": 90000000
     },
     {
-      "code": "HEREXLOMBOK",
+      "code": "HEREXULASAN100",
       "reward": 90000000
     },
     {
-      "code": "HEREXACEH",
+      "code": "HEREXULASAN1000",
       "reward": 90000000
     },
     {
-      "code": "HEREXPAPUA",
+      "code": "HEREXFEATURED",
       "reward": 90000000
     },
     {
-      "code": "HEREXKALIMANTAN",
+      "code": "HEREXTOP1CHART",
       "reward": 90000000
     },
     {
-      "code": "HEREXSULAWESI",
+      "code": "HEREXTOPFREE",
       "reward": 90000000
     },
     {
-      "code": "HEREXJATENG",
+      "code": "HEREXTOPGAMES",
       "reward": 90000000
     },
     {
-      "code": "HEREXJATIM",
+      "code": "HEREXPLAYSTORE",
       "reward": 90000000
     },
     {
-      "code": "HEREXJABAR",
+      "code": "HEREXAPPSTORE",
       "reward": 90000000
     },
     {
-      "code": "HEREXBANTEN",
+      "code": "HEREXVIRALINDO",
       "reward": 90000000
     },
     {
-      "code": "MOTORINDOJAYA",
+      "code": "MOTORCEPET1",
       "reward": 90000000
     },
     {
-      "code": "MOTORINDOBRO",
+      "code": "MOTORCEPET2",
       "reward": 90000000
     },
     {
-      "code": "MOTORINDOGOKIL",
+      "code": "MOTORCEPET3",
       "reward": 90000000
     },
     {
-      "code": "MOTORINDOKEREN",
+      "code": "MOTORCEPET4",
       "reward": 90000000
     },
     {
-      "code": "MOTORINDOCEPAT",
+      "code": "MOTORCEPET5",
       "reward": 90000000
     },
     {
-      "code": "JALANRAYA88",
+      "code": "MOTORJUARA1",
       "reward": 90000000
     },
     {
-      "code": "TOLJAGORAWI",
+      "code": "MOTORJUARA2",
       "reward": 90000000
     },
     {
-      "code": "JAKARTAMACET",
+      "code": "MOTORJUARA3",
       "reward": 90000000
     },
     {
-      "code": "BANDUNGMACET",
+      "code": "MOTORJUARA4",
       "reward": 90000000
     },
     {
-      "code": "SIRKUITSENTUL",
+      "code": "MOTORJUARA5",
       "reward": 90000000
     },
     {
-      "code": "SIRKUITPEARL",
+      "code": "MOTORMODIF1",
       "reward": 90000000
     },
     {
-      "code": "SIRKUITSUPOMO",
+      "code": "MOTORMODIF2",
       "reward": 90000000
     },
     {
-      "code": "HEREXV1UPDATE",
+      "code": "MOTORMODIF3",
       "reward": 90000000
     },
     {
-      "code": "HEREXV2UPDATE",
+      "code": "MOTORMODIF4",
       "reward": 90000000
     },
     {
-      "code": "HEREXV3UPDATE",
+      "code": "MOTORMODIF5",
       "reward": 90000000
     },
     {
-      "code": "HEREXV4UPDATE",
+      "code": "MOTORINDO2024",
       "reward": 90000000
     },
     {
-      "code": "HEREXV5UPDATE",
+      "code": "MOTORINDO2025",
       "reward": 90000000
     },
     {
-      "code": "HEREXBUGFIX",
+      "code": "MOTORINDO2026",
       "reward": 90000000
     },
     {
-      "code": "HEREXHOTFIX",
+      "code": "MOTORINDOGAS",
       "reward": 90000000
     },
     {
-      "code": "HEREXPATCH",
+      "code": "MOTORINDOPRO",
       "reward": 90000000
     },
     {
-      "code": "HEREXNEWMAP",
+      "code": "HEREXCUP2024",
       "reward": 90000000
     },
     {
-      "code": "HEREXNEWMOTOR",
+      "code": "HEREXCUP2025",
       "reward": 90000000
     },
     {
-      "code": "HEREXNEWPART",
+      "code": "HEREXCUP2026",
       "reward": 90000000
     },
     {
-      "code": "HEREXNEWSKIN",
+      "code": "HEREXGRANDCUP",
       "reward": 90000000
     },
     {
-      "code": "HEREXNEWTRACK",
+      "code": "HEREXSUPERCUP",
       "reward": 90000000
     },
     {
-      "code": "HEREXFREEPLAY",
+      "code": "HEREXOPENCUP",
       "reward": 90000000
     },
     {
-      "code": "HEREXCAREERMODE",
+      "code": "HEREXNATCUP",
       "reward": 90000000
     },
     {
-      "code": "HEREXQUICKRACE",
+      "code": "HEREXREGCUP",
       "reward": 90000000
     },
     {
-      "code": "HEREXTIMEATTACK",
+      "code": "HEREXINDOCUP",
       "reward": 90000000
     },
     {
-      "code": "HEREXFREESTYLE",
+      "code": "HEREXWORLDCUP",
       "reward": 90000000
     },
     {
-      "code": "HEREXMULTIPLAYER",
+      "code": "BALAPLIAR88",
       "reward": 90000000
     },
     {
-      "code": "HEEXONLINERACE",
+      "code": "BALAPMALAM88",
       "reward": 90000000
     },
     {
-      "code": "HEREXRANKEDMATCH",
+      "code": "BALAPSUBUH88",
       "reward": 90000000
     },
     {
-      "code": "HEREXLEADERBOARD",
+      "code": "BALAPHUJAN88",
       "reward": 90000000
     },
     {
-      "code": "HEREXTOPPLAYER",
+      "code": "BALAPPANAS88",
       "reward": 90000000
     },
     {
-      "code": "HEREXRANK1INDO",
+      "code": "BALAPJUMAT",
       "reward": 90000000
     },
     {
-      "code": "HEREXHALLOFFAME",
+      "code": "BALAPMINGGUAN",
       "reward": 90000000
     },
     {
-      "code": "HEREXACHIEVEMENT",
+      "code": "BALAPBULANAN",
       "reward": 90000000
     },
     {
-      "code": "HEREXTROPHY",
+      "code": "BALAPSEASON",
       "reward": 90000000
     },
     {
-      "code": "HEREXMEDALI",
+      "code": "BALAPANNUAL",
       "reward": 90000000
     },
     {
-      "code": "HEREXPIALA",
+      "code": "JOKICEPET88",
       "reward": 90000000
     },
     {
-      "code": "VERLYDEV2024",
+      "code": "JOKIKENCENG88",
       "reward": 90000000
     },
     {
-      "code": "VERLYDEVGOKIL",
+      "code": "JOKIJAGO88",
       "reward": 90000000
     },
     {
-      "code": "VERLYDEVUPDATE",
+      "code": "JOKIPRO88",
       "reward": 90000000
     },
     {
-      "code": "VERLYDEVHEREX",
+      "code": "JOKILEGEND88",
       "reward": 90000000
     },
     {
-      "code": "VERLYDEVMOTOR",
+      "code": "JOKITERBAIK88",
       "reward": 90000000
     },
     {
-      "code": "MADEININDONESIA",
+      "code": "JOKITERKUAT88",
       "reward": 90000000
     },
     {
-      "code": "GAMELOKALINDO",
+      "code": "JOKITERCEPAT88",
       "reward": 90000000
     },
     {
-      "code": "DEVELOPERLOKAL",
+      "code": "JOKIJUARA88",
       "reward": 90000000
     },
     {
-      "code": "INDIEGAMEINDO",
+      "code": "JOKINOMORSATU",
       "reward": 90000000
     },
     {
-      "code": "GAMEDARIINDO",
+      "code": "GASSPOL2024",
       "reward": 90000000
     },
     {
-      "code": "BANGGAINDONESIA",
+      "code": "GASSPOL2025",
       "reward": 90000000
     },
     {
-      "code": "PRODUKLOKAL88",
+      "code": "GASSPOL2026",
       "reward": 90000000
     },
     {
-      "code": "SUPPORTLOKAL",
+      "code": "GASSBRO2024",
       "reward": 90000000
     },
     {
-      "code": "BELABELOKAL",
+      "code": "GASSBRO2025",
       "reward": 90000000
     },
     {
-      "code": "INDODEVGOKIL",
+      "code": "GASSMAX2024",
       "reward": 90000000
     },
     {
-      "code": "JASAMERAHINDO",
+      "code": "GASSMAX2025",
       "reward": 90000000
     },
     {
-      "code": "MERAHPUTIHBRO",
+      "code": "GASSINDO2024",
       "reward": 90000000
     },
     {
-      "code": "GARUDA JAYA",
+      "code": "GASSINDO2025",
       "reward": 90000000
     },
     {
-      "code": "BHINNEKATUNGGAL",
+      "code": "GASSHEREX2025",
       "reward": 90000000
     },
     {
-      "code": "NKRIBRO",
+      "code": "SIMULATOR2024",
       "reward": 90000000
     },
     {
-      "code": "INDONESIAJAYA",
+      "code": "SIMULATOR2025",
       "reward": 90000000
     },
     {
-      "code": "INDONESIABANGKIT",
+      "code": "SIMULATOR2026",
       "reward": 90000000
     },
     {
-      "code": "PEMUDAINDONESIA",
+      "code": "SIMULATORINDO",
       "reward": 90000000
     },
     {
-      "code": "GENERASIMUDA",
+      "code": "SIMULATORGASS",
       "reward": 90000000
     },
     {
-      "code": "ANAKMUDAGASS",
+      "code": "SIMULATORKEREN",
       "reward": 90000000
     },
     {
-      "code": "MUDABERKARYA",
+      "code": "SIMULATORJAGO",
       "reward": 90000000
     },
     {
-      "code": "BIKINBANGGA",
+      "code": "SIMULATORTOP",
       "reward": 90000000
     },
     {
-      "code": "KARYAANAK BANGSA",
+      "code": "SIMULATORNOMOR1",
       "reward": 90000000
     },
     {
-      "code": "KOTAMOTOR",
+      "code": "SIMULATORTERBAIK",
       "reward": 90000000
     },
     {
-      "code": "KAMPUNGMOTOR",
+      "code": "HEREXV6UPDATE",
       "reward": 90000000
     },
     {
-      "code": "DESABALAP",
+      "code": "HEREXV7UPDATE",
       "reward": 90000000
     },
     {
-      "code": "KOTABALAP",
+      "code": "HEREXV8UPDATE",
       "reward": 90000000
     },
     {
-      "code": "MOTORBOJONEGORO",
+      "code": "HEREXV9UPDATE",
       "reward": 90000000
     },
     {
-      "code": "MOTORTASIKMALAYA",
+      "code": "HEREXV10UPDATE",
       "reward": 90000000
     },
     {
-      "code": "MOTORCIANJUR",
+      "code": "HEREXLAUNCHING",
       "reward": 90000000
     },
     {
-      "code": "MOTORGRESIK",
+      "code": "HEREXGRANDLAUNCH",
       "reward": 90000000
     },
     {
-      "code": "HEREXJUARAINDONESIA",
+      "code": "HEREXANNIVERSARY",
+      "reward": 90000000
+    },
+    {
+      "code": "HEREXULTIMATE2026",
       "reward": 100000000
     },
     {
-      "code": "HEREXBANGGAINDONESIA",
+      "code": "HEREXGODOFMOTOR",
       "reward": 100000000
     }
   ]
