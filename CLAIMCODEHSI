@@ -1,399 +1,815 @@
 {
   "codes": [
     {
-      "code": "GASSIN",
+      "code": "HRXSIMINDO",
       "reward": 90000000
     },
     {
-      "code": "NGEBUT",
+      "code": "HRXGASSIN",
       "reward": 90000000
     },
     {
-      "code": "NGACIR",
+      "code": "HRXNGEBUT",
       "reward": 90000000
     },
     {
-      "code": "NGEREM",
+      "code": "HRXDRIFT",
       "reward": 90000000
     },
     {
-      "code": "NGEPOT",
+      "code": "HRXJOKI",
       "reward": 90000000
     },
     {
-      "code": "NGEDRIFT",
+      "code": "HRXBALAP",
       "reward": 90000000
     },
     {
-      "code": "NGESLIP",
+      "code": "HRXMODIF",
       "reward": 90000000
     },
     {
-      "code": "NGEBLONG",
+      "code": "HRXTURBO",
       "reward": 90000000
     },
     {
-      "code": "NGANTRI",
+      "code": "HRXNMAX",
       "reward": 90000000
     },
     {
-      "code": "NGACENG",
+      "code": "HRXVIXION",
       "reward": 90000000
     },
     {
-      "code": "JOKIIN",
+      "code": "HRXCBR",
       "reward": 90000000
     },
     {
-      "code": "BALAP IN",
+      "code": "HRXPCX",
       "reward": 90000000
     },
     {
-      "code": "MODIFIN",
+      "code": "HRXAEROX",
       "reward": 90000000
     },
     {
-      "code": "SERVISIN",
+      "code": "HRXKLX",
       "reward": 90000000
     },
- {
-      "code": "HSI500JT",
-      "reward": 500000000
+    {
+      "code": "HRXR15",
+      "reward": 90000000
+    },
+    {
+      "code": "HRXADV",
+      "reward": 90000000
+    },
+    {
+      "code": "HRXVARIO",
+      "reward": 90000000
+    },
+    {
+      "code": "HRXBEAT",
+      "reward": 90000000
+    },
+    {
+      "code": "HRXSCOOPY",
+      "reward": 90000000
+    },
+    {
+      "code": "HRXMIO",
+      "reward": 90000000
+    },
+    {
+      "code": "HRXZX25R",
+      "reward": 90000000
+    },
+    {
+      "code": "HRXMT07",
+      "reward": 90000000
+    },
+    {
+      "code": "HRXGSXR",
+      "reward": 90000000
+    },
+    {
+      "code": "HRXNINJAR",
+      "reward": 90000000
+    },
+    {
+      "code": "HRXZ900",
+      "reward": 90000000
+    },
+    {
+      "code": "HRXSUPRA",
+      "reward": 90000000
+    },
+    {
+      "code": "HRXREVO",
+      "reward": 90000000
+    },
+    {
+      "code": "HRXMEGA",
+      "reward": 90000000
+    },
+    {
+      "code": "HRXWIN",
+      "reward": 90000000
+    },
+    {
+      "code": "HRXSTAR",
+      "reward": 90000000
+    },
+    {
+      "code": "HRXGLPRO",
+      "reward": 90000000
+    },
+    {
+      "code": "HRXLEGEND",
+      "reward": 90000000
+    },
+    {
+      "code": "HRXKING",
+      "reward": 90000000
+    },
+    {
+      "code": "HRXCHAMP",
+      "reward": 90000000
+    },
+    {
+      "code": "HRXPODIUM",
+      "reward": 90000000
+    },
+    {
+      "code": "HRXFINISH",
+      "reward": 90000000
+    },
+    {
+      "code": "HRXLAP1",
+      "reward": 90000000
+    },
+    {
+      "code": "HRXLAP2",
+      "reward": 90000000
+    },
+    {
+      "code": "HRXSTART",
+      "reward": 90000000
+    },
+    {
+      "code": "HRXFLAG",
+      "reward": 90000000
+    },
+    {
+      "code": "VRLYGMDEV",
+      "reward": 90000000
+    },
+    {
+      "code": "VRLYDEV",
+      "reward": 90000000
+    },
+    {
+      "code": "VRLYGAME",
+      "reward": 90000000
+    },
+    {
+      "code": "VRLYINDO",
+      "reward": 90000000
+    },
+    {
+      "code": "VRLYJAGO",
+      "reward": 90000000
+    },
+    {
+      "code": "VRLYKEREN",
+      "reward": 90000000
+    },
+    {
+      "code": "VRLYGAS",
+      "reward": 90000000
+    },
+    {
+      "code": "VRLYBOSS",
+      "reward": 90000000
+    },
+    {
+      "code": "VRLYMAX",
+      "reward": 90000000
+    },
+    {
+      "code": "VRLYPRO",
+      "reward": 90000000
+    },
+    {
+      "code": "VRLYSIM",
+      "reward": 90000000
+    },
+    {
+      "code": "VRLYRACE",
+      "reward": 90000000
+    },
+    {
+      "code": "VRLYMOTOR",
+      "reward": 90000000
+    },
+    {
+      "code": "VRLYBUILD",
+      "reward": 90000000
+    },
+    {
+      "code": "VRLYCODE",
+      "reward": 90000000
+    },
+    {
+      "code": "VRLYCRAFT",
+      "reward": 90000000
+    },
+    {
+      "code": "VRLYLAUNCH",
+      "reward": 90000000
+    },
+    {
+      "code": "VRLYSHIP",
+      "reward": 90000000
+    },
+    {
+      "code": "VRLYPATCH",
+      "reward": 90000000
+    },
+    {
+      "code": "VRLYFIX",
+      "reward": 90000000
+    },
+    {
+      "code": "PSTKNALPOT",
+      "reward": 90000000
+    },
+    {
+      "code": "PSTVELG",
+      "reward": 90000000
+    },
+    {
+      "code": "PSTKOPLING",
+      "reward": 90000000
+    },
+    {
+      "code": "PSTRANTAI",
+      "reward": 90000000
+    },
+    {
+      "code": "PSTSPROKET",
+      "reward": 90000000
+    },
+    {
+      "code": "PSTKARBU",
+      "reward": 90000000
+    },
+    {
+      "code": "PSTINJEKSI",
+      "reward": 90000000
+    },
+    {
+      "code": "PSTPISTON",
+      "reward": 90000000
+    },
+    {
+      "code": "PSTKRUKA",
+      "reward": 90000000
+    },
+    {
+      "code": "PSTNOKEN",
+      "reward": 90000000
+    },
+    {
+      "code": "PSTKKLEP",
+      "reward": 90000000
+    },
+    {
+      "code": "PSTSEHER",
+      "reward": 90000000
+    },
+    {
+      "code": "PSTBUSI",
+      "reward": 90000000
+    },
+    {
+      "code": "PSTKOIL",
+      "reward": 90000000
+    },
+    {
+      "code": "PSTCDI",
+      "reward": 90000000
+    },
+    {
+      "code": "PSTSHOCK",
+      "reward": 90000000
+    },
+    {
+      "code": "PSTREM",
+      "reward": 90000000
+    },
+    {
+      "code": "PSTBAN",
+      "reward": 90000000
+    },
+    {
+      "code": "PSTLAHER",
+      "reward": 90000000
+    },
+    {
+      "code": "PSTOLI",
+      "reward": 90000000
+    },
+    {
+      "code": "PSTGIGI",
+      "reward": 90000000
+    },
+    {
+      "code": "PSTGEARBOX",
+      "reward": 90000000
+    },
+    {
+      "code": "PSTMAGNET",
+      "reward": 90000000
+    },
+    {
+      "code": "PSTDINAMO",
+      "reward": 90000000
+    },
+    {
+      "code": "PSTAKI",
+      "reward": 90000000
+    },
+    {
+      "code": "PSTSETANG",
+      "reward": 90000000
+    },
+    {
+      "code": "PSTJOK",
+      "reward": 90000000
+    },
+    {
+      "code": "PSTSTANG",
+      "reward": 90000000
+    },
+    {
+      "code": "PSTHANDLEBAR",
+      "reward": 90000000
+    },
+    {
+      "code": "PSTTHROTTLE",
+      "reward": 90000000
+    },
+    {
+      "code": "SIMGASSIN",
+      "reward": 90000000
+    },
+    {
+      "code": "SIMNGEBUT",
+      "reward": 90000000
+    },
+    {
+      "code": "SIMDRIFT",
+      "reward": 90000000
+    },
+    {
+      "code": "SIMJOKI",
+      "reward": 90000000
+    },
+    {
+      "code": "SIMBALAP",
+      "reward": 90000000
+    },
+    {
+      "code": "SIMMODIF",
+      "reward": 90000000
+    },
+    {
+      "code": "SIMTURBO",
+      "reward": 90000000
+    },
+    {
+      "code": "SIMINDO",
+      "reward": 90000000
+    },
+    {
+      "code": "SIMTRACK",
+      "reward": 90000000
+    },
+    {
+      "code": "SIMRACE",
+      "reward": 90000000
+    },
+    {
+      "code": "SIMMOTOR",
+      "reward": 90000000
+    },
+    {
+      "code": "SIMBUILD",
+      "reward": 90000000
+    },
+    {
+      "code": "SIMTUNING",
+      "reward": 90000000
+    },
+    {
+      "code": "SIMTEST",
+      "reward": 90000000
+    },
+    {
+      "code": "SIMFREE",
+      "reward": 90000000
+    },
+    {
+      "code": "SIMVIP",
+      "reward": 90000000
+    },
+    {
+      "code": "SIMPRO",
+      "reward": 90000000
+    },
+    {
+      "code": "SIMMAX",
+      "reward": 90000000
+    },
+    {
+      "code": "SIMCHAMP",
+      "reward": 90000000
+    },
+    {
+      "code": "SIMWIN",
+      "reward": 90000000
+    },
+    {
+      "code": "INDOSIMHRX",
+      "reward": 90000000
+    },
+    {
+      "code": "INDORACEHRX",
+      "reward": 90000000
+    },
+    {
+      "code": "INDOBALAPHRX",
+      "reward": 90000000
+    },
+    {
+      "code": "INDOGASHRX",
+      "reward": 90000000
+    },
+    {
+      "code": "INDOMODIFHRX",
+      "reward": 90000000
+    },
+    {
+      "code": "INDOMOTORHRX",
+      "reward": 90000000
+    },
+    {
+      "code": "INDOJOKIHRX",
+      "reward": 90000000
     },
     {
-      "code": "TAMBALIN",
+      "code": "INDODRIFTHRX",
       "reward": 90000000
     },
     {
-      "code": "CUCIAIN",
+      "code": "INDOTURBOHRX",
       "reward": 90000000
     },
     {
-      "code": "BENSINAN",
+      "code": "INDOCHAMPHRX",
       "reward": 90000000
     },
     {
-      "code": "OLIIN",
+      "code": "KNCPASHRX",
       "reward": 90000000
     },
     {
-      "code": "BUSIAIN",
+      "code": "OBENHRX",
       "reward": 90000000
     },
     {
-      "code": "KNALPOT",
+      "code": "TANGHRX",
       "reward": 90000000
     },
     {
-      "code": "VELGCNC",
+      "code": "JACKHRX",
       "reward": 90000000
     },
     {
-      "code": "BANUTUB",
+      "code": "LASHRX",
       "reward": 90000000
     },
     {
-      "code": "SHOCKUP",
+      "code": "GERINDAHRX",
       "reward": 90000000
     },
     {
-      "code": "KOPLINK",
+      "code": "CATHRX",
       "reward": 90000000
     },
     {
-      "code": "RANTAIK",
+      "code": "AMPLAS",
       "reward": 90000000
     },
     {
-      "code": "SPROKET",
+      "code": "DEMPUL",
       "reward": 90000000
     },
     {
-      "code": "KARBURET",
+      "code": "POLES",
       "reward": 90000000
     },
     {
-      "code": "INJEKSI",
+      "code": "CHAINLUB",
       "reward": 90000000
     },
     {
-      "code": "TURBOKIT",
+      "code": "BRKFLUID",
       "reward": 90000000
     },
     {
-      "code": "BORINUP",
+      "code": "COOLANT",
       "reward": 90000000
     },
     {
-      "code": "STROKER",
+      "code": "ADDOIL",
       "reward": 90000000
     },
     {
-      "code": "CAMRACE",
+      "code": "CARCLEAN",
       "reward": 90000000
     },
     {
-      "code": "PISTONF",
+      "code": "INJCLEAN",
       "reward": 90000000
     },
     {
-      "code": "CDIPROG",
+      "code": "REMCLEAN",
       "reward": 90000000
     },
     {
-      "code": "KOILRAC",
+      "code": "RUSTOUT",
       "reward": 90000000
     },
     {
-      "code": "REMCAKR",
+      "code": "SEALKIT",
       "reward": 90000000
     },
     {
-      "code": "LAHERR",
+      "code": "GASKET",
       "reward": 90000000
     },
     {
-      "code": "SETANG",
+      "code": "LOCTITE",
       "reward": 90000000
     },
     {
-      "code": "STANGUP",
+      "code": "EPOKSI",
       "reward": 90000000
     },
     {
-      "code": "FOOTPEG",
+      "code": "SOLDER",
       "reward": 90000000
     },
     {
-      "code": "JOKINDO",
+      "code": "ISOLASI",
       "reward": 90000000
     },
     {
-      "code": "PITMANS",
+      "code": "SEKRING",
       "reward": 90000000
     },
     {
-      "code": "PADDOCK",
+      "code": "RELAY",
       "reward": 90000000
     },
     {
-      "code": "GRIDPOS",
+      "code": "SOKET",
       "reward": 90000000
     },
     {
-      "code": "POLPOS",
+      "code": "WIRING",
       "reward": 90000000
     },
     {
-      "code": "HOLSHOT",
+      "code": "GASSPOL",
       "reward": 90000000
     },
     {
-      "code": "LAPTIME",
+      "code": "KENCENG",
       "reward": 90000000
     },
     {
-      "code": "BESTLAP",
+      "code": "CEPETAN",
       "reward": 90000000
     },
     {
-      "code": "SEKTORA",
+      "code": "DRIFTAN",
       "reward": 90000000
     },
     {
-      "code": "SEKTORB",
+      "code": "BURNOUT",
       "reward": 90000000
     },
     {
-      "code": "SEKTORC",
+      "code": "SLIDEIN",
       "reward": 90000000
     },
     {
-      "code": "APEXMAS",
+      "code": "LAPISIN",
       "reward": 90000000
     },
     {
-      "code": "TIKUNGS",
+      "code": "JUARAAN",
       "reward": 90000000
     },
     {
-      "code": "LURUSAN",
+      "code": "MENANGAN",
       "reward": 90000000
     },
     {
-      "code": "CHICANE",
+      "code": "PODIUMIN",
       "reward": 90000000
     },
     {
-      "code": "HAIRPIN",
+      "code": "FLAGGING",
       "reward": 90000000
     },
     {
-      "code": "ESSEKAR",
+      "code": "GRIDDIN",
       "reward": 90000000
     },
     {
-      "code": "BANKEDK",
+      "code": "PITININ",
       "reward": 90000000
     },
     {
-      "code": "KERBSTO",
+      "code": "RACEDAY",
       "reward": 90000000
     },
     {
-      "code": "GRAVEL",
+      "code": "QUALIFY",
       "reward": 90000000
     },
     {
-      "code": "ASPALKU",
+      "code": "PRACTICE",
       "reward": 90000000
     },
     {
-      "code": "TAMANES",
+      "code": "WARMUP",
       "reward": 90000000
     },
     {
-      "code": "TREKIND",
+      "code": "OUTLAP",
       "reward": 90000000
     },
     {
-      "code": "SENTULK",
+      "code": "INLAP",
       "reward": 90000000
     },
     {
-      "code": "MANDALIK",
+      "code": "BOXBOX",
       "reward": 90000000
     },
     {
-      "code": "ANCOL88",
+      "code": "PITSTOP",
       "reward": 90000000
     },
     {
-      "code": "KEMAYOK",
+      "code": "FUELUP",
       "reward": 90000000
     },
     {
-      "code": "PRIOKBR",
+      "code": "TIREOUT",
       "reward": 90000000
     },
     {
-      "code": "SALEMBA",
+      "code": "SLICK",
       "reward": 90000000
     },
     {
-      "code": "CIBINONG",
+      "code": "WETBAN",
       "reward": 90000000
     },
     {
-      "code": "BEKASIM",
+      "code": "SOFTBAN",
       "reward": 90000000
     },
     {
-      "code": "DEPOKBR",
+      "code": "MEDBAN",
       "reward": 90000000
     },
     {
-      "code": "TANGERANG",
+      "code": "HARDBAN",
       "reward": 90000000
     },
     {
-      "code": "BOGORKU",
+      "code": "GRIPLAP",
       "reward": 90000000
     },
     {
-      "code": "CIANJURM",
+      "code": "SLIDELAP",
       "reward": 90000000
     },
     {
-      "code": "CIREBON",
+      "code": "POWERLAP",
       "reward": 90000000
     },
     {
-      "code": "PURWOKRT",
+      "code": "BRAKEIN",
       "reward": 90000000
     },
     {
-      "code": "SOLOGAS",
+      "code": "THROTTLEON",
       "reward": 90000000
     },
     {
-      "code": "JOGJABR",
+      "code": "APEXHIT",
       "reward": 90000000
     },
     {
-      "code": "MALANGKU",
+      "code": "EXITFAST",
       "reward": 90000000
     },
     {
-      "code": "MOJOKER",
+      "code": "OVERTAKE",
       "reward": 90000000
     },
     {
-      "code": "MADURABR",
+      "code": "DEFEND",
       "reward": 90000000
     },
     {
-      "code": "SAMPING",
+      "code": "INSIDE",
       "reward": 90000000
     },
     {
-      "code": "BUMIAYU",
+      "code": "OUTSIDE",
       "reward": 90000000
     },
     {
-      "code": "PEMALANG",
+      "code": "DIVEIN",
       "reward": 90000000
     },
     {
-      "code": "TEGALGAS",
+      "code": "SNAPOUT",
       "reward": 90000000
     },
     {
-      "code": "BREBESKU",
+      "code": "SLIPDRAFT",
       "reward": 90000000
     },
     {
-      "code": "KENDAL88",
+      "code": "TUCK",
       "reward": 90000000
     },
     {
-      "code": "DEMAKBRO",
+      "code": "LEANOUT",
       "reward": 90000000
     },
     {
-      "code": "KUDUSGAS",
+      "code": "KNEEIN",
       "reward": 90000000
     },
     {
-      "code": "JEPARABR",
+      "code": "ELBOWOUT",
       "reward": 90000000
     },
     {
-      "code": "REMBANGK",
+      "code": "HANGOFF",
       "reward": 90000000
     },
     {
-      "code": "BLORA88",
+      "code": "SITUP",
       "reward": 90000000
     },
     {
-      "code": "NGAWIBRO",
+      "code": "LOOKUP",
       "reward": 90000000
     },
     {
-      "code": "PONOROGO",
+      "code": "SMOOTHIT",
       "reward": 90000000
     },
     {
-      "code": "PACITAN",
+      "code": "FLOWLAP",
       "reward": 90000000
     },
     {
-      "code": "JUARAGAS",
+      "code": "HEREXJUARA",
       "reward": 100000000
     },
     {
-      "code": "RAJAMOTO",
+      "code": "VRLYDEVJAGO",
+      "reward": 100000000
+    },
+    {
+      "code": "PARTMOTORGASS",
+      "reward": 100000000
+    },
+    {
+      "code": "SIMINDOLEGEND",
       "reward": 100000000
     }
   ]
