@@ -1,163 +1,283 @@
 {
   "codes": [
     {
-      "code": "HSIGASSIN",
+      "code": "MIDNGASSIN",
       "reward": 90000000
     },
     {
-      "code": "HSIDRIFT",
+      "code": "MIDNDRIFT",
       "reward": 90000000
     },
     {
-      "code": "HSITURBO",
+      "code": "MIDNJOKI",
       "reward": 90000000
     },
     {
-      "code": "HSICHAMP",
+      "code": "MIDNBALAP",
       "reward": 90000000
     },
     {
-      "code": "HSIJOKI",
+      "code": "MIDNMODIF",
       "reward": 90000000
     },
     {
-      "code": "HSIBALAP",
+      "code": "MIDNTURBO",
       "reward": 90000000
     },
     {
-      "code": "HSIMODIF",
+      "code": "MIDNCHAMP",
       "reward": 90000000
     },
     {
-      "code": "HSIPODIUM",
+      "code": "MIDNPODIUM",
       "reward": 90000000
     },
     {
-      "code": "HSILAPCRD",
+      "code": "MIDNFINISH",
       "reward": 90000000
     },
     {
-      "code": "HSIFINISH",
+      "code": "MIDNSTART",
       "reward": 90000000
     },
     {
-      "code": "HSISTART",
+      "code": "MIDNTRACK",
       "reward": 90000000
     },
     {
-      "code": "HSIFLAG",
+      "code": "MIDNBOOST",
       "reward": 90000000
     },
     {
-      "code": "HSIPOLPOS",
+      "code": "MIDNNITRO",
       "reward": 90000000
     },
     {
-      "code": "HSITRACK",
+      "code": "MIDNLAUNCH",
       "reward": 90000000
     },
     {
-      "code": "HSIASPAL",
+      "code": "MIDNGRIP",
       "reward": 90000000
     },
     {
-      "code": "HSIPITLANE",
+      "code": "MIDNBRAKE",
       "reward": 90000000
     },
     {
-      "code": "HSIGRIDPOS",
+      "code": "MIDNSHIFT",
       "reward": 90000000
     },
     {
-      "code": "HSIHOTLAP",
+      "code": "MIDNPOWER",
       "reward": 90000000
     },
     {
-      "code": "HSIAPEX",
+      "code": "MIDNTORQUE",
       "reward": 90000000
     },
     {
-      "code": "HSILAP1",
+      "code": "MIDNNMAX",
       "reward": 90000000
     },
     {
-      "code": "HSILAP2",
+      "code": "MIDNVIXION",
       "reward": 90000000
     },
     {
-      "code": "HSILAP3",
+      "code": "MIDNCBR",
       "reward": 90000000
     },
     {
-      "code": "HSIBURNOUT",
+      "code": "MIDNAEROX",
       "reward": 90000000
     },
     {
-      "code": "HSISLIDE",
+      "code": "MIDNPCX",
       "reward": 90000000
     },
     {
-      "code": "HSIBOOST",
+      "code": "MIDNBEAT",
       "reward": 90000000
     },
     {
-      "code": "HSINITRO",
+      "code": "MIDNVARIO",
       "reward": 90000000
     },
     {
-      "code": "HSILAUNCH",
+      "code": "MIDNKLX",
       "reward": 90000000
     },
     {
-      "code": "HSIGRIP",
+      "code": "MIDNR15",
       "reward": 90000000
     },
     {
-      "code": "HSIBRAKE",
+      "code": "MIDNADV",
       "reward": 90000000
     },
     {
-      "code": "HSITHROTTLE",
+      "code": "MIDNGSXR",
       "reward": 90000000
     },
     {
-      "code": "HSICLUTCH",
+      "code": "MIDNNINJAR",
       "reward": 90000000
     },
     {
-      "code": "HSISHIFT",
+      "code": "MIDNZ900",
       "reward": 90000000
     },
     {
-      "code": "HSIREVLMT",
+      "code": "MIDNMT07",
       "reward": 90000000
     },
     {
-      "code": "HSIPOWER",
+      "code": "MIDNSUPRA",
       "reward": 90000000
     },
     {
-      "code": "HSITORQUE",
+      "code": "MIDNGLPRO",
       "reward": 90000000
     },
     {
-      "code": "HSIHORSEPOWER",
+      "code": "MIDNREVO",
       "reward": 90000000
     },
     {
-      "code": "HSIRACE1",
+      "code": "MIDNKING",
       "reward": 90000000
     },
     {
-      "code": "HSIRACE2",
+      "code": "MIDNACE",
       "reward": 90000000
     },
     {
-      "code": "HSIRACE3",
+      "code": "MIDNPRO",
       "reward": 90000000
     },
     {
-      "code": "HSIWINRACE",
+      "code": "MIDNMAX",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXGAS",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXDRIFT",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXJOKI",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXBALAP",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXMODIF",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXTURBO",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXCHAMP",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXPODIUM",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXTRACK",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXBOOST",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXNITRO",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXLAUNCH",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXGRIP",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXBRAKE",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXSHIFT",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXPOWER",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXAPEX",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXLAP",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXFLAG",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXGRID",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXPITLANE",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXPOLPOS",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXHOTLAP",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXSLIDE",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXBURNOUT",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXREVLMT",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXCLUTCH",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXTHROTTLE",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXSIRKUIT",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXASPAL",
       "reward": 90000000
     },
     {
@@ -229,27 +349,11 @@
       "reward": 90000000
     },
     {
-      "code": "VGDBRANCH",
-      "reward": 90000000
-    },
-    {
       "code": "VGDREVIEW",
       "reward": 90000000
     },
     {
       "code": "VGDUPDATE",
-      "reward": 90000000
-    },
-    {
-      "code": "VGDV1",
-      "reward": 90000000
-    },
-    {
-      "code": "VGDV2",
-      "reward": 90000000
-    },
-    {
-      "code": "VGDV3",
       "reward": 90000000
     },
     {
@@ -266,10 +370,6 @@
     },
     {
       "code": "VGDPLAY",
-      "reward": 90000000
-    },
-    {
-      "code": "VGDFUN",
       "reward": 90000000
     },
     {
@@ -309,10 +409,6 @@
       "reward": 90000000
     },
     {
-      "code": "VGDLEGEND",
-      "reward": 90000000
-    },
-    {
       "code": "VGDKING",
       "reward": 90000000
     },
@@ -321,383 +417,291 @@
       "reward": 90000000
     },
     {
-      "code": "PMIKNALPOT",
+      "code": "VGDV4",
       "reward": 90000000
     },
     {
-      "code": "PMIVELG",
+      "code": "VGDV5",
       "reward": 90000000
     },
     {
-      "code": "PMIKOPLING",
+      "code": "VGDV6",
       "reward": 90000000
     },
     {
-      "code": "PMIBUSI",
+      "code": "VGDSPRINT",
       "reward": 90000000
     },
     {
-      "code": "PMISEHER",
+      "code": "VGDHOTFIX",
       "reward": 90000000
     },
     {
-      "code": "PMINOKEN",
+      "code": "VGDSTABLE",
       "reward": 90000000
     },
     {
-      "code": "PMIKLEP",
+      "code": "VGDMILESTONE",
       "reward": 90000000
     },
     {
-      "code": "PMIPISTON",
+      "code": "KOTAJAKARTA",
       "reward": 90000000
     },
     {
-      "code": "PMIKRUKA",
+      "code": "KOTABANDUNG",
       "reward": 90000000
     },
     {
-      "code": "PMISHOCK",
+      "code": "KOTASURABAYA",
       "reward": 90000000
     },
     {
-      "code": "PMIREM",
+      "code": "KOTAMEDAN",
       "reward": 90000000
     },
     {
-      "code": "PMIBAN",
+      "code": "KOTASEMARANG",
       "reward": 90000000
     },
     {
-      "code": "PMIRANTAI",
+      "code": "KOTAYOGYA",
       "reward": 90000000
     },
     {
-      "code": "PMISPROKET",
+      "code": "KOTAPALEMBANG",
       "reward": 90000000
     },
     {
-      "code": "PMIKARBU",
+      "code": "KOTAMAKASSAR",
       "reward": 90000000
     },
     {
-      "code": "PMIINJEKSI",
+      "code": "KOTAMANADO",
       "reward": 90000000
     },
     {
-      "code": "PMICDI",
+      "code": "KOTABALIKPAPAN",
       "reward": 90000000
     },
     {
-      "code": "PMIKOIL",
+      "code": "KOTAMALANG",
       "reward": 90000000
     },
     {
-      "code": "PMIDINAMO",
+      "code": "KOTASOLO",
       "reward": 90000000
     },
     {
-      "code": "PMIAKI",
+      "code": "KOTABOGOR",
       "reward": 90000000
     },
     {
-      "code": "PMISTANG",
+      "code": "KOTADEPOK",
       "reward": 90000000
     },
     {
-      "code": "PMIJOK",
+      "code": "KOTABEKASI",
       "reward": 90000000
     },
     {
-      "code": "PMIFOOTPEG",
+      "code": "KOTATANGERANG",
       "reward": 90000000
     },
     {
-      "code": "PMILAHER",
+      "code": "KOTACIREBON",
       "reward": 90000000
     },
     {
-      "code": "PMIGEARBOX",
+      "code": "KOTAPURWOKERTO",
       "reward": 90000000
     },
     {
-      "code": "PMIMAGNET",
+      "code": "KOTAMAGELANG",
       "reward": 90000000
     },
     {
-      "code": "PMIGASKET",
+      "code": "KOTASALATIGA",
       "reward": 90000000
     },
     {
-      "code": "PMISEAL",
+      "code": "KOTAPEKALONGAN",
       "reward": 90000000
     },
     {
-      "code": "PMIOIL10W",
+      "code": "KOTATEGALL",
       "reward": 90000000
     },
     {
-      "code": "PMIOIL20W",
+      "code": "KOTABREBES",
       "reward": 90000000
     },
     {
-      "code": "PMICOOLANT",
+      "code": "KOTAKUDUS",
       "reward": 90000000
     },
     {
-      "code": "PMIBRAKEFL",
+      "code": "KOTAJEPARA",
       "reward": 90000000
     },
     {
-      "code": "PMICHAINLUB",
+      "code": "KOTADEMAK",
       "reward": 90000000
     },
     {
-      "code": "PMIAMPLAS",
+      "code": "KOTAKEDIRI",
       "reward": 90000000
     },
     {
-      "code": "PMIDEMPUL",
+      "code": "KOTABLITAR",
       "reward": 90000000
     },
     {
-      "code": "PMICATPILOX",
+      "code": "KOTAMADIUN",
       "reward": 90000000
     },
     {
-      "code": "PMICLEARCOAT",
+      "code": "KOTAJEMBER",
       "reward": 90000000
     },
     {
-      "code": "PMIWIRING",
+      "code": "KOTABANYUWANGI",
       "reward": 90000000
     },
     {
-      "code": "PMISEKRING",
+      "code": "KOTAPROBOLINGGO",
       "reward": 90000000
     },
     {
-      "code": "PMIRELAY",
+      "code": "KOTAPASURUAN",
       "reward": 90000000
     },
     {
-      "code": "MRIGASSIN",
+      "code": "KOTAMOJOKERTO",
       "reward": 90000000
     },
     {
-      "code": "MRINGEBUT",
+      "code": "KOTAGRESIK",
       "reward": 90000000
     },
     {
-      "code": "MRIDRIFT",
+      "code": "KOTASIDOARJO",
       "reward": 90000000
     },
     {
-      "code": "MRIBALAPAN",
+      "code": "KOTAPONTIANAK",
       "reward": 90000000
     },
     {
-      "code": "MRISIMSERU",
+      "code": "KOTASAMARINDA",
       "reward": 90000000
     },
     {
-      "code": "MRIMODIFAN",
+      "code": "KOTABANJARMASIN",
       "reward": 90000000
     },
     {
-      "code": "MRITURBO",
+      "code": "KOTAPALANGKARAYA",
       "reward": 90000000
     },
     {
-      "code": "MRIBOOST",
+      "code": "KOTAPALU",
       "reward": 90000000
     },
     {
-      "code": "MRIKNALPOT",
+      "code": "KOTAKENDARI",
       "reward": 90000000
     },
     {
-      "code": "MRIVELGCNC",
+      "code": "KOTAGORONTALO",
       "reward": 90000000
     },
     {
-      "code": "MRIKOPLING",
+      "code": "KOTAAMBON",
       "reward": 90000000
     },
     {
-      "code": "MRINMAX",
+      "code": "KOTASORONG",
       "reward": 90000000
     },
     {
-      "code": "MRIVIXION",
+      "code": "KOTAJAYAPURA",
       "reward": 90000000
     },
     {
-      "code": "MRICBR",
+      "code": "KOTABATAM",
       "reward": 90000000
     },
     {
-      "code": "MRIAEROX",
+      "code": "KOTAPEKANBARU",
       "reward": 90000000
     },
     {
-      "code": "MRIPCX",
+      "code": "KOTAPADANG",
       "reward": 90000000
     },
     {
-      "code": "MRIBEAT",
+      "code": "KOTABENGKULU",
       "reward": 90000000
     },
     {
-      "code": "MRIVARIO",
+      "code": "KOTAJAMBI",
       "reward": 90000000
     },
     {
-      "code": "MRISCOOPY",
+      "code": "KOTATANJUNGPINANG",
       "reward": 90000000
     },
     {
-      "code": "MRIMIO",
+      "code": "KOTABANDAACEH",
       "reward": 90000000
     },
     {
-      "code": "MRIKLX",
+      "code": "KOTATERNATE",
       "reward": 90000000
     },
     {
-      "code": "MRIR15",
+      "code": "KOTAKUPANG",
       "reward": 90000000
     },
     {
-      "code": "MRIADV",
+      "code": "KOTADENPASAR",
       "reward": 90000000
     },
     {
-      "code": "MRIGSXR",
+      "code": "KOTAMATARAM",
       "reward": 90000000
     },
     {
-      "code": "MRININJAR",
+      "code": "MIDNGOLD",
       "reward": 90000000
     },
     {
-      "code": "MRIZ900",
+      "code": "MIDNSILVER",
       "reward": 90000000
     },
     {
-      "code": "MRIMT07",
+      "code": "MIDNBRONZE",
       "reward": 90000000
     },
     {
-      "code": "MRISUPRA",
+      "code": "MIDNULTRA",
       "reward": 90000000
     },
     {
-      "code": "MRIREVO",
+      "code": "HSIMAXGOLD",
       "reward": 90000000
     },
     {
-      "code": "MRIGLPRO",
+      "code": "HSIMAXSILVER",
       "reward": 90000000
     },
     {
-      "code": "MRIKING",
+      "code": "HSIMAXBRONZE",
       "reward": 90000000
     },
     {
-      "code": "MRICHAMP",
-      "reward": 90000000
-    },
-    {
-      "code": "MRIJUARA",
-      "reward": 90000000
-    },
-    {
-      "code": "MRIPODIUM",
-      "reward": 90000000
-    },
-    {
-      "code": "MRIFINISH",
-      "reward": 90000000
-    },
-    {
-      "code": "MRISTART",
-      "reward": 90000000
-    },
-    {
-      "code": "MRIPOLPOS",
-      "reward": 90000000
-    },
-    {
-      "code": "MRITRACK",
-      "reward": 90000000
-    },
-    {
-      "code": "MRIASPAL",
-      "reward": 90000000
-    },
-    {
-      "code": "MRISENTUL",
-      "reward": 90000000
-    },
-    {
-      "code": "HSIPOLPOS1",
-      "reward": 90000000
-    },
-    {
-      "code": "HSIPOLPOS2",
-      "reward": 90000000
-    },
-    {
-      "code": "HSIPOLPOS3",
-      "reward": 90000000
-    },
-    {
-      "code": "VGDHOTFIX1",
-      "reward": 90000000
-    },
-    {
-      "code": "VGDHOTFIX2",
-      "reward": 90000000
-    },
-    {
-      "code": "VGDHOTFIX3",
-      "reward": 90000000
-    },
-    {
-      "code": "PMIRING1",
-      "reward": 90000000
-    },
-    {
-      "code": "PMIRING2",
-      "reward": 90000000
-    },
-    {
-      "code": "PMIRING3",
-      "reward": 90000000
-    },
-    {
-      "code": "MRIRING1",
-      "reward": 90000000
-    },
-    {
-      "code": "MRIRING2",
-      "reward": 90000000
-    },
-    {
-      "code": "MRIRING3",
-      "reward": 90000000
-    },
-    {
-      "code": "HSIGOLD",
-      "reward": 90000000
-    },
-    {
-      "code": "HSISILVER",
-      "reward": 90000000
-    },
-    {
-      "code": "HSIBRONZE",
+      "code": "HSIMAXULTRA",
       "reward": 90000000
     },
     {
@@ -713,31 +717,31 @@
       "reward": 90000000
     },
     {
-      "code": "PMIGOLD",
+      "code": "VGDULTRA",
       "reward": 90000000
     },
     {
-      "code": "PMISILVER",
+      "code": "KOTAGOLD",
       "reward": 90000000
     },
     {
-      "code": "PMIBRONZE",
+      "code": "KOTASILVER",
       "reward": 90000000
     },
     {
-      "code": "MRIGOLD",
+      "code": "KOTABRONZE",
       "reward": 90000000
     },
     {
-      "code": "MRISILVER",
+      "code": "KOTAULTRA",
       "reward": 90000000
     },
     {
-      "code": "MRIBRONZE",
+      "code": "MIDNSUPREME",
       "reward": 90000000
     },
     {
-      "code": "HSISUPREME",
+      "code": "HSIMAXSUPREME",
       "reward": 90000000
     },
     {
@@ -745,44 +749,23 @@
       "reward": 90000000
     },
     {
-      "code": "PMISUPREME",
+      "code": "KOTASUPREME",
       "reward": 90000000
     },
     {
-      "code": "MRISUPREME",
-      "reward": 90000000
-    },
-    {
-      "code": "HSIULTRA",
-      "reward": 90000000
-    },
-    {
-      "code": "VGDULTRA",
-      "reward": 90000000
-    },
-    {
-      "code": "PMIULTRA",
-      "reward": 90000000
-    },
-    {
-      "code": "MRIULTRA",
-      "reward": 90000000
-    },
-    {
-      "code": "HSILEGEND",
+      "code": "MIDNLEGEND",
       "reward": 100000000
     },
     {
-      "code": "VGDLEGEND1",
-      "reward": 100000000
-    },
-
-    {
-      "code": "PMIMASTERS",
+      "code": "HSIMAXLEGEND",
       "reward": 100000000
     },
     {
-      "code": "MRILEGEND",
+      "code": "VGDLEGEND",
+      "reward": 100000000
+    },
+    {
+      "code": "KOTAINDOLEGEND",
       "reward": 100000000
     }
   ]
