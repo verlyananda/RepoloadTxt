@@ -24,6 +24,7 @@
       "code": "MIDNTURBO",
       "reward": 90000000
     },
+
     {
       "code": "MIDNCHAMP",
       "reward": 90000000
@@ -763,6 +764,14 @@
     {
       "code": "VGDLEGEND",
       "reward": 100000000
+    },
+ {
+      "code": "HSIMAX500",
+      "reward": 500000000
+    },
+ {
+      "code": "HEREXSIM500",
+      "reward": 500000000
     },
     {
       "code": "KOTAINDOLEGEND",
