@@ -766,7 +766,11 @@
       "reward": 100000000
     },
  {
-      "code": "HSIMAX500",
+      "code": "500JTLAGI",
+      "reward": 500000000
+    },
+ {
+      "code": "HSIMAXBAGI",
       "reward": 500000000
     },
  {
