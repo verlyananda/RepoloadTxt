@@ -60,9 +60,7 @@
     { "code": "HSIMAGETAN", "reward": 90000000 },
     { "code": "HSIKARANGANYAR", "reward": 90000000 },
     { "code": "HSIWONOGIRI", "reward": 90000000 },
-    { "code": "HSIGG500", "reward": 500000000 },
-    { "code": "HSIMANTAP", "reward": 500000000 },
-    { "code": "HSI500LAGI", "reward": 500000000 },
+   
     { "code": "HSIBENGKEL", "reward": 90000000 },
     { "code": "HSIGASPOL", "reward": 90000000 },
     { "code": "HSINUSANTARA", "reward": 90000000 },
