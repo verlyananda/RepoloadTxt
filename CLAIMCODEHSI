@@ -13,7 +13,10 @@
     { "code": "HSIMAKASSAR", "reward": 90000000 },
     { "code": "HSISEMARANG", "reward": 90000000 },
     { "code": "HSIBEKASI", "reward": 90000000 },
-  
+
+{ "code": "HSIBAIK500", "reward": 500000000 },
+    { "code": "HSI500SIP", "reward": 500000000 },
+
     { "code": "HSIBENGKEL", "reward": 90000000 },
     { "code": "HSIGASPOL", "reward": 90000000 },
     { "code": "HSINUSANTARA", "reward": 90000000 },
