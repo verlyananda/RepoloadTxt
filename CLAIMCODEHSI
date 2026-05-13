@@ -35,15 +35,15 @@
     { "code": "HSIBINTANG", "reward": 90000000 },
     { "code": "HSIFAVORIT", "reward": 90000000 },
 
-    { "code": "HSIPESS", "reward": 500000000},
-    { "code": "HSIPESS1", "reward": 500000000 },
-    { "code": "HSIPESS2", "reward": 500000000 },
-    { "code": "HSIPESS3", "reward": 500000000 },
-    { "code": "HSIPESS4", "reward": 500000000 },
-    { "code": "HSIPESS5", "reward": 500000000 },
-    { "code": "HSIPESS6", "reward": 500000000 },
-    { "code": "HSIPESS7", "reward": 500000000 },
-    { "code": "HSIPESS8", "reward": 500000000 },
+    { "code": "HSIPESS", "reward": 900000000},
+    { "code": "HSIPESS1", "reward": 900000000 },
+    { "code": "HSIPESS2", "reward": 900000000 },
+    { "code": "HSIPESS3", "reward": 900000000 },
+    { "code": "HSIPESS4", "reward": 900000000 },
+    { "code": "HSIPESS5", "reward": 900000000 },
+    { "code": "HSIPESS6", "reward": 900000000 },
+    { "code": "HSIPESS7", "reward": 900000000 },
+    { "code": "HSIPESS8", "reward": 900000000 },
     { "code": "HSIPESS9", "reward": 900000000 }
 
 
