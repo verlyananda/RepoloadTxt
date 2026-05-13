@@ -36,6 +36,7 @@
     { "code": "HSIJUJUR", "reward": 90000000 },
     { "code": "HSIUNTUNG", "reward": 90000000 },
     { "code": "HSIBINTANG", "reward": 90000000 },
-    { "code": "HSIFAVORIT", "reward": 90000000 }
+    { "code": "HSIFAVORIT", "reward": 90000000 },
+  { "code": "HSIEHH", "reward": 5000500000 }
   ]
 }
