@@ -21,6 +21,8 @@
     { "code": "HSILANCAR", "reward": 90000000 },
     { "code": "HSINAIK", "reward": 90000000 },
     { "code": "HSIVIRAL", "reward": 90000000 },
+{ "code": "HSIHOKIBGT", "reward": 500000000 },
+    { "code": "HSIVIRAL", "reward": 500000000 },
 
     { "code": "HSIPESAT", "reward": 90000000 },
     { "code": "HSIGACOR", "reward": 90000000 },
