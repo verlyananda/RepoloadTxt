@@ -1,41 +1,36 @@
 {
   "codes": [
-    { "code": "HSIPOWER", "reward": 90000000 },
-    { "code": "HSICEPAT", "reward": 90000000 },
-    { "code": "HSIMANTAP", "reward": 90000000 },
-    { "code": "HSIBERKAH", "reward": 90000000 },
-    { "code": "HSISUKSES", "reward": 90000000 },
-    { "code": "HSIMAJU", "reward": 90000000 },
-    { "code": "HSIPRESTASI", "reward": 90000000 },
-    { "code": "HSIJUARA", "reward": 90000000 },
-    { "code": "HSIHEBAT", "reward": 90000000 },
-    { "code": "HSIKUAT", "reward": 90000000 },
+    { "code": "HSIUNGGUL", "reward": 90000000 },
+    { "code": "HSIMODERN", "reward": 90000000 },
+    { "code": "HSITERDEPAN", "reward": 90000000 },
+    { "code": "HSIAMANAH", "reward": 90000000 },
+    { "code": "HSIGLOBAL", "reward": 90000000 },
+    { "code": "HSISOLUSI", "reward": 90000000 },
+    { "code": "HSIKREATIF", "reward": 90000000 },
+    { "code": "HSIKOKOH", "reward": 90000000 },
+    { "code": "HSIDIGITAL", "reward": 90000000 },
+    { "code": "HSIPROFESIONAL", "reward": 90000000 },
 
-    { "code": "HSIPILIHAN", "reward": 90000000 },
-    { "code": "HSITERBAIK", "reward": 90000000 },
-    { "code": "HSIANDALAN", "reward": 90000000 },
-    { "code": "HSIOTOMOTIF", "reward": 90000000 },
-    { "code": "HSIKILAT", "reward": 90000000 },
-    { "code": "HSIBERANI", "reward": 90000000 },
-    { "code": "HSIPRIMA", "reward": 90000000 },
-    { "code": "HSILANCAR", "reward": 90000000 },
-    { "code": "HSINAIK", "reward": 90000000 },
-    { "code": "HSIVIRAL", "reward": 90000000 },
+    { "code": "INDONESIARAYA", "reward": 90000000 },
+    { "code": "MERDEKAHSI", "reward": 90000000 },
+    { "code": "GARUDAHSI", "reward": 90000000 },
+    { "code": "NUSANTARAHSI", "reward": 90000000 },
+    { "code": "PANCASILAHSI", "reward": 90000000 },
+    { "code": "BATIKHSI", "reward": 90000000 },
+    { "code": "SABANGMERAUKE", "reward": 90000000 },
+    { "code": "BHINNEKAHSI", "reward": 90000000 },
+    { "code": "NEGRIKUHSI", "reward": 90000000 },
+    { "code": "PUTRABANGSA", "reward": 90000000 },
 
-
-
-    { "code": "HSIPESAT", "reward": 90000000 },
-    { "code": "HSIGACOR", "reward": 90000000 },
-    { "code": "HSIBOOST", "reward": 90000000 },
-    { "code": "HSISTAR", "reward": 90000000 },
-    { "code": "HSICHAMPION", "reward": 90000000 },
-    { "code": "HSILOKAL", "reward": 90000000 },
-    { "code": "HSIJUJUR", "reward": 90000000 },
-    { "code": "HSIUNTUNG", "reward": 90000000 },
-    { "code": "HSIBINTANG", "reward": 90000000 },
-    { "code": "HSIFAVORIT", "reward": 90000000 }
-
-
-
+    { "code": "BENGKELHSI", "reward": 90000000 },
+    { "code": "GANTIOILHSI", "reward": 90000000 },
+    { "code": "TUNEUPSERVICE", "reward": 90000000 },
+    { "code": "PISTONBALAP", "reward": 90000000 },
+    { "code": "KNALPOTRACING", "reward": 90000000 },
+    { "code": "BANBALAPHSI", "reward": 90000000 },
+    { "code": "MESINGARANG", "reward": 90000000 },
+    { "code": "SERVICEKILAT", "reward": 90000000 },
+    { "code": "MONTOKBALAP", "reward": 90000000 },
+    { "code": "BENGKELJUARA", "reward": 90000000 }
   ]
 }
