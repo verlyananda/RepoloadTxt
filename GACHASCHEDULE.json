@@ -1,0 +1,9 @@
+{
+  "schedules": [
+    {
+      "id": "fiturpremium",
+      "endDate": "2026-06-14 23:59",
+      "enabled": true
+    }
+  ]
+}
