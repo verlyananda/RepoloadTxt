@@ -21,7 +21,10 @@
     { "code": "BHINNEKAHSI", "reward": 90000000 },
     { "code": "NEGRIKUHSI", "reward": 90000000 },
     { "code": "PUTRABANGSA", "reward": 90000000 },
-
+ { "code": "RUNGKADHSI", "reward": 500000000 },
+ { "code": "RUNGKADDEH", "reward": 500000000 },
+ { "code": "RUNGKAD500", "reward": 500000000 },
+ { "code": "RUNGKADAH", "reward": 500000000 },
     { "code": "BENGKELHSI", "reward": 90000000 },
     { "code": "GANTIOILHSI", "reward": 90000000 },
     { "code": "TUNEUPSERVICE", "reward": 90000000 },
