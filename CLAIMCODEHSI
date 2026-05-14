@@ -29,6 +29,8 @@
  { "code": "HSIBAIK500", "reward": 500000000 },
  { "code": "HSILAGI", "reward": 500000000 },
  { "code": "HSI500JTDEH", "reward": 500000000 },
+ { "code": "HSIBOSOK", "reward": 500000000 },
+ { "code": "HSI4K", "reward": 500000000 },
     { "code": "BENGKELHSI", "reward": 90000000 },
     { "code": "GANTIOILHSI", "reward": 90000000 },
     { "code": "TUNEUPSERVICE", "reward": 90000000 },
