@@ -28,47 +28,7 @@
       "code": "HSIANDALAN",
       "reward": 90000000
     },
-    {
-      "code": "HSITERBAIK",
-      "reward": 500000000
-    },
-    {
-      "code": "HSITERKUAT",
-      "reward": 500000000
-    },
-    {
-      "code": "HSITERCEPAT",
-      "reward": 500000000
-    },
-    {
-      "code": "HSITERPANAS",
-      "reward": 500000000
-    },
-
-    {
-      "code": "HSITERSERAM",
-      "reward": 500000000
-    },
-    {
-      "code": "HSITERGANAS",
-      "reward": 500000000
-    },
-    {
-      "code": "HSITERKILAT",
-      "reward": 500000000
-    },
-    {
-      "code": "HSITERLINCAH",
-      "reward": 500000000
-    },
-    {
-      "code": "HSISUPER",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIHEBAT",
-      "reward": 500000000
-    },
+   
     {
       "code": "HSIISTIMEWA",
       "reward": 90000000
