@@ -1,37 +1,404 @@
 {
   "codes": [
-    { "code": "HSIUNGGUL", "reward": 90000000 },
-    { "code": "HSIMODERN", "reward": 90000000 },
-    { "code": "HSITERDEPAN", "reward": 90000000 },
-    { "code": "HSIAMANAH", "reward": 90000000 },
-    { "code": "HSIGLOBAL", "reward": 90000000 },
-    { "code": "HSISOLUSI", "reward": 90000000 },
-    { "code": "HSIKREATIF", "reward": 90000000 },
-    { "code": "HSIKOKOH", "reward": 90000000 },
-    { "code": "HSIDIGITAL", "reward": 90000000 },
-    { "code": "HSIPROFESIONAL", "reward": 90000000 },
-
-    { "code": "HSIITULAGI", "reward": 90000000 },
-    { "code": "MERDEKAHSI", "reward": 90000000 },
-    { "code": "GARUDAHSI", "reward": 90000000 },
-    { "code": "NUSANTARAHSI", "reward": 90000000 },
-    { "code": "PANCASILAHSI", "reward": 90000000 },
-    { "code": "BATIKHSI", "reward": 90000000 },
-    { "code": "SABANGMERAUKE", "reward": 90000000 },
-    { "code": "BHINNEKAHSI", "reward": 90000000 },
-    { "code": "NEGRIKUHSI", "reward": 90000000 },
-    { "code": "PUTRABANGSA", "reward": 90000000 },
-
-    { "code": "BENGKELHSI", "reward": 90000000 },
-    { "code": "GANTIOILHSI", "reward": 90000000 },
-    { "code": "TUNEUPSERVICE", "reward": 90000000 },
-    { "code": "PISTONBALAP", "reward": 90000000 },
-    { "code": "KNALPOTRACING", "reward": 90000000 },
-    { "code": "BANBALAPHSI", "reward": 90000000 },
-    { "code": "MESINGARANG", "reward": 90000000 },
-    { "code": "SERVICEKILAT", "reward": 90000000 },
-    { "code": "MONTOKBALAP", "reward": 90000000 },
-    { "code": "BENGKELJUARA", "reward": 90000000 }
-
+    {
+      "code": "HSIPANTAS",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIBERJAYA",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMENDUNIA",
+      "reward": 90000000
+    },
+    {
+      "code": "HSITERBUKTI",
+      "reward": 90000000
+    },
+    {
+      "code": "HSINYATA",
+      "reward": 90000000
+    },
+    {
+      "code": "HSITERPERCAYA",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIANDALAN",
+      "reward": 90000000
+    },
+    {
+      "code": "HSITERBAIK",
+      "reward": 90000000
+    },
+    {
+      "code": "HSITERKUAT",
+      "reward": 90000000
+    },
+    {
+      "code": "HSITERCEPAT",
+      "reward": 90000000
+    },
+    {
+      "code": "HSITERPANAS",
+      "reward": 90000000
+    },
+    {
+      "code": "HSITERSERAM",
+      "reward": 90000000
+    },
+    {
+      "code": "HSITERGANAS",
+      "reward": 90000000
+    },
+    {
+      "code": "HSITERKILAT",
+      "reward": 90000000
+    },
+    {
+      "code": "HSITERLINCAH",
+      "reward": 90000000
+    },
+    {
+      "code": "HSISUPER",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIHEBAT",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIISTIMEWA",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMANTAP",
+      "reward": 90000000
+    },
+    {
+      "code": "HSICANGGIH",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIKEREN",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIGAGAH",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIGAHAR",
+      "reward": 90000000
+    },
+    {
+      "code": "HSINGEBUT",
+      "reward": 90000000
+    },
+    {
+      "code": "HSINGACIR",
+      "reward": 90000000
+    },
+    {
+      "code": "HSINGEPOT",
+      "reward": 90000000
+    },
+    {
+      "code": "HSINGIBRIT",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIBANTINGAN",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIGEBRAK",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIGUNCANG",
+      "reward": 90000000
+    },
+    {
+      "code": "GARASI88",
+      "reward": 90000000
+    },
+    {
+      "code": "GARASIBALAP",
+      "reward": 90000000
+    },
+    {
+      "code": "GARASIMODIF",
+      "reward": 90000000
+    },
+    {
+      "code": "GARASIJOKI",
+      "reward": 90000000
+    },
+    {
+      "code": "GARASISAKTI",
+      "reward": 90000000
+    },
+    {
+      "code": "GARASIJOSS",
+      "reward": 90000000
+    },
+    {
+      "code": "GARASIKILAT",
+      "reward": 90000000
+    },
+    {
+      "code": "GARASIJEMPOL",
+      "reward": 90000000
+    },
+    {
+      "code": "GARASIPRO",
+      "reward": 90000000
+    },
+    {
+      "code": "GARASICHAMP",
+      "reward": 90000000
+    },
+    {
+      "code": "ASPAL88",
+      "reward": 90000000
+    },
+    {
+      "code": "ASPALBAKAR",
+      "reward": 90000000
+    },
+    {
+      "code": "ASPALBASAH",
+      "reward": 90000000
+    },
+    {
+      "code": "ASPALPANAS",
+      "reward": 90000000
+    },
+    {
+      "code": "ASPALRACING",
+      "reward": 90000000
+    },
+    {
+      "code": "ASPALSAKTI",
+      "reward": 90000000
+    },
+    {
+      "code": "ASPALJOSS",
+      "reward": 90000000
+    },
+    {
+      "code": "ASPALKILAT",
+      "reward": 90000000
+    },
+    {
+      "code": "ASPALJEMPOL",
+      "reward": 90000000
+    },
+    {
+      "code": "ASPALPRO",
+      "reward": 90000000
+    },
+    {
+      "code": "TREK88",
+      "reward": 90000000
+    },
+    {
+      "code": "TREKBALAP",
+      "reward": 90000000
+    },
+    {
+      "code": "TREKMODIF",
+      "reward": 90000000
+    },
+    {
+      "code": "TREKJOKI",
+      "reward": 90000000
+    },
+    {
+      "code": "TREKSAKTI",
+      "reward": 90000000
+    },
+    {
+      "code": "TREKJOSS",
+      "reward": 90000000
+    },
+    {
+      "code": "TREKKILAT",
+      "reward": 90000000
+    },
+    {
+      "code": "TREKJEMPOL",
+      "reward": 90000000
+    },
+    {
+      "code": "TREKPRO",
+      "reward": 90000000
+    },
+    {
+      "code": "TREKCHAMP",
+      "reward": 90000000
+    },
+    {
+      "code": "DRAG88",
+      "reward": 90000000
+    },
+    {
+      "code": "DRAGBALAP",
+      "reward": 90000000
+    },
+    {
+      "code": "DRAGMODIF",
+      "reward": 90000000
+    },
+    {
+      "code": "DRAGJOKI",
+      "reward": 90000000
+    },
+    {
+      "code": "DRAGSAKTI",
+      "reward": 90000000
+    },
+    {
+      "code": "DRAGJOSS",
+      "reward": 90000000
+    },
+    {
+      "code": "DRAGKILAT",
+      "reward": 90000000
+    },
+    {
+      "code": "DRAGJEMPOL",
+      "reward": 90000000
+    },
+    {
+      "code": "DRAGPRO",
+      "reward": 90000000
+    },
+    {
+      "code": "DRAGCHAMP",
+      "reward": 90000000
+    },
+    {
+      "code": "LIAR88",
+      "reward": 90000000
+    },
+    {
+      "code": "LIARBALAP",
+      "reward": 90000000
+    },
+    {
+      "code": "LIARMODIF",
+      "reward": 90000000
+    },
+    {
+      "code": "LIARJOKI",
+      "reward": 90000000
+    },
+    {
+      "code": "LIARSAKTI",
+      "reward": 90000000
+    },
+    {
+      "code": "LIARJOSS",
+      "reward": 90000000
+    },
+    {
+      "code": "LIARKILAT",
+      "reward": 90000000
+    },
+    {
+      "code": "LIARJEMPOL",
+      "reward": 90000000
+    },
+    {
+      "code": "LIARPRO",
+      "reward": 90000000
+    },
+    {
+      "code": "LIARCHAMP",
+      "reward": 90000000
+    },
+    {
+      "code": "JUARA88",
+      "reward": 90000000
+    },
+    {
+      "code": "JUARABALAP",
+      "reward": 90000000
+    },
+    {
+      "code": "JUARAMODIF",
+      "reward": 90000000
+    },
+    {
+      "code": "JUARAJOKI",
+      "reward": 90000000
+    },
+    {
+      "code": "JUARASAKTI",
+      "reward": 90000000
+    },
+    {
+      "code": "JUARAJOSS",
+      "reward": 90000000
+    },
+    {
+      "code": "JUARAKILAT",
+      "reward": 90000000
+    },
+    {
+      "code": "JUARAJEMPOL",
+      "reward": 90000000
+    },
+    {
+      "code": "JUARAPRO",
+      "reward": 90000000
+    },
+    {
+      "code": "JUARACHAMP",
+      "reward": 90000000
+    },
+    {
+      "code": "PODIUM88",
+      "reward": 90000000
+    },
+    {
+      "code": "PODIUMBALAP",
+      "reward": 90000000
+    },
+    {
+      "code": "PODIUMMODIF",
+      "reward": 90000000
+    },
+    {
+      "code": "PODIUMJOKI",
+      "reward": 90000000
+    },
+    {
+      "code": "PODIUMSAKTI",
+      "reward": 90000000
+    },
+    {
+      "code": "PODIUMJOSS",
+      "reward": 90000000
+    },
+    {
+      "code": "PODIUMKILAT",
+      "reward": 90000000
+    },
+    {
+      "code": "PODIUMJEMPOL",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIINDOSAKTI",
+      "reward": 100000000
+    },
+    {
+      "code": "HSIMOTORJOSS",
+      "reward": 100000000
+    }
   ]
 }
