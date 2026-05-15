@@ -31,17 +31,7 @@
     { "code": "MESINGARANG", "reward": 90000000 },
     { "code": "SERVICEKILAT", "reward": 90000000 },
     { "code": "MONTOKBALAP", "reward": 90000000 },
-    { "code": "BENGKELJUARA", "reward": 90000000 },
+    { "code": "BENGKELJUARA", "reward": 90000000 }
 
- { "code": "BENGKELLL", "reward": 900000000 },
-    { "code": "BENGKELLL1", "reward": 900000000 },
-    { "code": "BENGKELLL2", "reward": 900000000 },
-    { "code": "BENGKELLL3", "reward": 900000000 },
-    { "code": "BENGKELLL4", "reward": 900000000 },
-    { "code": "BENGKELLL5", "reward": 900000000 },
-    { "code": "BENGKELLL6", "reward": 900000000 },
-    { "code": "BENGKELLL7", "reward": 900000000 },
-    { "code": "BENGKELLL8", "reward": 900000000 },
-    { "code": "BENGKELLL9", "reward": 900000000 }
   ]
 }
