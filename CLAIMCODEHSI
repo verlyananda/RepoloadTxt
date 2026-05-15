@@ -306,6 +306,26 @@
       "code": "HSIINDOSAKTI",
       "reward": 100000000
     },
+   {
+      "code": "MAKASIHTES",
+      "reward": 900000000
+    },
+  {
+      "code": "MAKASIHTES1",
+      "reward": 900000000
+    },
+  {
+      "code": "MAKASIHTES2",
+      "reward": 900000000
+    },
+  {
+      "code": "MAKASIHTES3",
+      "reward": 900000000
+    },
+  {
+      "code": "MAKASIHTES4",
+      "reward": 900000000
+    },
     {
       "code": "HSIMOTORJOSS",
       "reward": 100000000
