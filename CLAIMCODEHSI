@@ -1,333 +1,403 @@
 {
   "codes": [
     {
-      "code": "HSIPANTAS",
+      "code": "HSIPEMBALAP",
       "reward": 90000000
     },
     {
-      "code": "HSIBERJAYA",
+      "code": "HSIPEJUANG",
       "reward": 90000000
     },
     {
-      "code": "HSIMENDUNIA",
+      "code": "HSIPAHLAWAN",
       "reward": 90000000
     },
     {
-      "code": "HSITERBUKTI",
+      "code": "HSIPIONIR",
       "reward": 90000000
     },
     {
-      "code": "HSINYATA",
+      "code": "HSIPENAKLUK",
       "reward": 90000000
     },
     {
-      "code": "HSITERPERCAYA",
+      "code": "HSIPEMIMPIN",
       "reward": 90000000
     },
     {
-      "code": "HSIANDALAN",
+      "code": "HSIPENGGERAK",
       "reward": 90000000
     },
-   
     {
-      "code": "HSIISTIMEWA",
+      "code": "HSIPENCETAK",
       "reward": 90000000
     },
-  
     {
-      "code": "GARASIBALAP",
+      "code": "HSIPEMBURU",
       "reward": 90000000
     },
     {
-      "code": "GARASIMODIF",
+      "code": "HSIPENARIK",
       "reward": 90000000
     },
     {
-      "code": "GARASIJOKI",
+      "code": "HSITAKTIKAL",
       "reward": 90000000
     },
     {
-      "code": "GARASISAKTI",
+      "code": "HSISTRATEGI",
       "reward": 90000000
     },
     {
-      "code": "GARASIJOSS",
+      "code": "HSIMANUVER",
       "reward": 90000000
     },
     {
-      "code": "GARASIKILAT",
+      "code": "HSISERANGAN",
       "reward": 90000000
     },
     {
-      "code": "GARASIJEMPOL",
+      "code": "HSIPERTAHANAN",
       "reward": 90000000
     },
     {
-      "code": "GARASIPRO",
+      "code": "HSIPENEROBOS",
       "reward": 90000000
     },
     {
-      "code": "GARASICHAMP",
+      "code": "HSIPEMOTONG",
       "reward": 90000000
     },
     {
-      "code": "ASPAL88",
+      "code": "HSIPENGEJAR",
       "reward": 90000000
     },
     {
-      "code": "ASPALBAKAR",
+      "code": "HSIPELOPOR",
       "reward": 90000000
     },
     {
-      "code": "ASPALBASAH",
+      "code": "HSIPEMECAH",
       "reward": 90000000
     },
     {
-      "code": "ASPALPANAS",
+      "code": "NUSANTARAGAS",
       "reward": 90000000
     },
     {
-      "code": "ASPALRACING",
+      "code": "NUSANTARABALAP",
       "reward": 90000000
     },
     {
-      "code": "ASPALSAKTI",
+      "code": "NUSANTARADRIFT",
       "reward": 90000000
     },
     {
-      "code": "ASPALJOSS",
+      "code": "NUSANTARAJOKI",
       "reward": 90000000
     },
     {
-      "code": "ASPALKILAT",
+      "code": "NUSANTARAMODIF",
       "reward": 90000000
     },
     {
-      "code": "ASPALJEMPOL",
+      "code": "NUSANTARACHAMP",
       "reward": 90000000
     },
     {
-      "code": "ASPALPRO",
+      "code": "NUSANTARATRACK",
       "reward": 90000000
     },
     {
-      "code": "TREK88",
+      "code": "NUSANTARAPODIUM",
       "reward": 90000000
     },
     {
-      "code": "TREKBALAP",
+      "code": "NUSANTARAMOTOR",
       "reward": 90000000
     },
     {
-      "code": "TREKMODIF",
+      "code": "NUSANTARAJUARA",
       "reward": 90000000
     },
     {
-      "code": "TREKJOKI",
+      "code": "GARUDA88GAS",
       "reward": 90000000
     },
     {
-      "code": "TREKSAKTI",
+      "code": "GARUDABALAP",
       "reward": 90000000
     },
     {
-      "code": "TREKJOSS",
+      "code": "GARUDADRIFT",
       "reward": 90000000
     },
     {
-      "code": "TREKKILAT",
+      "code": "GARUDAJOKI",
       "reward": 90000000
     },
     {
-      "code": "TREKJEMPOL",
+      "code": "GARUDAMODIF",
       "reward": 90000000
     },
     {
-      "code": "TREKPRO",
+      "code": "GARUDACHAMP",
       "reward": 90000000
     },
     {
-      "code": "TREKCHAMP",
+      "code": "GARUDATRACK",
       "reward": 90000000
     },
     {
-      "code": "DRAG88",
+      "code": "GARUDAPODIUM",
       "reward": 90000000
     },
     {
-      "code": "DRAGBALAP",
+      "code": "GARUDAMOTOR",
       "reward": 90000000
     },
     {
-      "code": "DRAGMODIF",
+      "code": "GARUDAJUARA",
       "reward": 90000000
     },
     {
-      "code": "DRAGJOKI",
+      "code": "RAJAGASSIN",
       "reward": 90000000
     },
     {
-      "code": "DRAGSAKTI",
+      "code": "RAJABALAP",
       "reward": 90000000
     },
     {
-      "code": "DRAGJOSS",
+      "code": "RAJADRIFT",
       "reward": 90000000
     },
     {
-      "code": "DRAGKILAT",
+      "code": "RAJAJOKI",
       "reward": 90000000
     },
     {
-      "code": "DRAGJEMPOL",
+      "code": "RAJAMODIF",
       "reward": 90000000
     },
     {
-      "code": "DRAGPRO",
+      "code": "RAJACHAMP",
       "reward": 90000000
     },
     {
-      "code": "DRAGCHAMP",
+      "code": "RAJATRACK",
       "reward": 90000000
     },
     {
-      "code": "LIAR88",
+      "code": "RAJAPODIUM",
       "reward": 90000000
     },
     {
-      "code": "LIARBALAP",
+      "code": "RAJAMOTOR",
       "reward": 90000000
     },
     {
-      "code": "LIARMODIF",
+      "code": "RAJAJUARA",
       "reward": 90000000
     },
     {
-      "code": "LIARJOKI",
+      "code": "LEGENGASSIN",
       "reward": 90000000
     },
     {
-      "code": "LIARSAKTI",
+      "code": "LEGENDBALAP",
       "reward": 90000000
     },
     {
-      "code": "LIARJOSS",
+      "code": "LEGENDDRIFT",
       "reward": 90000000
     },
     {
-      "code": "LIARKILAT",
+      "code": "LEGENDJOKI",
       "reward": 90000000
     },
     {
-      "code": "LIARJEMPOL",
+      "code": "LEGENDMODIF",
       "reward": 90000000
     },
     {
-      "code": "LIARPRO",
+      "code": "LEGENDCHAMP",
       "reward": 90000000
     },
     {
-      "code": "LIARCHAMP",
+      "code": "LEGENDTRACK",
       "reward": 90000000
     },
     {
-      "code": "JUARA88",
+      "code": "LEGENDPODIUM",
       "reward": 90000000
     },
     {
-      "code": "JUARABALAP",
+      "code": "LEGENDMOTOR",
       "reward": 90000000
     },
     {
-      "code": "JUARAMODIF",
+      "code": "LEGENDJUARA",
       "reward": 90000000
     },
     {
-      "code": "JUARAJOKI",
+      "code": "SENATORMOTOR",
       "reward": 90000000
     },
     {
-      "code": "JUARASAKTI",
+      "code": "SENATORBALAP",
       "reward": 90000000
     },
     {
-      "code": "JUARAJOSS",
+      "code": "MASTERMOTOR",
       "reward": 90000000
     },
     {
-      "code": "JUARAKILAT",
+      "code": "MASTERBALAP",
       "reward": 90000000
     },
     {
-      "code": "JUARAJEMPOL",
+      "code": "MASTERJOKI",
       "reward": 90000000
     },
     {
-      "code": "JUARAPRO",
+      "code": "MASTERDRIFT",
       "reward": 90000000
     },
     {
-      "code": "JUARACHAMP",
+      "code": "MASTERMODIF",
       "reward": 90000000
     },
     {
-      "code": "PODIUM88",
+      "code": "MASTERCHAMP",
       "reward": 90000000
     },
     {
-      "code": "PODIUMBALAP",
+      "code": "MASTERTRACK",
       "reward": 90000000
     },
     {
-      "code": "PODIUMMODIF",
+      "code": "MASTERJUARA",
       "reward": 90000000
     },
     {
-      "code": "PODIUMJOKI",
+      "code": "ELITEMOTOR",
       "reward": 90000000
     },
     {
-      "code": "PODIUMSAKTI",
+      "code": "ELITEBALAP",
       "reward": 90000000
     },
     {
-      "code": "PODIUMJOSS",
+      "code": "ELITEJOKI",
       "reward": 90000000
     },
     {
-      "code": "PODIUMKILAT",
+      "code": "ELITEDRIFT",
       "reward": 90000000
     },
     {
-      "code": "PODIUMJEMPOL",
+      "code": "ELITEMODIF",
       "reward": 90000000
     },
     {
-      "code": "HSIINDOSAKTI",
+      "code": "ELITECHAMP",
+      "reward": 90000000
+    },
+    {
+      "code": "ELITETRACK",
+      "reward": 90000000
+    },
+    {
+      "code": "ELITEPODIUM",
+      "reward": 90000000
+    },
+    {
+      "code": "ELITEJUARA",
+      "reward": 90000000
+    },
+    {
+      "code": "ELITEINDO",
+      "reward": 90000000
+    },
+    {
+      "code": "PREMIERMOTOR",
+      "reward": 90000000
+    },
+    {
+      "code": "PREMIERBALAP",
+      "reward": 90000000
+    },
+    {
+      "code": "PREMIERJOKI",
+      "reward": 90000000
+    },
+    {
+      "code": "PREMIERDRIFT",
+      "reward": 90000000
+    },
+    {
+      "code": "PREMIERMODIF",
+      "reward": 90000000
+    },
+    {
+      "code": "PREMIERCHAMP",
+      "reward": 90000000
+    },
+    {
+      "code": "PREMIERTRACK",
+      "reward": 90000000
+    },
+    {
+      "code": "PREMIERPODIUM",
+      "reward": 90000000
+    },
+    {
+      "code": "PREMIERJUARA",
+      "reward": 90000000
+    },
+    {
+      "code": "PREMIERINDO",
+      "reward": 90000000
+    },
+    {
+      "code": "APEXMOTOR",
+      "reward": 90000000
+    },
+    {
+      "code": "APEXBALAP",
+      "reward": 90000000
+    },
+    {
+      "code": "APEXJOKI",
+      "reward": 90000000
+    },
+    {
+      "code": "APEXDRIFT",
+      "reward": 90000000
+    },
+    {
+      "code": "APEXMODIF",
+      "reward": 90000000
+    },
+    {
+      "code": "APEXCHAMP",
+      "reward": 90000000
+    },
+    {
+      "code": "APEXTRACK",
+      "reward": 90000000
+    },
+    {
+      "code": "APEXPODIUM",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIELITEJUARA",
       "reward": 100000000
     },
-   {
-      "code": "MAKASIHTES",
-      "reward": 900000000
-    },
-  {
-      "code": "MAKASIHTES1",
-      "reward": 900000000
-    },
-  {
-      "code": "MAKASIHTES2",
-      "reward": 900000000
-    },
-  {
-      "code": "MAKASIHTES3",
-      "reward": 900000000
-    },
-  {
-      "code": "MAKASIHTES4",
-      "reward": 900000000
-    },
     {
-      "code": "HSIMOTORJOSS",
+      "code": "HSIAPEXPREMIER",
       "reward": 100000000
     }
   ]
