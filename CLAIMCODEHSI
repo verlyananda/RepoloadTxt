@@ -1,562 +1,483 @@
 {
   "codes": [
     {
-      "code": "PACU JANTUNG",
+      "code": "SEMBRANI",
       "reward": 90000000
     },
     {
-      "code": "PACUGAS",
+      "code": "SEMBRANIGAS",
       "reward": 90000000
     },
     {
-      "code": "PACUMOTOR",
+      "code": "SEMBRANIMOTOR",
       "reward": 90000000
     },
     {
-      "code": "PACUBALAP",
+      "code": "SEMBRANIBALAP",
       "reward": 90000000
     },
     {
-      "code": "PACUJOKI",
+      "code": "SEMBRANIJOKI",
       "reward": 90000000
     },
     {
-      "code": "PACUCHAMP",
+      "code": "SEMBRANICHAMP",
       "reward": 90000000
     },
     {
-      "code": "PACUJUARA",
+      "code": "SEMBRANIJUARA",
       "reward": 90000000
     },
     {
-      "code": "PACUPODIUM",
+      "code": "SEMBRANIPODIUM",
       "reward": 90000000
     },
     {
-      "code": "PACUTRACK",
+      "code": "SEMBRANITRACK",
       "reward": 90000000
     },
     {
-      "code": "PACUPRO",
+      "code": "SEMBRANIPRO",
       "reward": 90000000
     },
     {
-      "code": "GEBERGAS",
+      "code": "ANGIN RIBUT",
       "reward": 90000000
     },
-{
-  "codes": [
     {
-      "code": "HSIMAXDAWN500",
+      "code": "ANGINGAS",
+      "reward": 90000000
+    },
+    {
+      "code": "ANGINMOTOR",
+      "reward": 90000000
+    },
+    {
+      "code": "ANGINBALAP",
+      "reward": 90000000
+    },
+    {
+      "code": "ANGINJOKI",
+      "reward": 90000000
+    },
+    {
+      "code": "ANGINCHAMP",
+      "reward": 90000000
+    },
+    {
+      "code": "ANGINJUARA",
+      "reward": 90000000
+    },
+    {
+      "code": "ANGINPODIUM",
+      "reward": 90000000
+    },
+    {
+      "code": "ANGINTRACK",
+      "reward": 90000000
+    },
+    {
+      "code": "ANGINPRO",
+      "reward": 90000000
+    },
+    {
+      "code": "KILAUGAS",
+      "reward": 90000000
+    },
+    {
+      "code": "KILAUMOTOR",
+      "reward": 90000000
+    },
+    {
+      "code": "KILAUBALAP",
+      "reward": 90000000
+    },
+    {
+      "code": "KILAUJOKI",
+      "reward": 90000000
+    },
+    {
+      "code": "KILAUCHAMP",
+      "reward": 90000000
+    },
+    {
+      "code": "KILAUJUARA",
+      "reward": 90000000
+    },
+    {
+      "code": "KILAUPODIUM",
+      "reward": 90000000
+    },
+    {
+      "code": "KILAUTRACK",
+      "reward": 90000000
+    },
+    {
+      "code": "KILAUPRO",
+      "reward": 90000000
+    },
+    {
+      "code": "KILAUBOSS",
+      "reward": 90000000
+    },
+    {
+      "code": "GELORGAS",
+      "reward": 90000000
+    },
+    {
+      "code": "GELORMOTOR",
+      "reward": 90000000
+    },
+    {
+      "code": "GELORBALAP",
+      "reward": 90000000
+    },
+    {
+      "code": "GELORJOKI",
+      "reward": 90000000
+    },
+    {
+      "code": "GELORCHAMP",
+      "reward": 90000000
+    },
+    {
+      "code": "GELORJUARA",
+      "reward": 90000000
+    },
+    {
+      "code": "GELORPODIUM",
+      "reward": 90000000
+    },
+    {
+      "code": "GELORTRACK",
+      "reward": 90000000
+    },
+    {
+      "code": "GELORPRO",
+      "reward": 90000000
+    },
+    {
+      "code": "GELORBOSS",
+      "reward": 90000000
+    },
+    {
+      "code": "GEMPURGAS",
+      "reward": 90000000
+    },
+    {
+      "code": "GEMPURMOTOR",
+      "reward": 90000000
+    },
+    {
+      "code": "GEMPURBALAP",
+      "reward": 90000000
+    },
+    {
+      "code": "GEMPURJOKI",
+      "reward": 90000000
+    },
+    {
+      "code": "GEMPURCHAMP",
+      "reward": 90000000
+    },
+    {
+      "code": "GEMPURJUARA",
+      "reward": 90000000
+    },
+    {
+      "code": "GEMPURPODIUM",
+      "reward": 90000000
+    },
+    {
+      "code": "GEMPURTRACK",
+      "reward": 90000000
+    },
+    {
+      "code": "GEMPURPRO",
+      "reward": 90000000
+    },
+    {
+      "code": "GEMPURBOSS",
+      "reward": 90000000
+    },
+    {
+      "code": "HANTAMGAS",
+      "reward": 90000000
+    },
+    {
+      "code": "HANTAMMOTOR",
+      "reward": 90000000
+    },
+    {
+      "code": "HANTAMBALAP",
+      "reward": 90000000
+    },
+    {
+      "code": "HANTAMJOKI",
+      "reward": 90000000
+    },
+    {
+      "code": "HANTAMCHAMP",
+      "reward": 90000000
+    },
+    {
+      "code": "HANTAMJUARA",
+      "reward": 90000000
+    },
+    {
+      "code": "HANTAMPODIUM",
+      "reward": 90000000
+    },
+    {
+      "code": "HANTAMTRACK",
+      "reward": 90000000
+    },
+    {
+      "code": "HANTAMPRO",
+      "reward": 90000000
+    },
+    {
+      "code": "HANTAMBOSS",
+      "reward": 90000000
+    },
+    {
+      "code": "TERJANGGAS",
+      "reward": 90000000
+    },
+    {
+      "code": "TERJANGMOTOR",
+      "reward": 90000000
+    },
+    {
+      "code": "TERJANGBALAP",
+      "reward": 90000000
+    },
+    {
+      "code": "TERJANGOJOKI",
+      "reward": 90000000
+    },
+    {
+      "code": "TERJANGCHAMP",
+      "reward": 90000000
+    },
+    {
+      "code": "TERJANJUARA",
+      "reward": 90000000
+    },
+    {
+      "code": "TERJANGPODIUM",
+      "reward": 90000000
+    },
+    {
+      "code": "TERJANGTRACK",
+      "reward": 90000000
+    },
+    {
+      "code": "TERJANGPRO",
+      "reward": 90000000
+    },
+    {
+      "code": "TERJANGBOSS",
+      "reward": 90000000
+    },
+    {
+      "code": "SERUDUKGAS",
+      "reward": 90000000
+    },
+    {
+      "code": "SERUDUKMOTOR",
+      "reward": 90000000
+    },
+    {
+      "code": "SERUDUKBALAP",
+      "reward": 90000000
+    },
+    {
+      "code": "SERUDUKJOKI",
+      "reward": 90000000
+    },
+    {
+      "code": "SERUDUKCHAMP",
+      "reward": 90000000
+    },
+    {
+      "code": "SERUDUKJUARA",
+      "reward": 90000000
+    },
+    {
+      "code": "SERUDUKPODIUM",
+      "reward": 90000000
+    },
+    {
+      "code": "SERUDUKTRACK",
+      "reward": 90000000
+    },
+    {
+      "code": "SERUDUKPRO",
+      "reward": 90000000
+    },
+    {
+      "code": "SERUDUKBOSS",
+      "reward": 90000000
+    },
+    {
+      "code": "TEROBOSGAS",
+      "reward": 90000000
+    },
+    {
+      "code": "TEROBOSMOTOR",
+      "reward": 90000000
+    },
+    {
+      "code": "TEROBOSBALAP",
+      "reward": 90000000
+    },
+    {
+      "code": "TERBOSJOKI",
+      "reward": 90000000
+    },
+    {
+      "code": "TEROBOSCHAMP",
+      "reward": 90000000
+    },
+    {
+      "code": "TEROBOSJUARA",
+      "reward": 90000000
+    },
+    {
+      "code": "TEROBOSPODIUM",
+      "reward": 90000000
+    },
+    {
+      "code": "TEROBOSTRACK",
+      "reward": 90000000
+    },
+    {
+      "code": "TEROBOSPRO",
+      "reward": 90000000
+    },
+    {
+      "code": "TEROBOSBOSS",
+      "reward": 90000000
+    },
+    {
+      "code": "LIBSGAS",
+      "reward": 90000000
+    },
+    {
+      "code": "LIBASMOTOR",
+      "reward": 90000000
+    },
+    {
+      "code": "LIBASBALAP",
+      "reward": 90000000
+    },
+    {
+      "code": "LIBASJOKI",
+      "reward": 90000000
+    },
+    {
+      "code": "LIBASCHAMP",
+      "reward": 90000000
+    },
+    {
+      "code": "LIBASJUARA",
+      "reward": 90000000
+    },
+    {
+      "code": "LIBASPODIUM",
+      "reward": 90000000
+    },
+    {
+      "code": "LIBASTRACK",
+      "reward": 90000000
+    },
+    {
+      "code": "LIBASPRO",
+      "reward": 90000000
+    },
+    {
+      "code": "LIBASBOSS",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXSEMBRANI500",
       "reward": 500000000
     },
     {
-      "code": "HSIMAXZENITH500",
+      "code": "HSIMAXANGIN500",
       "reward": 500000000
     },
     {
-      "code": "HSIMAXCROWN500",
+      "code": "HSIMAXKILAU500",
       "reward": 500000000
     },
     {
-      "code": "HSIMAXTHUNDER500",
+      "code": "HSIMAXGELORA500",
       "reward": 500000000
     },
     {
-      "code": "HSIMAXINFERNO500",
+      "code": "HSIMAXGEMPUR500",
       "reward": 500000000
     },
     {
-      "code": "HSIMAXVORTEX500",
+      "code": "HSIMAXHANTAM500",
       "reward": 500000000
     },
     {
-      "code": "HSIMAXOBSIDIAN500",
+      "code": "HSIMAXTEROBOS500",
       "reward": 500000000
     },
     {
-      "code": "HSIMAXPHOENIX500",
+      "code": "HSIMAXSERUDUK500",
       "reward": 500000000
     },
     {
-      "code": "HSIMAXDYNASTY500",
+      "code": "HSIMAXLIBAS500",
       "reward": 500000000
     },
     {
-      "code": "HSIMAXEMPEROR500",
+      "code": "HSIMAXGEMPITA500",
       "reward": 500000000
     },
     {
-      "code": "GARUDAZENITH500",
+      "code": "GARUDASEMBRANI500",
       "reward": 500000000
     },
     {
-      "code": "GARUDACROWN500",
+      "code": "GARUDAKILAU500",
       "reward": 500000000
     },
     {
-      "code": "GARUDATHUNDER500",
+      "code": "GARUDAGELORA500",
       "reward": 500000000
     },
     {
-      "code": "GARUDAINFERNO500",
+      "code": "GARUDAGEMPUR500",
       "reward": 500000000
     },
     {
-      "code": "GARUDAPHOENIX500",
+      "code": "GARUDAHANTAM500",
       "reward": 500000000
     },
     {
-      "code": "NUSANTARACROWN500",
+      "code": "NUSANTARASEMBRANI500",
       "reward": 500000000
     },
     {
-      "code": "NUSANTARATHUNDER500",
+      "code": "NUSANTARAGEMPUR500",
       "reward": 500000000
     },
     {
-      "code": "RAJAPHOENIX500",
+      "code": "RAJASEMBRANI500",
       "reward": 500000000
     },
     {
-      "code": "INDOEMPEROR500",
-      "reward": 500000000
-    },
-  
-    {
-      "code": "GEBERMOTOR",
-      "reward": 90000000
-    },
-    {
-      "code": "GEBERBALAP",
-      "reward": 90000000
-    },
-    {
-      "code": "GEBERJOKI",
-      "reward": 90000000
-    },
-    {
-      "code": "GEBERCHAMP",
-      "reward": 90000000
-    },
-    {
-      "code": "GEBERJUARA",
-      "reward": 90000000
-    },
-    {
-      "code": "GEBERPODIUM",
-      "reward": 90000000
-    },
-    {
-      "code": "GEBERTRACK",
-      "reward": 90000000
-    },
-    {
-      "code": "GEBERPRO",
-      "reward": 90000000
-    },
-    {
-      "code": "GEBERBOSS",
-      "reward": 90000000
-    },
-    {
-      "code": "PUNCAKGAS",
-      "reward": 90000000
-    },
-    {
-      "code": "PUNCAKMOTOR",
-      "reward": 90000000
-    },
-    {
-      "code": "PUNCAKBALAP",
-      "reward": 90000000
-    },
-    {
-      "code": "PUNCAKJOKI",
-      "reward": 90000000
-    },
-    {
-      "code": "PUNCAKCHAMP",
-      "reward": 90000000
-    },
-    {
-      "code": "PUNCAKJUARA",
-      "reward": 90000000
-    },
-    {
-      "code": "PUNCAKPODIUM",
-      "reward": 90000000
-    },
-    {
-      "code": "PUNCAKTRACK",
-      "reward": 90000000
-    },
-    {
-      "code": "PUNCAKPRO",
-      "reward": 90000000
-    },
-    {
-      "code": "PUNCAKBOSS",
-      "reward": 90000000
-    },
-    {
-      "code": "TEMPOGAS",
-      "reward": 90000000
-    },
-    {
-      "code": "TEMPOMOTOR",
-      "reward": 90000000
-    },
-    {
-      "code": "TEMPOBALAP",
-      "reward": 90000000
-    },
-    {
-      "code": "TEMPOJOKI",
-      "reward": 90000000
-    },
-    {
-      "code": "TEMPOCHAMP",
-      "reward": 90000000
-    },
-    {
-      "code": "TEMPOJUARA",
-      "reward": 90000000
-    },
-    {
-      "code": "TEMPOPODIUM",
-      "reward": 90000000
-    },
-    {
-      "code": "TEMPOTRACK",
-      "reward": 90000000
-    },
-    {
-      "code": "TEMPOPRO",
-      "reward": 90000000
-    },
-    {
-      "code": "TEMPOBOSS",
-      "reward": 90000000
-    },
-    {
-      "code": "LINASGAS",
-      "reward": 90000000
-    },
-    {
-      "code": "LINASMOTOR",
-      "reward": 90000000
-    },
-    {
-      "code": "LINASBALAP",
-      "reward": 90000000
-    },
-    {
-      "code": "LINASJOKI",
-      "reward": 90000000
-    },
-    {
-      "code": "LINASCHAMP",
-      "reward": 90000000
-    },
-    {
-      "code": "LINASJUARA",
-      "reward": 90000000
-    },
-    {
-      "code": "LINASPODIUM",
-      "reward": 90000000
-    },
-    {
-      "code": "LINASTRACK",
-      "reward": 90000000
-    },
-    {
-      "code": "LINASPRO",
-      "reward": 90000000
-    },
-    {
-      "code": "LINASBOSS",
-      "reward": 90000000
-    },
-    {
-      "code": "SIKUTGAS",
-      "reward": 90000000
-    },
-    {
-      "code": "SIKUTMOTOR",
-      "reward": 90000000
-    },
-    {
-      "code": "SIKUTBALAP",
-      "reward": 90000000
-    },
-    {
-      "code": "SIKUTJOKI",
-      "reward": 90000000
-    },
-    {
-      "code": "SIKUTCHAMP",
-      "reward": 90000000
-    },
-    {
-      "code": "SIKUTJUARA",
-      "reward": 90000000
-    },
-    {
-      "code": "SIKUTPODIUM",
-      "reward": 90000000
-    },
-    {
-      "code": "SIKUTTRACK",
-      "reward": 90000000
-    },
-    {
-      "code": "SIKUTPRO",
-      "reward": 90000000
-    },
-    {
-      "code": "SIKUTBOSS",
-      "reward": 90000000
-    },
-    {
-      "code": "KOBARGAS",
-      "reward": 90000000
-    },
-    {
-      "code": "KOBARMOTOR",
-      "reward": 90000000
-    },
-    {
-      "code": "KOBARBALAP",
-      "reward": 90000000
-    },
-    {
-      "code": "KOBARJOKI",
-      "reward": 90000000
-    },
-    {
-      "code": "KOBARCHAMP",
-      "reward": 90000000
-    },
-    {
-      "code": "KOBARJUARA",
-      "reward": 90000000
-    },
-    {
-      "code": "KOBARPODIUM",
-      "reward": 90000000
-    },
-    {
-      "code": "KOBARTRACK",
-      "reward": 90000000
-    },
-    {
-      "code": "KOBARPRO",
-      "reward": 90000000
-    },
-    {
-      "code": "KOBARBOSS",
-      "reward": 90000000
-    },
-    {
-      "code": "SULUTGAS",
-      "reward": 90000000
-    },
-    {
-      "code": "SULUTMOTOR",
-      "reward": 90000000
-    },
-    {
-      "code": "SULUTBALAP",
-      "reward": 90000000
-    },
-    {
-      "code": "SULUTJOKI",
-      "reward": 90000000
-    },
-    {
-      "code": "SULUTCHAMP",
-      "reward": 90000000
-    },
-    {
-      "code": "SULUTJUARA",
-      "reward": 90000000
-    },
-    {
-      "code": "SULUTPODIUM",
-      "reward": 90000000
-    },
-    {
-      "code": "SULUTTRACK",
-      "reward": 90000000
-    },
-    {
-      "code": "SULUTPRO",
-      "reward": 90000000
-    },
-    {
-      "code": "SULUTBOSS",
-      "reward": 90000000
-    },
-    {
-      "code": "CARDASGAS",
-      "reward": 90000000
-    },
-    {
-      "code": "CARDASMOTOR",
-      "reward": 90000000
-    },
-    {
-      "code": "CARDASBALAP",
-      "reward": 90000000
-    },
-    {
-      "code": "CARDASJOKI",
-      "reward": 90000000
-    },
-    {
-      "code": "CARDASCHAMP",
-      "reward": 90000000
-    },
-    {
-      "code": "CARDASJUARA",
-      "reward": 90000000
-    },
-    {
-      "code": "CARDASPODIUM",
-      "reward": 90000000
-    },
-    {
-      "code": "CARDASTRACK",
-      "reward": 90000000
-    },
-    {
-      "code": "CARDASPRO",
-      "reward": 90000000
-    },
-    {
-      "code": "CARDASBOSS",
-      "reward": 90000000
-    },
-    {
-      "code": "LAJUKENCANG",
-      "reward": 90000000
-    },
-    {
-      "code": "LAJUPENUH",
-      "reward": 90000000
-    },
-    {
-      "code": "LAJUKILAT",
-      "reward": 90000000
-    },
-    {
-      "code": "LAJUSETAN",
-      "reward": 90000000
-    },
-    {
-      "code": "LAJUGANAS",
-      "reward": 90000000
-    },
-    {
-      "code": "LAJULIAR",
-      "reward": 90000000
-    },
-    {
-      "code": "LAJUSINTING",
-      "reward": 90000000
-    },
-    {
-      "code": "LAJUGILA",
-      "reward": 90000000
-    },
-    {
-      "code": "LAJUAJIB",
-      "reward": 90000000
-    },
-    {
-      "code": "LAJUGOKIL",
-      "reward": 90000000
-    },
-    {
-      "code": "HSIMAXPRIME500",
+      "code": "INDOGEMPUR500MAX",
       "reward": 500000000
     },
     {
-      "code": "HSIMAXFURY500",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIMAXBLAZE500",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIMAXSTORM500",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIMAXFORCE500",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIMAXWRATH500",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIMAXGLORY500",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIMAXPRIDE500",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIMAXHONOR500",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIMAXPOWER500",
-      "reward": 500000000
-    },
-    {
-      "code": "GARUDAPRIME500",
-      "reward": 500000000
-    },
-    {
-      "code": "GARUDAFURY500",
-      "reward": 500000000
-    },
-    {
-      "code": "GARUDABLAZE500",
-      "reward": 500000000
-    },
-    {
-      "code": "GARUDASTORM500",
-      "reward": 500000000
-    },
-    {
-      "code": "GARUDAFORCE500",
-      "reward": 500000000
-    },
-    {
-      "code": "NUSANTARAVIP500",
-      "reward": 500000000
-    },
-    {
-      "code": "NUSANTARAGLORY500",
-      "reward": 500000000
-    },
-    {
-      "code": "INDOPRIDE500",
-      "reward": 500000000
-    },
-    {
-      "code": "RAJABESAR500",
-      "reward": 500000000
-    },
-    {
-      "code": "JOKIRAJA500MAX",
+      "code": "MOTORINDOBERAPI500",
       "reward": 500000000
     }
   ]
