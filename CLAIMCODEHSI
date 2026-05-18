@@ -480,10 +480,11 @@
       "code": "HAMULTAH",
       "reward": 1000000000
     },
- {
+   {      
       "code": "HAMULTAH1",
       "reward": 1000000000
-    }, {
+    }, 
+    {
       "code": "HAMULTAH2",
       "reward": 1000000000
     },
