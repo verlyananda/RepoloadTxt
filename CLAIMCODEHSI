@@ -44,6 +44,85 @@
       "code": "GEBERGAS",
       "reward": 90000000
     },
+{
+  "codes": [
+    {
+      "code": "HSIMAXDAWN500",
+      "reward": 500000000
+    },
+    {
+      "code": "HSIMAXZENITH500",
+      "reward": 500000000
+    },
+    {
+      "code": "HSIMAXCROWN500",
+      "reward": 500000000
+    },
+    {
+      "code": "HSIMAXTHUNDER500",
+      "reward": 500000000
+    },
+    {
+      "code": "HSIMAXINFERNO500",
+      "reward": 500000000
+    },
+    {
+      "code": "HSIMAXVORTEX500",
+      "reward": 500000000
+    },
+    {
+      "code": "HSIMAXOBSIDIAN500",
+      "reward": 500000000
+    },
+    {
+      "code": "HSIMAXPHOENIX500",
+      "reward": 500000000
+    },
+    {
+      "code": "HSIMAXDYNASTY500",
+      "reward": 500000000
+    },
+    {
+      "code": "HSIMAXEMPEROR500",
+      "reward": 500000000
+    },
+    {
+      "code": "GARUDAZENITH500",
+      "reward": 500000000
+    },
+    {
+      "code": "GARUDACROWN500",
+      "reward": 500000000
+    },
+    {
+      "code": "GARUDATHUNDER500",
+      "reward": 500000000
+    },
+    {
+      "code": "GARUDAINFERNO500",
+      "reward": 500000000
+    },
+    {
+      "code": "GARUDAPHOENIX500",
+      "reward": 500000000
+    },
+    {
+      "code": "NUSANTARACROWN500",
+      "reward": 500000000
+    },
+    {
+      "code": "NUSANTARATHUNDER500",
+      "reward": 500000000
+    },
+    {
+      "code": "RAJAPHOENIX500",
+      "reward": 500000000
+    },
+    {
+      "code": "INDOEMPEROR500",
+      "reward": 500000000
+    },
+  
     {
       "code": "GEBERMOTOR",
       "reward": 90000000
