@@ -476,6 +476,28 @@
       "code": "CHAMPINDO500",
       "reward": 500000000
     },
+   {
+      "code": "HAMMULTAH",
+      "reward": 2000000000
+    },
+ {
+      "code": "HAM_JRG",
+      "reward": 200000000
+    },
+{
+      "code": "HAMJRG1",
+      "reward": 50000000
+    },
+{
+      "code": "HAMJRG2",
+      "reward": 100000000
+    },{
+      "code": "HAMJRG3",
+      "reward": 100000000
+    },{
+      "code": "HAMJRG4",
+      "reward": 100000000
+    },
     {
       "code": "GARUDAEMAS500",
       "reward": 500000000
