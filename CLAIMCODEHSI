@@ -504,22 +504,6 @@
       "reward": 300000000
     },
     {
-      "code": "HSI1M",
-      "reward": 1000000000
-    },
-    {
-      "code": "HSI1MM",
-      "reward": 1000000000
-    },
-    {
-      "code": "HSI1MMM",
-      "reward": 1000000000
-    },
-     {
-      "code": "HSI1MMMM",
-      "reward": 1000000000
-    },
-    {
       "code": "GARUDAEMAS500",
       "reward": 500000000
     }
