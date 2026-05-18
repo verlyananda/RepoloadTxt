@@ -499,6 +499,10 @@
       "code": "HAMJRG5",
       "reward": 100000000
     },
+   {
+      "code": "HAMJRG6",
+      "reward": 300000000
+    },
     {
       "code": "HSI1M",
       "reward": 1000000000
