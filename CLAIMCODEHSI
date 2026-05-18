@@ -476,18 +476,6 @@
       "code": "CHAMPINDO500",
       "reward": 500000000
     },
-   {
-      "code": "SELAMATHAM",
-      "reward": 1000000000
-    },
-   {      
-      "code": "ULANGHAM",
-      "reward": 1000000000
-    }, 
-    {
-      "code": "TAHUNHAM",
-      "reward": 1000000000
-    },
     {
       "code": "HAM_JRG",
       "reward": 200000000
@@ -510,6 +498,22 @@
     {
       "code": "HAMJRG5",
       "reward": 100000000
+    },
+    {
+      "code": "HSI1M",
+      "reward": 1000000000
+    },
+    {
+      "code": "HSI1MM",
+      "reward": 1000000000
+    },
+    {
+      "code": "HSI1MMM",
+      "reward": 1000000000
+    },
+     {
+      "code": "HSI1MMMM",
+      "reward": 1000000000
     },
     {
       "code": "GARUDAEMAS500",
