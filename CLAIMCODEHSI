@@ -477,8 +477,15 @@
       "reward": 500000000
     },
    {
-      "code": "HAMMULTAH",
-      "reward": 3000000000
+      "code": "HAMULTAH",
+      "reward": 1000000000
+    },
+ {
+      "code": "HAMULTAH1",
+      "reward": 1000000000
+    }, {
+      "code": "HAMULTAH2",
+      "reward": 1000000000
     },
  {
       "code": "HAM_JRG",
