@@ -28,46 +28,7 @@
       "code": "NASIGORENG",
       "reward": 90000000
     },
-    {
-      "code": "NASIUDUK",
-      "reward": 500000000
-    },
-    {
-      "code": "NASIKUCING",
-      "reward": 500000000
-    },
-    {
-      "code": "NASIBUNGKUS",
-      "reward": 500000000
-    },
-    {
-      "code": "SATEAYAM",
-      "reward": 500000000
-    },
-    {
-      "code": "SATEMADURA",
-      "reward": 500000000
-    },
-    {
-      "code": "SATEPADANG",
-      "reward": 500000000
-    },
-    {
-      "code": "SATEGEPENG",
-      "reward": 500000000
-    },
-    {
-      "code": "SATEKAMBINGG",
-      "reward": 500000000
-    },
-    {
-      "code": "SOTONGLAUT",
-      "reward": 500000000
-    },
-    {
-      "code": "SOTOAYAM",
-      "reward": 500000000
-    },
+    
     {
       "code": "SOTOBETAWI",
       "reward": 90000000
@@ -392,90 +353,7 @@
       "code": "FILTEROILRX",
       "reward": 90000000
     },
-    {
-      "code": "FILTERBENSINRX",
-      "reward": 90000000
-    },
-    {
-      "code": "FILTERRACINGJOSS",
-      "reward": 90000000
-    },
-    {
-      "code": "RENDANG500VIP",
-      "reward": 500000000
-    },
-    {
-      "code": "SATEJUARA500",
-      "reward": 500000000
-    },
-    {
-      "code": "BAKSOLEGEND500",
-      "reward": 500000000
-    },
-    {
-      "code": "RAWONMASTER500",
-      "reward": 500000000
-    },
-    {
-      "code": "NASIPADANG500",
-      "reward": 500000000
-    },
-    {
-      "code": "BENGKELSAKTI500",
-      "reward": 500000000
-    },
-    {
-      "code": "BENGKELJUARA500",
-      "reward": 500000000
-    },
-    {
-      "code": "MONTIRLEGEND500",
-      "reward": 500000000
-    },
-    {
-      "code": "SERVISMASTER500",
-      "reward": 500000000
-    },
-    {
-      "code": "SPAREINDOVIP500",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIMAXRENDANG500",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIMAXBAKSO500",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIMAXSATE500",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIMAXRAWON500",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIMAXBENGKEL500",
-      "reward": 500000000
-    },
-    {
-      "code": "GARUDARENDANG500",
-      "reward": 500000000
-    },
-    {
-      "code": "GARUDABENGKEL500",
-      "reward": 500000000
-    },
-    {
-      "code": "NUSANTARASATE500",
-      "reward": 500000000
-    },
-    {
-      "code": "INDOFOODMOTOR500",
-      "reward": 500000000
-    },
+  
     {
       "code": "RAJAOTOMOTIF500",
       "reward": 500000000
