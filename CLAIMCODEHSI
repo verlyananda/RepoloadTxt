@@ -1,361 +1,483 @@
 {
   "codes": [
     {
-      "code": "RENDANGGAS",
+      "code": "TEMPEGORENG",
       "reward": 90000000
     },
     {
-      "code": "RENDANGMOTOR",
+      "code": "TEMPEBACEM",
       "reward": 90000000
     },
     {
-      "code": "RENDANGBALAP",
+      "code": "TEMPEOREK",
       "reward": 90000000
     },
     {
-      "code": "RENDANGJOKI",
+      "code": "TEMPEMENDOAN",
       "reward": 90000000
     },
     {
-      "code": "RENDANGCHAMP",
+      "code": "TEMPEKRISPI",
       "reward": 90000000
     },
     {
-      "code": "NASIPADANG",
+      "code": "TOFUGORENG",
       "reward": 90000000
     },
     {
-      "code": "NASIGORENG",
+      "code": "TOFUBACEM",
       "reward": 90000000
     },
-    
     {
-      "code": "SOTOBETAWI",
+      "code": "TOFUPEDAS",
       "reward": 90000000
     },
     {
-      "code": "SOTOLAMONGAN",
+      "code": "TOFUKRISPY",
       "reward": 90000000
     },
     {
-      "code": "SOTOMADURA",
+      "code": "TOFUSAUS",
       "reward": 90000000
     },
     {
-      "code": "BAKSOMALANG",
+      "code": "LONTONGBALAP",
       "reward": 90000000
     },
     {
-      "code": "BAKSOONO",
+      "code": "LONTONGOPOR",
       "reward": 90000000
     },
     {
-      "code": "BAKSOAFUNG",
+      "code": "LONTONGKARI",
       "reward": 90000000
     },
     {
-      "code": "BAKSOBONDAN",
+      "code": "LONTONGSAYUR",
       "reward": 90000000
     },
     {
-      "code": "BAKSOPANAS",
+      "code": "LONTONGCAP",
       "reward": 90000000
     },
     {
-      "code": "MIAYAM",
+      "code": "KETOPRAKINDO",
       "reward": 90000000
     },
     {
-      "code": "MIASIN",
+      "code": "KETOPRAKBETAWI",
       "reward": 90000000
     },
     {
-      "code": "MIGORENG",
+      "code": "KETOPRAKPEDAS",
       "reward": 90000000
     },
     {
-      "code": "MIBANDUNG",
+      "code": "KETOPRAKJKT",
       "reward": 90000000
     },
     {
-      "code": "MIOJO",
+      "code": "KETOPRAKSPECIAL",
       "reward": 90000000
     },
     {
-      "code": "GADOINDO",
+      "code": "KUPATKUAH",
       "reward": 90000000
     },
     {
-      "code": "GADOBETAWI",
+      "code": "KUPATTAHU",
       "reward": 90000000
     },
     {
-      "code": "GADOGADO",
+      "code": "KUPATSAYUR",
       "reward": 90000000
     },
     {
-      "code": "GADOSEGAR",
+      "code": "KUPATKARI",
       "reward": 90000000
     },
     {
-      "code": "GADOPEDAS",
+      "code": "KUPATEGURIH",
       "reward": 90000000
     },
     {
-      "code": "PECELMADIUN",
+      "code": "PEMPEKINDO",
       "reward": 90000000
     },
     {
-      "code": "PECELBLITAR",
+      "code": "PEMPEKPALEMBANG",
       "reward": 90000000
     },
     {
-      "code": "PECELLELE",
+      "code": "PEMPEKKAPAL",
       "reward": 90000000
     },
     {
-      "code": "PECELAYAM",
+      "code": "PEMPEKLENGGANG",
       "reward": 90000000
     },
     {
-      "code": "PECELPEDAS",
+      "code": "PEMPEKADAAN",
       "reward": 90000000
     },
     {
-      "code": "RAWONSURABAYA",
+      "code": "GUDEGJOGJAA",
       "reward": 90000000
     },
     {
-      "code": "RAWONHITAM",
+      "code": "GUDEGBASAH",
       "reward": 90000000
     },
     {
-      "code": "RAWONPEDAS",
+      "code": "GUDEGKERING",
       "reward": 90000000
     },
     {
-      "code": "RAWONSEGAR",
+      "code": "GUDEGKANGKUNG",
       "reward": 90000000
     },
     {
-      "code": "RAWONISTIMEWA",
+      "code": "GUDEGISTIMEWA",
       "reward": 90000000
     },
     {
-      "code": "OPORBAYAM",
+      "code": "CINGORENG",
       "reward": 90000000
     },
     {
-      "code": "OPORLEBARAN",
+      "code": "CINGORENGMANIS",
       "reward": 90000000
     },
     {
-      "code": "OPORGURIH",
+      "code": "CINGORENGSAOS",
       "reward": 90000000
     },
     {
-      "code": "OPORSANTAN",
+      "code": "CINGORENGBALADO",
       "reward": 90000000
     },
     {
-      "code": "OPORENAK",
+      "code": "CINGORENGKRISPY",
       "reward": 90000000
     },
     {
-      "code": "BENGKELSAKTI",
+      "code": "AYAMGEPREK",
       "reward": 90000000
     },
     {
-      "code": "BENGKELJOSS",
+      "code": "AYAMPENYET",
       "reward": 90000000
     },
     {
-      "code": "BENGKELCEPAT",
+      "code": "AYAMBAKAR",
       "reward": 90000000
     },
     {
-      "code": "BENGKELPRO",
+      "code": "AYAMGORENG",
       "reward": 90000000
     },
     {
-      "code": "BENGKELKILAT",
+      "code": "AYAMKRISPY",
       "reward": 90000000
     },
     {
-      "code": "BENGKELJEMPOL",
+      "code": "BEBEKGORENG",
       "reward": 90000000
     },
     {
-      "code": "BENGKELGAHAR",
+      "code": "BEBEKSINJAY",
       "reward": 90000000
     },
     {
-      "code": "BENGKELHANDAL",
+      "code": "BEBEKLENGKENG",
       "reward": 90000000
     },
     {
-      "code": "BENGKELMEKANIK",
+      "code": "BEBEKSANTAN",
       "reward": 90000000
     },
     {
-      "code": "BENGKELMOTOR",
+      "code": "BEBEKBETUTU",
       "reward": 90000000
     },
     {
-      "code": "MONTIRJAGO",
+      "code": "TAMBALBANGAS",
       "reward": 90000000
     },
     {
-      "code": "MONTIRSIPRO",
+      "code": "TAMBALBANPRO",
       "reward": 90000000
     },
     {
-      "code": "MONTIRHANDAL",
+      "code": "TAMBALBANKILAT",
       "reward": 90000000
     },
     {
-      "code": "MONTIRCEPAT",
+      "code": "TAMBALBANHANDAL",
       "reward": 90000000
     },
     {
-      "code": "MONTIRGAHAR",
+      "code": "TAMBALBANJOSS",
       "reward": 90000000
     },
     {
-      "code": "TUNGUMOTOR",
+      "code": "CUCIMOTOR88",
       "reward": 90000000
     },
     {
-      "code": "TUNGUSEPEDA",
+      "code": "CUCIMOTORPRO",
       "reward": 90000000
     },
     {
-      "code": "TUNGUBALAP",
+      "code": "CUCIMOTORKILAT",
       "reward": 90000000
     },
     {
-      "code": "TUNGUPRO",
+      "code": "CUCIMOTORJOSS",
       "reward": 90000000
     },
     {
-      "code": "TUNGUJOSS",
+      "code": "CUCIMOTORHANDAL",
       "reward": 90000000
     },
     {
-      "code": "SERVISJOSS",
+      "code": "GANTIRANTAI",
       "reward": 90000000
     },
     {
-      "code": "SERVISCEPAT",
+      "code": "GANTISPROKET",
       "reward": 90000000
     },
     {
-      "code": "SERVISPRO",
+      "code": "GANTIKNALPOT",
       "reward": 90000000
     },
     {
-      "code": "SERVISHANDAL",
+      "code": "GANTIVELG",
       "reward": 90000000
     },
     {
-      "code": "SERVISKILAT",
+      "code": "GANTIKOPLING",
       "reward": 90000000
     },
     {
-      "code": "SPAREINDO",
+      "code": "GANTISHOCK",
       "reward": 90000000
     },
     {
-      "code": "SPAREJOSS",
+      "code": "GANTIREM",
       "reward": 90000000
     },
     {
-      "code": "SPAREPRO",
+      "code": "GANTIBUSI",
       "reward": 90000000
     },
     {
-      "code": "SPAREHANDAL",
+      "code": "GANTISEHER",
       "reward": 90000000
     },
     {
-      "code": "SPAREKILAT",
+      "code": "GANTILAHER",
       "reward": 90000000
     },
     {
-      "code": "KUNCISAKTI",
+      "code": "STELKLEPGAS",
       "reward": 90000000
     },
     {
-      "code": "KUNCIJOSS",
+      "code": "STELKLEPPRO",
       "reward": 90000000
     },
     {
-      "code": "KUNCIPRO",
+      "code": "STELKLEPKILAT",
       "reward": 90000000
     },
     {
-      "code": "KUNCIHANDAL",
+      "code": "STELKLEPJOSS",
       "reward": 90000000
     },
     {
-      "code": "KUNCIKILAT",
+      "code": "STELKLEPHANDAL",
       "reward": 90000000
     },
     {
-      "code": "DONGKRAKJOSS",
+      "code": "SETTINGKARBU",
       "reward": 90000000
     },
     {
-      "code": "DONGKRAKPRO",
+      "code": "SETTINGCDI",
       "reward": 90000000
     },
     {
-      "code": "DONGKRAKHANDAL",
+      "code": "SETTINGKLEP",
       "reward": 90000000
     },
     {
-      "code": "DONGKRAKKILAT",
+      "code": "SETTINGREM",
       "reward": 90000000
     },
     {
-      "code": "DONGKRAKSAKTI",
+      "code": "SETTINGSHOCK",
       "reward": 90000000
     },
     {
-      "code": "OLIRACINGINDO",
+      "code": "MODIFKNALPOT",
       "reward": 90000000
     },
     {
-      "code": "OLISYNTHETIC",
+      "code": "MODIFVELG",
       "reward": 90000000
     },
     {
-      "code": "OLIMOTUL",
+      "code": "MODIFSTANG",
       "reward": 90000000
     },
     {
-      "code": "OLICASTROL",
+      "code": "MODIFJOK",
       "reward": 90000000
     },
     {
-      "code": "OLISHELL",
+      "code": "MODIFCAT",
       "reward": 90000000
     },
     {
-      "code": "FILTERRACINGX",
+      "code": "MODIFLAMPU",
       "reward": 90000000
     },
     {
-      "code": "FILTERUDARARX",
+      "code": "MODIFSPION",
       "reward": 90000000
     },
     {
-      "code": "FILTEROILRX",
+      "code": "MODIFREM",
       "reward": 90000000
     },
-  
     {
-      "code": "RAJAOTOMOTIF500",
+      "code": "MODIFKOPLING",
+      "reward": 90000000
+    },
+    {
+      "code": "MODIFBAN",
+      "reward": 90000000
+    },
+    {
+      "code": "GARASIINDO",
+      "reward": 90000000
+    },
+    {
+      "code": "GARASIJAGO",
+      "reward": 90000000
+    },
+    {
+      "code": "GARASIPRO",
+      "reward": 90000000
+    },
+    {
+      "code": "GARASIJOSS",
+      "reward": 90000000
+    },
+    {
+      "code": "GARASISAKTI",
+      "reward": 90000000
+    },
+    {
+      "code": "GARASIJEMPOL",
+      "reward": 90000000
+    },
+    {
+      "code": "GARASIHANDAL",
+      "reward": 90000000
+    },
+    {
+      "code": "GARASIKILAT",
+      "reward": 90000000
+    },
+    {
+      "code": "GARASIBOSS",
+      "reward": 90000000
+    },
+    {
+      "code": "GARASICHAMP",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMAXGUDEG500",
+      "reward": 500000000
+    },
+    {
+      "code": "HSIMAXPEMPEK500",
+      "reward": 500000000
+    },
+    {
+      "code": "HSIMAXAYAMGEPREK500",
+      "reward": 500000000
+    },
+    {
+      "code": "HSIMAXLONTONG500",
+      "reward": 500000000
+    },
+    {
+      "code": "HSIMAXTEMPE500",
+      "reward": 500000000
+    },
+    {
+      "code": "HSIMAXBEBEK500",
+      "reward": 500000000
+    },
+    {
+      "code": "HSIMAXGANTI500",
+      "reward": 500000000
+    },
+    {
+      "code": "HSIMAXSETTING500",
+      "reward": 500000000
+    },
+    {
+      "code": "HSIMAXMODIF500",
+      "reward": 500000000
+    },
+    {
+      "code": "HSIMAXGARASI500",
+      "reward": 500000000
+    },
+    {
+      "code": "GARUDALONTONG500",
+      "reward": 500000000
+    },
+    {
+      "code": "GARUDAGUDEG500",
+      "reward": 500000000
+    },
+    {
+      "code": "GARUDAPEMPEK500",
+      "reward": 500000000
+    },
+    {
+      "code": "GARUDAMODIF500",
+      "reward": 500000000
+    },
+    {
+      "code": "GARUDAGARASI500",
+      "reward": 500000000
+    },
+    {
+      "code": "NUSANTARAGUDEG500",
+      "reward": 500000000
+    },
+    {
+      "code": "NUSANTARAPEMPEK500",
+      "reward": 500000000
+    },
+    {
+      "code": "RAJAMODIF500MAX",
+      "reward": 500000000
+    },
+    {
+      "code": "INDOGUDEGMOTOR500",
+      "reward": 500000000
+    },
+    {
+      "code": "BENGKELMAKMUR500",
       "reward": 500000000
     }
   ]
