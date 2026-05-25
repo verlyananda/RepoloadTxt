@@ -465,6 +465,22 @@
       "reward": 500000000
     },
     {
+      "code": "WHSINDO",
+      "reward": 100000000
+    },
+    {
+      "code": "BMXLIVEHSI",
+      "reward": 100000000
+    },
+    {
+      "code": "BMXLIVEHSI1",
+      "reward": 100000000
+    },
+    {
+      "code": "BMXLIVEHSI2",
+      "reward": 100000000
+    },
+    {
       "code": "HSIBUBURHIJO",
       "reward": 500000000
     }
