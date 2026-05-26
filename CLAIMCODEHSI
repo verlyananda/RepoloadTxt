@@ -1,324 +1,484 @@
 {
   "codes": [
     {
-      "code": "HSIMESSI",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIRONALDO",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIBRASIL",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIMARSELINO",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIGELORA",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIGARUDAMUDA",
-      "reward": 500000000
-    },
-    {
-      "code": "HSISHINTET",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIPERSEBAYA",
+      "code": "HSIPELE",
       "reward": 90000000
     },
     {
-      "code": "HSIPERSIJA",
+      "code": "HSIMARADONA",
       "reward": 90000000
     },
     {
-      "code": "HSIASEANZONE",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIMESSITUJU",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIUSAMEXICO",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIPREMIERXX",
-      "reward": 500000000
-    },
-    {
-      "code": "HSISPANYOL",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIMANCITY",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIZIDANE",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIBERNABEU",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIDRIBBLE",
+      "code": "HSICRUYFF",
       "reward": 90000000
     },
     {
-      "code": "HSIMIKAHMERAH",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIGOALKEEPER",
+      "code": "HSIZIDAN",
       "reward": 90000000
     },
     {
-      "code": "HSIMARQXX",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIVALEROSSI",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIMANDALIKAXX",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIHONDAXX",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIPECOBAGXX",
+      "code": "HSIRONALDONAZ",
       "reward": 90000000
     },
     {
-      "code": "HSICC1000",
+      "code": "HSIJUVENTUS",
       "reward": 90000000
     },
     {
-      "code": "HSIFABIOXX",
+      "code": "HSILIVERPOOL",
       "reward": 90000000
     },
     {
-      "code": "HSIDUCATIXX",
+      "code": "HSIBARCAINDO",
       "reward": 90000000
     },
     {
-      "code": "HSIMUGELLO",
+      "code": "HSIBECKHAM",
       "reward": 90000000
     },
     {
-      "code": "HSIMONSTER",
+      "code": "HSIARGENTINAJ",
       "reward": 90000000
     },
     {
-      "code": "HSIIRKHAM",
+      "code": "HSISALAH",
       "reward": 90000000
     },
     {
-      "code": "HSIGALANG",
+      "code": "HSIHAALAND",
       "reward": 90000000
     },
     {
-      "code": "HSIMICHELIN",
+      "code": "HSILEWANDOSKI",
       "reward": 90000000
     },
     {
-      "code": "HSITRACTION",
+      "code": "HSIBAYERN",
       "reward": 90000000
     },
     {
-      "code": "HSIALEIX",
+      "code": "HSIVANDIJK",
       "reward": 90000000
     },
     {
-      "code": "HSIJEREZ",
+      "code": "HSICR7JUARA",
       "reward": 90000000
     },
     {
-      "code": "HSIYAMAHAXX",
+      "code": "HSIACMILAN",
       "reward": 90000000
     },
     {
-      "code": "HSIFLAGKOTAK",
+      "code": "HSILIGA1INDO",
       "reward": 90000000
     },
     {
-      "code": "HSIPOLPOS",
+      "code": "HSIVERDONK",
       "reward": 90000000
     },
     {
-      "code": "HSIDUALAP",
+      "code": "HSIWITAN",
       "reward": 90000000
     },
     {
-      "code": "HSISUKARNO",
+      "code": "HSIJORGE",
       "reward": 90000000
     },
     {
-      "code": "HSISEPTBELAS",
+      "code": "HSIKTMRACING",
       "reward": 90000000
     },
     {
-      "code": "HSIJAKARTAXX",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIBAHASAINDO",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIINDONESIARAY",
+      "code": "HSIBESTIA",
       "reward": 90000000
     },
     {
-      "code": "HSIRUPIAH",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIGARU DAPANCA",
+      "code": "HSIASSEN",
       "reward": 90000000
     },
     {
-      "code": "HSIBHINNEKA",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIRIBUPULAU",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIISLAM",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIGUNUNGSEMERU",
+      "code": "HSISILVERSTONE",
       "reward": 90000000
     },
     {
-      "code": "HSIKAPUASINDO",
+      "code": "HSIAPRILIA",
       "reward": 90000000
     },
     {
-      "code": "HSIACEH",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIBALIINDO",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIJAIPONGXX",
+      "code": "HSICASEY",
       "reward": 90000000
     },
     {
-      "code": "HSIKARTINI",
+      "code": "HSIBRNO",
       "reward": 90000000
     },
     {
-      "code": "HSISUNDA",
+      "code": "HSILORENZO",
       "reward": 90000000
     },
     {
-      "code": "HSIBATIKJAWA",
-      "reward": 500000000
-    },
-    {
-      "code": "HSISURAMADUX",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIMELATIINDO",
+      "code": "HSIANTIWHEELY",
       "reward": 90000000
     },
     {
-      "code": "HSIKELIMUTUX",
+      "code": "HSICOTAAUSTIN",
       "reward": 90000000
     },
     {
-      "code": "HSIJOGLOINDO",
+      "code": "HSIMAVERICK",
       "reward": 90000000
     },
     {
-      "code": "HSIHARIMAUSUM",
+      "code": "HSISPRINTRACE",
       "reward": 90000000
     },
     {
-      "code": "HSIMERDEKA45",
+      "code": "HSIMOTO3JR",
       "reward": 90000000
     },
     {
-      "code": "HSIWAYANGKULIT",
+      "code": "HSILOSAILX",
       "reward": 90000000
     },
     {
-      "code": "HSIHINDIA",
+      "code": "HSIAGV",
       "reward": 90000000
     },
     {
-      "code": "HSIPEGANGSAN",
+      "code": "HSIDOOHAN",
       "reward": 90000000
     },
     {
-      "code": "HSIDAYAK",
+      "code": "HSIFIMLAW",
       "reward": 90000000
     },
     {
-      "code": "HSICAPING",
+      "code": "HSIMISANO",
       "reward": 90000000
     },
     {
-      "code": "HSIBANDUNGXX",
-      "reward": 500000000
-    },
-    {
-      "code": "HSIRIAUINDO",
+      "code": "HSIMARIOAJI",
       "reward": 90000000
     },
     {
-      "code": "HSIDIPONEGOROIND",
+      "code": "HSISUHARTO",
       "reward": 90000000
     },
     {
-      "code": "HSIJOGJAXXX",
+      "code": "HSIMEGAWATI",
       "reward": 90000000
     },
     {
-      "code": "HSIJAWAXX",
+      "code": "HSIKALBAR",
       "reward": 90000000
     },
     {
-      "code": "HSITANJUNGPRIOK",
+      "code": "HSISUMATERAX",
       "reward": 90000000
     },
     {
-      "code": "HSIBNIXXX",
+      "code": "HSILAMPUNG",
       "reward": 90000000
     },
     {
-      "code": "HSISOEKARNOHATTA",
+      "code": "HSISURABAYAX",
       "reward": 90000000
     },
     {
-      "code": "HSINKRI",
+      "code": "HSISELATBALIX",
       "reward": 90000000
     },
     {
-      "code": "HSILIMAXSILA",
+      "code": "HSIMONASJKT",
       "reward": 90000000
     },
     {
-      "code": "HSIMERAHPUTIH",
-      "reward": 500000000
+      "code": "HSIJAWABARAT",
+      "reward": 90000000
+    },
+    {
+      "code": "HSISOLOXKOTA",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIDIPONEGORO",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIHATTA",
+      "reward": 90000000
+    },
+    {
+      "code": "HSISUNDAINDO",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIBALIASLI",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIJAMBIPROV",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIBLITARKOTA",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIPUNCAKBOGOR",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIPAPUAMINE",
+      "reward": 90000000
+    },
+    {
+      "code": "HSITNIAL",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIANOAINDO",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMEDANINDO",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIPAPUASEL",
+      "reward": 90000000
+    },
+    {
+      "code": "HSINELAYAN",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIJUNISATU",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIIWANFALS",
+      "reward": 90000000
+    },
+    {
+      "code": "HSILAWARBALI",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIKACANG",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIARSIKBATAK",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIKUECUBIT",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIBATAGORBDG",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIESDOGER",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIESDOGERBDG",
+      "reward": 90000000
+    },
+    {
+      "code": "HSITIMLOSOLO",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIBAKPIA",
+      "reward": 90000000
+    },
+    {
+      "code": "HSISERUITLP",
+      "reward": 90000000
+    },
+    {
+      "code": "HSISOTOBANJAR",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIGULEKARIAC",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIPEMPEKKAPALSL",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIPISKEPOK",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIKUELAPIS",
+      "reward": 90000000
+    },
+    {
+      "code": "HSITONGSENGJT",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIBAKMIEPNK",
+      "reward": 90000000
+    },
+    {
+      "code": "HSILEMPRJW",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIWEDANGRONDE",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIRAMBAKSBY",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIKUPATTAHU",
+      "reward": 90000000
+    },
+    {
+      "code": "HSISATEKLATAK",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIBETUTUAYAM",
+      "reward": 90000000
+    },
+    {
+      "code": "HSISOTOMADURAJ",
+      "reward": 90000000
+    },
+    {
+      "code": "HSILEMANGPADANG",
+      "reward": 90000000
+    },
+    {
+      "code": "HSISUMBA",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMINANGKAB",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIRATOH",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIGADANG",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMENTAWAI",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIUDENGBALI",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIPERESEAN",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIKARIH",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIPATUDDUH",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIBAJUCELE",
+      "reward": 90000000
+    },
+    {
+      "code": "HSITAMBUR",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIKANCETLEDO",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMANDAU",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIBETANG",
+      "reward": 90000000
+    },
+    {
+      "code": "HSISASANDO",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIULEEBALANG",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIPIRINGMLK",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIBADIKBUGIS",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIKAILI",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIGALUNGAN",
+      "reward": 90000000
+    },
+    {
+      "code": "HSINYEPIBALI",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMALUKUPALA",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIDANI",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIBANJARKAL",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIBANDA",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIHONAI",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIEBEGBNYM",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIMENTAWAIFEST",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIBARAKAS",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIFAHOMBO",
+      "reward": 90000000
     }
   ]
 }
