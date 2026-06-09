@@ -1,31 +1,123 @@
 {
   "codes": [
     {
-      "code": "HSIVEGAR",
+      "code": "HSIBERUANG",
       "reward": 90000000
     },
     {
-      "code": "HSIF1ZRACER",
+      "code": "HSIDURIANY",
       "reward": 90000000
     },
     {
-      "code": "HSISUPRA100",
+      "code": "HSIBAWANG",
       "reward": 90000000
     },
     {
-      "code": "HSISUPRA125",
+      "code": "HSIKUDAJTR",
       "reward": 90000000
     },
     {
-      "code": "HSISUPRAX125PGM",
+      "code": "HSIBUNGLON",
       "reward": 90000000
     },
     {
-      "code": "HSIBLADE",
+      "code": "HSIMEJAGAS",
       "reward": 90000000
     },
     {
-      "code": "HSIKARISMA",
+      "code": "HSIBEBEKMA",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIIKANY",
+      "reward": 90000000
+    },
+    {
+      "code": "HSILIFTGED",
+      "reward": 90000000
+    },
+    {
+      "code": "HSITUPAI",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIJAMDINDIN",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIBURUNGB",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIHUJANGE",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIKURAKURA",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIESBUAHJ",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIKIPASANG",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIAYAMBE",
+      "reward": 90000000
+    },
+    {
+      "code": "HSITANGGAL",
+      "reward": 90000000
+    },
+    {
+      "code": "HSINYAMUKK",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIESKRIMH",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIUNTAGAS",
+      "reward": 90000000
+    },
+    {
+      "code": "HSINANGKA",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIBEBEKBE",
+      "reward": 90000000
+    },
+    {
+      "code": "HSISISIRRA",
+      "reward": 90000000
+    },
+    {
+      "code": "HSICITAH",
+      "reward": 90000000
+    },
+    {
+      "code": "HSINENASS",
+      "reward": 90000000
+    },
+    {
+      "code": "HSISEMUTKR",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIPAPANTL",
+      "reward": 90000000
+    },
+    {
+      "code": "HSIJERAPAH",
+      "reward": 90000000
+    },
+    {
+      "code": "HSISEMANGKAS",
       "reward": 90000000
     },
     {
@@ -33,451 +125,359 @@
       "reward": 90000000
     },
     {
-      "code": "HSIJUPITERZ1",
+      "code": "HSIMERKURIUS",
       "reward": 90000000
     },
     {
-      "code": "HSIJUPITERMX",
+      "code": "HSIPROXIMA",
       "reward": 90000000
     },
     {
-      "code": "HSIMX135",
+      "code": "HSIPAUS",
       "reward": 90000000
     },
     {
-      "code": "HSISATRIAFU150",
+      "code": "HSIPLUTONIUM",
       "reward": 90000000
     },
     {
-      "code": "HSISMASH",
+      "code": "HSIHIDROGEN",
       "reward": 90000000
     },
     {
-      "code": "HSISHOGUN110",
+      "code": "HSIOKSIGEN",
       "reward": 90000000
     },
     {
-      "code": "HSISHOGUN125",
+      "code": "HSISAILFISH",
       "reward": 90000000
     },
     {
-      "code": "HSIATHLETE",
+      "code": "HSIEVEREST",
       "reward": 90000000
     },
     {
-      "code": "HSIMEGAPRO160",
+      "code": "HSIMARIANA",
       "reward": 90000000
     },
     {
-      "code": "HSIHONDATIGER",
+      "code": "HSINILSUNGAI",
       "reward": 90000000
     },
     {
-      "code": "HSIASTREAGRD",
+      "code": "HSISAHARA",
       "reward": 90000000
     },
     {
-      "code": "HSICRYPTON",
+      "code": "HSIAMAZON",
       "reward": 90000000
     },
     {
-      "code": "HSIRCSPRINTR",
+      "code": "HSIVATIKAN",
       "reward": 90000000
     },
     {
-      "code": "HSITORNADOSZK",
+      "code": "HSIBIRUPAUS",
       "reward": 90000000
     },
     {
-      "code": "HSIHONDAWIN",
+      "code": "HSIRAJAWALI",
       "reward": 90000000
     },
     {
-      "code": "HSIFORCEONE",
+      "code": "HSIBUAYA",
       "reward": 90000000
     },
     {
-      "code": "HSIZX130",
+      "code": "HSISEQUOIA",
       "reward": 90000000
     },
     {
-      "code": "HSIMIOSMILE",
+      "code": "HSIBIMASAKTI",
       "reward": 90000000
     },
     {
-      "code": "HSIMIOM3",
+      "code": "HSIBULAN",
       "reward": 90000000
     },
     {
-      "code": "HSIMIOZ",
+      "code": "HSIEDISON",
       "reward": 90000000
     },
     {
-      "code": "HSISOULGT",
+      "code": "HSIBELLALEX",
       "reward": 90000000
     },
     {
-      "code": "HSIXRIDE",
+      "code": "HSINEWTON",
       "reward": 90000000
     },
     {
-      "code": "HSIFINO",
+      "code": "HSIEINSTEIN",
       "reward": 90000000
     },
     {
-      "code": "HSINOUVO",
+      "code": "HSISALK",
       "reward": 90000000
     },
     {
-      "code": "HSIVARIOPGM",
+      "code": "HSITOKYOJP",
       "reward": 90000000
     },
     {
-      "code": "HSIVARIO110",
+      "code": "HSISEOULKR",
       "reward": 90000000
     },
     {
-      "code": "HSIVARIO150",
+      "code": "HSILONDONUK",
       "reward": 90000000
     },
     {
-      "code": "HSIVARIO160",
+      "code": "HSIPARIS",
       "reward": 90000000
     },
     {
-      "code": "HSIBEAT",
+      "code": "HSIWASHINGTON",
       "reward": 90000000
     },
     {
-      "code": "HSIBEATSPORT",
+      "code": "HSICANBERRA",
       "reward": 90000000
     },
     {
-      "code": "HSISPACY",
+      "code": "HSIKAIRO",
       "reward": 90000000
     },
     {
-      "code": "HSIGENIO",
+      "code": "HSIROMA",
       "reward": 90000000
     },
     {
-      "code": "HSIVARIOTECHNO",
+      "code": "HSIBERLINGER",
       "reward": 90000000
     },
     {
-      "code": "HSISKYDRIVE",
+      "code": "HSIPRANCISN",
       "reward": 90000000
     },
     {
-      "code": "HSISUZUKINEX",
+      "code": "HSIINGGRIS",
       "reward": 90000000
     },
     {
-      "code": "HSIADDRESS",
+      "code": "HSIAMERIKAA",
       "reward": 90000000
     },
     {
-      "code": "HSILEXISTANDR",
+      "code": "HSICHINANEG",
       "reward": 90000000
     },
     {
-      "code": "HSIFILANOCS",
+      "code": "HSIUKLONDON",
       "reward": 90000000
     },
     {
-      "code": "HSIFAZZIOSP",
+      "code": "HSIITALIANEG",
       "reward": 90000000
     },
     {
-      "code": "HSIFREEGOSP",
+      "code": "HSISAUDIARABIA",
       "reward": 90000000
     },
     {
-      "code": "HSIPCX150",
+      "code": "HSIMESIR",
       "reward": 90000000
     },
     {
-      "code": "HSISTYLO",
+      "code": "HSIBRASILK",
       "reward": 90000000
     },
     {
-      "code": "HSIRXKING135",
+      "code": "HSIITALIPS",
       "reward": 90000000
     },
     {
-      "code": "HSIVIXION150",
+      "code": "HSISWISS",
       "reward": 90000000
     },
     {
-      "code": "HSIVIXIONVVA",
+      "code": "HSIASIA",
       "reward": 90000000
     },
     {
-      "code": "HSIBYSON",
+      "code": "HSIAUSTRALIA",
       "reward": 90000000
     },
     {
-      "code": "HSIR15V1",
+      "code": "HSIANTARKTIKA",
       "reward": 90000000
     },
     {
-      "code": "HSIR15V3",
+      "code": "HSIPASIFIK",
       "reward": 90000000
     },
     {
-      "code": "HSIR25SPORT",
+      "code": "HSIPASIFIKD",
       "reward": 90000000
     },
     {
-      "code": "HSIMT25NAKED",
+      "code": "HSINARUTO",
       "reward": 90000000
     },
     {
-      "code": "HSIXSR155SP",
+      "code": "HSILUFFY",
       "reward": 90000000
     },
     {
-      "code": "HSIWR155SP",
+      "code": "HSICONAN",
       "reward": 90000000
     },
     {
-      "code": "HSIVERZA",
+      "code": "HSIDORAEMON",
       "reward": 90000000
     },
     {
-      "code": "HSICBR150",
+      "code": "HSIICHIGO",
       "reward": 90000000
     },
     {
-      "code": "HSICBR250RR",
+      "code": "HSIEDWARD",
       "reward": 90000000
     },
     {
-      "code": "HSICB150R",
+      "code": "HSIIZUKU",
       "reward": 90000000
     },
     {
-      "code": "HSISONIC",
+      "code": "HSITANJIRO",
       "reward": 90000000
     },
     {
-      "code": "HSISATRIA",
+      "code": "HSIEREN",
       "reward": 90000000
     },
     {
-      "code": "HSIGSXR",
+      "code": "HSIGOKU",
       "reward": 90000000
     },
     {
-      "code": "HSIGSXS",
+      "code": "HSIBOBOIBOI",
       "reward": 90000000
     },
     {
-      "code": "HSININJAZX",
+      "code": "HSIUPINIPIN",
       "reward": 90000000
     },
     {
-      "code": "HSININJAR",
+      "code": "HSIKAKASHI",
       "reward": 90000000
     },
     {
-      "code": "HSIZ250",
+      "code": "HSISASUKE",
       "reward": 90000000
     },
     {
-      "code": "HSIKLXTR",
+      "code": "HSIONEPIECE",
       "reward": 90000000
     },
     {
-      "code": "HSIDTRACKER",
+      "code": "HSIBANG SURYA",
       "reward": 90000000
     },
     {
-      "code": "HSICRF150L",
+      "code": "HSIZARAKI",
       "reward": 90000000
     },
     {
-      "code": "HSININJAH2",
+      "code": "HSISAITAMA",
       "reward": 90000000
     },
     {
-      "code": "HSIBUSI",
+      "code": "HSIASTA",
       "reward": 90000000
     },
     {
-      "code": "HSIKOIL",
+      "code": "HSISENKU",
       "reward": 90000000
     },
     {
-      "code": "HSIECU",
-      "reward": 90000000
-    },
-    {
-      "code": "HSICDI",
-      "reward": 90000000
-    },
-    {
-      "code": "HSIKARBURATOR",
-      "reward": 90000000
-    },
-    {
-      "code": "HSIINJEKTOR",
-      "reward": 90000000
-    },
-    {
-      "code": "HSIFILTERUDARA",
-      "reward": 90000000
-    },
-    {
-      "code": "HSIFILTEROLI",
-      "reward": 90000000
-    },
-    {
-      "code": "HSIFILTERBENSIN",
-      "reward": 90000000
-    },
-    {
-      "code": "HSIAKIMOTOR",
-      "reward": 90000000
-    },
-    {
-      "code": "HSIDINAMOSTARTER",
-      "reward": 90000000
-    },
-    {
-      "code": "HSIKIPRO K",
-      "reward": 90000000
-    },
-    {
-      "code": "HSISEKRINGMTR",
-      "reward": 90000000
-    },
-    {
-      "code": "HSIRELAYMTR",
-      "reward": 90000000
-    },
-    {
-      "code": "HSISOKETMOTOR",
-      "reward": 90000000
-    },
-    {
-      "code": "HSIKRUKAS",
-      "reward": 90000000
-    },
-    {
-      "code": "HSIPISTONMTR",
-      "reward": 90000000
-    },
-    {
-      "code": "HSISTANGPISTON",
-      "reward": 90000000
-    },
-    {
-      "code": "HSIRINGPISTON",
-      "reward": 90000000
-    },
-    {
-      "code": "HSINOKENAS",
-      "reward": 90000000
-    },
-    {
-      "code": "HSIKLEPMTR",
-      "reward": 90000000
-    },
-    {
-      "code": "HSIRADIATORMTR",
-      "reward": 90000000
-    },
-    {
-      "code": "HSIKOPLINGMTR",
-      "reward": 90000000
-    },
-    {
-      "code": "HSIRANTAIMTR",
-      "reward": 90000000
-    },
-    {
-      "code": "HSISPROKETMTR",
-      "reward": 90000000
-    },
-    {
-      "code": "HSIMIOSMILE500",
+      "code": "HSIPAUSBIRU500",
       "reward": 500000000
     },
     {
-      "code": "HSIMIOM3X500",
+      "code": "HSIJUPITERTS500",
       "reward": 500000000
     },
     {
-      "code": "HSIRXKING500X",
+      "code": "HSINEWTONFI500",
       "reward": 500000000
     },
     {
-      "code": "HSIVARIO160500",
+      "code": "HSIONEPIECEN500",
       "reward": 500000000
     },
     {
-      "code": "HSIPCX160500",
+      "code": "HSINARUTOX500",
       "reward": 500000000
     },
     {
-      "code": "HSICBR250RR500",
+      "code": "HSIPRANCIS500",
       "reward": 500000000
     },
     {
-      "code": "HSIR15V4500",
+      "code": "HSICITAH500",
       "reward": 500000000
     },
     {
-      "code": "HSIR25500X",
+      "code": "HSIBIMASAKTI500",
       "reward": 500000000
     },
     {
-      "code": "HSIAEROX155500",
+      "code": "HSIEDISON500",
       "reward": 500000000
     },
     {
-      "code": "HSIADV160500",
+      "code": "HSIAMERIKA500",
       "reward": 500000000
     },
     {
-      "code": "HSIECU500X",
+      "code": "HSICONANDT500",
       "reward": 500000000
     },
     {
-      "code": "HSICDI500X",
+      "code": "HSISAITAMA500",
       "reward": 500000000
     },
     {
-      "code": "HSIPISTON500",
+      "code": "HSIJERAPAH500",
       "reward": 500000000
     },
     {
-      "code": "HSIBUSI500X",
+      "code": "HSIUPINIPIN500",
       "reward": 500000000
     },
     {
-      "code": "HSIKOIL500X",
+      "code": "HSIBELL500",
       "reward": 500000000
     },
     {
-      "code": "HSIFILTERAIR500",
+      "code": "HSITOKYO500",
       "reward": 500000000
     },
     {
-      "code": "HSISUPRAX500",
+      "code": "HSICHINA500",
       "reward": 500000000
     },
     {
-      "code": "HSISATRIA500",
+      "code": "HSIGOKU500",
       "reward": 500000000
     },
     {
-      "code": "HSINJA250500",
+      "code": "HSIKURA500",
       "reward": 500000000
     },
     {
-      "code": "HSINOKENAS500",
+      "code": "HSIFMA500",
       "reward": 500000000
     }
   ]
