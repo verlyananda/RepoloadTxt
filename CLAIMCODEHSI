@@ -1,500 +1,492 @@
 {
   "codes": [
     {
-      "code": "HSIRIMBA",
+      "code": "HSIHARTAEMAS",
       "reward": 90000000
     },
     {
-      "code": "HSIRIMBAJAYA",
+      "code": "HSIHARTAPERAK",
       "reward": 90000000
     },
     {
-      "code": "HSIRIMBAGAS",
+      "code": "HSIHARTABERLIAN",
       "reward": 90000000
     },
     {
-      "code": "HSIRIMBAPRO",
+      "code": "HSIHARTAPERMATA",
       "reward": 90000000
     },
     {
-      "code": "HSIRIMBABALAP",
+      "code": "HSIHARTAGOLD",
       "reward": 90000000
     },
     {
-      "code": "HSISAMUDRAKU",
+      "code": "HSIPUSAKAJAYA",
       "reward": 90000000
     },
     {
-      "code": "HSISAMUDRAPRO",
+      "code": "HSIPUSAKAGAS",
       "reward": 90000000
     },
     {
-      "code": "HSISAMUDRAGAS",
+      "code": "HSIPUSAKAPRO",
       "reward": 90000000
     },
     {
-      "code": "HSISAMUDRACHAMP",
+      "code": "HSIPUSAKABOSS",
       "reward": 90000000
     },
     {
-      "code": "HSISAMUDRAJAYA",
+      "code": "HSIPUSAKAKING",
       "reward": 90000000
     },
     {
-      "code": "HSIMERAPI",
+      "code": "HSIMUTIARAJAYA",
       "reward": 90000000
     },
     {
-      "code": "HSIMERAPIGAS",
+      "code": "HSIMUTIARAGAS",
       "reward": 90000000
     },
     {
-      "code": "HSIMERAPIPRO",
+      "code": "HSIMUTIARAPRO",
       "reward": 90000000
     },
     {
-      "code": "HSIMERAPIJAYA",
+      "code": "HSIMUTIARABOSS",
       "reward": 90000000
     },
     {
-      "code": "HSIMERAPIBOSS",
+      "code": "HSIMUTIARAKING",
       "reward": 90000000
     },
     {
-      "code": "HSIKALDERA",
+      "code": "HSIINTANBERLIAN",
       "reward": 90000000
     },
     {
-      "code": "HSIKALDERAGAS",
+      "code": "HSIINTANGAS",
       "reward": 90000000
     },
     {
-      "code": "HSIKALDERAPRO",
+      "code": "HSIINTANPRO",
       "reward": 90000000
     },
     {
-      "code": "HSIKALDERAJAYA",
+      "code": "HSIINTANBOSS",
       "reward": 90000000
     },
     {
-      "code": "HSIKALDERABOSS",
+      "code": "HSIINTANKING",
       "reward": 90000000
     },
     {
-      "code": "HSILAUTANBIRU",
+      "code": "HSIZAMRUDIHIJAU",
       "reward": 90000000
     },
     {
-      "code": "HSILAUTANJAYA",
+      "code": "HSIZAMRUDIGAS",
       "reward": 90000000
     },
     {
-      "code": "HSILAUTANGAS",
+      "code": "HSIZAMRUDIPRO",
       "reward": 90000000
     },
     {
-      "code": "HSILAUTANPRO",
+      "code": "HSIZAMRUDIBOSS",
       "reward": 90000000
     },
     {
-      "code": "HSILAUTANBOSS",
+      "code": "HSIZAMRUDIKING",
       "reward": 90000000
     },
     {
-      "code": "HSIBADAIPETIR",
+      "code": "HSISAFIRBIRU",
       "reward": 90000000
     },
     {
-      "code": "HSIBADAIANGIN",
+      "code": "HSISAFIRGAS",
       "reward": 90000000
     },
     {
-      "code": "HSIBADAIGAS",
+      "code": "HSISAFIRPRO",
       "reward": 90000000
     },
     {
-      "code": "HSIBADAIPRO",
+      "code": "HSISAFIRBOSS",
       "reward": 90000000
     },
     {
-      "code": "HSIBADAIBOSS",
+      "code": "HSISAFIRKING",
       "reward": 90000000
     },
     {
-      "code": "HSIPETIRMERAH",
+      "code": "HSIDELIMAMERAH",
       "reward": 90000000
     },
     {
-      "code": "HSIPETIRGAS",
+      "code": "HSIDELIMAGAS",
       "reward": 90000000
     },
     {
-      "code": "HSIPETIRPRO",
+      "code": "HSIDELIMAPRO",
       "reward": 90000000
     },
     {
-      "code": "HSIPETIRJAYA",
+      "code": "HSIDELIMABOSS",
       "reward": 90000000
     },
     {
-      "code": "HSIPETIRBOSS",
+      "code": "HSIDELIMAKING",
       "reward": 90000000
     },
     {
-      "code": "HSIANGINTOPAN",
+      "code": "HSITOPAZKUNING",
       "reward": 90000000
     },
     {
-      "code": "HSIANGINGAS",
+      "code": "HSITOPAZGAS",
       "reward": 90000000
     },
     {
-      "code": "HSIANGINPRO",
+      "code": "HSITOPAZPRO",
       "reward": 90000000
     },
     {
-      "code": "HSIANGINJAYA",
+      "code": "HSITOPAZBOSS",
       "reward": 90000000
     },
     {
-      "code": "HSIANGINBOSS",
+      "code": "HSITOPAZKING",
       "reward": 90000000
     },
     {
-      "code": "HSIBINTANGTIMUR",
+      "code": "HSIPHOENIXAPI",
       "reward": 90000000
     },
     {
-      "code": "HSIBINTANGGAS",
+      "code": "HSIPHOENIXGAS",
       "reward": 90000000
     },
     {
-      "code": "HSIBINTANGPRO",
+      "code": "HSIPHOENIXPRO",
       "reward": 90000000
     },
     {
-      "code": "HSIBINTANGJAYA",
+      "code": "HSIPHOENIXJAYA",
       "reward": 90000000
     },
     {
-      "code": "HSIBINTANGBOSS",
+      "code": "HSIPHOENIXBOSS",
       "reward": 90000000
     },
     {
-      "code": "HSIBULANBIRU",
+      "code": "HSINAGAMERAH",
       "reward": 90000000
     },
     {
-      "code": "HSIBULANGAS",
+      "code": "HSINAGAGAS",
       "reward": 90000000
     },
     {
-      "code": "HSIBULANPRO",
+      "code": "HSINAGAPRO",
       "reward": 90000000
     },
     {
-      "code": "HSIBULANJAYA",
+      "code": "HSINAGAJAYA",
       "reward": 90000000
     },
     {
-      "code": "HSIBULANBOSS",
+      "code": "HSINAGABOSS",
       "reward": 90000000
     },
     {
-      "code": "HSIMATAHARIPAGI",
+      "code": "HSIRAJAWALI",
       "reward": 90000000
     },
     {
-      "code": "HSIMATAHARIGAS",
+      "code": "HSIRAJAWALIGAS",
       "reward": 90000000
     },
     {
-      "code": "HSIMATAHARIPRO",
+      "code": "HSIRAJAWALIPRO",
       "reward": 90000000
     },
     {
-      "code": "HSIMATAHARIJAYA",
+      "code": "HSIRAJAWALIJAYA",
       "reward": 90000000
     },
     {
-      "code": "HSIMATAHARIBOSS",
+      "code": "HSIRAJAWALIBOSS",
       "reward": 90000000
     },
     {
-      "code": "HSIFAJARMERAH",
+      "code": "HSIELANGHITAM",
       "reward": 90000000
     },
     {
-      "code": "HSIFAJARGAS",
+      "code": "HSIELANGGAS",
       "reward": 90000000
     },
     {
-      "code": "HSIFAJARPRO",
+      "code": "HSIELANGPRO",
       "reward": 90000000
     },
     {
-      "code": "HSIFAJARJAYA",
+      "code": "HSIELANGJAYA",
       "reward": 90000000
     },
     {
-      "code": "HSIFAJARBOSS",
+      "code": "HSIELANGBOSS",
       "reward": 90000000
     },
     {
-      "code": "HSISENJAEMAS",
+      "code": "HSIHARIMAULIAR",
       "reward": 90000000
     },
     {
-      "code": "HSISENJAGAS",
+      "code": "HSIHARIMAUGAS",
       "reward": 90000000
     },
     {
-      "code": "HSISENJAPRO",
+      "code": "HSIHARIMAUPRO",
       "reward": 90000000
     },
     {
-      "code": "HSISENJAJAYA",
+      "code": "HSIHARIMAUJAYA",
       "reward": 90000000
     },
     {
-      "code": "HSISENJABOSS",
+      "code": "HSIHARIMAUBOSS",
       "reward": 90000000
     },
     {
-      "code": "HSIPELANGIJAYA",
+      "code": "HSISINGAPADANG",
       "reward": 90000000
     },
     {
-      "code": "HSIPELANGIGAS",
+      "code": "HSISINGAGAS",
       "reward": 90000000
     },
     {
-      "code": "HSIPELANGIPRO",
+      "code": "HSISINGAPRO",
       "reward": 90000000
     },
     {
-      "code": "HSIPELANGICHAMP",
+      "code": "HSISINGAJAYA",
       "reward": 90000000
     },
     {
-      "code": "HSIPELANGIBOSS",
+      "code": "HSISINGABOSS",
       "reward": 90000000
     },
     {
-      "code": "HSIPRAJURIT",
+      "code": "HSISERIGALA",
       "reward": 90000000
     },
     {
-      "code": "HSIPRAJURITGAS",
+      "code": "HSISERIGALAGAS",
       "reward": 90000000
     },
     {
-      "code": "HSIPRAJURITPRO",
+      "code": "HSISERIGALAPRO",
       "reward": 90000000
     },
     {
-      "code": "HSIPRAJURITJAYA",
+      "code": "HSISERIGALAJAYA",
       "reward": 90000000
     },
     {
-      "code": "HSIPRAJURITBOSS",
+      "code": "HSISERIGALABOSS",
       "reward": 90000000
     },
     {
-      "code": "HSIKSATRIATANGGUH",
+      "code": "HSIKOBRABERBISA",
       "reward": 90000000
     },
     {
-      "code": "HSIKSATRIAGAS",
+      "code": "HSIKOBRAGAS",
       "reward": 90000000
     },
     {
-      "code": "HSIKSATRIAPRO",
+      "code": "HSIKOBRAPRO",
       "reward": 90000000
     },
     {
-      "code": "HSIKSATRIAJAYA",
+      "code": "HSIKOBRAJAYA",
       "reward": 90000000
     },
     {
-      "code": "HSIKSATRIABOSS",
+      "code": "HSIKOBRABOSS",
       "reward": 90000000
     },
     {
-      "code": "HSIPANGLIMA",
+      "code": "HSIBANTENGGAGAH",
       "reward": 90000000
     },
     {
-      "code": "HSIPANGLIMAGAS",
+      "code": "HSIBANTENGGAS",
       "reward": 90000000
     },
     {
-      "code": "HSIPANGLIMAPRO",
+      "code": "HSIBANTENGPRO",
       "reward": 90000000
     },
     {
-      "code": "HSIPANGLIMAJAYA",
+      "code": "HSIBANTENGJAYA",
       "reward": 90000000
     },
     {
-      "code": "HSIPANGLIMABOSS",
+      "code": "HSIBANTENGBOSS",
       "reward": 90000000
     },
     {
-      "code": "HSIPENDEKAR",
+      "code": "HSIPANTERAHITAM",
       "reward": 90000000
     },
     {
-      "code": "HSIPENDEKARGAS",
+      "code": "HSIPANTERAGAS",
       "reward": 90000000
     },
     {
-      "code": "HSIPENDEKARPRO",
+      "code": "HSIPANTERAPRO",
       "reward": 90000000
     },
     {
-      "code": "HSIPENDEKARJAYA",
+      "code": "HSIPANTERAJAYA",
       "reward": 90000000
     },
     {
-      "code": "HSIPENDEKARBOSS",
+      "code": "HSIPANTERABOSS",
       "reward": 90000000
     },
     {
-      "code": "HSIPETUALANG",
+      "code": "HSIBERUANGHUTAN",
       "reward": 90000000
     },
     {
-      "code": "HSIPETUALANGAS",
+      "code": "HSIBERUANGGAS",
       "reward": 90000000
     },
     {
-      "code": "HSIPETUALANGPRO",
+      "code": "HSIBERUANGPRO",
       "reward": 90000000
     },
     {
-      "code": "HSIPETUALANGJAYA",
+      "code": "HSIBERUANGJAYA",
       "reward": 90000000
     },
     {
-      "code": "HSIPETUALANGBOSS",
+      "code": "HSIBERUANGBOSS",
       "reward": 90000000
     },
     {
-      "code": "HSIPEMBERANI",
+      "code": "HSIBUAYALIAR",
       "reward": 90000000
     },
     {
-      "code": "HSIPEMBERANIGAS",
+      "code": "HSIBUAYAGAS",
       "reward": 90000000
     },
     {
-      "code": "HSIPEMBERANIPRO",
+      "code": "HSIBUAYAPRO",
       "reward": 90000000
     },
     {
-      "code": "HSIPEMBERANIJAYA",
+      "code": "HSIBUAYAJAYA",
       "reward": 90000000
     },
     {
-      "code": "HSIPEMBERANIBOSS",
+      "code": "HSIBUAYABOSS",
       "reward": 90000000
     },
     {
-      "code": "HSIPENAKLUKARENA",
+      "code": "HSIHIUBESAR",
       "reward": 90000000
     },
     {
-      "code": "HSIPENAKLUKGAS",
+      "code": "HSIHIUGAS",
       "reward": 90000000
     },
     {
-      "code": "HSIRIMBA500EMAS",
+      "code": "HSIHARTA500GOLD",
       "reward": 500000000
     },
     {
-      "code": "HSISAMUDRA500JAY",
+      "code": "HSIPUSAKA500KING",
       "reward": 500000000
     },
     {
-      "code": "HSIMERAPI500KING",
+      "code": "HSIMUTIARA500LAUT",
       "reward": 500000000
     },
     {
-      "code": "HSIKALDERA500MAX",
+      "code": "HSIINTAN500CRYSTL",
       "reward": 500000000
     },
     {
-      "code": "HSIBADAI500PRO",
+      "code": "HSIZAMRUD500GREEN",
       "reward": 500000000
     },
     {
-      "code": "HSIPETIR500VIP",
+      "code": "HSISAFIR500BLUE",
       "reward": 500000000
     },
     {
-      "code": "HSIBINTANG500STR",
+      "code": "HSIDELIMA500RED",
       "reward": 500000000
     },
     {
-      "code": "HSIBULAN500GLOW",
+      "code": "HSITOPAZ500GOLD",
       "reward": 500000000
     },
     {
-      "code": "HSIMATAHARI500SH",
+      "code": "HSIPHOENIX500FIRE",
       "reward": 500000000
     },
     {
-      "code": "HSIFAJAR500RAYA",
+      "code": "HSINAGA500DRAGON",
       "reward": 500000000
     },
     {
-      "code": "HSISENJA500EMAS",
+      "code": "HSIRAJAWALI500SKY",
       "reward": 500000000
     },
     {
-      "code": "HSIPELANGI500RNB",
+      "code": "HSIELANG500BLACK",
       "reward": 500000000
     },
     {
-      "code": "HSIPRAJURIT500WR",
+      "code": "HSIHARIMAU500WILD",
       "reward": 500000000
     },
     {
-      "code": "HSIKSATRIA500HRO",
+      "code": "HSISINGA500BRAVE",
       "reward": 500000000
     },
     {
-      "code": "HSIPANGLIMA500LD",
+      "code": "HSISERIGALA500PCK",
       "reward": 500000000
     },
     {
-      "code": "HSIPENDEKAR500JG",
+      "code": "HSIKOBRA500VENOM",
       "reward": 500000000
     },
     {
-      "code": "HSIPETUALANG500XP",
+      "code": "HSIBANTENG500RAGE",
       "reward": 500000000
     },
     {
-      "code": "HSIALDO500BR",
+      "code": "HSIPANTERA500SHDW",
       "reward": 500000000
     },
     {
-      "code": "HSIANGINTOPAN500",
+      "code": "HSIBERUANG500FORS",
       "reward": 500000000
     },
     {
-      "code": "HSIPAGIPAGI50",
-      "reward": 50000000
-    },
-   {
-      "code": "HSIBERKOKOK50",
-      "reward": 50000000
-    },
-    {
-      "code": "HSIMEMBIRU50",
-      "reward": 50000000
+      "code": "HSIHIU500SHARK",
+      "reward": 500000000
     }
   ]
 }
