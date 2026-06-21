@@ -1,384 +1,121 @@
 {
   "codes": [
-    {
-      "code": "GASPOLBROO",
-      "reward": 90000000
-    },
-    {
-      "code": "NGEBUTSUBUH",
-      "reward": 90000000
-    },
-    {
-      "code": "COMOTGEAR3",
-      "reward": 90000000
-    },
-    {
-      "code": "BABATTIKUNGAN",
-      "reward": 90000000
-    },
-    {
-      "code": "NEKUKKANANS",
-      "reward": 90000000
-    },
-    {
-      "code": "KEPRETSPION",
-      "reward": 90000000
-    },
-    {
-      "code": "KOPLINGNYANGKUT",
-      "reward": 90000000
-    },
-    {
-      "code": "MBLEDOSKNALPOT",
-      "reward": 90000000
-    },
-    {
-      "code": "GASPOLNGACIR",
-      "reward": 90000000
-    },
-    {
-      "code": "WHEELIESORE",
-      "reward": 90000000
-    },
-    {
-      "code": "STOPPIESAKTI",
-      "reward": 90000000
-    },
-    {
-      "code": "BURNOUTNGACIR",
-      "reward": 90000000
-    },
-    {
-      "code": "NIKUNGRIGHT",
-      "reward": 90000000
-    },
-    {
-      "code": "BRAKEPATAH",
-      "reward": 90000000
-    },
-    {
-      "code": "SUKMARACING",
-      "reward": 90000000
-    },
-    {
-      "code": "NGEPOTSAKTI",
-      "reward": 90000000
-    },
-    {
-      "code": "NGOTOTGASSS",
-      "reward": 90000000
-    },
-    {
-      "code": "NDUSELASPAL",
-      "reward": 90000000
-    },
-    {
-      "code": "GASKEUNJOSS",
-      "reward": 90000000
-    },
-    {
-      "code": "NGEGASMAUT",
-      "reward": 90000000
-    },
-    {
-      "code": "NGACIRMANG",
-      "reward": 90000000
-    },
-    {
-      "code": "SABDAJAGAT",
-      "reward": 90000000
-    },
-    {
-      "code": "KAWULAGUSTI",
-      "reward": 90000000
-    },
-    {
-      "code": "AJIPANGRIPTA",
-      "reward": 90000000
-    },
-    {
-      "code": "DHARMAJAYA",
-      "reward": 90000000
-    },
-    {
-      "code": "NGELMUSEJATI",
-      "reward": 90000000
-    },
-    {
-      "code": "BUMIHARMONI",
-      "reward": 90000000
-    },
-    {
-      "code": "JIWASATRIA",
-      "reward": 90000000
-    },
-    {
-      "code": "NGUDIRAHAYU",
-      "reward": 90000000
-    },
-    {
-      "code": "RAHAYUJATI",
-      "reward": 90000000
-    },
-    {
-      "code": "PURWADAKSI",
-      "reward": 90000000
-    },
-    {
-      "code": "NUSAHARMONI",
-      "reward": 90000000
-    },
-    {
-      "code": "AGUNGSAKTI",
-      "reward": 90000000
-    },
-    {
-      "code": "BATARAGURU",
-      "reward": 90000000
-    },
-    {
-      "code": "BATARANARADA",
-      "reward": 90000000
-    },
-    {
-      "code": "BATARAINDRA",
-      "reward": 90000000
-    },
-    {
-      "code": "BATARABAYU",
-      "reward": 90000000
-    },
-    {
-      "code": "BATARASURYA",
-      "reward": 90000000
-    },
-    {
-      "code": "SEMARBADRA",
-      "reward": 90000000
-    },
-    {
-      "code": "PETRUKGONG",
-      "reward": 90000000
-    },
-    {
-      "code": "GARENGSAKTI",
-      "reward": 90000000
-    },
-    {
-      "code": "BAGONGGAUL",
-      "reward": 90000000
-    },
-    {
-      "code": "ANTAREJASAKTI",
-      "reward": 90000000
-    },
-    {
-      "code": "GATOTKACAVIRAL",
-      "reward": 90000000
-    },
-    {
-      "code": "RAHWANAGAS",
-      "reward": 90000000
-    },
-    {
-      "code": "HANOMANAPI",
-      "reward": 90000000
-    },
-    {
-      "code": "SUGRIWASAKTI",
-      "reward": 90000000
-    },
-    {
-      "code": "KUMBHAKARNA",
-      "reward": 90000000
-    },
-    {
-      "code": "SADEWAJAYA",
-      "reward": 90000000
-    },
-    {
-      "code": "NAKULAJAYA",
-      "reward": 90000000
-    },
-    {
-      "code": "NIGHTRIDER",
-      "reward": 90000000
-    },
-    {
-      "code": "MIDNIGHTGAS",
-      "reward": 90000000
-    },
-    {
-      "code": "DAWNCHASER",
-      "reward": 90000000
-    },
-    {
-      "code": "TWILIGHTGAS",
-      "reward": 90000000
-    },
-    {
-      "code": "NEONSTREET",
-      "reward": 90000000
-    },
-    {
-      "code": "DRIFTKING88",
-      "reward": 90000000
-    },
-    {
-      "code": "SOLODRIVER",
-      "reward": 90000000
-    },
-    {
-      "code": "LONEWOLFGS",
-      "reward": 90000000
-    },
-    {
-      "code": "PHANTOMRACE",
-      "reward": 90000000
-    },
-    {
-      "code": "GHOSTRACER",
-      "reward": 90000000
-    },
-    {
-      "code": "SHADOWRIDER",
-      "reward": 90000000
-    },
-    {
-      "code": "VENOMSPEED",
-      "reward": 90000000
-    },
-    {
-      "code": "BLAZERIDER",
-      "reward": 90000000
-    },
-    {
-      "code": "INFERNORIDE",
-      "reward": 90000000
-    },
-    {
-      "code": "STORMRIDER",
-      "reward": 90000000
-    },
-    {
-      "code": "THUNDERPRO",
-      "reward": 90000000
-    },
-    {
-      "code": "NITROBOOST",
-      "reward": 90000000
-    },
-    {
-      "code": "OCTANEKING",
-      "reward": 90000000
-    },
-    {
-      "code": "REDLINEGAS",
-      "reward": 90000000
-    },
-    {
-      "code": "TOPSPEEDKG",
-      "reward": 90000000
-    },
-    {
-      "code": "APEXCHASER",
-      "reward": 90000000
-    },
-    {
-      "code": "DRAGSTERGAS",
-      "reward": 90000000
-    },
-    {
-      "code": "BURNOUTKING",
-      "reward": 90000000
-    },
-    {
-      "code": "PITSTOPGAS",
-      "reward": 90000000
-    },
-    {
-      "code": "PODIUMKING",
-      "reward": 90000000
-    },
-    {
-      "code": "GARUDA500SAKTI",
-      "reward": 500000000
-    },
-    {
-      "code": "MERAH500PUTIH",
-      "reward": 500000000
-    },
-    {
-      "code": "BHINNEKA500TGL",
-      "reward": 500000000
-    },
-    {
-      "code": "NUSANTARA500RJA",
-      "reward": 500000000
-    },
-    {
-      "code": "PANCASILA500JY",
-      "reward": 500000000
-    },
-    {
-      "code": "GATOTKACA500MAX",
-      "reward": 500000000
-    },
-    {
-      "code": "BIMASAKTI500PRO",
-      "reward": 500000000
-    },
-    {
-      "code": "ARJUNAJOSS500HX",
-      "reward": 500000000
-    },
-    {
-      "code": "HANOMAN500AGNI",
-      "reward": 500000000
-    },
-    {
-      "code": "DEWARUCI500SK",
-      "reward": 500000000
-    },
-    {
-      "code": "BATARA500GURU",
-      "reward": 500000000
-    },
-    {
-      "code": "NGEBUT500SUBUH",
-      "reward": 500000000
-    },
-    {
-      "code": "GASPOLL500BROO",
-      "reward": 500000000
-    },
-    {
-      "code": "WHEELIE500RJA",
-      "reward": 500000000
-    },
-    {
-      "code": "DRIFTKING500HX",
-      "reward": 500000000
-    },
-    {
-      "code": "NIGHTRIDE500JY",
-      "reward": 500000000
-    },
-    {
-      "code": "STORM500RIDER",
-      "reward": 500000000
-    },
-    {
-      "code": "PHANTOM500RACE",
-      "reward": 500000000
-    },
-    {
-      "code": "PODIUM500KING",
-      "reward": 500000000
-    },
-    {
-      "code": "APEX500CHASER",
-      "reward": 500000000
-    }
+    { "code": "HSIHEREXJATIM", "reward": 90000000 },
+    { "code": "HSIHEREXGAS", "reward": 90000000 },
+    { "code": "HSIHEREXPRO", "reward": 90000000 },
+    { "code": "HSIHEREXBALAP", "reward": 90000000 },
+    { "code": "HSIHEREXBOSS", "reward": 90000000 },
+    { "code": "HSIKING2TAK", "reward": 90000000 },
+    { "code": "HSIKINGGAS", "reward": 90000000 },
+    { "code": "HSIKINGPRO", "reward": 90000000 },
+    { "code": "HSIKINGJAYA", "reward": 90000000 },
+    { "code": "HSIKINGBOSS", "reward": 90000000 },
+    { "code": "HSININJAKOMP", "reward": 90000000 },
+    { "code": "HSININJAGAS", "reward": 90000000 },
+    { "code": "HSININJAPRO", "reward": 90000000 },
+    { "code": "HSININJAJAYA", "reward": 90000000 },
+    { "code": "HSININJABOSS", "reward": 90000000 },
+    { "code": "HSITIGERREOG", "reward": 90000000 },
+    { "code": "HSITIGERGAS", "reward": 90000000 },
+    { "code": "HSITIGERPRO", "reward": 90000000 },
+    { "code": "HSITIGERJAYA", "reward": 90000000 },
+    { "code": "HSITIGERBOSS", "reward": 90000000 },
+    { "code": "HSIGLSERIESGAS", "reward": 90000000 },
+    { "code": "HSIGLSERIESPRO", "reward": 90000000 },
+    { "code": "HSIGLSERIESJAYA", "reward": 90000000 },
+    { "code": "HSIGLSERIESBOSS", "reward": 90000000 },
+    { "code": "HSIGLSERIESRPM", "reward": 90000000 },
+    { "code": "HSIRASIOBALAP", "reward": 90000000 },
+    { "code": "HSIRASIOGAS", "reward": 90000000 },
+    { "code": "HSIRASIOPRO", "reward": 90000000 },
+    { "code": "HSIRASIOJAYA", "reward": 90000000 },
+    { "code": "HSIRASIOBOSS", "reward": 90000000 },
+    { "code": "HSIBUSIRACING", "reward": 90000000 },
+    { "code": "HSIBUSIGAS", "reward": 90000000 },
+    { "code": "HSIBUSIPRO", "reward": 90000000 },
+    { "code": "HSIBUSIJAYA", "reward": 90000000 },
+    { "code": "HSIBUSIBOSS", "reward": 90000000 },
+    { "code": "HSILAMPUPESEK", "reward": 90000000 },
+    { "code": "HSILAMPUGAS", "reward": 90000000 },
+    { "code": "HSILAMPUPRO", "reward": 90000000 },
+    { "code": "HSILAMPUJAYA", "reward": 90000000 },
+    { "code": "HSILAMPUBOSS", "reward": 90000000 },
+    { "code": "HSIPENYETALAN", "reward": 90000000 },
+    { "code": "HSISTELGAS", "reward": 90000000 },
+    { "code": "HSISTELPRO", "reward": 90000000 },
+    { "code": "HSISTELJAYA", "reward": 90000000 },
+    { "code": "HSISTELBOSS", "reward": 90000000 },
+    { "code": "HSIPENGAPLANCDI", "reward": 90000000 },
+    { "code": "HSICDIGAS", "reward": 90000000 },
+    { "code": "HSICDIPRO", "reward": 90000000 },
+    { "code": "HSICDIJAYA", "reward": 90000000 },
+    { "code": "HSICDIBOSS", "reward": 90000000 },
+    { "code": "HSISTARTRACING", "reward": 90000000 },
+    { "code": "HSISTARTGAS", "reward": 90000000 },
+    { "code": "HSISTARTPRO", "reward": 90000000 },
+    { "code": "HSISTARTJAYA", "reward": 90000000 },
+    { "code": "HSISTARTBOSS", "reward": 90000000 },
+    { "code": "HSISTROKEUPMAX", "reward": 90000000 },
+    { "code": "HSISTROKEGAS", "reward": 90000000 },
+    { "code": "HSISTROKEPRO", "reward": 90000000 },
+    { "code": "HSISTROKEJAYA", "reward": 90000000 },
+    { "code": "HSISTROKEBOSS", "reward": 90000000 },
+    { "code": "HSIMAKANASPAL", "reward": 90000000 },
+    { "code": "HSITREKLUAS", "reward": 90000000 },
+    { "code": "HSITREKGAS", "reward": 90000000 },
+    { "code": "HSITREKPRO", "reward": 90000000 },
+    { "code": "HSITREKBOSS", "reward": 90000000 },
+    { "code": "HSIMANIPOLDGAS", "reward": 90000000 },
+    { "code": "HSIMANIPOLDPRO", "reward": 90000000 },
+    { "code": "HSIMANIPOLDJAYA", "reward": 90000000 },
+    { "code": "HSIMANIPOLDBOSS", "reward": 90000000 },
+    { "code": "HSIMANIPOLDKING", "reward": 90000000 },
+    { "code": "HSIVELGJARIDRUM", "reward": 90000000 },
+    { "code": "HSIVELGGAS", "reward": 90000000 },
+    { "code": "HSIVELGPRO", "reward": 90000000 },
+    { "code": "HSIVELGJAYA", "reward": 90000000 },
+    { "code": "HSIVELGBOSS", "reward": 90000000 },
+    { "code": "HSITANGKIKOTAK", "reward": 90000000 },
+    { "code": "HSITANGKIGAS", "reward": 90000000 },
+    { "code": "HSITANGKIPRO", "reward": 90000000 },
+    { "code": "HSITANGKIJAYA", "reward": 90000000 },
+    { "code": "HSITANGKIBOSS", "reward": 90000000 },
+    { "code": "HSIMEMBRANKING", "reward": 90000000 },
+    { "code": "HSIMEMBRANGAS", "reward": 90000000 },
+    { "code": "HSIMEMBRANPRO", "reward": 90000000 },
+    { "code": "HSIMEMBRANJAYA", "reward": 90000000 },
+    { "code": "HSIMEMBRANBOSS", "reward": 90000000 },
+    { "code": "HSIPAKAIHELM", "reward": 90000000 },
+    { "code": "HSIHELMGAS", "reward": 90000000 },
+    { "code": "HSIHELMPRO", "reward": 90000000 },
+    { "code": "HSIHELMJAYA", "reward": 90000000 },
+    { "code": "HSIHELMBOSS", "reward": 90000000 },
+    { "code": "HSIPIRINGANCRAM", "reward": 90000000 },
+    { "code": "HSICAKRAMGAS", "reward": 90000000 },
+    { "code": "HSICAKRAMPRO", "reward": 90000000 },
+    { "code": "HSICAKRAMJAYA", "reward": 90000000 },
+    { "code": "HSICAKRAMBOSS", "reward": 90000000 },
+    { "code": "HSIKOPLINGPER", "reward": 90000000 },
+    { "code": "HSIKOPLINGGAS", "reward": 90000000 },
+    { "code": "HSIHEREX500GAS", "reward": 500000000 },
+    { "code": "HSIKING500MX", "reward": 500000000 },
+    { "code": "HSININJA500MAX", "reward": 500000000 },
+    { "code": "HSITIGER500FIRE", "reward": 500000000 },
+    { "code": "HSIGL500SPEED", "reward": 500000000 },
+    { "code": "HSIRASIO500BLAST", "reward": 500000000 },
+    { "code": "HSIBUSI500HIT", "reward": 500000000 },
+    { "code": "HSILAMPU500STAR", "reward": 500000000 },
+    { "code": "HSISTEL500SHINE", "reward": 500000000 },
+    { "code": "HSICDI500UN", "reward": 500000000 },
+    { "code": "HSISTART500HIGH", "reward": 500000000 },
+    { "code": "HSISTROKE500BLUE", "reward": 500000000 },
+    { "code": "HSITREK500ELEC", "reward": 500000000 },
+    { "code": "HSIMANIPOLD500GH", "reward": 500000000 },
+    { "code": "HSIVELG500DRK", "reward": 500000000 },
+    { "code": "HSITANGKI500HRO", "reward": 500000000 },
+    { "code": "HSIMEMBRAN500MTH", "reward": 500000000 },
+    { "code": "HSIHELM500BEAST", "reward": 500000000 },
+    { "code": "HSICAKRAM500WAVE", "reward": 500000000 },
+    { "code": "HSIKOPLING500BLD", "reward": 500000000 }
   ]
 }
