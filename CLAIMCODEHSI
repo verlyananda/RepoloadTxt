@@ -1,121 +1,352 @@
 {
   "codes": [
-    { "code": "HSIHEREXJATIM", "reward": 90000000 },
-    { "code": "HSIHEREXGAS", "reward": 90000000 },
-    { "code": "HSIHEREXPRO", "reward": 90000000 },
-    { "code": "HSIHEREXBALAP", "reward": 90000000 },
-    { "code": "HSIHEREXBOSS", "reward": 90000000 },
-    { "code": "HSIKING2TAK", "reward": 90000000 },
-    { "code": "HSIKINGGAS", "reward": 90000000 },
-    { "code": "HSIKINGPRO", "reward": 90000000 },
-    { "code": "HSIKINGJAYA", "reward": 90000000 },
-    { "code": "HSIKINGBOSS", "reward": 90000000 },
-    { "code": "HSININJAKOMP", "reward": 90000000 },
-    { "code": "HSININJAGAS", "reward": 90000000 },
-    { "code": "HSININJAPRO", "reward": 90000000 },
-    { "code": "HSININJAJAYA", "reward": 90000000 },
-    { "code": "HSININJABOSS", "reward": 90000000 },
-    { "code": "HSITIGERREOG", "reward": 90000000 },
-    { "code": "HSITIGERGAS", "reward": 90000000 },
-    { "code": "HSITIGERPRO", "reward": 90000000 },
-    { "code": "HSITIGERJAYA", "reward": 90000000 },
-    { "code": "HSITIGERBOSS", "reward": 90000000 },
-    { "code": "HSIGLSERIESGAS", "reward": 90000000 },
-    { "code": "HSIGLSERIESPRO", "reward": 90000000 },
-    { "code": "HSIGLSERIESJAYA", "reward": 90000000 },
-    { "code": "HSIGLSERIESBOSS", "reward": 90000000 },
-    { "code": "HSIGLSERIESRPM", "reward": 90000000 },
-    { "code": "HSIRASIOBALAP", "reward": 90000000 },
-    { "code": "HSIRASIOGAS", "reward": 90000000 },
-    { "code": "HSIRASIOPRO", "reward": 90000000 },
-    { "code": "HSIRASIOJAYA", "reward": 90000000 },
-    { "code": "HSIRASIOBOSS", "reward": 90000000 },
-    { "code": "HSIBUSIRACING", "reward": 90000000 },
-    { "code": "HSIBUSIGAS", "reward": 90000000 },
-    { "code": "HSIBUSIPRO", "reward": 90000000 },
-    { "code": "HSIBUSIJAYA", "reward": 90000000 },
-    { "code": "HSIBUSIBOSS", "reward": 90000000 },
-    { "code": "HSILAMPUPESEK", "reward": 90000000 },
-    { "code": "HSILAMPUGAS", "reward": 90000000 },
-    { "code": "HSILAMPUPRO", "reward": 90000000 },
-    { "code": "HSILAMPUJAYA", "reward": 90000000 },
-    { "code": "HSILAMPUBOSS", "reward": 90000000 },
-    { "code": "HSIPENYETALAN", "reward": 90000000 },
-    { "code": "HSISTELGAS", "reward": 90000000 },
-    { "code": "HSISTELPRO", "reward": 90000000 },
-    { "code": "HSISTELJAYA", "reward": 90000000 },
-    { "code": "HSISTELBOSS", "reward": 90000000 },
-    { "code": "HSIPENGAPLANCDI", "reward": 90000000 },
-    { "code": "HSICDIGAS", "reward": 90000000 },
-    { "code": "HSICDIPRO", "reward": 90000000 },
-    { "code": "HSICDIJAYA", "reward": 90000000 },
-    { "code": "HSICDIBOSS", "reward": 90000000 },
-    { "code": "HSISTARTRACING", "reward": 90000000 },
-    { "code": "HSISTARTGAS", "reward": 90000000 },
-    { "code": "HSISTARTPRO", "reward": 90000000 },
-    { "code": "HSISTARTJAYA", "reward": 90000000 },
-    { "code": "HSISTARTBOSS", "reward": 90000000 },
-    { "code": "HSISTROKEUPMAX", "reward": 90000000 },
-    { "code": "HSISTROKEGAS", "reward": 90000000 },
-    { "code": "HSISTROKEPRO", "reward": 90000000 },
-    { "code": "HSISTROKEJAYA", "reward": 90000000 },
-    { "code": "HSISTROKEBOSS", "reward": 90000000 },
-    { "code": "HSIMAKANASPAL", "reward": 90000000 },
-    { "code": "HSITREKLUAS", "reward": 90000000 },
-    { "code": "HSITREKGAS", "reward": 90000000 },
-    { "code": "HSITREKPRO", "reward": 90000000 },
-    { "code": "HSITREKBOSS", "reward": 90000000 },
-    { "code": "HSIMANIPOLDGAS", "reward": 90000000 },
-    { "code": "HSIMANIPOLDPRO", "reward": 90000000 },
-    { "code": "HSIMANIPOLDJAYA", "reward": 90000000 },
-    { "code": "HSIMANIPOLDBOSS", "reward": 90000000 },
-    { "code": "HSIMANIPOLDKING", "reward": 90000000 },
-    { "code": "HSIVELGJARIDRUM", "reward": 90000000 },
-    { "code": "HSIVELGGAS", "reward": 90000000 },
-    { "code": "HSIVELGPRO", "reward": 90000000 },
-    { "code": "HSIVELGJAYA", "reward": 90000000 },
-    { "code": "HSIVELGBOSS", "reward": 90000000 },
-    { "code": "HSITANGKIKOTAK", "reward": 90000000 },
-    { "code": "HSITANGKIGAS", "reward": 90000000 },
-    { "code": "HSITANGKIPRO", "reward": 90000000 },
-    { "code": "HSITANGKIJAYA", "reward": 90000000 },
-    { "code": "HSITANGKIBOSS", "reward": 90000000 },
-    { "code": "HSIMEMBRANKING", "reward": 90000000 },
-    { "code": "HSIMEMBRANGAS", "reward": 90000000 },
-    { "code": "HSIMEMBRANPRO", "reward": 90000000 },
-    { "code": "HSIMEMBRANJAYA", "reward": 90000000 },
-    { "code": "HSIMEMBRANBOSS", "reward": 90000000 },
-    { "code": "HSIPAKAIHELM", "reward": 90000000 },
-    { "code": "HSIHELMGAS", "reward": 90000000 },
-    { "code": "HSIHELMPRO", "reward": 90000000 },
-    { "code": "HSIHELMJAYA", "reward": 90000000 },
-    { "code": "HSIHELMBOSS", "reward": 90000000 },
-    { "code": "HSIPIRINGANCRAM", "reward": 90000000 },
-    { "code": "HSICAKRAMGAS", "reward": 90000000 },
-    { "code": "HSICAKRAMPRO", "reward": 90000000 },
-    { "code": "HSICAKRAMJAYA", "reward": 90000000 },
-    { "code": "HSICAKRAMBOSS", "reward": 90000000 },
-    { "code": "HSIKOPLINGPER", "reward": 90000000 },
-    { "code": "HSIKOPLINGGAS", "reward": 90000000 },
-    { "code": "HSIHEREX500GAS", "reward": 500000000 },
-    { "code": "HSIKING500MX", "reward": 500000000 },
-    { "code": "HSININJA500MAX", "reward": 500000000 },
-    { "code": "HSITIGER500FIRE", "reward": 500000000 },
-    { "code": "HSIGL500SPEED", "reward": 500000000 },
-    { "code": "HSIRASIO500BLAST", "reward": 500000000 },
-    { "code": "HSIBUSI500HIT", "reward": 500000000 },
-    { "code": "HSILAMPU500STAR", "reward": 500000000 },
-    { "code": "HSISTEL500SHINE", "reward": 500000000 },
-    { "code": "HSICDI500UN", "reward": 500000000 },
-    { "code": "HSISTART500HIGH", "reward": 500000000 },
-    { "code": "HSISTROKE500BLUE", "reward": 500000000 },
-    { "code": "HSITREK500ELEC", "reward": 500000000 },
-    { "code": "HSIMANIPOLD500GH", "reward": 500000000 },
-    { "code": "HSIVELG500DRK", "reward": 500000000 },
-    { "code": "HSITANGKI500HRO", "reward": 500000000 },
-    { "code": "HSIMEMBRAN500MTH", "reward": 500000000 },
-    { "code": "HSIHELM500BEAST", "reward": 500000000 },
-    { "code": "HSICAKRAM500WAVE", "reward": 500000000 },
-    { "code": "HSIKOPLING500BLD", "reward": 500000000 }
+    {
+      "code": "BEGALSUBUH",
+      "reward": 90000000
+    },
+    {
+      "code": "BRAYOTGENG",
+      "reward": 90000000
+    },
+    {
+      "code": "NYALAINPETIR",
+      "reward": 90000000
+    },
+    {
+      "code": "BARENGRIDE",
+      "reward": 90000000
+    },
+    {
+      "code": "KONVOYDINI",
+      "reward": 90000000
+    },
+    {
+      "code": "NONGKRONGAS",
+      "reward": 90000000
+    },
+    {
+      "code": "BIKERSGOKIL",
+      "reward": 90000000
+    },
+    {
+      "code": "SUNMORINDO",
+      "reward": 90000000
+    },
+    {
+      "code": "TOURDEJAWA",
+      "reward": 90000000
+    },
+    {
+      "code": "BENGISJALAN",
+      "reward": 90000000
+    },
+    {
+      "code": "TUNGGANGSAKTI",
+      "reward": 90000000
+    },
+    {
+      "code": "NGEBUTMALEM",
+      "reward": 90000000
+    },
+    {
+      "code": "BABATBABATAS",
+      "reward": 90000000
+    },
+    {
+      "code": "SROBOTKING",
+      "reward": 90000000
+    },
+    {
+      "code": "TANCAPGEAR",
+      "reward": 90000000
+    },
+    {
+      "code": "BLAYERMAUT",
+      "reward": 90000000
+    },
+    {
+      "code": "NDESELRIDER",
+      "reward": 90000000
+    },
+    {
+      "code": "KEPRETGEAR",
+      "reward": 90000000
+    },
+    {
+      "code": "JEPRETKOPLING",
+      "reward": 90000000
+    },
+    {
+      "code": "NGECENGSIBYAR",
+      "reward": 90000000
+    },
+    {
+      "code": "NGINTIPCEWE",
+      "reward": 90000000
+    },
+    {
+      "code": "BLINGBLINGGS",
+      "reward": 90000000
+    },
+    {
+      "code": "KOPIPAHITX",
+      "reward": 90000000
+    },
+    {
+      "code": "NASIBUNGKUS",
+      "reward": 90000000
+    },
+    {
+      "code": "GORENGRENYAH",
+      "reward": 90000000
+    },
+    {
+      "code": "LAUKKERIING",
+      "reward": 90000000
+    },
+    {
+      "code": "SAMBELHIDUP",
+      "reward": 90000000
+    },
+    {
+      "code": "PETEKETOPRAK",
+      "reward": 90000000
+    },
+    {
+      "code": "REMPELOAYAM",
+      "reward": 90000000
+    },
+    {
+      "code": "OSENGKANGKUNG",
+      "reward": 90000000
+    },
+    {
+      "code": "OSENGTEMPEH",
+      "reward": 90000000
+    },
+    {
+      "code": "KRUPUKKAMPUNG",
+      "reward": 90000000
+    },
+    {
+      "code": "BAKWANJAGUNG",
+      "reward": 90000000
+    },
+    {
+      "code": "TEMPEMENDOAN",
+      "reward": 90000000
+    },
+    {
+      "code": "BEBEKGORENG",
+      "reward": 90000000
+    },
+    {
+      "code": "GULAIKAMBING",
+      "reward": 90000000
+    },
+    {
+      "code": "SOPBUNTUTAS",
+      "reward": 90000000
+    },
+    {
+      "code": "SAYURBAYAM",
+      "reward": 90000000
+    },
+    {
+      "code": "TUMISKACANG",
+      "reward": 90000000
+    },
+    {
+      "code": "BALADOTERONG",
+      "reward": 90000000
+    },
+    {
+      "code": "SAMBELBAJAK",
+      "reward": 90000000
+    },
+    {
+      "code": "AMPUNDJBANG",
+      "reward": 90000000
+    },
+    {
+      "code": "GASSPOLBRO",
+      "reward": 90000000
+    },
+    {
+      "code": "MANTULBETUL",
+      "reward": 90000000
+    },
+    {
+      "code": "BAPERTIPIS",
+      "reward": 90000000
+    },
+    {
+      "code": "KEPOABISKAN",
+      "reward": 90000000
+    },
+    {
+      "code": "PHPHATIPECAH",
+      "reward": 90000000
+    },
+    {
+      "code": "KAMSEUPAYY",
+      "reward": 90000000
+    },
+    {
+      "code": "WACANATERUS",
+      "reward": 90000000
+    },
+    {
+      "code": "NYANTAIBROO",
+      "reward": 90000000
+    },
+    {
+      "code": "NGEGASTERUS",
+      "reward": 90000000
+    },
+    {
+      "code": "TANGANSURGA",
+      "reward": 90000000
+    },
+    {
+      "code": "BUCINBANGET",
+      "reward": 90000000
+    },
+    {
+      "code": "WUSSSSSING",
+      "reward": 90000000
+    },
+    {
+      "code": "VRUMVRUM88",
+      "reward": 90000000
+    },
+    {
+      "code": "WUNGWUNGGS",
+      "reward": 90000000
+    },
+    {
+      "code": "BLAYERHARDS",
+      "reward": 90000000
+    },
+    {
+      "code": "NDUTNDUTGS",
+      "reward": 90000000
+    },
+    {
+      "code": "DRUMDRUMGS",
+      "reward": 90000000
+    },
+    {
+      "code": "GREENGGRENG",
+      "reward": 90000000
+    },
+    {
+      "code": "GERUNGGS88",
+      "reward": 90000000
+    },
+    {
+      "code": "REDLINESLR",
+      "reward": 90000000
+    },
+    {
+      "code": "PUTARANMAX",
+      "reward": 90000000
+    },
+    {
+      "code": "FULLTROTTLE",
+      "reward": 90000000
+    },
+    {
+      "code": "WIDEOPENTL",
+      "reward": 90000000
+    },
+    {
+      "code": "PEDALTERUS",
+      "reward": 90000000
+    },
+    {
+      "code": "GASSTERTIB",
+      "reward": 90000000
+    },
+    {
+      "code": "BREEEM500JOSS",
+      "reward": 500000000
+    },
+    {
+      "code": "DRUUUUG500MAX",
+      "reward": 500000000
+    },
+    {
+      "code": "WUSSSS500GAS",
+      "reward": 500000000
+    },
+    {
+      "code": "BLAYER500HARD",
+      "reward": 500000000
+    },
+    {
+      "code": "REDLINE500MAX",
+      "reward": 500000000
+    },
+    {
+      "code": "GASPOLL500BRO",
+      "reward": 500000000
+    },
+    {
+      "code": "MANTUL500BTL",
+      "reward": 500000000
+    },
+    {
+      "code": "GERCEP500IN",
+      "reward": 500000000
+    },
+    {
+      "code": "NGEGAS500TRS",
+      "reward": 500000000
+    },
+    {
+      "code": "SAVAGE500COY",
+      "reward": 500000000
+    },
+    {
+      "code": "BEGAL500SUBUH",
+      "reward": 500000000
+    },
+    {
+      "code": "SUNMOR500INDO",
+      "reward": 500000000
+    },
+    {
+      "code": "KONVOY500DINI",
+      "reward": 500000000
+    },
+    {
+      "code": "BIKERS500GOKIL",
+      "reward": 500000000
+    },
+    {
+      "code": "TUNGGANG500SK",
+      "reward": 500000000
+    },
+    {
+      "code": "BABAT500BATAS",
+      "reward": 500000000
+    },
+    {
+      "code": "SROBOT500KNG",
+      "reward": 500000000
+    },
+    {
+      "code": "NGEBUT500MLM",
+      "reward": 500000000
+    },
+    {
+      "code": "TANCAP500GEAR",
+      "reward": 500000000
+    },
+    {
+      "code": "WIDEOPEN500MX",
+      "reward": 500000000
+    }
   ]
 }
