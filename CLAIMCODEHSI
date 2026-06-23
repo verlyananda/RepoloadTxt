@@ -103,8 +103,7 @@
     { "code": "HSIALDOPRIMARY", "reward": 90000000 },
     { "code": "ALDOHSIKUNCI", "reward": 90000000 },
     { "code": "HSIALDORAHASIA", "reward": 90000000 },
-{
-  "codes": [
+
     { "code": "ADHITHSIGANTENG", "reward": 500000000 },
     { "code": "ADHITHSIKEREN", "reward": 500000000 },
     { "code": "ADHITHSIJUARA", "reward": 500000000 },
@@ -304,9 +303,30 @@
     { "code": "ADHITBESIHSI", "reward": 90000000 },
     { "code": "ADHITBAJAHSI", "reward": 90000000 },
     { "code": "ADHITALUMUNIUMHSI", "reward": 90000000 },
-    { "code": "ADHITTEMBAGAHSI", "reward": 90000000 }
-  ]
-}
+    { "code": "ADHITTEMBAGAHSI", "reward": 90000000 },
+ { "code": "KINGOPELLHSI", "reward": 500000000 },
+    { "code": "LORDOPELLHSI", "reward": 500000000 },
+    { "code": "SULTANOPELLHSI", "reward": 500000000 },
+    { "code": "MASTEROPELLHSI", "reward": 500000000 },
+    { "code": "SEPUHOPELLHSI", "reward": 500000000 },
+    { "code": "KAPTENOPELLHSI", "reward": 500000000 },
+    { "code": "JAGOANOPELLHSI", "reward": 500000000 },
+    { "code": "LEGENDOPELLHSI", "reward": 500000000 },
+    { "code": "EPICOPELLHSI", "reward": 500000000 },
+  { "code": "HSIOPELLHUJAN", "reward": 90000000 },
+    { "code": "HSIOPELLPETIR", "reward": 90000000 },
+    { "code": "HSIOPELLBADAI", "reward": 90000000 },
+    { "code": "HSIOPELLTOPAN", "reward": 90000000 },
+    { "code": "HSIOPELLTSUNAMI", "reward": 90000000 },
+    { "code": "HSIOPELLGEMPA", "reward": 90000000 },
+    { "code": "HSIOPELLGUNUNG", "reward": 90000000 },
+    { "code": "HSIOPELLBUKIT", "reward": 90000000 },
+    { "code": "HSIOPELLLEMBAH", "reward": 90000000 },
+    { "code": "OPELLSUNGAIHSI", "reward": 90000000 },
+    { "code": "OPELLDANAUHSI", "reward": 90000000 },
+    { "code": "OPELLLAUTHSI", "reward": 90000000 },
+    { "code": "OPELLSAMUDRAHSI", "reward": 90000000 },
+    { "code": "OPELLPANTAIHSI", "reward": 90000000 },
     {
       "code": "GANGSEMPIT",
       "reward": 90000000
