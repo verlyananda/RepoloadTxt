@@ -1,467 +1,423 @@
 {
   "codes": [
     {
-      "code": "BEGALSUBUH",
+      "code": "KAMPUNGJADUL",
       "reward": 90000000
     },
     {
-      "code": "BRAYOTGENG",
+      "code": "GANGSEMPIT",
       "reward": 90000000
     },
     {
-      "code": "NYALAINPETIR",
+      "code": "WARUNGKOPI",
       "reward": 90000000
     },
     {
-      "code": "BARENGRIDE",
+      "code": "WARUNGNASI",
       "reward": 90000000
     },
     {
-      "code": "KONVOYDINI",
+      "code": "WARUNGSEBELAH",
       "reward": 90000000
     },
     {
-      "code": "NONGKRONGAS",
+      "code": "POSKAMLING",
       "reward": 90000000
     },
     {
-      "code": "BIKERSGOKIL",
+      "code": "BALAIRWUNG",
       "reward": 90000000
     },
     {
-      "code": "SUNMORINDO",
+      "code": "MASJIDDESA",
       "reward": 90000000
     },
     {
-      "code": "TOURDEJAWA",
+      "code": "SAWAHHIJAU",
       "reward": 90000000
     },
     {
-      "code": "BENGISJALAN",
+      "code": "LADANGSEGAR",
       "reward": 90000000
     },
     {
-      "code": "TUNGGANGSAKTI",
+      "code": "KEBUNSAYUR",
       "reward": 90000000
     },
     {
-      "code": "NGEBUTMALEM",
+      "code": "PINGGIRSAWAH",
       "reward": 90000000
     },
     {
-      "code": "BABATBABATAS",
+      "code": "JALANSETAPAK",
       "reward": 90000000
     },
     {
-      "code": "SROBOTKING",
+      "code": "JEMBATANBAMBU",
       "reward": 90000000
     },
     {
-      "code": "TANCAPGEAR",
+      "code": "KANDANGAYAM",
       "reward": 90000000
     },
     {
-      "code": "BLAYERMAUT",
+      "code": "KOLAMRENANG",
       "reward": 90000000
     },
     {
-      "code": "NDESELRIDER",
+      "code": "PASARTUMPAH",
       "reward": 90000000
     },
     {
-      "code": "KEPRETGEAR",
+      "code": "PASARSUBUH",
       "reward": 90000000
     },
     {
-      "code": "JEPRETKOPLING",
+      "code": "TERMINALKOTA",
       "reward": 90000000
     },
     {
-      "code": "NGECENGSIBYAR",
+      "code": "STASIUNTUA",
       "reward": 90000000
     },
     {
-      "code": "NGINTIPCEWE",
+      "code": "PELABUHANTUA",
       "reward": 90000000
     },
     {
-      "code": "BLINGBLINGGS",
+      "code": "TUGUSEJARAH",
       "reward": 90000000
     },
     {
-      "code": "KOPIPAHITX",
+      "code": "LAYANGANTGGI",
       "reward": 90000000
     },
     {
-      "code": "NASIBUNGKUS",
+      "code": "GASINGPUTAR",
       "reward": 90000000
     },
     {
-      "code": "GORENGRENYAH",
+      "code": "KETAPELBATU",
       "reward": 90000000
     },
     {
-      "code": "LAUKKERIING",
+      "code": "PETASANBAMBU",
       "reward": 90000000
     },
     {
-      "code": "SAMBELHIDUP",
+      "code": "MAINKELERENG",
       "reward": 90000000
     },
     {
-      "code": "PETEKETOPRAK",
+      "code": "PETAKUMPETT",
       "reward": 90000000
     },
     {
-      "code": "REMPELOAYAM",
+      "code": "PERANGBANTAL",
       "reward": 90000000
     },
     {
-      "code": "OSENGKANGKUNG",
+      "code": "LOMBAKARUNG",
       "reward": 90000000
     },
     {
-      "code": "OSENGTEMPEH",
+      "code": "PANJATPINANG",
       "reward": 90000000
     },
     {
-      "code": "KRUPUKKAMPUNG",
+      "code": "MAKANKERUPUK",
       "reward": 90000000
     },
     {
-      "code": "BAKWANJAGUNG",
+      "code": "BALAPKELERENG",
       "reward": 90000000
     },
     {
-      "code": "TEMPEMENDOAN",
+      "code": "TARIKTAMBANG",
       "reward": 90000000
     },
     {
-      "code": "BEBEKGORENG",
+      "code": "BAKIAKBARENG",
       "reward": 90000000
     },
     {
-      "code": "GULAIKAMBING",
+      "code": "CONGKLAKKAYU",
       "reward": 90000000
     },
     {
-      "code": "SOPBUNTUTAS",
+      "code": "CICAKCICAK",
       "reward": 90000000
     },
     {
-      "code": "SAYURBAYAM",
+      "code": "GUNDU GUNDU",
       "reward": 90000000
     },
     {
-      "code": "TUMISKACANG",
+      "code": "KARETLOMPAT",
       "reward": 90000000
     },
     {
-      "code": "BALADOTERONG",
+      "code": "ENGKLEKSORE",
       "reward": 90000000
     },
     {
-      "code": "SAMBELBAJAK",
+      "code": "MALAMSUNYI",
       "reward": 90000000
     },
     {
-      "code": "AMPUNDJBANG",
+      "code": "MALAMHENING",
       "reward": 90000000
     },
     {
-      "code": "GASSPOLBRO",
+      "code": "MALAMBINTANG",
       "reward": 90000000
     },
     {
-      "code": "MANTULBETUL",
+      "code": "MALAMDINGIN",
       "reward": 90000000
     },
     {
-      "code": "BAPERTIPIS",
+      "code": "BULANPURNAMA",
       "reward": 90000000
     },
     {
-      "code": "KEPOABISKAN",
+      "code": "BULANSABIT",
       "reward": 90000000
     },
     {
-      "code": "PHPHATIPECAH",
+      "code": "BINTANGJATUH",
       "reward": 90000000
     },
     {
-      "code": "KAMSEUPAYY",
+      "code": "BINTANGUTARA",
       "reward": 90000000
     },
-{
-      "code": "KNALPOTRACING",
+    {
+      "code": "BINTANGFAJAR",
+      "reward": 90000000
+    },
+    {
+      "code": "LAMPUJALANN",
+      "reward": 90000000
+    },
+    {
+      "code": "LAMPUTAMAN",
+      "reward": 90000000
+    },
+    {
+      "code": "LAMPUSENJA",
+      "reward": 90000000
+    },
+    {
+      "code": "OBOROBORAN",
+      "reward": 90000000
+    },
+    {
+      "code": "KUNANGMALAM",
+      "reward": 90000000
+    },
+    {
+      "code": "KODOKBEREMBUNG",
+      "reward": 90000000
+    },
+    {
+      "code": "BURUNGHANTU",
+      "reward": 90000000
+    },
+    {
+      "code": "KELELAWARSORE",
+      "reward": 90000000
+    },
+    {
+      "code": "NGOPIMALAM",
+      "reward": 90000000
+    },
+    {
+      "code": "BEGADANGYUK",
+      "reward": 90000000
+    },
+    {
+      "code": "NONGKRONGMLM",
+      "reward": 90000000
+    },
+    {
+      "code": "PUJAANHATI",
+      "reward": 90000000
+    },
+    {
+      "code": "BELAHANJIWA",
+      "reward": 90000000
+    },
+    {
+      "code": "PERMAISURI",
+      "reward": 90000000
+    },
+    {
+      "code": "PUTRIIDAMAN",
+      "reward": 90000000
+    },
+    {
+      "code": "PRIAPILIHAN",
+      "reward": 90000000
+    },
+    {
+      "code": "CINTASEJATI",
       "reward": 90000000
     },
     {
-      "code": "HELMKACAFLAT",
+      "code": "CINTAMONYET",
       "reward": 90000000
     },
     {
-      "code": "JUPITERZBURHAN",
+      "code": "CINTAABADI",
       "reward": 90000000
     },
     {
-      "code": "KOPDARJAKSEL",
+      "code": "CINTABERSAMI",
       "reward": 90000000
     },
     {
-      "code": "NIKUNGTAJAM",
+      "code": "KASIHTAKSAMPAI",
       "reward": 90000000
     },
     {
-      "code": "ASPALPANAS",
+      "code": "RINDUMENDLM",
       "reward": 90000000
     },
     {
-      "code": "REMBULONGAS",
+      "code": "RINDUKAMPUNG",
       "reward": 90000000
     },
     {
-      "code": "SEINBELOKKANAN",
+      "code": "GETARANCINTA",
       "reward": 90000000
     },
     {
-      "code": "MIEAYAMBAKSO",
+      "code": "DEBARANHATI",
       "reward": 90000000
     },
     {
-      "code": "SATEPADANGGAS",
+      "code": "SALAMKANGEN",
       "reward": 90000000
     },
     {
-      "code": "ESTEHTARIK",
+      "code": "SURATCINTA",
       "reward": 90000000
     },
     {
-      "code": "NASIGORENGGILA",
+      "code": "PUISIROMAN",
       "reward": 90000000
     },
     {
-      "code": "MARTABAKTELOR",
+      "code": "PANTUNCINTA",
       "reward": 90000000
     },
     {
-      "code": "SANTUYSEKALII",
+      "code": "NYANYIANCINTA",
       "reward": 90000000
     },
     {
-      "code": "GASSKANDONGG",
+      "code": "KENANGINDAH",
       "reward": 90000000
     },
     {
-      "code": "JOMBLOHAPPY",
+      "code": "MEMORIINDAH",
       "reward": 90000000
     },
     {
-      "code": "PUSHRANKTERUS",
+      "code": "SENJABERSAMA",
       "reward": 90000000
     },
     {
-      "code": "MABARMLBB",
+      "code": "BULANCINTA",
       "reward": 90000000
     },
     {
-      "code": "ANAKREBAHAN",
+      "code": "MAWARMERAH",
       "reward": 90000000
     },
     {
-      "code": "DOMPETTIPIS",
+      "code": "MELATIPUTIH",
       "reward": 90000000
     },
     {
-      "code": "KOPDAR500KUY",
+      "code": "KAMPUNG500JADUL",
       "reward": 500000000
     },
     {
-      "code": "NIKUNG500MAX",
+      "code": "WARUNG500KOPI",
       "reward": 500000000
     },
     {
-      "code": "PUSHRANK500WIN",
+      "code": "MASJID500AGUNG",
       "reward": 500000000
     },
     {
-      "code": "KNALPOT500RACE",
+      "code": "PASAR500SUBUH",
       "reward": 500000000
     },
     {
-      "code": "GASS500POLLKAN",
+      "code": "ALUNALUN500MX",
       "reward": 500000000
     },
     {
-      "code": "MABAR500MALAM",
+      "code": "LAYANGAN500TGI",
       "reward": 500000000
     },
     {
-      "code": "BONCENG500AYANG",
+      "code": "GASING500PUTAR",
       "reward": 500000000
     },
     {
-      "code": "SANTUY500KALII",
+      "code": "CONGKLAK500KYU",
       "reward": 500000000
     },
     {
-      "code": "MARTABAK500MNS",
+      "code": "BENTENG500AN",
       "reward": 500000000
     },
     {
-      "code": "WACANATERUS",
-      "reward": 90000000
-    },
-    {
-      "code": "NYANTAIBROO",
-      "reward": 90000000
-    },
-    {
-      "code": "NGEGASTERUS",
-      "reward": 90000000
-    },
-    {
-      "code": "TANGANSURGA",
-      "reward": 90000000
-    },
-    {
-      "code": "BUCINBANGET",
-      "reward": 90000000
-    },
-    {
-      "code": "WUSSSSSING",
-      "reward": 90000000
-    },
-    {
-      "code": "VRUMVRUM88",
-      "reward": 90000000
-    },
-    {
-      "code": "WUNGWUNGGS",
-      "reward": 90000000
-    },
-    {
-      "code": "BLAYERHARDS",
-      "reward": 90000000
-    },
-    {
-      "code": "NDUTNDUTGS",
-      "reward": 90000000
-    },
-    {
-      "code": "DRUMDRUMGS",
-      "reward": 90000000
-    },
-    {
-      "code": "GREENGGRENG",
-      "reward": 90000000
-    },
-    {
-      "code": "GERUNGGS88",
-      "reward": 90000000
-    },
-    {
-      "code": "REDLINESLR",
-      "reward": 90000000
-    },
-    {
-      "code": "PUTARANMAX",
-      "reward": 90000000
-    },
-    {
-      "code": "FULLTROTTLE",
-      "reward": 90000000
-    },
-    {
-      "code": "WIDEOPENTL",
-      "reward": 90000000
-    },
-    {
-      "code": "PEDALTERUS",
-      "reward": 90000000
-    },
-    {
-      "code": "GASSTERTIB",
-      "reward": 90000000
-    },
-    {
-      "code": "BREEEM500JOSS",
+      "code": "GALAH500ASIN",
       "reward": 500000000
     },
     {
-      "code": "DRUUUUG500MAX",
+      "code": "BULAN500PURNAMA",
       "reward": 500000000
     },
     {
-      "code": "WUSSSS500GAS",
+      "code": "BINTANG500JATUH",
       "reward": 500000000
     },
     {
-      "code": "BLAYER500HARD",
+      "code": "APIUNGGUN500MX",
       "reward": 500000000
     },
     {
-      "code": "REDLINE500MAX",
+      "code": "KUNANG500MALAM",
       "reward": 500000000
     },
     {
-      "code": "GASPOLL500BRO",
+      "code": "BEGADANG500YUK",
       "reward": 500000000
     },
     {
-      "code": "MANTUL500BTL",
+      "code": "PUJAAN500HATI",
       "reward": 500000000
     },
     {
-      "code": "GERCEP500IN",
+      "code": "BELAHAN500JIWA",
       "reward": 500000000
     },
     {
-      "code": "NGEGAS500TRS",
+      "code": "CINTA500SEJATI",
       "reward": 500000000
     },
     {
-      "code": "SAVAGE500COY",
+      "code": "MAWAR500MERAH",
       "reward": 500000000
     },
     {
-      "code": "BEGAL500SUBUH",
-      "reward": 500000000
-    },
-    {
-      "code": "SUNMOR500INDO",
-      "reward": 500000000
-    },
-    {
-      "code": "KONVOY500DINI",
-      "reward": 500000000
-    },
-    {
-      "code": "BIKERS500GOKIL",
-      "reward": 500000000
-    },
-    {
-      "code": "TUNGGANG500SK",
-      "reward": 500000000
-    },
-    {
-      "code": "BABAT500BATAS",
-      "reward": 500000000
-    },
-    {
-      "code": "SROBOT500KNG",
-      "reward": 500000000
-    },
-    {
-      "code": "NGEBUT500MLM",
-      "reward": 500000000
-    },
-    {
-      "code": "TANCAP500GEAR",
-      "reward": 500000000
-    },
-    {
-      "code": "WIDEOPEN500MX",
+      "code": "MELATI500PUTIH",
       "reward": 500000000
     }
   ]
