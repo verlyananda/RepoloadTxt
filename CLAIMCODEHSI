@@ -17,6 +17,398 @@
       "reward": 500000000
     },
 {
+      "code": "VARIONGABERS",
+      "reward": 90000000
+    },
+    {
+      "code": "VARIOKIRIAN",
+      "reward": 90000000
+    },
+    {
+      "code": "VARIO150CC",
+      "reward": 90000000
+    },
+    {
+      "code": "VARIO125CC",
+      "reward": 90000000
+    },
+    {
+      "code": "VARIOKARBU",
+      "reward": 90000000
+    },
+    {
+      "code": "VARIOMODIF",
+      "reward": 90000000
+    },
+    {
+      "code": "VARIORACING",
+      "reward": 90000000
+    },
+    {
+      "code": "VARIOTOURING",
+      "reward": 90000000
+    },
+    {
+      "code": "VARIOSUNMORI",
+      "reward": 90000000
+    },
+    {
+      "code": "VARIOKOPDAR",
+      "reward": 90000000
+    },
+    {
+      "code": "VARIOHEREX",
+      "reward": 90000000
+    },
+    {
+      "code": "VARIOBANCAING",
+      "reward": 90000000
+    },
+    {
+      "code": "VARIOVELGJARI",
+      "reward": 90000000
+    },
+    {
+      "code": "VARIOTELAT",
+      "reward": 90000000
+    },
+    {
+      "code": "VARIOKENCANG",
+      "reward": 90000000
+    },
+    {
+      "code": "VARIOSANTAI",
+      "reward": 90000000
+    },
+    {
+      "code": "VARIOMABAR",
+      "reward": 90000000
+    },
+    {
+      "code": "VARIOSUHU",
+      "reward": 90000000
+    },
+    {
+      "code": "VARIOBOLO",
+      "reward": 90000000
+    },
+    {
+      "code": "AEROXGASS",
+      "reward": 90000000
+    },
+    {
+      "code": "AEROXNGABERS",
+      "reward": 90000000
+    },
+    {
+      "code": "AEROXKIRIAN",
+      "reward": 90000000
+    },
+    {
+      "code": "AEROX155CC",
+      "reward": 90000000
+    },
+    {
+      "code": "AEROXCONNECTED",
+      "reward": 90000000
+    },
+    {
+      "code": "AEROXMODIF",
+      "reward": 90000000
+    },
+    {
+      "code": "AEROXRACING",
+      "reward": 90000000
+    },
+    {
+      "code": "AEROXTOURING",
+      "reward": 90000000
+    },
+    {
+      "code": "AEROXSUNMORI",
+      "reward": 90000000
+    },
+    {
+      "code": "AEROXKOPDAR",
+      "reward": 90000000
+    },
+    {
+      "code": "AEROXHEREX",
+      "reward": 90000000
+    },
+    {
+      "code": "AEROXBANCAING",
+      "reward": 90000000
+    },
+    {
+      "code": "AEROXVELGJARI",
+      "reward": 90000000
+    },
+    {
+      "code": "AEROXTELAT",
+      "reward": 90000000
+    },
+    {
+      "code": "AEROXKENCANG",
+      "reward": 90000000
+    },
+    {
+      "code": "AEROXSANTAI",
+      "reward": 90000000
+    },
+    {
+      "code": "AEROXMABAR",
+      "reward": 90000000
+    },
+    {
+      "code": "AEROXSUHU",
+      "reward": 90000000
+    },
+    {
+      "code": "AEROXBOLO",
+      "reward": 90000000
+    },
+    {
+      "code": "AEROXJATIM",
+      "reward": 90000000
+    },
+    {
+      "code": "NINJAGASS",
+      "reward": 90000000
+    },
+    {
+      "code": "NINJANGABERS",
+      "reward": 90000000
+    },
+    {
+      "code": "NINJA2TAK",
+      "reward": 90000000
+    },
+    {
+      "code": "NINJA150RR",
+      "reward": 90000000
+    },
+    {
+      "code": "NINJA250FI",
+      "reward": 90000000
+    },
+    {
+      "code": "NINJAKARBU",
+      "reward": 90000000
+    },
+    {
+      "code": "NINJAMODIF",
+      "reward": 90000000
+    },
+    {
+      "code": "NINJARACING",
+      "reward": 90000000
+    },
+    {
+      "code": "NINJATOURING",
+      "reward": 90000000
+    },
+    {
+      "code": "NINJASUNMORI",
+      "reward": 90000000
+    },
+    {
+      "code": "NINJAKOPDAR",
+      "reward": 90000000
+    },
+    {
+      "code": "NINJAHEREX",
+      "reward": 90000000
+    },
+    {
+      "code": "NINJABANCAING",
+      "reward": 90000000
+    },
+    {
+      "code": "NINJAVELGJARI",
+      "reward": 90000000
+    },
+    {
+      "code": "NINJATELAT",
+      "reward": 90000000
+    },
+    {
+      "code": "NINJAKENCANG",
+      "reward": 90000000
+    },
+    {
+      "code": "NINJASANTAI",
+      "reward": 90000000
+    },
+    {
+      "code": "NINJAMABAR",
+      "reward": 90000000
+    },
+    {
+      "code": "NINJASUHU",
+      "reward": 90000000
+    },
+    {
+      "code": "NINJABOLO",
+      "reward": 90000000
+    },
+    {
+      "code": "HEREXGASS",
+      "reward": 90000000
+    },
+    {
+      "code": "HEREXNGABERS",
+      "reward": 90000000
+    },
+    {
+      "code": "HEREXJATIM",
+      "reward": 90000000
+    },
+    {
+      "code": "HEREXMADIUN",
+      "reward": 90000000
+    },
+    {
+      "code": "HEREXNGANJUK",
+      "reward": 90000000
+    },
+    {
+      "code": "HEREXMOJOKERTO",
+      "reward": 90000000
+    },
+    {
+      "code": "HEREXSIDOARJO",
+      "reward": 90000000
+    },
+    {
+      "code": "HEREXMODIF",
+      "reward": 90000000
+    },
+    {
+      "code": "HEREXRACING",
+      "reward": 90000000
+    },
+    {
+      "code": "HEREXTOURING",
+      "reward": 90000000
+    },
+    {
+      "code": "HEREXSUNMORI",
+      "reward": 90000000
+    },
+    {
+      "code": "HEREXKOPDAR",
+      "reward": 90000000
+    },
+    {
+      "code": "HEREXINDO",
+      "reward": 90000000
+    },
+    {
+      "code": "HEREXBANCAING",
+      "reward": 90000000
+    },
+    {
+      "code": "HEREXVELGJARI",
+      "reward": 90000000
+    },
+    {
+      "code": "HEREXTELAT",
+      "reward": 90000000
+    },
+    {
+      "code": "HEREXKENCANG",
+      "reward": 90000000
+    },
+    {
+      "code": "HEREXSANTAI",
+      "reward": 90000000
+    },
+    {
+      "code": "HEREXMABAR",
+      "reward": 90000000
+    },
+    {
+      "code": "HEREXSUHU",
+      "reward": 90000000
+    },
+    {
+      "code": "TIGERREVO",
+      "reward": 90000000
+    },
+    {
+      "code": "TIGER2000",
+      "reward": 90000000
+    },
+    {
+      "code": "TIGERMODIF",
+      "reward": 90000000
+    },
+    {
+      "code": "TIGERRACING",
+      "reward": 90000000
+    },
+    {
+      "code": "TIGERTOURING",
+      "reward": 90000000
+    },
+    {
+      "code": "GLPROMAX",
+      "reward": 90000000
+    },
+    {
+      "code": "GLNEOTECH",
+      "reward": 90000000
+    },
+    {
+      "code": "GLMODIF",
+      "reward": 90000000
+    },
+    {
+      "code": "GLRACING",
+      "reward": 90000000
+    },
+    {
+      "code": "GLTOURING",
+      "reward": 90000000
+    },
+    {
+      "code": "CB100KLASIK",
+      "reward": 90000000
+    },
+    {
+      "code": "CB125RACING",
+      "reward": 90000000
+    },
+    {
+      "code": "CBMODIF",
+      "reward": 90000000
+    },
+    {
+      "code": "CBTOURING",
+      "reward": 90000000
+    },
+    {
+      "code": "CBSUNMORI",
+      "reward": 90000000
+    },
+    {
+      "code": "MEGAPROHIU",
+      "reward": 90000000
+    },
+    {
+      "code": "MEGAPROPRIMUS",
+      "reward": 90000000
+    },
+    {
+      "code": "MPMODIF",
+      "reward": 90000000
+    },
+    {
+      "code": "MPRACING",
+      "reward": 90000000
+    },
+{
       "code": "VERLYVELG673",
       "reward": 90000000
     },
