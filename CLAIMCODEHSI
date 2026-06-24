@@ -836,6 +836,402 @@
       "code": "ALDOPISATO84",
       "reward": 90000000
     },
+{
+      "code": "ALDOHSINUSANTARA",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIMERAHPUTIH",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIGARUDA",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIINDONESIA",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIJAKARTA",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIBANDUNG",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSISURABAYA",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIJOGJA",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIBALI",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIMEDAN",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIMAKASSAR",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIPAPUA",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIKALIMANTAN",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSISULAWESI",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSISUMATERA",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIJAWA",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIRENDANG",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSINASIGORENG",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSISATEAYAM",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIBAKSO",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIMIEAYAM",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIGADOGADO",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIPEMPEK",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIMARTABAK",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSITERANGBULAN",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSICENDOL",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIESDAWET",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIKOPIHITAM",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIESTEHTARIK",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIGORENGAN",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIWAYANG",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIBATIK",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIANGKLUNG",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIGAMELAN",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIPENCAKSILAT",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIKERIS",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSICANDI",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIBROMO",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSITOBA",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIRINJANI",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIPRAMBANAN",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIBOROBUDUR",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIKOMODO",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIMONAS",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIBECAK",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIANGKOT",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIBAJAJ",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIWARKOP",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSINONGKRONG",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIWARTEG",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIPASARMALAM",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIALUNALUN",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIKABUPATEN",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIKECAMATAN",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIKELURAHAN",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIRTRW",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIKARTUKELUARGA",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIKTP",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSISIM",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSISTNK",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIPOLISI",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSITILANG",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIRAZIA",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSILAMPUMERAH",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIZONANYAMAN",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSITOL",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIRESTAREA",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIPOMBENZIN",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSITAMBALBAN",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIBENGKEL",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSISANTUY",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIMAGER",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIOTW",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSITHR",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIGAJIAN",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSITANGGALTUA",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIMUDIK",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSILEBARAN",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIPUASA",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSISAHUR",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIBUKAPUASA",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSITARAWEH",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIKOPDAR",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSISUNMORI",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSINGABERS",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIHEREX",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIMABAR",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIPUSHRANK",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSISUHU",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIBOLO",
+      "reward": 90000000
+    },
+    {
+      "code": "ALDOHSIVIP500",
+      "reward": 500000000
+    },
+    {
+      "code": "ALDOHSISULTAN500",
+      "reward": 500000000
+    },
+    {
+      "code": "ALDOHSIBOS500",
+      "reward": 500000000
+    },
+    {
+      "code": "ALDOHSI500MAX",
+      "reward": 500000000
+    },
+    {
+      "code": "ALDOHSI500JUTA",
+      "reward": 500000000
+    },
+    {
+      "code": "ALDOHSIGACOR500",
+      "reward": 500000000
+    },
+    {
+      "code": "ALDOHSIJOS500",
+      "reward": 500000000
+    },
+    {
+      "code": "ALDOHSIMANTAP500",
+      "reward": 500000000
+    },
+    {
+      "code": "ALDOHSISUHU500",
+      "reward": 500000000
+    },
     {
       "code": "ALDOMELOWO66",
       "reward": 90000000
