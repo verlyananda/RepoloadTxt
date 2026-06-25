@@ -5,6 +5,402 @@
       "reward": 90000000
     },
 {
+      "code": "KENZOHSIMANTAP",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIGACOR",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIKOPI",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIGAMING",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIMABAR",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSISANTUY",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSINONGKRONG",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIJALAN",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIMAKAN",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIREBAHAN",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIJUARA",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIVIP",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIBOSKU",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSISULTAN",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIJAWA",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIBALI",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSISUMATERA",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIKALIMANTAN",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIPAPUA",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIMALAM",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIPAGI",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSISIANG",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSISORE",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIHEBAT",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIKEREN",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSICEPAT",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIKILAT",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIPETIR",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIBINTANG",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIBULAN",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIMATAHARI",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIBUMI",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSILANGIT",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIAWAN",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIHUJAN",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIANGIN",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIAIR",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIAPI",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSITANAH",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIES",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIMENANG",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSISUKSES",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIKAYA",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIJAYA",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIMAKMUR",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSISEJAHTERA",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSIBAHAGIA",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSISENANG",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSITAWA",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSICINTA",
+      "reward": 90000000
+    },
+    {
+      "code": "KENZOHSI500MANTAP",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500GACOR",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500GAMING",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500MABAR",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500SANTUY",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500JUARA",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500VIP",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500BOSKU",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500SULTAN",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500HEBAT",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500KEREN",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500CEPAT",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500KILAT",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500PETIR",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500BINTANG",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500MENANG",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500SUKSES",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500KAYA",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500JAYA",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500MAKMUR",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500SEJAHTERA",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500BAHAGIA",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500SENANG",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500WINNER",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500PRO",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500LEGEND",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500EPIC",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500MYTHIC",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500SAVAGE",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500MANIAC",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500GODLIKE",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500UNSTOPPABLE",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500MONSTER",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500BEAST",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500CHAMPION",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500HERO",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500SUPER",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500ULTRA",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500MAX",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500MEGA",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500GIGA",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500TERA",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500NINJA",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500SAMURAI",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500KNIGHT",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500KING",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500QUEEN",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500PRINCE",
+      "reward": 500000000
+    },
+    {
+      "code": "KENZOHSI500DRAGON",
+      "reward": 500000000
+    },
+{
       "code": "DHITMAXSUNMORI",
       "reward": 90000000
     },
