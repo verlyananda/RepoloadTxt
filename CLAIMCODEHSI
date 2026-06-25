@@ -4,6 +4,398 @@
       "code": "HSIALDOJAKARTA",
       "reward": 90000000
     },
+{
+      "code": "DHITMAXSUNMORI",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXNGABERS",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXKOPDAR",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXTOURING",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXWHEELIE",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXSTOPPIE",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXCORNERING",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXNIKUNG",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXGEBER",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXBLAYER",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXHEREX",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXTHAILOOK",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXJAPSTYLE",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXCAFERACER",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXDRAGBIKE",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXROADRACE",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXNIGHTRIDE",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXRIDING",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXKNALPOT",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXVELGJARI",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXVELGRACING",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXBANCACING",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXBANTAPAK",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXKOPLING",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXREMCAKRAM",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXPISTONFORGED",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXBOREUP",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXSTROKEUP",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXKARBUPWK",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXINJEKSI",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXSHOCKTABUNG",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXTANGKIBENSIN",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXRANTAIOSING",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXGEARSET",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXMATIC",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXSPORT",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXBEBEK",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXMOGE",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXRXKING",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXNINJA",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXVARIO",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXAEROX",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXNMAX",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXPCX",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXBEAT",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXSUPRA",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXJUPITER",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXVESPA",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXTIGER",
+      "reward": 90000000
+    },
+    {
+      "code": "DHITMAXGASS500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXNGABERS500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXKOPDAR500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXSUNMORI500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXTOURING500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXHEREX500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXDRAG500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXWHEELIE500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXNIKUNG500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXGEBER500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXBLAYER500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXNIGHT500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXRIDING500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXBOREUP500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXSTROKE500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXKNALPOT500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXVELG500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXBAN500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXKOPLING500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXSHOCK500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXMATIC500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXSPORT500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXRXKING500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXNINJA500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXVARIO500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXAEROX500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXNMAX500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXPCX500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXBEAT500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXSUPRA500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXVESPA500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXTIGER500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXSUHU500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXBOLO500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXMANTAP500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXJOS500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXGACOR500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXSULTAN500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXBOSKU500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXAMPUN500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXJURAGAN500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXKENCANG500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXSANTAI500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXKUY500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXOTW500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXASPAL500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXJALANAN500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXSIRKUIT500",
+      "reward": 500000000
+    },
+    {
+      "code": "DHITMAXBALAP500",
+      "reward": 500000000
+    },
     {
       "code": "HSIALDOBALI",
       "reward": 90000000
