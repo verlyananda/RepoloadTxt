@@ -1,7 +1,7 @@
- "schedules": [
-    {
-      "id": "fiturpremium",
-      "endDate": "2026-07-22 23:59",
-      "enabled": true
-    }
+{
+  "schedules": [
+    { "id": "fiturpremium", "endDate": "2026-07-22 23:59", "enabled": true },
+    { "id": "HarleyRG",     "endDate": "2026-08-01 00:00", "enabled": true },
+    { "id": "Helm1",        "endDate": "2026-07-10 23:59", "enabled": false }
   ]
+}
