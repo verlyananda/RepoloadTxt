@@ -13,6 +13,7 @@
     { "code": "HSIMAXVENOM", "reward": 90000000 },
     { "code": "HSIMAXBLADE", "reward": 90000000 },
     { "code": "HSIMAXDRAGON", "reward": 90000000 },
+{ "code": "HSIMAXCREATORBATCH1", "reward": 50000000000 },
 { "code": "VGAMEDEVVECTOR", "reward": 90000000 },
     { "code": "VGAMEDEVBITMAP", "reward": 90000000 },
     { "code": "VGAMEDEVSPRITESHEET", "reward": 90000000 },
