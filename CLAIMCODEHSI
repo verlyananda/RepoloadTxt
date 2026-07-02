@@ -175,9 +175,8 @@
     { "code": "HSIMAXCROSSPLANE", "reward": 500000000 },
     { "code": "HSIMAXV4FACTORY", "reward": 500000000 },
     { "code": "HSIMAXSUPERCHARGED", "reward": 500000000 },
-    { "code": "HSIMAXBILLIONAIRE", "reward": 500000000 }
-  ]
-}
+    { "code": "HSIMAXBILLIONAIRE", "reward": 500000000 },
+  
     { "code": "HSIALDOSTROKEUP", "reward": 90000000 },
     { "code": "HSIALDONOKENAS", "reward": 90000000 },
     { "code": "HSIALDOSEHERLHK", "reward": 90000000 },
