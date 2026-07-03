@@ -8,6 +8,7 @@
     { "code": "HSIREHANKETIDURAN", "reward": 90000000 },
 { "code": "HSIALDOYAPPING", "reward": 90000000 },
   { "code": "ALDOTOKEN", "reward": 0, "token": 850 },
+  { "code": "ZOUTOKEN", "reward": 0, "token": 1500 },
     { "code": "HSISLEBEW", "reward": 90000000 },
     { "code": "HSIALDOJAMET", "reward": 90000000 },
     { "code": "HSIALDOMAGER", "reward": 90000000 },
