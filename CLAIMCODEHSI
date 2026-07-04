@@ -21,7 +21,11 @@
     { "code": "HSIDSERVERT3R77", "reward": 90000000, "note": "Kode Umum" },
     { "code": "HSIDAICOREFWSWG", "reward": 90000000, "note": "Kode Umum" },
     { "code": "HSIDAICORE8S9FF", "reward": 90000000, "note": "Kode Umum" },
-
+  { "code": "HSIMAXGANTENG", "reward": 500000000, "token": 0 },
+    { "code": "HSIMAXGGGEMINK", "reward": 500000000, "token": 0 },
+    { "code": "HSIMAXGGSLEBEW", "reward": 500000000, "token": 0 },
+    { "code": "HSIMAXVGAMEDEV", "reward": 500000000, "token": 0 },
+    { "code": "HSIMAXMANTAPJIWA", "reward": 500000000, "token": 0 },
     { "code": "HSINULIBURANHGXEH", "reward": 500000000, "note": "LIVE WISNU" },
     { "code": "HSINULIBURANNZD92", "reward": 500000000, "note": "LIVE WISNU" },
     { "code": "HSINULIBURANLPYMS", "reward": 500000000, "note": "LIVE WISNU" },
