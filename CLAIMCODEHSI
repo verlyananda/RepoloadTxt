@@ -83,6 +83,32 @@
     { "code": "HSI7AURAGHYG2", "reward": 90000000, "note": "LIVE LURAH MEKAH" },
     { "code": "HSI7EMBLEM6ZJT5", "reward": 90000000, "note": "LIVE LURAH MEKAH" },
     { "code": "HSI7SKINN8DDZ", "reward": 90000000, "note": "LIVE LURAH MEKAH" },
-    { "code": "HSI7EMBLEM3HPTD", "reward": 90000000, "note": "LIVE LURAH MEKAH" }
+    { "code": "HSI7EMBLEM3HPTD", "reward": 90000000, "note": "LIVE LURAH MEKAH" },
+
+    { "code": "HSIKOCPUQ", "reward": 500000000, "note": "LIVE KENZO" },
+    { "code": "HSIKOKEYBOARDZ", "reward": 500000000, "note": "LIVE KENZO" },
+    { "code": "HSIKOACM", "reward": 500000000, "note": "LIVE KENZO" },
+    { "code": "HSIKOKIPASK", "reward": 500000000, "note": "LIVE KENZO" },
+    { "code": "HSIKOCPUJ", "reward": 500000000, "note": "LIVE KENZO" },
+    { "code": "HSIKOMONITORG", "reward": 500000000, "note": "LIVE KENZO" },
+    { "code": "HSIKOSSDQ", "reward": 500000000, "note": "LIVE KENZO" },
+    { "code": "HSIKOMONITORC", "reward": 500000000, "note": "LIVE KENZO" },
+    { "code": "HSIKOPSUC", "reward": 500000000, "note": "LIVE KENZO" },
+    { "code": "HSIKOMONITORV", "reward": 500000000, "note": "LIVE KENZO" },
+    { "code": "HSIKZSSDQ", "reward": 90000000, "note": "LIVE KENZO" },
+    { "code": "HSIKZPSUH", "reward": 90000000, "note": "LIVE KENZO" },
+    { "code": "HSIKZPSUR", "reward": 90000000, "note": "LIVE KENZO" },
+    { "code": "HSIKZMOTHERBOARDG", "reward": 90000000, "note": "LIVE KENZO" },
+    { "code": "HSIKZMONITORH", "reward": 90000000, "note": "LIVE KENZO" },
+    { "code": "HSIKZMONITORT", "reward": 90000000, "note": "LIVE KENZO" },
+    { "code": "HSIKZACG", "reward": 90000000, "note": "LIVE KENZO" },
+    { "code": "HSIKZPSUW", "reward": 90000000, "note": "LIVE KENZO" },
+    { "code": "HSIKZKIPAST", "reward": 90000000, "note": "LIVE KENZO" },
+    { "code": "HSIKZKIPASN", "reward": 90000000, "note": "LIVE KENZO" },
+    { "code": "HSIKZCPUP", "reward": 90000000, "note": "LIVE KENZO" },
+    { "code": "HSIKZCPUS", "reward": 90000000, "note": "LIVE KENZO" },
+    { "code": "HSIKZACE", "reward": 90000000, "note": "LIVE KENZO" },
+    { "code": "HSIKZRAMZ", "reward": 90000000, "note": "LIVE KENZO" },
+    { "code": "HSIKZRAMJ", "reward": 90000000, "note": "LIVE KENZO" }
   ]
 }
