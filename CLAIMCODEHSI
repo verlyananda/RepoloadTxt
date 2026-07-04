@@ -21,12 +21,5 @@
     { "code": "HSIDSERVERT3R77", "reward": 90000000, "note": "Kode Umum" },
     { "code": "HSIDAICOREFWSWG", "reward": 90000000, "note": "Kode Umum" },
     { "code": "HSIDAICORE8S9FF", "reward": 90000000, "note": "Kode Umum" },
-
-    { "code": "HSIDVELG", "reward": 90000000 },
-    { "code": "HSIDRACING", "reward": 90000000 },
-    { "code": "HSIDTROMOL", "reward": 90000000 },
-    { "code": "HSIDKARBU", "reward": 90000000 },
-    { "code": "HSIDNOKEN", "reward": 90000000 },
-    { "code": "HSIDPISTON", "reward": 90000000 }
   ]
 }
