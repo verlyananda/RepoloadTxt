@@ -31,7 +31,12 @@
     { "code": "HSIALDOKINGHARRIES", "reward": 500000000, "token": 0 },
     { "code": "HSIALDOMASAK", "reward": 500000000, "token": 0 },
     { "code": "HSIALDOGORENG", "reward": 500000000, "token": 0 },
-  
+    { "code": "HSIALDOHARRIESGG", "reward": 500000000, "token": 0 },
+    { "code": "HSIGGHARRIESALDO", "reward": 500000000, "token": 0 },
+    { "code": "HSIALDOPESTA", "reward": 500000000, "token": 0 },
+    { "code": "HSIALDOPARTY", "reward": 500000000, "token": 0 },
+    { "code": "HSIPARTYGASKAN", "reward": 500000000, "token": 0 },
+    { "code": "HSIHARRIESPARTY", "reward": 500000000, "token": 0 },
  { "code": "HSIALDOMASAK", "reward": 500000000, "token": 0 },
     { "code": "HSIALDOBAGIBAGI", "reward": 500000000, "token": 0 },
     { "code": "HSIALDOGORENGCODE", "reward": 500000000, "token": 0 },
