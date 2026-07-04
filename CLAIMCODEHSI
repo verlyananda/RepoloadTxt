@@ -22,7 +22,7 @@
     { "code": "HSIDAICOREFWSWG", "reward": 90000000, "note": "Kode Umum" },
     { "code": "HSIDAICORE8S9FF", "reward": 90000000, "note": "Kode Umum" },
 
-   { "code": "HSINULIBURANHGXEH", "reward": 500000000, "note": "LIVE WISNU" },
+    { "code": "HSINULIBURANHGXEH", "reward": 500000000, "note": "LIVE WISNU" },
     { "code": "HSINULIBURANNZD92", "reward": 500000000, "note": "LIVE WISNU" },
     { "code": "HSINULIBURANLPYMS", "reward": 500000000, "note": "LIVE WISNU" },
     { "code": "HSINULIBURANKMNNE", "reward": 500000000, "note": "LIVE WISNU" },
@@ -31,6 +31,17 @@
     { "code": "HSINULIBURANZJWGK", "reward": 500000000, "note": "LIVE WISNU" },
     { "code": "HSINULIBURANUPD4D", "reward": 500000000, "note": "LIVE WISNU" },
     { "code": "HSINULIBURANCJHT4", "reward": 500000000, "note": "LIVE WISNU" },
-    { "code": "HSINULIBURANY67CF", "reward": 500000000, "note": "LIVE WISNU" }
+    { "code": "HSINULIBURANY67CF", "reward": 500000000, "note": "LIVE WISNU" },
+
+    { "code": "HSIDLURAHBOSSCPY74", "reward": 500000000, "note": "LIVE LurahMekah" },
+    { "code": "HSIDLURAHBOSS9EBKP", "reward": 500000000, "note": "LIVE LurahMekah" },
+    { "code": "HSIDLURAHBOSS92QXN", "reward": 500000000, "note": "LIVE LurahMekah" },
+    { "code": "HSIDLURAHBOSSHBJ8R", "reward": 500000000, "note": "LIVE LurahMekah" },
+    { "code": "HSIDLURAHBOSSCNGZB", "reward": 500000000, "note": "LIVE LurahMekah" },
+    { "code": "HSIDLURAHBOSS6ZM6L", "reward": 500000000, "note": "LIVE LurahMekah" },
+    { "code": "HSIDLURAHBOSSLD4P2", "reward": 500000000, "note": "LIVE LurahMekah" },
+    { "code": "HSIDLURAHBOSS7LPMT", "reward": 500000000, "note": "LIVE LurahMekah" },
+    { "code": "HSIDLURAHBOSSTFH94", "reward": 500000000, "note": "LIVE LurahMekah" },
+    { "code": "HSIDLURAHBOSSSR3KX", "reward": 500000000, "note": "LIVE LurahMekah" }
   ]
 }
