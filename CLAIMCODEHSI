@@ -22,11 +22,11 @@
     { "code": "HSIDAICOREFWSWG", "reward": 90000000, "note": "Kode Umum" },
     { "code": "HSIDAICORE8S9FF", "reward": 90000000, "note": "Kode Umum" },
 
-    { "code": "HSIREHANVELG", "reward": 90000000 },
-    { "code": "HSIREHANRACING", "reward": 90000000 },
-    { "code": "HSIREHANTROMOL", "reward": 90000000 },
-    { "code": "HSIREHANKARBU", "reward": 90000000 },
-    { "code": "HSIREHANNOKEN", "reward": 90000000 },
-    { "code": "HSIREHANPISTON", "reward": 90000000 }
+    { "code": "HSIDVELG", "reward": 90000000 },
+    { "code": "HSIDRACING", "reward": 90000000 },
+    { "code": "HSIDTROMOL", "reward": 90000000 },
+    { "code": "HSIDKARBU", "reward": 90000000 },
+    { "code": "HSIDNOKEN", "reward": 90000000 },
+    { "code": "HSIDPISTON", "reward": 90000000 }
   ]
 }
