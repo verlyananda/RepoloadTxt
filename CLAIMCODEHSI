@@ -1,6 +1,6 @@
 {
   "codes": [
- { "code": "HSIDAICORETU74C", "reward": 500000000, "note": "Kode Umum" },
+    { "code": "HSIDAICORETU74C", "reward": 500000000, "note": "Kode Umum" },
     { "code": "HSIDSERVERMYU9P", "reward": 500000000, "note": "Kode Umum" },
     { "code": "HSIDSERVERFJB9Z", "reward": 500000000, "note": "Kode Umum" },
     { "code": "HSIDSERVERKGETK", "reward": 500000000, "note": "Kode Umum" },
@@ -20,6 +20,6 @@
     { "code": "HSIDSERVER4DLTD", "reward": 90000000, "note": "Kode Umum" },
     { "code": "HSIDSERVERT3R77", "reward": 90000000, "note": "Kode Umum" },
     { "code": "HSIDAICOREFWSWG", "reward": 90000000, "note": "Kode Umum" },
-    { "code": "HSIDAICORE8S9FF", "reward": 90000000, "note": "Kode Umum" },
+    { "code": "HSIDAICORE8S9FF", "reward": 90000000, "note": "Kode Umum" }
   ]
 }
