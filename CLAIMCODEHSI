@@ -24,6 +24,20 @@
     { "code": "HSIMAXEXCLUSIVE", "reward": 500000000 },
     { "code": "HSIMAXEPICWIN", "reward": 500000000 },
     { "code": "HSIMAXJACKPOT", "reward": 500000000 },
+{ "code": "VGAMEDEVGANTENG", "reward": 500000000 },
+    { "code": "VGAMEDEVKECE", "reward": 500000000 },
+    { "code": "VGAMEDEVKEREN", "reward": 500000000 },
+    { "code": "VGAMEDEVPRO", "reward": 500000000 },
+    { "code": "VGAMEDEVGGWP", "reward": 500000000 },
+    { "code": "VGAMEDEVGACOR", "reward": 500000000 },
+    { "code": "VGAMEDEVJENIUS", "reward": 500000000 },
+    { "code": "VGAMEDEVTAMPAN", "reward": 500000000 },
+    { "code": "VGAMEDEVWANGI", "reward": 500000000 },
+    { "code": "VGAMEDEVIDAMAN", "reward": 500000000 },
+    { "code": "VGAMEDEVTERBAIK", "reward": 500000000 },
+    { "code": "VGAMEDEVMASTER", "reward": 500000000 },
+    { "code": "VGAMEDEVMAHAL", "reward": 500000000 },
+    { "code": "VGAMEDEVKACAU", "reward": 500000000 },
     { "code": "HSIMAXLEGEND", "reward": 500000000 }
   ]
 }
