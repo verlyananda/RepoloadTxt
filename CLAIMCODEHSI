@@ -1,1 +1,29 @@
-
+{
+  "codes": [
+    { "code": "HSIMAXKECE", "reward": 90000000 },
+    { "code": "HSIMAXKEREN", "reward": 90000000 },
+    { "code": "HSIMAXLAGI", "reward": 90000000 },
+    { "code": "HSIMAXMANTAP", "reward": 90000000 },
+    { "code": "HSIMAXGOKIL", "reward": 90000000 },
+    { "code": "HSIMAXSANTAI", "reward": 90000000 },
+    { "code": "HSIMAXWADIDAW", "reward": 90000000 },
+    { "code": "HSIMAXALRIGHT", "reward": 90000000 },
+    { "code": "HSIMAXGASKEN", "reward": 90000000 },
+    { "code": "HSIMAXASIK", "reward": 90000000 },
+    { "code": "HSIMAXBOOM", "reward": 90000000 },
+    { "code": "HSIMAXHYPE", "reward": 90000000 },
+    { "code": "HSIMAXCHILLMULU", "reward": 90000000 },
+    { "code": "HSIMAXYOW", "reward": 90000000 },
+    { "code": "HSIMAXSOBAT", "reward": 90000000 },
+    { "code": "HSIMAXSULTAN", "reward": 500000000 },
+    { "code": "HSIMAXPRESTIGE", "reward": 500000000 },
+    { "code": "HSIMAXLUXURY", "reward": 500000000 },
+    { "code": "HSIMAXGLORY", "reward": 500000000 },
+    { "code": "HSIMAXVICTORY", "reward": 500000000 },
+    { "code": "HSIMAXPREMIUM", "reward": 500000000 },
+    { "code": "HSIMAXEXCLUSIVE", "reward": 500000000 },
+    { "code": "HSIMAXEPICWIN", "reward": 500000000 },
+    { "code": "HSIMAXJACKPOT", "reward": 500000000 },
+    { "code": "HSIMAXLEGEND", "reward": 500000000 }
+  ]
+}
