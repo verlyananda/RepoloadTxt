@@ -1,5 +1,19 @@
 {
   "codes": [
+
+    { "code": "HSIMAULWINGSYS", "reward": 90000000 },
+    { "code": "HSIMAULV12TWIN", "reward": 90000000 },
+    { "code": "HSIMAULAIRFLOW", "reward": 90000000 },
+    { "code": "HSIMAULDIFFUSE", "reward": 90000000 },
+    { "code": "HSIMAULGFORCE", "reward": 90000000 },
+    { "code": "HSIMAULSTRUTBR", "reward": 90000000 },
+    { "code": "HSIMAULCERAMIC", "reward": 90000000 },
+    { "code": "HSIMAULTRACKED", "reward": 90000000 },
+    { "code": "HSIMAULINTERST", "reward": 90000000 },
+    { "code": "HSIMAULAPEXKING", "reward": 500000000 },
+    { "code": "HSIMAULHYPERDRV", "reward": 500000000 },
+    { "code": "HSIMAULMEGATTST", "reward": 500000000 },
+    { "code": "HSIMAULDOWNFORC", "reward": 500000000,
     { "code": "HSIALDORECON", "reward": 90000000 },
     { "code": "HSIALDOSTAGEONE", "reward": 90000000 },
     { "code": "HSIALDOAPEXSEEK", "reward": 90000000 },
