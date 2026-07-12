@@ -1,7 +1,7 @@
 {
-    "latestVersion": "1.0.97",
+    "latestVersion": "1.0.103",
     "title": "INFO",
-    "message": "UPDATE SEKARANG ADA FITUR PREM 2! ",
-    "showPopup": false,
+    "message": "UPDATE SEKARANG! ",
+    "showPopup": true,
     "updateLink": "https://play.google.com/store/apps/details?id=net.verlygamedev.herexsimulatorindonesiamax"
 }
