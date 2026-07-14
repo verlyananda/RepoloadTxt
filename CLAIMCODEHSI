@@ -1631,6 +1631,30 @@
     { "code": "HSIWISNUAYA", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIWISNUAJIB", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIWISNUJALU", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Kamus Sunda"] },
-    { "code": "HSIWISNUIPIS", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Kamus Sunda"] }
+    { "code": "HSIWISNUIPIS", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Kamus Sunda"] },
+
+    { "code": "HSIKUCAIBAGI", "reward": 90000000, "token": 0, "creator": "KUCAI", "note": "SALURAN", "categories": ["Kamus Sunda"] },
+    { "code": "HSIKUCAIBAHAN", "reward": 90000000, "token": 0, "creator": "KUCAI", "note": "SALURAN", "categories": ["Kamus Sunda"] },
+    { "code": "HSIKUCAIAPAS", "reward": 90000000, "token": 0, "creator": "KUCAI", "note": "SALURAN", "categories": ["Kamus Sunda"] },
+    { "code": "HSIKUCAIPOYOK", "reward": 90000000, "token": 0, "creator": "KUCAI", "note": "SALURAN", "categories": ["Kamus Sunda"] },
+    { "code": "HSIKUCAIPALAY", "reward": 90000000, "token": 0, "creator": "KUCAI", "note": "SALURAN", "categories": ["Kamus Sunda"] },
+    { "code": "HSIKUCAIAJAT", "reward": 90000000, "token": 0, "creator": "KUCAI", "note": "SALURAN", "categories": ["Kamus Sunda"] },
+    { "code": "HSIKUCAIADAN", "reward": 90000000, "token": 0, "creator": "KUCAI", "note": "SALURAN", "categories": ["Kamus Sunda"] },
+    { "code": "HSIKUCAIBITU", "reward": 90000000, "token": 0, "creator": "KUCAI", "note": "SALURAN", "categories": ["Kamus Sunda"] },
+    { "code": "HSIKUCAIPIKER", "reward": 90000000, "token": 0, "creator": "KUCAI", "note": "SALURAN", "categories": ["Kamus Sunda"] },
+    { "code": "HSIKUCAIPAPAH", "reward": 90000000, "token": 0, "creator": "KUCAI", "note": "SALURAN", "categories": ["Kamus Sunda"] },
+    { "code": "HSIKUCAIAS", "reward": 90000000, "token": 0, "creator": "KUCAI", "note": "SALURAN", "categories": ["Kamus Sunda"] },
+    { "code": "HSIKUCAIBUJUR", "reward": 90000000, "token": 0, "creator": "KUCAI", "note": "SALURAN", "categories": ["Kamus Sunda"] },
+    { "code": "HSIKUCAIPAN", "reward": 90000000, "token": 0, "creator": "KUCAI", "note": "SALURAN", "categories": ["Kamus Sunda"] },
+    { "code": "HSIKUCAIARUT", "reward": 90000000, "token": 0, "creator": "KUCAI", "note": "SALURAN", "categories": ["Kamus Sunda"] },
+    { "code": "HSIKUCAIYUDA", "reward": 90000000, "token": 0, "creator": "KUCAI", "note": "SALURAN", "categories": ["Kamus Sunda"] },
+
+
+    { "code": "HSIKUCAITIBA", "reward": 500000000, "token": 0, "creator": "KUCAI", "note": "SALURAN", "categories": ["Kamus Sunda"] },
+    { "code": "HSIKUCAITUAR", "reward": 500000000, "token": 0, "creator": "KUCAI", "note": "SALURAN", "categories": ["Kamus Sunda"] },
+    { "code": "HSIKUCAIHABEK", "reward": 500000000, "token": 0, "creator": "KUCAI", "note": "SALURAN", "categories": ["Kamus Sunda"] },
+    { "code": "HSIKUCAIMEULI", "reward": 500000000, "token": 0, "creator": "KUCAI", "note": "SALURAN", "categories": ["Kamus Sunda"] },
+    { "code": "HSIKUCAIBAPA", "reward": 500000000, "token": 0, "creator": "KUCAI", "note": "SALURAN", "categories": ["Kamus Sunda"] },
+    { "code": "HSIKUCAIITU", "reward": 500000000, "token": 0, "creator": "KUCAI", "note": "SALURAN", "categories": ["Kamus Sunda"] }
   ]
 }
