@@ -1,9 +1,8 @@
 
 {
-  "total": 1440,
-  "creators": ["@ANUGRAH_1507","@BANGPELL18","@KENZOESPORT2026","@HEREX_SIMULATOR_V2","@ALEDA4229","@WISNUNGOKNGOK","@BGPUSAT1","@DHIT_MAX09"],
+
   "codes": [
-    // Code Selasa · Reward 90.000.000 · 14 Juli 2026 · Kategori/Tema: Spesial — 20 kode
+  
     { "code": "HSIANGGAJPWIN", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIANGGAOPNIH", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIANGGABIKER", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] },
@@ -25,7 +24,7 @@
     { "code": "HSIANGGAEZ99", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIANGGAPRO", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Selasa · Reward 500.000.000 · 14 Juli 2026 · Kategori/Tema: Spesial — 10 kode
+
     { "code": "HSIANGGAWPJP", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIANGGANIHWP", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIANGGAOPMAX", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] },
@@ -37,7 +36,7 @@
     { "code": "HSIANGGAKUY88", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIANGGAYGYJP", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Rabu · Reward 90.000.000 · 15 Juli 2026 · Kategori/Tema: Teknologi — 20 kode
+
     { "code": "HSIANGGAWAX", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIANGGANICK", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIANGGAPIER", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Teknologi"] },
@@ -59,7 +58,7 @@
     { "code": "HSIANGGASMART", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIANGGARAM", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Teknologi"] },
 
-    // Code Rabu · Reward 500.000.000 · 15 Juli 2026 · Kategori/Tema: Teknologi — 10 kode
+
     { "code": "HSIANGGATOOL", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIANGGATURN", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIANGGAAUDIO", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Teknologi"] },
@@ -71,7 +70,7 @@
     { "code": "HSIANGGAFILE", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIANGGATESLA", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Teknologi"] },
 
-    // Code Kamis · Reward 90.000.000 · 16 Juli 2026 · Kategori/Tema: Senjata — 20 kode
+
     { "code": "HSIANGGAOPSVD", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIANGGABATOP", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIANGGAOPBAT", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Senjata"] },
@@ -93,7 +92,7 @@
     { "code": "HSIANGGAGGSKS", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIANGGAOPVSS", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Senjata"] },
 
-    // Code Kamis · Reward 500.000.000 · 16 Juli 2026 · Kategori/Tema: Senjata — 10 kode
+
     { "code": "HSIANGGAM14OP", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIANGGASVDGG", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIANGGAAWMGG", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Senjata"] },
@@ -105,7 +104,7 @@
     { "code": "HSIANGGAUZIGG", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIANGGAOPM60", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Senjata"] },
 
-    // Code Jumat · Reward 90.000.000 · 17 Juli 2026 · Kategori/Tema: Spesial — 20 kode
+
     { "code": "HSIANGGAJP77", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIANGGAYGYOP", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIANGGASAH77", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] },
@@ -127,7 +126,7 @@
     { "code": "HSIANGGAOPYUK", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIANGGAOP", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Jumat · Reward 500.000.000 · 17 Juli 2026 · Kategori/Tema: Spesial — 10 kode
+  
     { "code": "HSIANGGASUPER", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIANGGAVVIP", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIANGGASABI", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] },
@@ -139,7 +138,7 @@
     { "code": "HSIANGGAWPVIP", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIANGGAEVENT", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Sabtu · Reward 90.000.000 · 18 Juli 2026 · Kategori/Tema: Gaul Indonesia — 20 kode
+  
     { "code": "HSIANGGAOOTLI", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIANGGANGTBL", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIANGGAPAPME", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Gaul Indonesia"] },
@@ -161,7 +160,7 @@
     { "code": "HSIANGGAKEGAN", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIANGGAMEIRL", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Gaul Indonesia"] },
 
-    // Code Sabtu · Reward 500.000.000 · 18 Juli 2026 · Kategori/Tema: Gaul Indonesia — 10 kode
+
     { "code": "HSIANGGADIPAP", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIANGGABOMAT", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIANGGAGILS", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Gaul Indonesia"] },
@@ -173,7 +172,7 @@
     { "code": "HSIANGGAYGYON", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIANGGABETON", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Gaul Indonesia"] },
 
-    // Code Minggu · Reward 90.000.000 · 19 Juli 2026 · Kategori/Tema: Kamus Sunda — 20 kode
+
     { "code": "HSIANGGAPATI", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIANGGAMUNG", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIANGGACOLOK", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Kamus Sunda"] },
@@ -195,7 +194,7 @@
     { "code": "HSIANGGARUGI", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIANGGARIDHO", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Kamus Sunda"] },
 
-    // Code Minggu · Reward 500.000.000 · 19 Juli 2026 · Kategori/Tema: Kamus Sunda — 10 kode
+
     { "code": "HSIANGGAAREL", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIANGGAARAF", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIANGGAASUNG", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Kamus Sunda"] },
@@ -207,9 +206,7 @@
     { "code": "HSIANGGAHEES", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIANGGAHAWA", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Kamus Sunda"] },
 
-------------------- SEMUA CODE CREATOR @ANUGRAH_1507 -----------------------
 
-    // Code Selasa · Reward 90.000.000 · 14 Juli 2026 · Kategori/Tema: Spesial — 20 kode
     { "code": "HSIREHANNIH77", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIREHANPASTI", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIREHANGGKUY", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
@@ -231,7 +228,7 @@
     { "code": "HSIREHANGGEZ", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIREHANYGYOP", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Selasa · Reward 500.000.000 · 14 Juli 2026 · Kategori/Tema: Spesial — 10 kode
+
     { "code": "HSIREHANOP888", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIREHANJP88", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIREHANPROJP", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
@@ -243,7 +240,7 @@
     { "code": "HSIREHANSAHJP", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIREHANJP999", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Rabu · Reward 90.000.000 · 15 Juli 2026 · Kategori/Tema: Teknologi — 20 kode
+
     { "code": "HSIREHANGAWAI", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIREHANHEBAT", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIREHANHAPUS", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Teknologi"] },
@@ -265,7 +262,7 @@
     { "code": "HSIREHANMIKRO", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIREHANVARY", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Teknologi"] },
 
-    // Code Rabu · Reward 500.000.000 · 15 Juli 2026 · Kategori/Tema: Teknologi — 10 kode
+
     { "code": "HSIREHANAGENT", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIREHANSTILL", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIREHANSIBER", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Teknologi"] },
@@ -277,7 +274,7 @@
     { "code": "HSIREHANLINK", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIREHANAKTIF", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Teknologi"] },
 
-    // Code Kamis · Reward 90.000.000 · 16 Juli 2026 · Kategori/Tema: Senjata — 20 kode
+
     { "code": "HSIREHANOPAWM", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIREHANGGUZI", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIREHANXM8OP", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Senjata"] },
@@ -299,7 +296,7 @@
     { "code": "HSIREHANGGAUG", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIREHANOPM79", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Senjata"] },
 
-    // Code Kamis · Reward 500.000.000 · 16 Juli 2026 · Kategori/Tema: Senjata — 10 kode
+
     { "code": "HSIREHANBUSUR", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIREHANLASER", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIREHANBLADE", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Senjata"] },
@@ -311,7 +308,7 @@
     { "code": "HSIREHANAWMGG", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIREHANBATOP", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Senjata"] },
 
-    // Code Jumat · Reward 90.000.000 · 17 Juli 2026 · Kategori/Tema: Spesial — 20 kode
+ 
     { "code": "HSIREHANEPIC", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIREHANEZVIP", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIREHANKUYOP", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
@@ -333,7 +330,7 @@
     { "code": "HSIREHANVIP88", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIREHANMAX77", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Jumat · Reward 500.000.000 · 17 Juli 2026 · Kategori/Tema: Spesial — 10 kode
+
     { "code": "HSIREHANGANS", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIREHANMAX88", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIREHANPUHJP", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
@@ -345,7 +342,7 @@
     { "code": "HSIREHANDONG", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIREHANJUARA", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Sabtu · Reward 90.000.000 · 18 Juli 2026 · Kategori/Tema: Gaul Indonesia — 20 kode
+
     { "code": "HSIREHANJUDES", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIREHANSEREB", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIREHANEGPLO", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Gaul Indonesia"] },
@@ -367,7 +364,7 @@
     { "code": "HSIREHANEKEON", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIREHANSAEAN", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Gaul Indonesia"] },
 
-    // Code Sabtu · Reward 500.000.000 · 18 Juli 2026 · Kategori/Tema: Gaul Indonesia — 10 kode
+
     { "code": "HSIREHANBORER", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIREHANBET", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIREHANOOTLO", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Gaul Indonesia"] },
@@ -379,7 +376,7 @@
     { "code": "HSIREHANNGPOY", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIREHANGWSLI", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Gaul Indonesia"] },
 
-    // Code Minggu · Reward 90.000.000 · 19 Juli 2026 · Kategori/Tema: Kamus Sunda — 20 kode
+
     { "code": "HSIREHANDIEU", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIREHANAGING", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIREHANASIR", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Kamus Sunda"] },
@@ -401,7 +398,7 @@
     { "code": "HSIREHANAMANG", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIREHANEA", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Kamus Sunda"] },
 
-    // Code Minggu · Reward 500.000.000 · 19 Juli 2026 · Kategori/Tema: Kamus Sunda — 10 kode
+
     { "code": "HSIREHANKUTAN", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIREHANAYAL", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIREHANPILAR", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Kamus Sunda"] },
@@ -413,9 +410,7 @@
     { "code": "HSIREHANCAI", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIREHANMEULI", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Kamus Sunda"] },
 
-------------------- SEMUA CODE CREATOR @BANGPELL18 -----------------------
 
-    // Code Selasa · Reward 90.000.000 · 14 Juli 2026 · Kategori/Tema: Spesial — 20 kode
     { "code": "HSIPELLPRO77", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIPELLSAHJP", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIPELLGGJP", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
@@ -437,7 +432,7 @@
     { "code": "HSIPELLPUHJP", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIPELLVIP88", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Selasa · Reward 500.000.000 · 14 Juli 2026 · Kategori/Tema: Spesial — 10 kode
+
     { "code": "HSIPELLNIH", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIPELLJPVIP", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIPELLJOKI", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
@@ -449,7 +444,7 @@
     { "code": "HSIPELLGGVIP", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIPELLMAX88", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Rabu · Reward 90.000.000 · 15 Juli 2026 · Kategori/Tema: Teknologi — 20 kode
+
     { "code": "HSIPELLDEBUG", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIPELLMAKER", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIPELLHERTZ", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Teknologi"] },
@@ -471,7 +466,7 @@
     { "code": "HSIPELLBLEED", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIPELLMILK", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Teknologi"] },
 
-    // Code Rabu · Reward 500.000.000 · 15 Juli 2026 · Kategori/Tema: Teknologi — 10 kode
+
     { "code": "HSIPELLATUR", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIPELLCETAK", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIPELLWEAVE", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Teknologi"] },
@@ -483,7 +478,7 @@
     { "code": "HSIPELLFILCH", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIPELLPAKET", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Teknologi"] },
 
-    // Code Kamis · Reward 90.000.000 · 16 Juli 2026 · Kategori/Tema: Senjata — 20 kode
+
     { "code": "HSIPELLAUGOP", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIPELLSKSGG", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIPELLM14GG", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
@@ -505,7 +500,7 @@
     { "code": "HSIPELLGGVSS", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIPELLM14OP", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
 
-    // Code Kamis · Reward 500.000.000 · 16 Juli 2026 · Kategori/Tema: Senjata — 10 kode
+
     { "code": "HSIPELLM79GG", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIPELLMECHA", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIPELLGGXM8", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
@@ -517,7 +512,7 @@
     { "code": "HSIPELLVSSOP", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIPELLM79OP", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
 
-    // Code Jumat · Reward 90.000.000 · 17 Juli 2026 · Kategori/Tema: Spesial — 20 kode
+
     { "code": "HSIPELLGGKUY", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIPELLMAXWP", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIPELLJP99", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
@@ -539,7 +534,7 @@
     { "code": "HSIPELLOPKUY", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIPELLVALID", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Jumat · Reward 500.000.000 · 17 Juli 2026 · Kategori/Tema: Spesial — 10 kode
+
     { "code": "HSIPELLMAX77", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIPELLPROJP", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIPELLWPNIH", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
@@ -551,7 +546,7 @@
     { "code": "HSIPELLBEBAS", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIPELLJP77", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Sabtu · Reward 90.000.000 · 18 Juli 2026 · Kategori/Tema: Gaul Indonesia — 20 kode
+
     { "code": "HSIPELLPOYME", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIPELLNGYGY", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIPELLMEKUY", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Gaul Indonesia"] },
@@ -573,7 +568,7 @@
     { "code": "HSIPELLGWSIN", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIPELLPAPED", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Gaul Indonesia"] },
 
-    // Code Sabtu · Reward 500.000.000 · 18 Juli 2026 · Kategori/Tema: Gaul Indonesia — 10 kode
+
     { "code": "HSIPELLGAMON", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIPELLKEKUY", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIPELLGACOR", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Gaul Indonesia"] },
@@ -585,7 +580,7 @@
     { "code": "HSIPELLBAP", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIPELLDIBAP", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Gaul Indonesia"] },
 
-    // Code Minggu · Reward 90.000.000 · 19 Juli 2026 · Kategori/Tema: Kamus Sunda — 20 kode
+
     { "code": "HSIPELLLAUN", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIPELLBAL", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIPELLPUTUS", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Kamus Sunda"] },
@@ -607,7 +602,7 @@
     { "code": "HSIPELLASEP", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIPELLBUTUH", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Kamus Sunda"] },
 
-    // Code Minggu · Reward 500.000.000 · 19 Juli 2026 · Kategori/Tema: Kamus Sunda — 10 kode
+
     { "code": "HSIPELLCLAK", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIPELLASRAL", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIPELLAWAN", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Kamus Sunda"] },
@@ -619,9 +614,7 @@
     { "code": "HSIPELLDOSA", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIPELLADI", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Kamus Sunda"] },
 
-------------------- SEMUA CODE CREATOR @BGPUSAT1 -----------------------
 
-    // Code Selasa · Reward 90.000.000 · 14 Juli 2026 · Kategori/Tema: Spesial — 20 kode
     { "code": "HSIALDOSEPUH", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOWP88", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOCUAN", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
@@ -643,7 +636,7 @@
     { "code": "HSIALDOSUPER", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOPUH", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Selasa · Reward 500.000.000 · 14 Juli 2026 · Kategori/Tema: Spesial — 10 kode
+
     { "code": "HSIALDOPRO77", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOMAX99", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOJPWP", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
@@ -655,7 +648,7 @@
     { "code": "HSIALDOTOP", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDONIH99", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Rabu · Reward 90.000.000 · 15 Juli 2026 · Kategori/Tema: Teknologi — 20 kode
+
     { "code": "HSIALDOUSAP", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIALDOLENSA", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIALDOWIPE", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Teknologi"] },
@@ -677,7 +670,7 @@
     { "code": "HSIALDOMAIM", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIALDOSEE", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Teknologi"] },
 
-    // Code Rabu · Reward 500.000.000 · 15 Juli 2026 · Kategori/Tema: Teknologi — 10 kode
+
     { "code": "HSIALDOGLOSS", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIALDOINRPS", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIALDOTUANG", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Teknologi"] },
@@ -689,7 +682,7 @@
     { "code": "HSIALDOROB", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIALDOPLUCK", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Teknologi"] },
 
-    // Code Kamis · Reward 90.000.000 · 16 Juli 2026 · Kategori/Tema: Senjata — 20 kode
+
     { "code": "HSIALDOSVDGG", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIALDOGGXM8", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIALDOM14OP", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
@@ -711,7 +704,7 @@
     { "code": "HSIALDOUZIGG", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIALDOXM8GG", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
 
-    // Code Kamis · Reward 500.000.000 · 16 Juli 2026 · Kategori/Tema: Senjata — 10 kode
+
     { "code": "HSIALDOBLADE", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIALDOXM8OP", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIALDOSKSGG", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
@@ -723,7 +716,7 @@
     { "code": "HSIALDOOPUMP", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIALDOP90OP", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
 
-    // Code Jumat · Reward 90.000.000 · 17 Juli 2026 · Kategori/Tema: Spesial — 20 kode
+
     { "code": "HSIALDOHOKI", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOJPVIP", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOEZ77", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
@@ -745,7 +738,7 @@
     { "code": "HSIALDOMEGA", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOKUY77", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Jumat · Reward 500.000.000 · 17 Juli 2026 · Kategori/Tema: Spesial — 10 kode
+
     { "code": "HSIALDOBEBAS", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOGGNIH", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOKUYEZ", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
@@ -757,7 +750,7 @@
     { "code": "HSIALDOVIP99", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOEZWIN", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Sabtu · Reward 90.000.000 · 18 Juli 2026 · Kategori/Tema: Gaul Indonesia — 20 kode
+ 
     { "code": "HSIALDOTEACE", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIALDOZAMLO", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIALDOGENTE", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Gaul Indonesia"] },
@@ -779,7 +772,7 @@
     { "code": "HSIALDOKEPHP", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIALDOCUCO", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Gaul Indonesia"] },
 
-    // Code Sabtu · Reward 500.000.000 · 18 Juli 2026 · Kategori/Tema: Gaul Indonesia — 10 kode
+
     { "code": "HSIALDOIRLIN", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIALDODOIOK", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIALDOCANS", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Gaul Indonesia"] },
@@ -791,7 +784,7 @@
     { "code": "HSIALDOYGYIN", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIALDOJUDES", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Gaul Indonesia"] },
 
-    // Code Minggu · Reward 90.000.000 · 19 Juli 2026 · Kategori/Tema: Kamus Sunda — 20 kode
+
     { "code": "HSIALDOPISAN", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIALDOTAI", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIALDOKUAT", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Kamus Sunda"] },
@@ -813,7 +806,7 @@
     { "code": "HSIALDOBUDI", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIALDOKATUR", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Kamus Sunda"] },
 
-    // Code Minggu · Reward 500.000.000 · 19 Juli 2026 · Kategori/Tema: Kamus Sunda — 10 kode
+
     { "code": "HSIALDONEMBE", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIALDOKADEK", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIALDOIMAH", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Kamus Sunda"] },
@@ -825,9 +818,7 @@
     { "code": "HSIALDOMUIH", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIALDOARGEL", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Kamus Sunda"] },
 
-------------------- SEMUA CODE CREATOR @DHIT_MAX09 -----------------------
 
-    // Code Selasa · Reward 90.000.000 · 14 Juli 2026 · Kategori/Tema: Spesial — 20 kode
     { "code": "HSIADITJP", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIADITVIP99", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIADITGGWIN", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
@@ -849,7 +840,7 @@
     { "code": "HSIADITGGVIP", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIADITSABI", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Selasa · Reward 500.000.000 · 14 Juli 2026 · Kategori/Tema: Spesial — 10 kode
+ 
     { "code": "HSIADITMAX", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIADITKUYJP", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIADITCUAN", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
@@ -861,7 +852,7 @@
     { "code": "HSIADITPUH77", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIADITKUYEZ", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Rabu · Reward 90.000.000 · 15 Juli 2026 · Kategori/Tema: Teknologi — 20 kode
+
     { "code": "HSIADITRPS", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIADITECO", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIADITBINER", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
@@ -883,7 +874,7 @@
     { "code": "HSIADITPILIH", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIADITTEST", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
 
-    // Code Rabu · Reward 500.000.000 · 15 Juli 2026 · Kategori/Tema: Teknologi — 10 kode
+   
     { "code": "HSIADITWASH", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIADITJEBOL", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIADITFAST", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
@@ -895,7 +886,7 @@
     { "code": "HSIADITBALAS", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIADITTOW", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
 
-    // Code Kamis · Reward 90.000.000 · 16 Juli 2026 · Kategori/Tema: Senjata — 20 kode
+   
     { "code": "HSIADITM79GG", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIADITAWMGG", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIADITROKET", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Senjata"] },
@@ -917,7 +908,7 @@
     { "code": "HSIADITRIFLE", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIADITGGUMP", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Senjata"] },
 
-    // Code Kamis · Reward 500.000.000 · 16 Juli 2026 · Kategori/Tema: Senjata — 10 kode
+
     { "code": "HSIADITVSSGG", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIADITOPAUG", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIADITOPXM8", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Senjata"] },
@@ -929,7 +920,7 @@
     { "code": "HSIADITGGM60", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIADITOPM60", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Senjata"] },
 
-    // Code Jumat · Reward 90.000.000 · 17 Juli 2026 · Kategori/Tema: Spesial — 20 kode
+
     { "code": "HSIADITJOKI", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIADITEZ99", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIADITJPWP", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
@@ -951,7 +942,7 @@
     { "code": "HSIADITOP", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIADITKECE", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Jumat · Reward 500.000.000 · 17 Juli 2026 · Kategori/Tema: Spesial — 10 kode
+
     { "code": "HSIADITJPYUK", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIADITOPSAH", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIADITATLAS", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
@@ -963,7 +954,7 @@
     { "code": "HSIADITHOKI", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIADITRIDER", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Sabtu · Reward 90.000.000 · 18 Juli 2026 · Kategori/Tema: Gaul Indonesia — 20 kode
+
     { "code": "HSIADITKUYAN", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIADITSEREB", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIADITPOY", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Gaul Indonesia"] },
@@ -985,7 +976,7 @@
     { "code": "HSIADITMEGWS", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIADITPAPAN", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Gaul Indonesia"] },
 
-    // Code Sabtu · Reward 500.000.000 · 18 Juli 2026 · Kategori/Tema: Gaul Indonesia — 10 kode
+
     { "code": "HSIADITOTW", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIADITYGYCE", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIADITEKEAN", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Gaul Indonesia"] },
@@ -997,7 +988,7 @@
     { "code": "HSIADITYGY", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIADITDIGWS", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Gaul Indonesia"] },
 
-    // Code Minggu · Reward 90.000.000 · 19 Juli 2026 · Kategori/Tema: Kamus Sunda — 20 kode
+
     { "code": "HSIADITANGEN", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIADITASINA", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIADITDUPI", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Kamus Sunda"] },
@@ -1019,7 +1010,7 @@
     { "code": "HSIADITTAROS", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIADITSASAR", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Kamus Sunda"] },
 
-    // Code Minggu · Reward 500.000.000 · 19 Juli 2026 · Kategori/Tema: Kamus Sunda — 10 kode
+
     { "code": "HSIADITAPA", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIADITPELEM", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIADITRASA", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Kamus Sunda"] },
@@ -1031,9 +1022,7 @@
     { "code": "HSIADITMUKA", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIADITKORED", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Kamus Sunda"] },
 
-------------------- SEMUA CODE CREATOR @HEREX_SIMULATOR_V2 -----------------------
 
-    // Code Selasa · Reward 90.000.000 · 14 Juli 2026 · Kategori/Tema: Spesial — 20 kode
     { "code": "HSIMAXYUKJP", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIMAXGG99", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIMAXWIN", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
@@ -1055,7 +1044,7 @@
     { "code": "HSIMAXKUY77", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIMAXINFO", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Selasa · Reward 500.000.000 · 14 Juli 2026 · Kategori/Tema: Spesial — 10 kode
+
     { "code": "HSIMAXEZKUY", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIMAXGGMAX", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIMAXVIP88", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
@@ -1067,7 +1056,7 @@
     { "code": "HSIMAXELITE", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIMAXEZYGY", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Rabu · Reward 90.000.000 · 15 Juli 2026 · Kategori/Tema: Teknologi — 20 kode
+
     { "code": "HSIMAXBLOCK", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIMAXKUAT", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIMAXREKAM", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Teknologi"] },
@@ -1089,7 +1078,7 @@
     { "code": "HSIMAXFILCH", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIMAXSOFT", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Teknologi"] },
 
-    // Code Rabu · Reward 500.000.000 · 15 Juli 2026 · Kategori/Tema: Teknologi — 10 kode
+
     { "code": "HSIMAXAC", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIMAXFELL", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIMAXSMEAR", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Teknologi"] },
@@ -1101,7 +1090,7 @@
     { "code": "HSIMAXCABUT", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIMAXUNDUH", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Teknologi"] },
 
-    // Code Kamis · Reward 90.000.000 · 16 Juli 2026 · Kategori/Tema: Senjata — 20 kode
+
     { "code": "HSIMAXGGUMP", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIMAXGGRPG", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIMAXROKET", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Senjata"] },
@@ -1123,7 +1112,7 @@
     { "code": "HSIMAXXM8GG", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIMAXGGUZI", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Senjata"] },
 
-    // Code Kamis · Reward 500.000.000 · 16 Juli 2026 · Kategori/Tema: Senjata — 10 kode
+
     { "code": "HSIMAXLASER", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIMAXGGAUG", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIMAXBUSUR", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Senjata"] },
@@ -1135,7 +1124,7 @@
     { "code": "HSIMAXUMPGG", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIMAXSVDGG", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Senjata"] },
 
-    // Code Jumat · Reward 90.000.000 · 17 Juli 2026 · Kategori/Tema: Spesial — 20 kode
+
     { "code": "HSIMAXWPJP", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIMAXRANK", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIMAXKUYJP", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
@@ -1157,7 +1146,7 @@
     { "code": "HSIMAXYUK", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIMAXGGVIP", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Jumat · Reward 500.000.000 · 17 Juli 2026 · Kategori/Tema: Spesial — 10 kode
+
     { "code": "HSIMAXVIP", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIMAXTOP77", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIMAXEZ99", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
@@ -1169,7 +1158,7 @@
     { "code": "HSIMAXYTTA", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIMAXMAX", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Sabtu · Reward 90.000.000 · 18 Juli 2026 · Kategori/Tema: Gaul Indonesia — 20 kode
+
     { "code": "HSIMAXSEREB", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIMAXEKECE", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIMAXKEOVT", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Gaul Indonesia"] },
@@ -1191,7 +1180,7 @@
     { "code": "HSIMAXBTWLO", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIMAXSHADY", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Gaul Indonesia"] },
 
-    // Code Sabtu · Reward 500.000.000 · 18 Juli 2026 · Kategori/Tema: Gaul Indonesia — 10 kode
+ 
     { "code": "HSIMAXPOYCE", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIMAXOTWME", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIMAXDIKUY", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Gaul Indonesia"] },
@@ -1203,7 +1192,7 @@
     { "code": "HSIMAXANJIR", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIMAXZAMIN", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Gaul Indonesia"] },
 
-    // Code Minggu · Reward 90.000.000 · 19 Juli 2026 · Kategori/Tema: Kamus Sunda — 20 kode
+  
     { "code": "HSIMAXHABEK", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIMAXASER", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIMAXARUN", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Kamus Sunda"] },
@@ -1225,7 +1214,7 @@
     { "code": "HSIMAXCACAH", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIMAXABLUD", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Kamus Sunda"] },
 
-    // Code Minggu · Reward 500.000.000 · 19 Juli 2026 · Kategori/Tema: Kamus Sunda — 10 kode
+
     { "code": "HSIMAXASAH", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIMAXPOE", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIMAXARWAH", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Kamus Sunda"] },
@@ -1237,9 +1226,7 @@
     { "code": "HSIMAXAWANG", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIMAXAKING", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Kamus Sunda"] },
 
-------------------- SEMUA CODE CREATOR @KENZOESPORT2026 -----------------------
 
-    // Code Selasa · Reward 90.000.000 · 14 Juli 2026 · Kategori/Tema: Spesial — 20 kode
     { "code": "HSIKENZOPUH99", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIKENZOTOPJP", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIKENZOKUY77", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
@@ -1261,7 +1248,7 @@
     { "code": "HSIKENZOEVENT", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIKENZOGGPUH", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Selasa · Reward 500.000.000 · 14 Juli 2026 · Kategori/Tema: Spesial — 10 kode
+
     { "code": "HSIKENZOBAPUK", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIKENZOGG", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIKENZOJPWP", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
@@ -1273,7 +1260,6 @@
     { "code": "HSIKENZOWPYUK", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIKENZOPUHWP", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Rabu · Reward 90.000.000 · 15 Juli 2026 · Kategori/Tema: Teknologi — 20 kode
     { "code": "HSIKENZOPHONE", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIKENZOWEAK", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIKENZOSHOW", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Teknologi"] },
@@ -1295,7 +1281,7 @@
     { "code": "HSIKENZOKNIT", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIKENZOMESIN", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Teknologi"] },
 
-    // Code Rabu · Reward 500.000.000 · 15 Juli 2026 · Kategori/Tema: Teknologi — 10 kode
+
     { "code": "HSIKENZOOHM", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIKENZODAUB", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIKENZOHAUL", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Teknologi"] },
@@ -1307,7 +1293,7 @@
     { "code": "HSIKENZOSTRIP", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIKENZOSSD", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Teknologi"] },
 
-    // Code Kamis · Reward 90.000.000 · 16 Juli 2026 · Kategori/Tema: Senjata — 20 kode
+
     { "code": "HSIKENZOSVDOP", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIKENZOBLADE", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIKENZOXM8GG", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
@@ -1329,7 +1315,7 @@
     { "code": "HSIKENZOAUGOP", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIKENZOBUSUR", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
 
-    // Code Kamis · Reward 500.000.000 · 16 Juli 2026 · Kategori/Tema: Senjata — 10 kode
+
     { "code": "HSIKENZOP90OP", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIKENZOUMPOP", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIKENZOGGAUG", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
@@ -1341,7 +1327,7 @@
     { "code": "HSIKENZOAWMGG", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIKENZOGGRPG", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
 
-    // Code Jumat · Reward 90.000.000 · 17 Juli 2026 · Kategori/Tema: Spesial — 20 kode
+
     { "code": "HSIKENZOWP99", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIKENZOEZVIP", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIKENZOEZMAX", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
@@ -1363,7 +1349,7 @@
     { "code": "HSIKENZOGGVIP", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIKENZOJP99", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Jumat · Reward 500.000.000 · 17 Juli 2026 · Kategori/Tema: Spesial — 10 kode
+
     { "code": "HSIKENZOYGYEZ", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIKENZOEZ888", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIKENZOMAX99", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
@@ -1375,7 +1361,7 @@
     { "code": "HSIKENZOOP88", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIKENZOGGMAX", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Sabtu · Reward 90.000.000 · 18 Juli 2026 · Kategori/Tema: Gaul Indonesia — 20 kode
+ 
     { "code": "HSIKENZOGEMOY", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIKENZOSABI", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIKENZOTBLON", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Gaul Indonesia"] },
@@ -1397,7 +1383,7 @@
     { "code": "HSIKENZOCORE", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIKENZOTEA", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Gaul Indonesia"] },
 
-    // Code Sabtu · Reward 500.000.000 · 18 Juli 2026 · Kategori/Tema: Gaul Indonesia — 10 kode
+ 
     { "code": "HSIKENZOKECE", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIKENZOTBLLI", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIKENZOKEDOI", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Gaul Indonesia"] },
@@ -1409,7 +1395,7 @@
     { "code": "HSIKENZOGANER", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIKENZODIYGY", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Gaul Indonesia"] },
 
-    // Code Minggu · Reward 90.000.000 · 19 Juli 2026 · Kategori/Tema: Kamus Sunda — 20 kode
+
     { "code": "HSIKENZOAT", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIKENZOHALIS", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIKENZOAAW", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Kamus Sunda"] },
@@ -1431,7 +1417,7 @@
     { "code": "HSIKENZOUTAMA", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIKENZOADEG", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Kamus Sunda"] },
 
-    // Code Minggu · Reward 500.000.000 · 19 Juli 2026 · Kategori/Tema: Kamus Sunda — 10 kode
+
     { "code": "HSIKENZOPUGUH", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIKENZOTAHAN", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIKENZOTIRON", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Kamus Sunda"] },
@@ -1443,9 +1429,7 @@
     { "code": "HSIKENZOAGING", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIKENZORIKAT", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Kamus Sunda"] },
 
-------------------- SEMUA CODE CREATOR @WISNUNGOKNGOK -----------------------
 
-    // Code Selasa · Reward 90.000.000 · 14 Juli 2026 · Kategori/Tema: Spesial — 20 kode
     { "code": "HSIWISNURANK", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIWISNUMAX77", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIWISNUWP88", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
@@ -1467,7 +1451,7 @@
     { "code": "HSIWISNUVIP77", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIWISNUSABI", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Selasa · Reward 500.000.000 · 14 Juli 2026 · Kategori/Tema: Spesial — 10 kode
+
     { "code": "HSIWISNUGGKUY", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIWISNUEPIC", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIWISNUCUAN", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
@@ -1479,7 +1463,7 @@
     { "code": "HSIWISNUPUH77", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIWISNUYUK", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Rabu · Reward 90.000.000 · 15 Juli 2026 · Kategori/Tema: Teknologi — 20 kode
+
     { "code": "HSIWISNUTOOL", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIWISNUPLUCK", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIWISNULINK", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Teknologi"] },
@@ -1501,7 +1485,7 @@
     { "code": "HSIWISNUFIND", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIWISNULASH", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Teknologi"] },
 
-    // Code Rabu · Reward 500.000.000 · 15 Juli 2026 · Kategori/Tema: Teknologi — 10 kode
+
     { "code": "HSIWISNUFATAL", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIWISNUMICRO", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIWISNUSTAKE", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Teknologi"] },
@@ -1513,7 +1497,7 @@
     { "code": "HSIWISNUSNARL", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIWISNUBUFF", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Teknologi"] },
 
-    // Code Kamis · Reward 90.000.000 · 16 Juli 2026 · Kategori/Tema: Senjata — 20 kode
+   
     { "code": "HSIWISNUOPAUG", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIWISNUGGUZI", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIWISNUVSSOP", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Senjata"] },
@@ -1535,7 +1519,7 @@
     { "code": "HSIWISNUGGM79", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIWISNUSVDOP", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Senjata"] },
 
-    // Code Kamis · Reward 500.000.000 · 16 Juli 2026 · Kategori/Tema: Senjata — 10 kode
+
     { "code": "HSIWISNUOPUZI", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIWISNUXM8GG", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIWISNUM79GG", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Senjata"] },
@@ -1547,7 +1531,7 @@
     { "code": "HSIWISNUGGXM8", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIWISNUOPVSS", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Senjata"] },
 
-    // Code Jumat · Reward 90.000.000 · 17 Juli 2026 · Kategori/Tema: Spesial — 20 kode
+
     { "code": "HSIWISNUJP999", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIWISNUMAX88", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIWISNUEZWIN", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
@@ -1569,7 +1553,7 @@
     { "code": "HSIWISNUWIN", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIWISNUGGWIN", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Jumat · Reward 500.000.000 · 17 Juli 2026 · Kategori/Tema: Spesial — 10 kode
+
     { "code": "HSIWISNURAJA", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIWISNUJP77", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIWISNUOPSAH", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
@@ -1581,7 +1565,7 @@
     { "code": "HSIWISNUMAXOP", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIWISNUGGPUH", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
 
-    // Code Sabtu · Reward 90.000.000 · 18 Juli 2026 · Kategori/Tema: Gaul Indonesia — 20 kode
+
     { "code": "HSIWISNUKUDET", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIWISNUGANER", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIWISNUAGAN", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Gaul Indonesia"] },
@@ -1603,7 +1587,7 @@
     { "code": "HSIWISNUPHPON", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIWISNUCUAKZ", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Gaul Indonesia"] },
 
-    // Code Sabtu · Reward 500.000.000 · 18 Juli 2026 · Kategori/Tema: Gaul Indonesia — 10 kode
+
     { "code": "HSIWISNUBOLOT", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIWISNUBOROK", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIWISNUJAIM", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Gaul Indonesia"] },
@@ -1615,7 +1599,7 @@
     { "code": "HSIWISNUGANLI", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Gaul Indonesia"] },
     { "code": "HSIWISNUOOTIN", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Gaul Indonesia"] },
 
-    // Code Minggu · Reward 90.000.000 · 19 Juli 2026 · Kategori/Tema: Kamus Sunda — 20 kode
+   
     { "code": "HSIWISNUDANGU", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIWISNUSANGU", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIWISNUPAS", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Kamus Sunda"] },
@@ -1637,7 +1621,7 @@
     { "code": "HSIWISNUMAKE", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIWISNUAPOLO", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Kamus Sunda"] },
 
-    // Code Minggu · Reward 500.000.000 · 19 Juli 2026 · Kategori/Tema: Kamus Sunda — 10 kode
+
     { "code": "HSIWISNUKEUNA", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIWISNUMUKA", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Kamus Sunda"] },
     { "code": "HSIWISNUPOLAH", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Kamus Sunda"] },
