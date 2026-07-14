@@ -1075,8 +1075,8 @@
     { "code": "HSIMAXAKTIF", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIMAXFILCH", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIMAXSOFT", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Teknologi"] },
-
-{ "code": "HSISIPELOKE", "reward": 75000000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] }
+    
+{ "code": "HSISIPELOKE", "reward": 75000000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] },
 
     { "code": "HSIMAXAC", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIMAXFELL", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Teknologi"] },
