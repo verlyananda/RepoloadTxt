@@ -23,7 +23,7 @@
     { "code": "HSIANGGASAHJP", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIANGGAEZ99", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIANGGAPRO", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSISIPELOKE", "reward": 75000000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSISIPELOKE", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIANGGAWPJP", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIANGGANIHWP", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIANGGAOPMAX", "reward": 500000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] },
@@ -1076,7 +1076,6 @@
     { "code": "HSIMAXFILCH", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIMAXSOFT", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Teknologi"] },
     
-{ "code": "HSISIPELOKE", "reward": 75000000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Spesial"] },
 
     { "code": "HSIMAXAC", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIMAXFELL", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Teknologi"] },
