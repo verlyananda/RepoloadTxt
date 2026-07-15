@@ -25,6 +25,7 @@
     { "code": "HSIANGGASMART", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Teknologi"] },
     { "code": "HSIANGGARAM", "reward": 90000000, "token": 0, "creator": "@ALEDA4229", "note": "Live", "categories": ["Teknologi"] },
    { "code": "VGAMEDEVBAIK", "reward": 90000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+  { "code": "VGAMEDEVDM", "reward": 0, "token": 500, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
     { "code": "VGAMEDEVGG", "reward": 90000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
     { "code": "VGAMEDEVGANTENG", "reward": 90000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
     { "code": "VGAMEDEVJOSS", "reward": 90000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
