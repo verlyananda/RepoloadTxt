@@ -383,38 +383,9 @@
     { "code": "HSIPELLMILK", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Teknologi"] },
 
 
-    { "code": "HSIPELLATUR", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIPELLCETAK", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIPELLWEAVE", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIPELLLOKAL", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIPELLPASIF", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIPELLLASH", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIPELLHARD", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIPELLSABAK", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIPELLFILCH", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIPELLPAKET", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Teknologi"] },
+   
 
-
-    { "code": "HSIPELLAUGOP", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIPELLSKSGG", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIPELLM14GG", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIPELLGGRPG", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIPELLGGUMP", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIPELLSVDOP", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIPELLGGM60", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIPELLOPUZI", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIPELLOPAUG", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIPELLOPUMP", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIPELLOPSVD", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIPELLXM8OP", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIPELLRPGOP", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIPELLSVDGG", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIPELLGGSKS", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIPELLOPM14", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIPELLLASER", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIPELLM60OP", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIPELLGGVSS", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIPELLM14OP", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
+  
 
 
     { "code": "HSIPELLM79GG", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Senjata"] },
@@ -567,38 +538,7 @@
     { "code": "HSIALDOPLUCK", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Teknologi"] },
 
 
-    { "code": "HSIALDOSVDGG", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIALDOGGXM8", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIALDOM14OP", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIALDOLASER", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIALDOOPM60", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIALDOUMPOP", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIALDOUZIOP", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIALDOMECHA", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIALDOSVDOP", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIALDOGGSKS", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIALDOOPM14", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIALDOOPSKS", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIALDOGGM79", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIALDOM14GG", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIALDOOPM79", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIALDOVSSGG", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIALDOBATGG", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIALDOOPAUG", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIALDOUZIGG", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIALDOXM8GG", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
-
-
-    { "code": "HSIALDOBLADE", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIALDOXM8OP", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIALDOSKSGG", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIALDORIFLE", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIALDOAUGOP", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIALDORPGOP", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIALDOM79GG", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIALDOGGUMP", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIALDOOPUMP", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIALDOP90OP", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Senjata"] },
+  
 
 
     { "code": "HSIALDOHOKI", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
@@ -704,38 +644,6 @@
 
 
 
-    { "code": "HSIADITRPS", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIADITECO", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIADITBINER", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIADITGAWAI", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIADITDLLUX", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIADITSHIFT", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIADITTUTUP", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIADITGLIDE", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIADITPHONE", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIADITTOAI", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIADITAIVR", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIADITGRAY", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIADITMR", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIADITRIGHT", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIADITHOOK", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIADITSEIZE", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIADITHELP", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIADITVIDEO", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIADITPILIH", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIADITTEST", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
-
-   
-    { "code": "HSIADITWASH", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIADITJEBOL", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIADITFAST", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIADITSLIP", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIADITUJUNG", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIADITINPUT", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIADITPLANT", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIADITFORTH", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIADITBALAS", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIADITTOW", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Teknologi"] },
 
    
     { "code": "HSIADITM79GG", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Senjata"] },
@@ -1068,39 +976,8 @@
     { "code": "HSIKENZOMESIN", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Teknologi"] },
 
 
-    { "code": "HSIKENZOOHM", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIKENZODAUB", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIKENZOHAUL", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIKENZOBYTE", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIKENZOBAG", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIKENZOKANAN", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIKENZOLUNAK", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIKENZONILAI", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIKENZOSTRIP", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Teknologi"] },
-    { "code": "HSIKENZOSSD", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Teknologi"] },
 
-
-    { "code": "HSIKENZOSVDOP", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIKENZOBLADE", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIKENZOXM8GG", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIKENZOGGVSS", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIKENZOM79GG", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIKENZOGGM60", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIKENZOGGM79", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIKENZORPGOP", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIKENZORPGGG", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIKENZOXM8OP", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIKENZOUZIGG", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIKENZOOPVSS", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIKENZOM14OP", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIKENZOOPSVD", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIKENZOP90GG", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIKENZOOPAUG", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIKENZOOPP90", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIKENZOOPUMP", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIKENZOAUGOP", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIKENZOBUSUR", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
-
+  
 
     { "code": "HSIKENZOP90OP", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
     { "code": "HSIKENZOUMPOP", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Senjata"] },
@@ -1271,38 +1148,10 @@
     { "code": "HSIWISNUSVDOP", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Senjata"] },
 
 
-    { "code": "HSIWISNUOPUZI", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIWISNUXM8GG", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIWISNUM79GG", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIWISNUUMPGG", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIWISNUGGRPG", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIWISNUAUGGG", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIWISNUOPSKS", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIWISNUM14OP", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIWISNUGGXM8", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Senjata"] },
-    { "code": "HSIWISNUOPVSS", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Senjata"] },
 
 
-    { "code": "HSIWISNUJP999", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIWISNUMAX88", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIWISNUEZWIN", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIWISNUBOSS", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIWISNUEZ88", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIWISNUJP", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIWISNUOP888", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIWISNUPROJP", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIWISNUJP99", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIWISNUELITE", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIWISNURIDER", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIWISNUKUY88", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIWISNUGGNIH", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIWISNUJPWIN", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIWISNUSEPUH", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIWISNUBIKER", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIWISNUVIPWP", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIWISNUJPMAX", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIWISNUWIN", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIWISNUGGWIN", "reward": 90000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
+
+ 
 
 
     { "code": "HSIWISNURAJA", "reward": 500000000, "token": 0, "creator": "@WISNUNGOKNGOK", "note": "Live", "categories": ["Spesial"] },
