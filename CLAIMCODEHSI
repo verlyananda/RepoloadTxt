@@ -14,6 +14,7 @@
     { "code": "HSIALDOKUAS", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOKAPAK", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOPAHAT", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
+  { "code": "HSIDM3500", "reward": 0, "token": 3500, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOSENAI", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOKUNCIINGGRIS", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOSENDOKSEMEN", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
