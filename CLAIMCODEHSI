@@ -233,6 +233,7 @@
     { "code": "VGAMEDEVSTEAM", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
     { "code": "VGAMEDEVEPIC", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
     { "code": "VGAMEDEVPLAY", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+{ "code": "SITIMAIMUNAH", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
     { "code": "VGAMEDEVSTORE", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
     { "code": "VGAMEDEVAPP", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] }
   ]
