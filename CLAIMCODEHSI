@@ -38,7 +38,31 @@
     {"code":"HSIPELLMR","reward":500000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
 
 
-
+{ "code": "VGAMEDEVMAWAR", "reward": 90000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVMELATI", "reward": 90000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVANGGREK", "reward": 90000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVTULIP", "reward": 90000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVMATAHARI", "reward": 90000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVKAMBOJA", "reward": 90000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVSEPATU", "reward": 90000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVKERTAS", "reward": 90000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVASOKA", "reward": 90000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVTERATAI", "reward": 90000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVKENANGA", "reward": 90000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVCEMPAKA", "reward": 90000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVRAFLESIA", "reward": 90000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVEDELWEISS", "reward": 90000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVSAKURA", "reward": 90000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVBONSAI", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVMONSTERA", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVAGLONEMA", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVKALATEA", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVKAKTUS", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVSUKULEN", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVKELADI", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVJANDABOLONG", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVLIDAHMERTUA", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVALOKASIA", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
 
 {
     "code": "HSIMAXANGGARANSISTEM",
