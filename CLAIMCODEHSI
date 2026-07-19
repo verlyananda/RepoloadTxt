@@ -40,7 +40,246 @@
 
 
 
-
+{
+    "code": "HSIMAXANGGARANSISTEM",
+    "reward": 90000000,
+    "token": 0,
+    "creator": "@KODE UMUM",
+    "date": "19 Juli 2026",
+    "categories": ["Ekonomi"]
+  },
+  {
+    "code": "HSIMAXPAJAKTAKBERWUJUD",
+    "reward": 90000000,
+    "token": 0,
+    "creator": "@KODE UMUM",
+    "date": "19 Juli 2026",
+    "categories": ["Ekonomi"]
+  },
+  {
+    "code": "HSIMAXBANK",
+    "reward": 90000000,
+    "token": 0,
+    "creator": "@KODE UMUM",
+    "date": "19 Juli 2026",
+    "categories": ["Ekonomi"]
+  },
+  {
+    "code": "HSIMAXPASARPROFITABILITAS",
+    "reward": 90000000,
+    "token": 0,
+    "creator": "@KODE UMUM",
+    "date": "19 Juli 2026",
+    "categories": ["Ekonomi"]
+  },
+  {
+    "code": "HSIMAXBEAFISKAL",
+    "reward": 90000000,
+    "token": 0,
+    "creator": "@KODE UMUM",
+    "date": "19 Juli 2026",
+    "categories": ["Ekonomi"]
+  },
+  {
+    "code": "HSIMAXPERTUMBUHANKELUAR",
+    "reward": 90000000,
+    "token": 0,
+    "creator": "@KODE UMUM",
+    "date": "19 Juli 2026",
+    "categories": ["Ekonomi"]
+  },
+  {
+    "code": "HSIMAXSURPLUSKECIL",
+    "reward": 90000000,
+    "token": 0,
+    "creator": "@KODE UMUM",
+    "date": "19 Juli 2026",
+    "categories": ["Ekonomi"]
+  },
+  {
+    "code": "HSIMAXSUKUPERDANA",
+    "reward": 90000000,
+    "token": 0,
+    "creator": "@KODE UMUM",
+    "date": "19 Juli 2026",
+    "categories": ["Ekonomi"]
+  },
+  {
+    "code": "HSIMAXPAJAKBERSIH",
+    "reward": 90000000,
+    "token": 0,
+    "creator": "@KODE UMUM",
+    "date": "19 Juli 2026",
+    "categories": ["Ekonomi"]
+  },
+  {
+    "code": "HSIMAXJASA",
+    "reward": 90000000,
+    "token": 0,
+    "creator": "@KODE UMUM",
+    "date": "19 Juli 2026",
+    "categories": ["Ekonomi"]
+  },
+  {
+    "code": "HSIMAXNILAIDEVISA",
+    "reward": 500000000,
+    "token": 0,
+    "creator": "@KODE UMUM",
+    "date": "19 Juli 2026",
+    "categories": ["Ekonomi"]
+  },
+  {
+    "code": "HSIMAXPRODUKMODERN",
+    "reward": 500000000,
+    "token": 0,
+    "creator": "@KODE UMUM",
+    "date": "19 Juli 2026",
+    "categories": ["Ekonomi"]
+  },
+  {
+    "code": "HSIMAXSURPLUSPEMBAYARAN",
+    "reward": 500000000,
+    "token": 0,
+    "creator": "@KODE UMUM",
+    "date": "19 Juli 2026",
+    "categories": ["Ekonomi"]
+  },
+  {
+    "code": "HSIMAXPEMBANGUNANINTEGRASI",
+    "reward": 500000000,
+    "token": 0,
+    "creator": "@KODE UMUM",
+    "date": "19 Juli 2026",
+    "categories": ["Ekonomi"]
+  },
+  {
+    "code": "HSIMAXDEFISITNETO",
+    "reward": 500000000,
+    "token": 0,
+    "creator": "@KODE UMUM",
+    "date": "19 Juli 2026",
+    "categories": ["Ekonomi"]
+  },
+  {
+    "code": "HSIKUCAIPENDAPATANPREFEREN",
+    "reward": 90000000,
+    "token": 0,
+    "creator": "@KUCAI",
+    "date": "19 Juli 2026",
+    "categories": ["Ekonomi"]
+  },
+  {
+    "code": "HSIKUCAIPRODUKDAERAH",
+    "reward": 90000000,
+    "token": 0,
+    "creator": "@KUCAI",
+    "date": "19 Juli 2026",
+    "categories": ["Ekonomi"]
+  },
+  {
+    "code": "HSIKUCAIBANKUANG",
+    "reward": 90000000,
+    "token": 0,
+    "creator": "@KUCAI",
+    "date": "19 Juli 2026",
+    "categories": ["Ekonomi"]
+  },
+  {
+    "code": "HSIKUCAISUKUMODAL",
+    "reward": 90000000,
+    "token": 0,
+    "creator": "@KUCAI",
+    "date": "19 Juli 2026",
+    "categories": ["Ekonomi"]
+  },
+  {
+    "code": "HSIKUCAIPASARHIDUP",
+    "reward": 90000000,
+    "token": 0,
+    "creator": "@KUCAI",
+    "date": "19 Juli 2026",
+    "categories": ["Ekonomi"]
+  },
+  {
+    "code": "HSIKUCAINERACAMANDIRI",
+    "reward": 90000000,
+    "token": 0,
+    "creator": "@KUCAI",
+    "date": "19 Juli 2026",
+    "categories": ["Ekonomi"]
+  },
+  {
+    "code": "HSIKUCAIDEFISITSALDO",
+    "reward": 90000000,
+    "token": 0,
+    "creator": "@KUCAI",
+    "date": "19 Juli 2026",
+    "categories": ["Ekonomi"]
+  },
+  {
+    "code": "HSIKUCAIPENERIMAANPEMBANGUNAN",
+    "reward": 90000000,
+    "token": 0,
+    "creator": "@KUCAI",
+    "date": "19 Juli 2026",
+    "categories": ["Ekonomi"]
+  },
+  {
+    "code": "HSIKUCAIINVESTASIJIWA",
+    "reward": 90000000,
+    "token": 0,
+    "creator": "@KUCAI",
+    "date": "19 Juli 2026",
+    "categories": ["Ekonomi"]
+  },
+  {
+    "code": "HSIKUCAIROYALTI",
+    "reward": 90000000,
+    "token": 0,
+    "creator": "@KUCAI",
+    "date": "19 Juli 2026",
+    "categories": ["Ekonomi"]
+  },
+  {
+    "code": "HSIKUCAIKEBIJAKANSEKUNDER",
+    "reward": 500000000,
+    "token": 0,
+    "creator": "@KUCAI",
+    "date": "19 Juli 2026",
+    "categories": ["Ekonomi"]
+  },
+  {
+    "code": "HSIKUCAIKEBIJAKANPORTOFOLIO",
+    "reward": 500000000,
+    "token": 0,
+    "creator": "@KUCAI",
+    "date": "19 Juli 2026",
+    "categories": ["Ekonomi"]
+  },
+  {
+    "code": "HSIKUCAIPAJAKHUKUM",
+    "reward": 500000000,
+    "token": 0,
+    "creator": "@KUCAI",
+    "date": "19 Juli 2026",
+    "categories": ["Ekonomi"]
+  },
+  {
+    "code": "HSIKUCAIANGGARANPERDAGANGAN",
+    "reward": 500000000,
+    "token": 0,
+    "creator": "@KUCAI",
+    "date": "19 Juli 2026",
+    "categories": ["Ekonomi"]
+  },
+  {
+    "code": "HSIKUCAIBANKVENTURA",
+    "reward": 500000000,
+    "token": 0,
+    "creator": "@KUCAI",
+    "date": "19 Juli 2026",
+    "categories": ["Ekonomi"]
+  },
 
 
 
