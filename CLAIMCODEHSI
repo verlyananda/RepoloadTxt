@@ -37,6 +37,17 @@
     {"code":"HSIPELLSPOIL","reward":500000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
     {"code":"HSIPELLMR","reward":500000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
 
+ {"code":"HSIKENZOPIPA","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","categories":["Spesial","Teknologi","Senjata","Peralatan"]},
+    {"code":"HSIKENZOMR","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","categories":["Spesial","Teknologi","Senjata","Peralatan"]},
+    {"code":"HSIKENZOOPKUY","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","categories":["Spesial","Teknologi","Senjata","Peralatan"]},
+    {"code":"HSIKENZODEEP","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","categories":["Spesial","Teknologi","Senjata","Peralatan"]},
+    {"code":"HSIKENZOGILA","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","categories":["Spesial","Teknologi","Senjata","Peralatan"]},
+    {"code":"HSIKENZOTUGAS","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","categories":["Spesial","Teknologi","Senjata","Peralatan"]},
+    {"code":"HSIKENZOGUIDE","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","categories":["Spesial","Teknologi","Senjata","Peralatan"]},
+    {"code":"HSIKENZOAMAN","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","categories":["Spesial","Teknologi","Senjata","Peralatan"]},
+    {"code":"HSIKENZOTUNE","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","categories":["Spesial","Teknologi","Senjata","Peralatan"]},
+    {"code":"HSIKENZOFLUX","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","categories":["Spesial","Teknologi","Senjata","Peralatan"]},
+
 
 { "code": "HSIDHITMAXARJUNA", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIDHITMAXBIMA", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
