@@ -1,5 +1,57 @@
 {
   "codes": [
+
+    {"code":"HSIPELLTUANG","reward":90000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLTEST","reward":90000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLLENSA","reward":90000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLCV","reward":90000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLKUYEZ","reward":90000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLDPI","reward":90000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLFIXER","reward":90000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLINHZ","reward":90000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLAHLI","reward":90000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLKANAN","reward":90000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLRPS","reward":90000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLDATA","reward":90000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLCVTHZ","reward":90000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLBAUD","reward":90000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLJPWP","reward":90000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLUP","reward":500000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLFLOAT","reward":500000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLJPYUK","reward":500000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLSHELL","reward":500000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLGYVE","reward":500000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLSEKA","reward":500000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLRPSML","reward":500000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLRULE","reward":500000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLVIP","reward":500000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLIDEAL","reward":500000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLVIP99","reward":500000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLGAWAI","reward":500000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLNIHWP","reward":500000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLTWEAK","reward":500000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLCOVER","reward":500000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLPEL","reward":500000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLWPPRO","reward":500000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLUBAH","reward":500000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLSPOIL","reward":500000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+    {"code":"HSIPELLMR","reward":500000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     { "code": "HSIALDOJAYA", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOTERBANG", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOMABAR", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
