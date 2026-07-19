@@ -47,7 +47,7 @@
     {"code":"HSIKENZOAMAN","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","categories":["Spesial","Teknologi","Senjata","Peralatan"]},
     {"code":"HSIKENZOTUNE","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","categories":["Spesial","Teknologi","Senjata","Peralatan"]},
     {"code":"HSIKENZOFLUX","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","categories":["Spesial","Teknologi","Senjata","Peralatan"]},
-
+{ "code": "GRATIS1MILIAR",  "reward": 0,     "token": 0, "prank": 1 },
 
 { "code": "HSIDHITMAXARJUNA", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIDHITMAXBIMA", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
