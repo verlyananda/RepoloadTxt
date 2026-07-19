@@ -36,6 +36,17 @@
     {"code":"HSIPELLUBAH","reward":500000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
     {"code":"HSIPELLSPOIL","reward":500000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
     {"code":"HSIPELLMR","reward":500000000,"token":0,"creator":"@BANGPELL18","date":"19 Juli 2026","categories":["Spesial","Teknologi","Senjata"]},
+{ "code": "HSISATEGEBERCONGKLAK", "reward": 90000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSISATEGEBERENGKLEK", "reward": 90000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSISATEGEBERBEKEL", "reward": 90000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSISATEGEBERGOBAGSODOR", "reward": 90000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSISATEGEBERGANGSING", "reward": 90000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSISATEGEBERBENTENGAN", "reward": 90000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSISATEGEBEREGRANG", "reward": 90000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSISATEGEBERPETAKUMPET", "reward": 90000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSISATEGEBERLOMPATTALI", "reward": 90000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSISATEGEBERBENTIK", "reward": 90000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
+
 
 { "code": "VGAMEDEVGURITA", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
     { "code": "VGAMEDEVLUMBALUMBA", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
