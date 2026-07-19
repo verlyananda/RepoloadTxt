@@ -58,6 +58,18 @@
     { "code": "VGAMEDEVNGAREP", "reward": 0, "token": 0, "prank": 1 },
     { "code": "VGAMEDEVGAGAL", "reward": 0, "token": 0, "prank": 1 },
 
+{ "code": "HSISATEGEBERJAIPONG", "reward": 500000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSISATEGEBERKECAK", "reward": 500000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSISATEGEBERSAMAN", "reward": 500000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSISATEGEBERPENDET", "reward": 500000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSISATEGEBERBARONG", "reward": 500000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSISATEGEBERSERIMPI", "reward": 500000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSISATEGEBERPIRING", "reward": 500000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSISATEGEBERREMONG", "reward": 500000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSISATEGEBERLEGONG", "reward": 500000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSISATEGEBERGAMBYONG", "reward": 500000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
+
+
  {"code":"HSIKENZOPIPA","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","categories":["Spesial","Teknologi","Senjata","Peralatan"]},
     {"code":"HSIKENZOMR","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","categories":["Spesial","Teknologi","Senjata","Peralatan"]},
     {"code":"HSIKENZOOPKUY","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","categories":["Spesial","Teknologi","Senjata","Peralatan"]},
