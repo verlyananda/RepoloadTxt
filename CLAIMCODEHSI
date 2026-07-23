@@ -240,6 +240,23 @@
     { "code": "HSIALDOSEKOCI", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOKEMUDI", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOBALINGBALING", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDOTEROPONG", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] }
+    { "code": "HSIALDOTEROPONG", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
+
+    {"code":"HSIKENZOKRU","reward":90000000,"token":0,"creator":"@KENZOESPORT2026","date":"23 Juli 2026","categories":["Racing"]},
+    {"code":"HSIKENZOGLASS","reward":90000000,"token":0,"creator":"@KENZOESPORT2026","date":"23 Juli 2026","categories":["Racing"]},
+    {"code":"HSIKENZOTREK","reward":90000000,"token":0,"creator":"@KENZOESPORT2026","date":"23 Juli 2026","categories":["Racing"]},
+    {"code":"HSIKENZOMODIF","reward":90000000,"token":0,"creator":"@KENZOESPORT2026","date":"23 Juli 2026","categories":["Racing"]},
+    {"code":"HSIKENZOHOSE","reward":90000000,"token":0,"creator":"@KENZOESPORT2026","date":"23 Juli 2026","categories":["Racing"]},
+    {"code":"HSIKENZOMATIC","reward":90000000,"token":0,"creator":"@KENZOESPORT2026","date":"23 Juli 2026","categories":["Racing"]},
+    {"code":"HSIKENZOWAKTU","reward":90000000,"token":0,"creator":"@KENZOESPORT2026","date":"23 Juli 2026","categories":["Racing"]},
+    {"code":"HSIKENZOPAINT","reward":90000000,"token":0,"creator":"@KENZOESPORT2026","date":"23 Juli 2026","categories":["Racing"]},
+    {"code":"HSIKENZOHEAT","reward":90000000,"token":0,"creator":"@KENZOESPORT2026","date":"23 Juli 2026","categories":["Racing"]},
+    {"code":"HSIKENZOPELEK","reward":90000000,"token":0,"creator":"@KENZOESPORT2026","date":"23 Juli 2026","categories":["Racing"]},
+
+ {"code":"HSIKENZOSPORT","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","date":"23 Juli 2026","categories":["Racing"]},
+    {"code":"HSIKENZONOS","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","date":"23 Juli 2026","categories":["Racing"]},
+    {"code":"HSIKENZOMUR","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","date":"23 Juli 2026","categories":["Racing"]},
+    {"code":"HSIKENZOMUD","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","date":"23 Juli 2026","categories":["Racing"]},
+    {"code":"HSIKENZOMUSIM","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","date":"23 Juli 2026","categories":["Racing"]}
   ]
 }
