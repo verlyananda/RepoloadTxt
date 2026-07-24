@@ -67,8 +67,8 @@
         ]
     },
   {
-        "code": "DHITMAXDUIT",
-        "reward": 27000000,
+        "code": "DHITMAXDUIT27M",
+        "reward": 270000000,
         "token": 0,
         "creator": "@DHIT_MAX09",
         "note": "Live",
