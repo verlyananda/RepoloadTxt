@@ -1,299 +1,1404 @@
 {
   "codes": [
-    { "code": "HSIADITCRANIUM", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITMANDIBULA", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITCLAVICULA", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITSCAPULA", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITSTERNUM", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITCOSTAE", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITRADIUS", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITULNA", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITCARPAL", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITMETACARPAL", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITPHALANGES", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITFEMUR", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITPATELLA", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITTIBIA", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITFIBULA", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITTARSAL", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITMETATARSAL", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITPELVIS", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITSACRUM", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITCOCCYX", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-
-    { "code": "HSIKENZOADIPATI", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOSENOPATI", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOPATIH", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOTUMENGGUNG", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZORADEN", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOGUSTI", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOPRABU", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOSULTAN", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOSUSUHUNAN", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOPANEMBAHAN", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOPANGERAN", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOARYA", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOKANJENG", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOPANJI", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOMANTRI", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZODEMANG", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZORONGGO", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOLURAH", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOBEKEL", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOJAGO", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-
-    { "code": "HSIPELLARKEAN", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLPROTEROZOIKUM", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLPALEOZOIKUM", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLMESOZOIKUM", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLKENOZOIKUM", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLKAMBRIUM", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLORDOVISIUM", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLSILUR", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLDEVON", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLKARBON", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLPERM", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note":     { "code": "HSIALDOMAXKILIMANJARO", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOMERKURIUS", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOVENUS", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOBUMI", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOMARS", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOJUPITER", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOSATURNUS", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOURANUS", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZONEPTUNUS", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOPLUTO", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOBULAN", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOGALAKSI", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOBIMASAKTI", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOANDROMEDA", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOMETEORIT", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOPULSAR", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-
-    { "code": "HSIPELLCINCIN", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLKALUNG", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLGELANG", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLANTING", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLLIONTIN", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLBROS", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLMAHKOTA", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLTIARA", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLJAMTAGAN", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLTASMANDI", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLBERLIAN", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLZAMRUD", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLSAPIR", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLRUBI", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLMUTIARA", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-
-    { "code": "HSIREHANTRUK", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIREHANBUS", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIREHANANGKOT", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIREHANTRAKTOR", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIREHANBULDOZER", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIREHANEXCAVATOR", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIREHANFORKLIFT", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIREHANCRANE", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIREHANDUMPTRUCK", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIREHANGROBAK", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIREHANKAPALSELAM", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIREHANPESAWATJET", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIREHANHELIKOPTER", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIREHANKERETACEPAT", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIREHANROKET", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
-
-    { "code": "HSIGEBERPALU", "reward": 90000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIGEBERPAKU", "reward": 90000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIGEBERGERGAJI", "reward": 90000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIGEBEROBENG", "reward": 90000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIGEBERTANG", "reward": 90000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIGEBERKUNCIINGGRIS", "reward": 90000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIGEBERMETERAN", "reward": 90000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIGEBERAMPLAS", "reward": 90000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIGEBERKUAS", "reward": 90000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIGEBERPAHAT", "reward": 90000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIGEBERMESINBOR", "reward": 500000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIGEBERGERINDA", "reward": 500000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIGEBERKOMPRESOR", "reward": 500000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIGEBERMESINLAS", "reward": 500000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIGEBERGENSET", "reward": 500000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
-
-    { "code": "HSIMAXMAWARHITAM", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIMAXLILY", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIMAXDAISY", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIMAXLAVENDER", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIMAXANYELIR", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIMAXASTER", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIMAXBOUGENVILLE", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIMAXKEMBANGSEPATU", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIMAXALAMANDA", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIMAXAMARILIS", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIMAXRAFFLESIA", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIMAXEDELWEISS", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIMAXTITANARUM", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIMAXORCHID", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIMAXCHERRYBLOSSOM", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
-
-    { "code": "HSIALDOTENDA", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDORANSEL", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDOSEPATUGUNUNG", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDOJAKET", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDOSLEEPINGBAG", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDOMATRAS", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDOFLYSHEET", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDOSENTER", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDOHEADLAMP", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDOTONGKAT", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDOCOMPAS", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDONAVIGASI", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDOCARABINER", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDOALTANG", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDOPASAK", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITKERIS", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITKUJANG", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITRENCONG", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITMANDAU", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITBADIK", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITGOLOK", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITCELURIT", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITPARANG", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITTOMBAK", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITPANAH", "reward": 90000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITTRISULA", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITSUMPITAN", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITPISAU", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITPEDANG", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIADITPERISAI", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
-
-    { "code": "HSIKENZOSTETOSKOP", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOSUNTIKAN", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOPERBAN", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOTERMOMETER", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOINFUS", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOOBAT", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOKAPSUL", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOSIRUP", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOVAKSIN", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOOKSIGEN", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOAMBULANS", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOSCALPEL", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZORONTGEN", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOUSG", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIKENZOINKUBATOR", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
-
-    { "code": "HSIPELLGUNUNG", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLBUKIT", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLLEMBAH", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLJURANG", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLTEBING", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLDATARAN", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLGURUN", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLSABANA", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLSTEPPA", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLHUTAN", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLTELUK", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLTANJUNG", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLSEMENANJUNG", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLSELAT", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIPELLSAMUDRA", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
-{ "code": "VGAMEDEVZEUS", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
-    { "code": "VGAMEDEVPOSEIDON", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
-    { "code": "VGAMEDEVHADES", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
-    { "code": "VGAMEDEVARES", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
-    { "code": "VGAMEDEVAPOLLO", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
-    { "code": "VGAMEDEVHERMES", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
-    { "code": "VGAMEDEVATHENA", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
-    { "code": "VGAMEDEVHERA", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
-    { "code": "VGAMEDEVARTEMIS", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
-    { "code": "VGAMEDEVDIONYSUS", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
-    { "code": "VGAMEDEVAPHRODITE", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
-    { "code": "VGAMEDEVHEPHAESTUS", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
-    { "code": "VGAMEDEVTHOR", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
-    { "code": "VGAMEDEVODIN", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
-    { "code": "VGAMEDEVLOKI", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
-    { "code": "VGAMEDEVFREYA", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
-    { "code": "VGAMEDEVHEIMDALL", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
-    { "code": "VGAMEDEVBALDUR", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
-    { "code": "VGAMEDEVACHILLES", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
-    { "code": "VGAMEDEVHERCULES", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIREHANRAKET", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIREHANNET", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIREHANMATRAS", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIREHANGAWANG", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIREHANRING", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIREHANPELUIT", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIREHANTONGKAT", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIREHANBOLA", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIREHANKOK", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIREHANHELM", "reward": 90000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIREHANPAPANSELANCAR", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIREHANSNEAKERS", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIREHANSARUNGTINJU", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIREHANKACAMATARENANG", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIREHANPELAMPUNG", "reward": 500000000, "token": 0, "creator": "@ANUGRAH_1507", "note": "Live", "categories": ["Spesial"] },
-
-    { "code": "HSIGEBERJATI", "reward": 90000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIGEBERMAHONI", "reward": 90000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIGEBERULIN", "reward": 90000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIGEBERMERANTI", "reward": 90000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIGEBERSENGON", "reward": 90000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIGEBERKAMPER", "reward": 90000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIGEBERPINUS", "reward": 90000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIGEBERBAMBU", "reward": 90000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIGEBERROTAN", "reward": 90000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIGEBERBERINGIN", "reward": 90000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIGEBERCENDANA", "reward": 500000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIGEBERGAHARU", "reward": 500000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIGEBEREBONI", "reward": 500000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIGEBERSONOKELING", "reward": 500000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIGEBERTREMBESI", "reward": 500000000, "token": 0, "creator": "@SATEGEBER", "note": "Live", "categories": ["Spesial"] },
-
-    { "code": "HSIMAXBOROBUDUR", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIMAXPRAMBANAN", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIMAXMENDUT", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIMAXPAWON", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIMAXSEWU", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIMAXPLAOSAN", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIMAXKALASAN", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIMAXSARI", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIMAXBANYUNIBO", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIMAXSAMBISARI", "reward": 90000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIMAXDIENG", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIMAXMUARATAKUS", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIMAXMUARAJAMBI", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIMAXTIKUS", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIMAXBRAHU", "reward": 500000000, "token": 0, "creator": "@HEREX_SIMULATOR_V2", "note": "Live", "categories": ["Spesial"] },
-
-    { "code": "HSIALDOJANGKAR", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDONAHKODA", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDODERMAGA", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDOKOMPAS", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDOGELADAK", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDOHALUAN", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDOBURITAN", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDOKABIN", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDOPELABUHAN", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDOSAUH", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDOMERCUSUAR", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDOSEKOCI", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDOKEMUDI", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDOBALINGBALING", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDOTEROPONG", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-
-    {"code":"HSIKENZOKRU","reward":90000000,"token":0,"creator":"@KENZOESPORT2026","date":"23 Juli 2026","categories":["Racing"]},
-    {"code":"HSIKENZOGLASS","reward":90000000,"token":0,"creator":"@KENZOESPORT2026","date":"23 Juli 2026","categories":["Racing"]},
-    {"code":"HSIKENZOTREK","reward":90000000,"token":0,"creator":"@KENZOESPORT2026","date":"23 Juli 2026","categories":["Racing"]},
-    {"code":"HSIKENZOMODIF","reward":90000000,"token":0,"creator":"@KENZOESPORT2026","date":"23 Juli 2026","categories":["Racing"]},
-    {"code":"HSIKENZOHOSE","reward":90000000,"token":0,"creator":"@KENZOESPORT2026","date":"23 Juli 2026","categories":["Racing"]},
-    {"code":"HSIKENZOMATIC","reward":90000000,"token":0,"creator":"@KENZOESPORT2026","date":"23 Juli 2026","categories":["Racing"]},
-    {"code":"HSIKENZOWAKTU","reward":90000000,"token":0,"creator":"@KENZOESPORT2026","date":"23 Juli 2026","categories":["Racing"]},
-    {"code":"HSIKENZOPAINT","reward":90000000,"token":0,"creator":"@KENZOESPORT2026","date":"23 Juli 2026","categories":["Racing"]},
-    {"code":"HSIKENZOHEAT","reward":90000000,"token":0,"creator":"@KENZOESPORT2026","date":"23 Juli 2026","categories":["Racing"]},
-    {"code":"HSIKENZOPELEK","reward":90000000,"token":0,"creator":"@KENZOESPORT2026","date":"23 Juli 2026","categories":["Racing"]},
-
- {"code":"HSIKENZOSPORT","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","date":"23 Juli 2026","categories":["Racing"]},
-    {"code":"HSIKENZONOS","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","date":"23 Juli 2026","categories":["Racing"]},
-    {"code":"HSIKENZOMUR","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","date":"23 Juli 2026","categories":["Racing"]},
-    {"code":"HSIKENZOMUD","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","date":"23 Juli 2026","categories":["Racing"]},
-    {"code":"HSIKENZOMUSIM","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","date":"23 Juli 2026","categories":["Racing"]}
+   {
+        "code": "HSIADITCRANIUM",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIADITMANDIBULA",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIADITCLAVICULA",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIADITSCAPULA",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIADITSTERNUM",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIADITCOSTAE",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIADITRADIUS",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIADITULNA",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIADITCARPAL",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIADITMETACARPAL",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIADITPHALANGES",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIADITFEMUR",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIADITPATELLA",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIADITTIBIA",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIADITFIBULA",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIADITTARSAL",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIADITMETATARSAL",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIADITPELVIS",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIADITSACRUM",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIADITCOCCYX",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIKENZOADIPATI",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIKENZOSENOPATI",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIKENZOPATIH",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIKENZOTUMENGGUNG",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIKENZORADEN",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIKENZOGUSTI",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIKENZOPRABU",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIKENZOSULTAN",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIKENZOSUSUHUNAN",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIKENZOPANEMBAHAN",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIKENZOPANGERAN",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIKENZOARYA",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIKENZOKANJENG",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIKENZOPANJI",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIKENZOMANTRI",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIKENZODEMANG",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIKENZORONGGO",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIKENZOLURAH",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIKENZOBEKEL",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIKENZOJAGO",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIPELLARKEAN",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIPELLPROTEROZOIKUM",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIPELLPALEOZOIKUM",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIPELLMESOZOIKUM",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIPELLKENOZOIKUM",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIPELLKAMBRIUM",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIPELLORDOVISIUM",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIPELLSILUR",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIPELLDEVON",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIPELLKARBON",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIPELLPERM",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIPELLTRIAS",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIPELLJURA",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIPELLKAPUR",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIPELLPALEOGEN",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIPELLNEOGEN",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIPELLKUARTER",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIPELLPLEISTOSEN",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIPELLHOLOSEN",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIPELLANTROPOSEN",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIREHANHIDROGEN",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIREHANHELIUM",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIREHANLITHIUM",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIREHANKARBON",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIREHANNITROGEN",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIREHANOKSIGEN",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIREHANFLUOR",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIREHANNEON",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIREHANNATRIUM",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIREHANMAGNESIUM",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIREHANALUMUNIUM",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIREHANSILIKON",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIREHANFOSFOR",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIREHANSULFUR",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIREHANKLORIN",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIREHANARGON",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIREHANKALIUM",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIREHANKALSIUM",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIREHANTITANIUM",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIREHANAURUM",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIGEBERORION",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIGEBERPEGASUS",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIGEBERDRACO",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIGEBERLYRA",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIGEBERCYGNUS",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIGEBERCASSIOPEIA",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIGEBERANDROMEDA",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIGEBERPERSEUS",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIGEBERURSA",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIGEBERCENTAURUS",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIGEBERCRUX",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIGEBERLUPUS",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIGEBERAQUILA",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIGEBERCANIS",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIGEBERLEPUS",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIGEBERHYDRA",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIGEBERPHOENIX",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIGEBERVELA",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIGEBERCOLUMBA",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIGEBERPAVO",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIMAXUTARA",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIMAXSELATAN",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIMAXTIMUR",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIMAXBARAT",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIMAXTENGGARA",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIMAXBARATDAYA",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIMAXBARATLAUT",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIMAXTIMURLAUT",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIMAXZENITH",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIMAXNADIR",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIMAXEKUATOR",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIMAXMERIDIAN",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIMAXLATITUD",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIMAXLONGITUD",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIMAXHORIZON",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIMAXKUTUB",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIMAXBINTANG",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIMAXKORDINAT",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIMAXAZIMUTH",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIMAXELEVASI",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIALDOKAMERA",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIALDOLENSA",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIALDOTRIPOD",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIALDOSENSOR",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIALDORANA",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIALDOFLASH",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIALDOREFLEKTOR",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIALDOFILTER",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIALDOBATERAI",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIALDOMEMORI",
+        "reward": 90000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIALDOAPERTUR",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIALDOSHUTTER",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIALDOISO",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIALDOFOKUS",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIALDOBOKEH",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIALDOZOOM",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIALDOMACRO",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIALDOPORTRAIT",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIALDOLANDSCAPE",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
+    {
+        "code": "HSIALDOEXPOSURE",
+        "reward": 500000000,
+        "token": 0,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    }
   ]
 }
