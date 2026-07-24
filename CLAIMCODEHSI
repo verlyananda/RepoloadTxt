@@ -20,6 +20,16 @@
             "Spesial"
         ]
     },
+  {
+        "code": "DHITMAXSTOREGG",
+        "reward": 27000000,
+        "token": 1500,
+        "creator": "@DHIT_MAX09",
+        "note": "Live",
+        "categories": [
+            "Spesial"
+        ]
+    },
     {
         "code": "HSIADITCLAVICULA",
         "reward": 90000000,
