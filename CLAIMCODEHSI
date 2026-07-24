@@ -51,9 +51,9 @@
         ]
     },
   {
-        "code": "DHITMAXSTOREGG4",
+        "code": "DHITMAXDUIT",
         "reward": 27000000,
-        "token": 1500,
+        "token": 0,
         "creator": "@DHIT_MAX09",
         "note": "Live",
         "categories": [
