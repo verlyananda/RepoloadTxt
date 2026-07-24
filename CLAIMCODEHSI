@@ -66,16 +66,7 @@
             "Spesial"
         ]
     },
-  {
-        "code": "DHITMAXDUIT27M",
-        "reward": 27000000000,
-        "token": 0,
-        "creator": "@DHIT_MAX09",
-        "note": "Live",
-        "categories": [
-            "Spesial"
-        ]
-    }, 
+
     {
         "code": "HSIADITCLAVICULA",
         "reward": 90000000,
