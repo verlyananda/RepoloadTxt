@@ -10,6 +10,16 @@
             "Spesial"
         ]
     },
+{ "code": "HSIMAULMERAPI", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIMAULBROMO", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIMAULSEMERU", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIMAULRINJANI", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIMAULKERINCI", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIMAULKRAKATAU", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIMAULJAYAWIJAYA", "reward": 500000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIMAULDEMPO", "reward": 500000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIMAULSLAMET", "reward": 500000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIMAULSINDORO", "reward": 500000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
 { "code": "HSIALDOGALAU", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDONANGIS", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOGANTENG", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
