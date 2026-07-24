@@ -1101,9 +1101,9 @@
         ]
     },
     {
-        "code": "HSIMAXZENITH",
-        "reward": 90000000,
-        "token": 0,
+        "code": "JUMATBERKAHDM",
+        "reward": 0,
+        "token": 1000,
         "creator": "@DHIT_MAX09",
         "note": "Live",
         "categories": [
