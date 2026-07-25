@@ -19,7 +19,20 @@
 
 
 
-    
+    { "code": "MAULHSIANGKLUNG", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "MAULHSIGAMELAN", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "MAULHSISASANDO", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "MAULHSIKOLINTANG", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "MAULHSITIFA", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "MAULHSISALUANG", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "MAULHSITALEMPONG", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "MAULHSIGENDANG", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "MAULHSIKECAPI", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "MAULHSIRINDIK", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "MAULHSISARON", "reward": 500000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "MAULHSIBONANG", "reward": 500000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "MAULHSIGONG", "reward": 500000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "MAULHSIREBAB", "reward": 500000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
   
  
     {"code":"HSIDOGG888","reward":90000000,"token":0,"creator":"@BGPUSAT1","note":"CODE UTAMA","title":"CODE KHUSUS","date":"25 Juli 2026","categories":["Spesial"]},
