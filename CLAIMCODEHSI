@@ -17,7 +17,7 @@
     { "code": "HSIZOGEAR", "reward": 90000000, "token": 0, "note": "SALURAN ZOU" },
     { "code": "HSIZOBOR", "reward": 90000000, "token": 0, "note": "SALURAN ZOU" }, 
 
-
+  { "code": "ALDO6EM", "reward": 6000000000, "token": 0, "note": "SALURAN ZOU" }, 
 
     { "code": "MAULHSIANGKLUNG", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
     { "code": "MAULHSIGAMELAN", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
