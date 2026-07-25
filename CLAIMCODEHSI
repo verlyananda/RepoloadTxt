@@ -1,5 +1,22 @@
 {
   "codes": [
+
+    { "code": "HSIZOPALU", "reward": 500000000, "token": 0, "note": "SALURAN ZOU" },
+    { "code": "HSIZOLAS", "reward": 500000000, "token": 0, "note": "SALURAN ZOU" },
+    { "code": "HSIZORAGUM", "reward": 500000000, "token": 0, "note": "SALURAN ZOU" },
+    { "code": "HSIZOTV", "reward": 500000000, "token": 0, "note": "SALURAN ZOU" },
+    { "code": "HSIZOHDD", "reward": 500000000, "token": 0, "note": "SALURAN ZOU" },
+    { "code": "HSIZOPAKU", "reward": 90000000, "token": 0, "note": "SALURAN ZOU" },
+    { "code": "HSIZOPSU", "reward": 90000000, "token": 0, "note": "SALURAN ZOU" },
+    { "code": "HSIZOARMOR", "reward": 90000000, "token": 0, "note": "SALURAN ZOU" },
+    { "code": "HSIZOMOUSE", "reward": 90000000, "token": 0, "note": "SALURAN ZOU" },
+    { "code": "HSIZOAC", "reward": 90000000, "token": 0, "note": "SALURAN ZOU" },
+    { "code": "HSIZOVIP", "reward": 90000000, "token": 0, "note": "SALURAN ZOU" },
+    { "code": "HSIZORAM", "reward": 90000000, "token": 0, "note": "SALURAN ZOU" },
+    { "code": "HSIZOOBENG", "reward": 90000000, "token": 0, "note": "SALURAN ZOU" },
+    { "code": "HSIZOGEAR", "reward": 90000000, "token": 0, "note": "SALURAN ZOU" },
+    { "code": "HSIZOBOR", "reward": 90000000, "token": 0, "note": "SALURAN ZOU" }, 
+  
  
     {"code":"HSIDOGG888","reward":90000000,"token":0,"creator":"@BGPUSAT1","note":"CODE UTAMA","title":"CODE KHUSUS","date":"25 Juli 2026","categories":["Spesial"]},
     {"code":"HSIDOEZVIP","reward":90000000,"token":0,"creator":"@BGPUSAT1","note":"CODE UTAMA","title":"CODE KHUSUS","date":"25 Juli 2026","categories":["Spesial"]},
