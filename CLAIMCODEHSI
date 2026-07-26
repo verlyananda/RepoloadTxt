@@ -20,6 +20,7 @@
     { "code": "PELLZEPHYR", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
     { "code": "PELLBORA", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
     { "code": "PELLPAMPERO", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
+{ "code": "ALDOSTOREDM", "reward": 0, "token": 5100, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
 
     { "code": "ALDOESPRESSO", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "ALDOAMERICANO", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
