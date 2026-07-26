@@ -245,6 +245,22 @@
     {"code":"ZOAHM","reward":500000000,"token":0,"creator":"ZOU_SALURAN","title":"SALURAN","date":"27 Juli 2026","categories":["Kustom"]},
     {"code":"ZOPERR9","reward":500000000,"token":0,"creator":"ZOU_SALURAN","title":"SALURAN","date":"27 Juli 2026","categories":["Kustom"]},
     {"code":"ZOPEDAL","reward":500000000,"token":0,"creator":"ZOU_SALURAN","title":"SALURAN","date":"27 Juli 2026","categories":["Kustom"]},
-    {"code":"ZOGNEIS","reward":500000000,"token":0,"creator":"ZOU_SALURAN","title":"SALURAN","date":"27 Juli 2026","categories":["Kustom"]}
+    {"code":"ZOGNEIS","reward":500000000,"token":0,"creator":"ZOU_SALURAN","title":"SALURAN","date":"27 Juli 2026","categories":["Kustom"]},
+
+    {"code":"LIONFDR","reward":90000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"27 Juli 2026","categories":["Kustom"]},
+    {"code":"LIONEXCEL","reward":90000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"27 Juli 2026","categories":["Kustom"]},
+    {"code":"LIONKTM","reward":90000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"27 Juli 2026","categories":["Kustom"]},
+    {"code":"LIONAKIGS","reward":90000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"27 Juli 2026","categories":["Kustom"]},
+    {"code":"LIONARMR9","reward":90000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"27 Juli 2026","categories":["Kustom"]},
+    {"code":"LIONREM","reward":90000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"27 Juli 2026","categories":["Kustom"]},
+    {"code":"LIONCLD","reward":90000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"27 Juli 2026","categories":["Kustom"]},
+    {"code":"LIONSPHEN","reward":90000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"27 Juli 2026","categories":["Kustom"]},
+    {"code":"LIONHEAD","reward":90000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"27 Juli 2026","categories":["Kustom"]},
+    {"code":"LIONBEHEL","reward":90000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"27 Juli 2026","categories":["Kustom"]},
+    {"code":"LIONMIKA","reward":500000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"27 Juli 2026","categories":["Kustom"]},
+    {"code":"LIONAKRAP","reward":500000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"27 Juli 2026","categories":["Kustom"]},
+    {"code":"LIONR9CDI","reward":500000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"27 Juli 2026","categories":["Kustom"]},
+    {"code":"LIONBODI","reward":500000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"27 Juli 2026","categories":["Kustom"]},
+    {"code":"LIONBUSI","reward":500000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"27 Juli 2026","categories":["Kustom"]}
 ]
 }
