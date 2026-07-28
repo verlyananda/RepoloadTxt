@@ -53,6 +53,18 @@
     { "code": "HSIMAULMANTAP", "reward": 500000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIMAULKECE", "reward": 500000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
 { "code": "VGAMEDEVMOTOR", "reward": 90000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+
+{ "code": "HSIPELLGG", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIPELLBUJANG", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIPELLSUNDA", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIPELLKASEP", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIPELLTAMPAN", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIPELLMANTAP", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIPELLKECE", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIPELLKEREN", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIPELLJAGO", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIPELLGACOR", "reward": 500000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
+
     { "code": "VGAMEDEVOHLINS", "reward": 90000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
     { "code": "VGAMEDEVKNALPOT", "reward": 90000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
     { "code": "VGAMEDEVVELG", "reward": 90000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
