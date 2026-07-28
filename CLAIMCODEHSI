@@ -47,7 +47,11 @@
     {"code":"HSIGAR9JOK","reward":500000000,"token":0,"creator":"@ALEDA4229","title":"Kode Tambahan","date":"27 Juli 2026","categories":["Kustom"]},
     {"code":"HSIGARUTIL","reward":500000000,"token":0,"creator":"@ALEDA4229","title":"Kode Tambahan","date":"27 Juli 2026","categories":["Kustom"]},
     {"code":"HSIGADUNIT","reward":500000000,"token":0,"creator":"@ALEDA4229","title":"Kode Tambahan","date":"27 Juli 2026","categories":["Kustom"]},
-
+{ "code": "HSIMAULBAIK", "reward": 500000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIMAULGG", "reward": 500000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIMAULLAGI", "reward": 500000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIMAULMANTAP", "reward": 500000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIMAULKECE", "reward": 500000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
 { "code": "VGAMEDEVMOTOR", "reward": 90000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
     { "code": "VGAMEDEVOHLINS", "reward": 90000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
     { "code": "VGAMEDEVKNALPOT", "reward": 90000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
