@@ -22,7 +22,7 @@
     { "code": "HSIALDOPREMIUM", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
 
   { "code": "ALDO900", "reward": 0, "token": 900, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-
+  { "code": "DO900", "reward": 0, "token": 900, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
 
     { "code": "VGAMEDEVKUJANG", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
     { "code": "VGAMEDEVKERIS", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
