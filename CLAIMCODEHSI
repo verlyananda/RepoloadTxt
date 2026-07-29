@@ -21,6 +21,8 @@
     { "code": "HSIALDOVIP", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOPREMIUM", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
 
+   { "code": "J4AZAM", "reward": 10000000000, "token": 10000, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
+
     {"code":"HSIDOTANDA","reward":90000000,"token":0,"creator":"@BGPUSAT1","title":"Kode Tambahan Aldo","date":"29 Juli 2026","categories":["Kamus Sunda"]},
     {"code":"HSIDOABAD","reward":90000000,"token":0,"creator":"@BGPUSAT1","title":"Kode Tambahan Aldo","date":"29 Juli 2026","categories":["Kamus Sunda"]},
     {"code":"HSIDOTIWU","reward":90000000,"token":0,"creator":"@BGPUSAT1","title":"Kode Tambahan Aldo","date":"29 Juli 2026","categories":["Kamus Sunda"]},
