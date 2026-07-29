@@ -23,7 +23,7 @@
 
   { "code": "ALDO900", "reward": 0, "token": 900, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
 
-{ "code": "DHITMAXREWARD", "reward": 10000000000, "token": 1000, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
+
     { "code": "VGAMEDEVKUJANG", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
     { "code": "VGAMEDEVKERIS", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
     { "code": "VGAMEDEVMANDAU", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
