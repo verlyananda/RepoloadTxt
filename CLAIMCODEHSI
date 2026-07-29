@@ -21,7 +21,22 @@
     { "code": "HSIALDOVIP", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOPREMIUM", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
 
-
+{ "code": "HSIBOBOIBOYOKE", "reward": 90000000, "token": 0, "creator": "@BOBOIBOY", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIBOBOIBOYCAKEP", "reward": 90000000, "token": 0, "creator": "@BOBOIBOY", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIBOBOIBOYKEREN", "reward": 90000000, "token": 0, "creator": "@BOBOIBOY", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIBOBOIBOYMANTAP", "reward": 90000000, "token": 0, "creator": "@BOBOIBOY", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIBOBOIBOYKECE", "reward": 90000000, "token": 0, "creator": "@BOBOIBOY", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIBOBOIBOYGANTENG", "reward": 90000000, "token": 0, "creator": "@BOBOIBOY", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIBOBOIBOYGG", "reward": 90000000, "token": 0, "creator": "@BOBOIBOY", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIBOBOIBOYJAGO", "reward": 90000000, "token": 0, "creator": "@BOBOIBOY", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIBOBOIBOYPRO", "reward": 90000000, "token": 0, "creator": "@BOBOIBOY", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIBOBOIBOYGACOR", "reward": 90000000, "token": 0, "creator": "@BOBOIBOY", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIBOBOIBOYKUASA", "reward": 500000000, "token": 0, "creator": "@BOBOIBOY", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIBOBOIBOYSIGMA", "reward": 500000000, "token": 0, "creator": "@BOBOIBOY", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIBOBOIBOYMENYALA", "reward": 500000000, "token": 0, "creator": "@BOBOIBOY", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIBOBOIBOYTERBAIK", "reward": 500000000, "token": 0, "creator": "@BOBOIBOY", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIBOBOIBOYSOLID", "reward": 500000000, "token": 0, "creator": "@BOBOIBOY", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIBOBOIBOYVIP", "reward": 500000000, "token": 0, "creator": "@BOBOIBOY", "note": "Live", "categories": ["Spesial"] },
 
     { "code": "VGAMEDEVKUJANG", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
     { "code": "VGAMEDEVKERIS", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
