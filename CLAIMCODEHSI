@@ -21,7 +21,6 @@
     { "code": "HSIALDOVIP", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOPREMIUM", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
 
-    { "code": "J4AZAM", "reward": 10000000000, "token": 10000, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
 
     { "code": "VGAMEDEVKUJANG", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
     { "code": "VGAMEDEVKERIS", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
