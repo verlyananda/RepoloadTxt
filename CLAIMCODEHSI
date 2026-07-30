@@ -1,8 +1,8 @@
 {
   "codes": [
-    { "code": "HSIALDOWATER", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIALDOCIATER", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOEARTH", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDOSTONE", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIALDOBETONE", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOMETAL", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOBLAZE", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOFROST", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
@@ -11,7 +11,7 @@
     { "code": "HSIALDOVENOM", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOLIGHT", "reward": 90000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOTHUNDER", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-    { "code": "HSIALDOSHADOW", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIALDOSADOW", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOGRAVITY", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOPLASMA", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOCYBORG", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
