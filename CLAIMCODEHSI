@@ -20,7 +20,7 @@
     { "code": "HSIALDOBRONZE", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDONICKEL", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOCARBON", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-  { "code": "DHITMAXREWARD", "reward": 0, "token": 1500, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
+  { "code": "DHITMAXREWARD2", "reward": 0, "token": 1500, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
 {"code":"HSIDOAJAR","reward":90000000,"token":0,"creator":"@BGPUSAT1","title":"Tambahan","date":"30 Juli 2026","categories":["Spesial","Kamus Sunda","Kamus Jawa","Ekonomi"]},
     {"code":"HSIDOBADE","reward":90000000,"token":0,"creator":"@BGPUSAT1","title":"Tambahan","date":"30 Juli 2026","categories":["Spesial","Kamus Sunda","Kamus Jawa","Ekonomi"]},
     {"code":"HSIDOBOH","reward":90000000,"token":0,"creator":"@BGPUSAT1","title":"Tambahan","date":"30 Juli 2026","categories":["Spesial","Kamus Sunda","Kamus Jawa","Ekonomi"]},
