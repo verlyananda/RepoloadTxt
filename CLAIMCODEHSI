@@ -21,6 +21,8 @@
     { "code": "HSIALDONICKEL", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOCARBON", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
 
+{ "code": "HSIPELSTORE", "reward": 0, "token": 2500, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
+
     {"code":"HSIGAYAWA","reward":90000000,"token":0,"creator":"@ALEDA4229","title":"Kode Khusus","date":"30 Juli 2026","categories":["Spesial","Kamus Sunda"]},
     {"code":"HSIGAAGAL","reward":90000000,"token":0,"creator":"@ALEDA4229","title":"Kode Khusus","date":"30 Juli 2026","categories":["Spesial","Kamus Sunda"]},
     {"code":"HSIGABLAM","reward":90000000,"token":0,"creator":"@ALEDA4229","title":"Kode Khusus","date":"30 Juli 2026","categories":["Spesial","Kamus Sunda"]},
