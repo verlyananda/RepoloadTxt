@@ -53,7 +53,7 @@
     {"code":"ZORACK","reward":500000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"31 Juli 2026","categories":["Peralatan"]},
     {"code":"ZORIG","reward":500000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"31 Juli 2026","categories":["Peralatan"]},
 
- {"code":"KENZOSTOREDEH","reward":0,"token":1400,"creator":"ZOU_SALURAN","title":"Saluran","date":"31 Juli 2026","categories":["Peralatan"]},
+
 { "code": "MAULHSISUMMER", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
     { "code": "MAULHSIWINTER", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
     { "code": "MAULHSIAUTUMN", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
