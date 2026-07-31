@@ -21,6 +21,17 @@
     {"code":"HSIDITGLUER","reward":500000000,"token":0,"creator":"@DHIT_MAX09","title":"Kode Khusus","date":"31 Juli 2026","categories":["Peralatan"]},
     {"code":"HSIDITPINTU","reward":500000000,"token":0,"creator":"@DHIT_MAX09","title":"Kode Khusus","date":"31 Juli 2026","categories":["Peralatan"]},
 
+  {"code":"ZOCORD","reward":90000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"31 Juli 2026","categories":["Peralatan"]},
+    {"code":"ZOMAUL","reward":90000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"31 Juli 2026","categories":["Peralatan"]},
+    {"code":"ZOSTEM","reward":90000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"31 Juli 2026","categories":["Peralatan"]},
+    {"code":"ZOCORER","reward":90000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"31 Juli 2026","categories":["Peralatan"]},
+    {"code":"ZOSIREN","reward":90000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"31 Juli 2026","categories":["Peralatan"]},
+    {"code":"ZODAPUR","reward":500000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"31 Juli 2026","categories":["Peralatan"]},
+    {"code":"ZOCATCH","reward":500000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"31 Juli 2026","categories":["Peralatan"]},
+    {"code":"ZODIY","reward":500000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"31 Juli 2026","categories":["Peralatan"]},
+    {"code":"ZORACK","reward":500000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"31 Juli 2026","categories":["Peralatan"]},
+    {"code":"ZORIG","reward":500000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"31 Juli 2026","categories":["Peralatan"]},
+
     {"code":"HSIDOKONTE","reward":90000000,"token":0,"creator":"@BGPUSAT1","title":"Kode Khusus","date":"31 Juli 2026","categories":["Peralatan"]},
     {"code":"HSIDOFOIL","reward":90000000,"token":0,"creator":"@BGPUSAT1","title":"Kode Khusus","date":"31 Juli 2026","categories":["Peralatan"]},
     {"code":"HSIDOPAS","reward":90000000,"token":0,"creator":"@BGPUSAT1","title":"Kode Khusus","date":"31 Juli 2026","categories":["Peralatan"]},
