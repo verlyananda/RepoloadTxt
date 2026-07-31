@@ -31,6 +31,36 @@
     {"code":"ZODIY","reward":500000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"31 Juli 2026","categories":["Peralatan"]},
     {"code":"ZORACK","reward":500000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"31 Juli 2026","categories":["Peralatan"]},
     {"code":"ZORIG","reward":500000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"31 Juli 2026","categories":["Peralatan"]},
+
+
+
+
+
+
+{ "code": "HSIKENZORONIN", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIKENZOKATANA", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIKENZONINJA", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIKENZOKUNAI", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIKENZOSAMURAI", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIKENZOSAKURA", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIKENZOYOKAI", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIKENZOSHINOBI", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIKENZOKABUTO", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIKENZOSHOGUN", "reward": 90000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIKENZOCARRY", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIKENZOSUPPORT", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIKENZOTANKER", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIKENZOROAMER", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIKENZOCORE", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIKENZOFLANK", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIKENZORUSHER", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIKENZOSNIPER", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIKENZOHEALER", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIKENZOCAMPER", "reward": 500000000, "token": 0, "creator": "@KENZOESPORT2026", "note": "Live", "categories": ["Spesial"] },
+
+
+
+
 { "code": "HSIALDOGANTENG", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOBAIKDEH", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOOKEOCE", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
