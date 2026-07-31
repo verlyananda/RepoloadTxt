@@ -32,7 +32,22 @@
     {"code":"ZORACK","reward":500000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"31 Juli 2026","categories":["Peralatan"]},
     {"code":"ZORIG","reward":500000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"31 Juli 2026","categories":["Peralatan"]},
 
-
+{ "code": "MAULHSISUMMER", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "MAULHSIWINTER", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "MAULHSIAUTUMN", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "MAULHSISPRING", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "MAULHSISUNNY", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "MAULHSICLOUDY", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "MAULHSISTORMY", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "MAULHSIRAINY", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "MAULHSIWINDY", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "MAULHSISNOWY", "reward": 90000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "MAULHSIFOREST", "reward": 500000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "MAULHSIOCEAN", "reward": 500000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "MAULHSIDESERT", "reward": 500000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "MAULHSICANYON", "reward": 500000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "MAULHSIVALLEY", "reward": 500000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
+    { "code": "MAULHSITUNDRA", "reward": 500000000, "token": 0, "creator": "@HSIMAUL", "note": "Live", "categories": ["Spesial"] },
 
 
 
