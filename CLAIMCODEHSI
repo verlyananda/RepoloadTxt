@@ -266,7 +266,23 @@
     {"code":"ZOUDISK","reward":500000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"1 Agustus 2026","categories":["Teknologi","Ekonomi"]},
     {"code":"ZOUMOUNT","reward":500000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"1 Agustus 2026","categories":["Teknologi","Ekonomi"]},
     {"code":"ZOUHANG","reward":500000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"1 Agustus 2026","categories":["Teknologi","Ekonomi"]},
-    {"code":"ZOUINHZ","reward":500000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"1 Agustus 2026","categories":["Teknologi","Ekonomi"]}
+    {"code":"ZOUINHZ","reward":500000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"1 Agustus 2026","categories":["Teknologi","Ekonomi"]},
+
+ {"code":"LIONDOUSE","reward":90000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"1 Agustus 2026","categories":["Teknologi","Ekonomi"]},
+    {"code":"LIONSAVE","reward":90000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"1 Agustus 2026","categories":["Teknologi","Ekonomi"]},
+    {"code":"LIONINHZ","reward":90000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"1 Agustus 2026","categories":["Teknologi","Ekonomi"]},
+    {"code":"LIONHOOK","reward":90000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"1 Agustus 2026","categories":["Teknologi","Ekonomi"]},
+    {"code":"LIONBRUSH","reward":90000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"1 Agustus 2026","categories":["Teknologi","Ekonomi"]},
+    {"code":"LIONBUKA","reward":90000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"1 Agustus 2026","categories":["Teknologi","Ekonomi"]},
+    {"code":"LIONPROXY","reward":90000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"1 Agustus 2026","categories":["Teknologi","Ekonomi"]},
+    {"code":"LIONUNITE","reward":90000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"1 Agustus 2026","categories":["Teknologi","Ekonomi"]},
+    {"code":"LIONPSU","reward":90000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"1 Agustus 2026","categories":["Teknologi","Ekonomi"]},
+    {"code":"LIONMAKRO","reward":90000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"1 Agustus 2026","categories":["Teknologi","Ekonomi"]},
+    {"code":"LIONSCAN","reward":500000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"1 Agustus 2026","categories":["Teknologi","Ekonomi"]},
+    {"code":"LIONWASH","reward":500000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"1 Agustus 2026","categories":["Teknologi","Ekonomi"]},
+    {"code":"LIONLODGE","reward":500000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"1 Agustus 2026","categories":["Teknologi","Ekonomi"]},
+    {"code":"LIONAR","reward":500000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"1 Agustus 2026","categories":["Teknologi","Ekonomi"]},
+    {"code":"LIONPAJAK","reward":500000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"1 Agustus 2026","categories":["Teknologi","Ekonomi"]}
 
 
   ]
