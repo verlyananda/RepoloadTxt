@@ -56,6 +56,8 @@
     { "code": "HSIMAXILMUWAN", "reward": 500000000, "token": 0, "creator": "@HSIMAX", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIMAXASTRONOT", "reward": 500000000, "token": 0, "creator": "@HSIMAX", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIMAXDETEKTIF", "reward": 500000000, "token": 0, "creator": "@HSIMAX", "note": "Live", "categories": ["Spesial"] },
+   { "code": "HSIMAXDM500", "reward": 0, "token": 500, "creator": "@HSIMAX", "note": "Live", "categories": ["Spesial"] },
+
     { "code": "SATEGEBERPHANTOM", "reward": 500000000, "token": 0 },
     { "code": "SATEGEBEREVENT", "reward": 500000000, "token": 0 },
     { "code": "SATEGEBERDESTINY", "reward": 500000000, "token": 0 },
