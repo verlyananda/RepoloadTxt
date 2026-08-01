@@ -57,7 +57,8 @@
     { "code": "SATEGEBERSTARTER", "reward": 90000000, "token": 0 },
     { "code": "SATEGEBERBOSS", "reward": 90000000, "token": 0 },
     { "code": "SATEGEBERFORTUNE", "reward": 90000000, "token": 0 }, 
-
+ { "code": "DHITMAX5000", "reward": 0, "token": 5000 }, 
+ { "code": "KENZOSTORE", "reward": 0, "token": 12500 }, 
  {"code":"HSIHANSPEND","reward":90000000,"token":0,"creator":"@ANUGRAH_1507","title":"Kode Khusus","date":"1 Agustus 2026","categories":["Teknologi","Ekonomi"]},
     {"code":"HSIHANBUFF","reward":90000000,"token":0,"creator":"@ANUGRAH_1507","title":"Kode Khusus","date":"1 Agustus 2026","categories":["Teknologi","Ekonomi"]},
     {"code":"HSIHANKABEL","reward":90000000,"token":0,"creator":"@ANUGRAH_1507","title":"Kode Khusus","date":"1 Agustus 2026","categories":["Teknologi","Ekonomi"]},
