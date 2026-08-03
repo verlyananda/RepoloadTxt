@@ -190,7 +190,20 @@
     {"code":"HSIZORIM","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","title":"Khusus","date":"3 Agustus 2026","categories":["Racing"]},
     {"code":"HSIZOSAYAP","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","title":"Khusus","date":"3 Agustus 2026","categories":["Racing"]},
     {"code":"HSIZOELITE","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","title":"Khusus","date":"3 Agustus 2026","categories":["Racing"]},
-    {"code":"HSIZOJUARA","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","title":"Khusus","date":"3 Agustus 2026","categories":["Racing"]}
+    {"code":"HSIZOJUARA","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","title":"Khusus","date":"3 Agustus 2026","categories":["Racing"]},
+
+  {"code":"LIONBOOT","reward":500000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
+    {"code":"LIONRUN","reward":500000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
+    {"code":"LIONGELAR","reward":500000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
+    {"code":"LIONFAST","reward":500000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
+    {"code":"SATEGBRAXLE","reward":500000000,"token":0,"creator":"SateGeber","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
+    {"code":"SATEGBRWHEEL","reward":500000000,"token":0,"creator":"SateGeber","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
+    {"code":"SATEGBRPANAS","reward":500000000,"token":0,"creator":"SateGeber","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
+    {"code":"SATEGBRJOK","reward":500000000,"token":0,"creator":"SateGeber","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
+    {"code":"ZOUSTOCK","reward":500000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
+    {"code":"ZOUAKI","reward":500000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
+    {"code":"ZOUMAX","reward":500000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
+    {"code":"ZOUSUIT","reward":500000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
 
   ]
 }
