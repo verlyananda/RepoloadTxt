@@ -215,10 +215,6 @@
     {"code":"LIONLOW","reward":90000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
     {"code":"LIONRING","reward":90000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
     {"code":"LIONDUAL","reward":90000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
-    {"code":"LIONBOOT","reward":500000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
-    {"code":"LIONRUN","reward":500000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
-    {"code":"LIONGELAR","reward":500000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
-    {"code":"LIONFAST","reward":500000000,"token":0,"creator":"LionX_SALURAN","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
     {"code":"SATEGBRRAPID","reward":90000000,"token":0,"creator":"SateGeber","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
     {"code":"SATEGBRRALLY","reward":90000000,"token":0,"creator":"SateGeber","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
     {"code":"SATEGBRBEBEK","reward":90000000,"token":0,"creator":"SateGeber","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
@@ -229,10 +225,6 @@
     {"code":"SATEGBRRIDER","reward":90000000,"token":0,"creator":"SateGeber","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
     {"code":"SATEGBRDIRT","reward":90000000,"token":0,"creator":"SateGeber","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
     {"code":"SATEGBRAERO","reward":90000000,"token":0,"creator":"SateGeber","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
-    {"code":"SATEGBRAXLE","reward":500000000,"token":0,"creator":"SateGeber","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
-    {"code":"SATEGBRWHEEL","reward":500000000,"token":0,"creator":"SateGeber","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
-    {"code":"SATEGBRPANAS","reward":500000000,"token":0,"creator":"SateGeber","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
-    {"code":"SATEGBRJOK","reward":500000000,"token":0,"creator":"SateGeber","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
     {"code":"ZOUDRY","reward":90000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
     {"code":"ZOUBOOT","reward":90000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
     {"code":"ZOUVISOR","reward":90000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
@@ -243,10 +235,7 @@
     {"code":"ZOUMODIF","reward":90000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
     {"code":"ZOUMOTOR","reward":90000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
     {"code":"ZOURUSH","reward":90000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
-    {"code":"ZOUSTOCK","reward":500000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
-    {"code":"ZOUAKI","reward":500000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
-    {"code":"ZOUMAX","reward":500000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]},
-    {"code":"ZOUSUIT","reward":500000000,"token":0,"creator":"ZOU_SALURAN","title":"Saluran","date":"3 Agustus 2026","categories":["Racing"]}
+
 
 
   ]
