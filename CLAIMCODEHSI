@@ -23,7 +23,7 @@
 
 
     { "code": "BGDO10RB", "reward": 5000000000, "token": 10000, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
-
+{ "code": "REHANSTOREBULANAN", "reward": 0, "token": 72000, "creator": "@HSIPUSAT", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIPELLMOUSE", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIPELLMODEM", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIPELLLAPTOP", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
