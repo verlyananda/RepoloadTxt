@@ -21,7 +21,6 @@
     { "code": "HSIALDOPEARL", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOPASTEL", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
 
-    { "code": "DO100K", "reward": 0 , "token": 15000, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
 
     { "code": "BGDO10RB", "reward": 5000000000, "token": 10000, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
 
