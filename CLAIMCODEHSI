@@ -21,6 +21,8 @@
     { "code": "HSIALDOPEARL", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIALDOPASTEL", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
 
+    { "code": "BGDO10RB", "reward": 0, "token": 10000, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
+
     { "code": "HSIPELLMOUSE", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIPELLMODEM", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIPELLLAPTOP", "reward": 90000000, "token": 0, "creator": "@BANGPELL18", "note": "Live", "categories": ["Spesial"] },
