@@ -152,6 +152,19 @@
     {"code":"HSIZOSHORT","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","title":"Khusus","date":"5 Agustus 2026","categories":["Racing"]},
     {"code":"HSIZOGILA","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","title":"Khusus","date":"5 Agustus 2026","categories":["Racing"]},
 
+{ "code": "DHITMAXJACKPOT", "reward": 10000000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
+    
+    { "code": "HSIALDOGALAXY", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIALDOMETEOR", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIALDOCOMET", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIALDOPLANET", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIALDOSTARS", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIALDOROCKET", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIALDOORBIT", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIALDOCOSMOS", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIALDONEBULA", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
+    { "code": "HSIALDOAPOLLO", "reward": 500000000, "token": 0, "creator": "@BGPUSAT1", "note": "Live", "categories": ["Spesial"] },
+
   { "code": "DHITMAX-COMEBACK", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
     { "code": "DHITMAX-ASPALPANAS", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
     { "code": "DHITMAX-MENYALA", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
