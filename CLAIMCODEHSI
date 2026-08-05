@@ -152,6 +152,18 @@
     {"code":"HSIZOSHORT","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","title":"Khusus","date":"5 Agustus 2026","categories":["Racing"]},
     {"code":"HSIZOGILA","reward":500000000,"token":0,"creator":"@KENZOESPORT2026","title":"Khusus","date":"5 Agustus 2026","categories":["Racing"]},
 
+  { "code": "DHITMAX-COMEBACK", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
+    { "code": "DHITMAX-ASPALPANAS", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
+    { "code": "DHITMAX-MENYALA", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
+    { "code": "DHITMAX-HEREXNEVERDIE", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
+    { "code": "DHITMAX-GASSPOLL", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
+    { "code": "DHITMAX-SOLIDARITAS", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
+    { "code": "DHITMAX-NOLIMIT", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
+    { "code": "DHITMAX-MESINBARU", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
+    { "code": "DHITMAX-FULLSENYUM", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
+    { "code": "DHITMAX-TERIMAKASIH", "reward": 500000000, "token": 0, "creator": "@DHIT_MAX09", "note": "Live", "categories": ["Spesial"] },
+
+
     {"code":"SATEGBREPIC","reward":90000000,"token":0,"creator":"SateGeber","title":"Saluran","date":"5 Agustus 2026","categories":["Racing"]},
     {"code":"SATEGBRCUACA","reward":90000000,"token":0,"creator":"SateGeber","title":"Saluran","date":"5 Agustus 2026","categories":["Racing"]},
     {"code":"SATEGBRFAST","reward":90000000,"token":0,"creator":"SateGeber","title":"Saluran","date":"5 Agustus 2026","categories":["Racing"]},
