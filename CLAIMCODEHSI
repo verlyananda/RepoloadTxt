@@ -181,7 +181,7 @@
     {"code":"HSIDITKAWAT","reward":90000000,"token":0,"creator":"@DHIT_MAX09","title":"Saluran","date":"6 Agustus 2026","categories":["Racing","Spesial","Teknologi","Peralatan","Senjata"]},
     {"code":"HSIDITDARB","reward":90000000,"token":0,"creator":"@DHIT_MAX09","title":"Saluran","date":"6 Agustus 2026","categories":["Racing","Spesial","Teknologi","Peralatan","Senjata"]},
 { "code": "VGAMEDEVBARBELL", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
-    { "code": "VGAMEDEVCARDIO", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVVOTING", "reward": 0, "token": 1000, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
     { "code": "VGAMEDEVWORKOUT", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
     { "code": "VGAMEDEVFITNESS", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
     { "code": "VGAMEDEVMUSCLE", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
