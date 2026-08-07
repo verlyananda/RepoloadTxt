@@ -83,7 +83,9 @@
     {"code":"HSIPELLARA","reward":90000000,"token":0,"creator":"@BANGPELL18","title":"Khusus 8/6/2026","date":"6 Agustus 2026","categories":["Kamus Indonesia","Kamus Jepang"]},
     {"code":"HSIPELKUASI","reward":90000000,"token":0,"creator":"@BANGPELL18","title":"Khusus 8/6/2026","date":"6 Agustus 2026","categories":["Kamus Indonesia","Kamus Jepang"]},
     {"code":"HSIPELGIZI","reward":90000000,"token":0,"creator":"@BANGPELL18","title":"Khusus 8/6/2026","date":"6 Agustus 2026","categories":["Kamus Indonesia","Kamus Jepang"]},
-    
+
+{ "code": "IQBALTAMPAN", "reward": 500000000, "token": 1250, "creator": "@HSIWISNU", "note": "Live", "categories": ["Spesial"] },
+
 { "code": "HSIWISNURUBY", "reward": 90000000, "token": 0, "creator": "@HSIWISNU", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIWISNUEMAS", "reward": 90000000, "token": 0, "creator": "@HSIWISNU", "note": "Live", "categories": ["Spesial"] },
     { "code": "HSIWISNUGEMS", "reward": 90000000, "token": 0, "creator": "@HSIWISNU", "note": "Live", "categories": ["Spesial"] },
