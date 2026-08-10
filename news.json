@@ -1,7 +1,7 @@
 {
-    "latestVersion": "1.0.103",
+    "latestVersion": "1.0.106",
     "title": "INFO",
-    "message": "UPDATE SEKARANG! ",
-    "showPopup": false,
+    "message": "FIX BUG! ",
+    "showPopup": true,
     "updateLink": "https://play.google.com/store/apps/details?id=net.verlygamedev.herexsimulatorindonesiamax"
 }
