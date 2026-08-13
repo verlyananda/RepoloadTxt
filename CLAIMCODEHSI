@@ -15,7 +15,7 @@
     { "code": "VGAMEDEVBLADE", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
     { "code": "VGAMEDEVPOTION", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
 
-{ "code": "HSIKEN2K", "reward": 0, "token": 2000, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+{ "code": "HSIKEEN2K", "reward": 0, "token": 2000, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
     
 
     { "code": "VGAMEDEVLOOT", "reward": 0, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"], "prank": 1 },
