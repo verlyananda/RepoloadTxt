@@ -3,7 +3,22 @@
   "creators": ["HSI","SateGeber","ZOU_SALURAN","@ANUGRAH_1507","@BANGPELL18","@KENZOESPORT2026","@ALEDA4229","@WISNUNGOKNGOK","@BGPUSAT1","@DHIT_MAX09"],
   "codes": [
 
-
+{ "code": "VGAMEDEVSNIPER", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVASSAULT", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVSTEALTH", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVCOMBAT", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVSURVIVE", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVBATTLE", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVPVP", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVRANKED", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVSQUAD", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVTACTIC", "reward": 500000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    
+    { "code": "VGAMEDEVBONUS", "reward": 0, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"], "prank": 1 },
+    { "code": "VGAMEDEVREWARD", "reward": 0, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"], "prank": 1 },
+    { "code": "VGAMEDEVGIFT", "reward": 0, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"], "prank": 1 },
+    { "code": "VGAMEDEVPROMO", "reward": 0, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"], "prank": 1 },
+    { "code": "VGAMEDEVEVENT", "reward": 0, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"], "prank": 1 },
 
 
    {"code":"HSIGAMAWAR","reward":90000000,"token":0,"creator":"@ALEDA4229","title":"kusus81426","date":"14 Agustus 2026","categories":["pegunungan","Badaitopan"]},
