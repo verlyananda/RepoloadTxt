@@ -29,6 +29,8 @@
     { "code": "VGAMEDEVPROMO", "reward": 0, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"], "prank": 1 },
     { "code": "VGAMEDEVEVENT", "reward": 0, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"], "prank": 1 },
 
+ { "code": "REHANSTORE1", "reward": 500000000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"], "prank": 1 },
+
 
    {"code":"HSIGAMAWAR","reward":90000000,"token":0,"creator":"@ALEDA4229","title":"kusus81426","date":"14 Agustus 2026","categories":["pegunungan","Badaitopan"]},
     {"code":"HSIGAIDA","reward":90000000,"token":0,"creator":"@ALEDA4229","title":"kusus81426","date":"14 Agustus 2026","categories":["pegunungan","Badaitopan"]},
