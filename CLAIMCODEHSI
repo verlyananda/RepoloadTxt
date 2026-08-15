@@ -4,8 +4,8 @@
   "codes": [
    {"code":"HSIZODASI37","reward":100000000,"token":0,"creator":"@KENZOESPORT2026","title":"Salluran _ 81526","date":"15 Agustus 2026","categories":["Sekolah","Jembatan"]},
 
-{"code":"HSISAWER5DM","reward":0,"token":5000,"creator":"@KENZOESPORT2026","title":"Salluran _ 81526","date":"15 Agustus 2026","categories":["Sekolah","Jembatan"]},
-
+{"code":"HSISAWER5DM","reward":0,"token":5000,"creator":"@KENZOESPORT2026","title":"Salluran _ 81526","date":"15 Agustus 2026","categories":["Sekolah","Jembatan"], "prank": 1 },
+{ "code": "HSIBAGIBAGIDM5", "reward": 0, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"], "prank": 1 },
 
 
 
