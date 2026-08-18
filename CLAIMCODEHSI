@@ -39,7 +39,21 @@
 
 
 
-  
+  { "code": "VGAMEDEVMOTOR", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVMOBIL", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVPESAWAT", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVKERETA", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVKAPAL", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVANGKOT", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVBAJAJ", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVSEPEDA", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVTAKSI", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVBECAK", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVDELMAN", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVSKUTER", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVVESPA", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVPERAHU", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVSAMPAN", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
  
     {"code":"GAHSIOPNGABRUT99","reward":25000000,"token":0,"creator":"@ALEDA4229","note":"SHARE","title":"SHARE _ 81826","date":"18 Agustus 2026","categories":["Spesial"]},
     {"code":"GAHSIGGMLETRE999","reward":25000000,"token":0,"creator":"@ALEDA4229","note":"SHARE","title":"SHARE _ 81826","date":"18 Agustus 2026","categories":["Spesial"]},
