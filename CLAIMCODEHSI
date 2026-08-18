@@ -6,7 +6,44 @@
 
 
 
+{ "code": "VGAMEDEVMOTOR", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVMOBIL", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVPESAWAT", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVKERETA", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVKAPAL", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVANGKOT", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVBAJAJ", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVSEPEDA", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVTAKSI", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVBECAK", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVDELMAN", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVSKUTER", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVVESPA", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVPERAHU", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVSAMPAN", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
 
+
+
+
+
+
+
+{ "code": "VGAMEDEVGARAM", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVGULA", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVCABE", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVKECAP", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVBAWANG", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVJAHE", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVKUNYIT", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVLADA", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVTERASI", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    { "code": "VGAMEDEVSAMBAL", "reward": 100000000, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"] },
+    
+    { "code": "VGAMEDEVKEMIRI", "reward": 0, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"], "prank": 1 },
+    { "code": "VGAMEDEVCUKA", "reward": 0, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"], "prank": 1 },
+    { "code": "VGAMEDEVTOMAT", "reward": 0, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"], "prank": 1 },
+    { "code": "VGAMEDEVKALDU", "reward": 0, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"], "prank": 1 },
+    { "code": "VGAMEDEVSALAM", "reward": 0, "token": 0, "creator": "@VGAMEDEV", "note": "Live", "categories": ["Spesial"], "prank": 1 },
 
 
 
