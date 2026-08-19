@@ -5497,12 +5497,6 @@
             "prank": 0
         },
         {
-            "code": "VGAMEDEV33",
-            "reward": 0,
-            "token": 0,
-            "prank": 1
-        },
-        {
             "code": "VGAMEDEVBAJU",
             "reward": 100000000,
             "token": 0,
