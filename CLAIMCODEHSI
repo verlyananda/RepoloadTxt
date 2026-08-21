@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "CETBEREM",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "DITHSIAKIR",
             "reward": 100000000,
             "token": 0,
