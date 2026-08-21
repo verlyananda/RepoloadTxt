@@ -4735,6 +4735,24 @@
             "prank": 0
         },
         {
+            "code": "HSINUBALAP95",
+            "reward": 100000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUBLACKHOLE06",
+            "reward": 100000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUCAGEUR31",
+            "reward": 100000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSINUCLUTCH32",
             "reward": 10000000,
             "token": 0,
@@ -4747,14 +4765,44 @@
             "prank": 0
         },
         {
+            "code": "HSINUGERHANA26",
+            "reward": 100000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSINUHEADSHOT74",
             "reward": 10000000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "HSINUHOLOGRAM59",
+            "reward": 100000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUINDIGO99",
+            "reward": 100000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUINVISIBLE35",
+            "reward": 100000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSINUJERUK36",
             "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUKETUPAT78",
+            "reward": 100000000,
             "token": 0,
             "prank": 0
         },
@@ -4771,14 +4819,32 @@
             "prank": 0
         },
         {
+            "code": "HSINUKUY58",
+            "reward": 100000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSINULAMPUNG66",
             "reward": 10000000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "HSINULASER95",
+            "reward": 100000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSINULUNAR95",
             "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUMACAN13",
+            "reward": 100000000,
             "token": 0,
             "prank": 0
         },
@@ -4801,6 +4867,12 @@
             "prank": 0
         },
         {
+            "code": "HSINUMANIAC78",
+            "reward": 100000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSINUMESIN52",
             "reward": 10000000,
             "token": 0,
@@ -4819,6 +4891,18 @@
             "prank": 0
         },
         {
+            "code": "HSINUPIXEL41",
+            "reward": 100000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUPIZZA28",
+            "reward": 100000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSINUSAMURAI03",
             "reward": 10000000,
             "token": 0,
@@ -4827,6 +4911,12 @@
         {
             "code": "HSINUSANTUY92",
             "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUSATELIT33",
+            "reward": 100000000,
             "token": 0,
             "prank": 0
         },
@@ -4875,6 +4965,12 @@
         {
             "code": "HSINUWARAS02",
             "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUWAYANG84",
+            "reward": 100000000,
             "token": 0,
             "prank": 0
         },
