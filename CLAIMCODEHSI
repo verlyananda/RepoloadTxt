@@ -4591,6 +4591,12 @@
             "prank": 0
         },
         {
+            "code": "HSIGAASTRO46",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGABAGEUR93",
             "reward": 100000000,
             "token": 0,
@@ -4609,14 +4615,68 @@
             "prank": 0
         },
         {
+            "code": "HSIGACRIMSON80",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGADURIAN22",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGAGAL",
             "reward": 2500000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "HSIGAGUNUNG58",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGAJAYA72",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGAKENSEI77",
             "reward": 100000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGAKUNING28",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGAKUNING92",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGALAKU37",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGALASER16",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGALONTONG82",
+            "reward": 10000000,
             "token": 0,
             "prank": 0
         },
@@ -4629,6 +4689,30 @@
         {
             "code": "HSIGAPADANG16",
             "reward": 100000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGAPECEL63",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGAPISANG90",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGARAKSASA02",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGARAKSASA69",
+            "reward": 10000000,
             "token": 0,
             "prank": 0
         },
