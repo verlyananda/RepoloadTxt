@@ -4981,12 +4981,6 @@
             "prank": 0
         },
         {
-            "code": "HSIPELLACE58",
-            "reward": 10000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "HSIPELLACEH29",
             "reward": 100000000,
             "token": 0,
@@ -5005,36 +4999,6 @@
             "prank": 0
         },
         {
-            "code": "HSIPELLBIDADARI42",
-            "reward": 10000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIPELLBOBA08",
-            "reward": 10000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIPELLBURGER92",
-            "reward": 10000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIPELLCRITICAL47",
-            "reward": 10000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIPELLGRAVITY03",
-            "reward": 10000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "HSIPELLGRINDING88",
             "reward": 100000000,
             "token": 0,
@@ -5047,56 +5011,14 @@
             "prank": 0
         },
         {
-            "code": "HSIPELLHOKAGE78",
-            "reward": 10000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIPELLINDIGO11",
-            "reward": 10000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIPELLJUS94",
-            "reward": 10000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIPELLKABUT18",
-            "reward": 10000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "HSIPELLKATANA55",
             "reward": 100000000,
             "token": 0,
             "prank": 0
         },
         {
-            "code": "HSIPELLLAPFINAL32",
-            "reward": 10000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "HSIPELLLOOT09",
             "reward": 100000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIPELLMAGENTA14",
-            "reward": 10000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIPELLRAMBUTAN60",
-            "reward": 10000000,
             "token": 0,
             "prank": 0
         },
@@ -5113,26 +5035,8 @@
             "prank": 0
         },
         {
-            "code": "HSIPELLSAMURAI51",
-            "reward": 10000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIPELLSATE11",
-            "reward": 10000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "HSIPELLSIRUP31",
             "reward": 100000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIPELLSMOOTHIE62",
-            "reward": 10000000,
             "token": 0,
             "prank": 0
         },
