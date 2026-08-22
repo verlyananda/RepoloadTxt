@@ -5125,12 +5125,6 @@
             "prank": 0
         },
         {
-            "code": "HSIMAXKELAPA34",
-            "reward": 100000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "HSIMAXKENSEI21",
             "reward": 5000000,
             "token": 0,
@@ -5139,12 +5133,6 @@
         {
             "code": "HSIMAXKERNEL54",
             "reward": 5000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIMAXMAGER95",
-            "reward": 100000000,
             "token": 0,
             "prank": 0
         },
@@ -5167,12 +5155,6 @@
             "prank": 1
         },
         {
-            "code": "HSIMAXPERISAI58",
-            "reward": 100000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "HSIMAXPIXELART82",
             "reward": 5000000,
             "token": 0,
@@ -5185,26 +5167,8 @@
             "prank": 0
         },
         {
-            "code": "HSIMAXPONTIANAK89",
-            "reward": 100000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIMAXRAKSASA96",
-            "reward": 100000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "HSIMAXRENDANG21",
             "reward": 5000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIMAXSAMPURASUN19",
-            "reward": 100000000,
             "token": 0,
             "prank": 0
         },
@@ -5217,12 +5181,6 @@
         {
             "code": "HSIMAXSEPUH999",
             "reward": 25000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIMAXSHOGUN82",
-            "reward": 100000000,
             "token": 0,
             "prank": 0
         },
@@ -5245,12 +5203,6 @@
             "prank": 0
         },
         {
-            "code": "HSIMAXSTELLAR74",
-            "reward": 100000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "HSIMAXTHROTTLE14",
             "reward": 5000000,
             "token": 0,
@@ -5259,18 +5211,6 @@
         {
             "code": "HSIMAXTITAN65",
             "reward": 5000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIMAXTITAN97",
-            "reward": 100000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIMAXTOSCA85",
-            "reward": 100000000,
             "token": 0,
             "prank": 0
         },
