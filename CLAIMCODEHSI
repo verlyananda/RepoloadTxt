@@ -4987,6 +4987,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXGSUHW",
+            "reward": 0,
+            "token": 0,
+            "prank": 1
+        },
+        {
             "code": "HSIMAXHALU49",
             "reward": 5000000,
             "token": 0,
