@@ -901,6 +901,156 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXBONDO33",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXBOSS97",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXCAKRA19",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXCLUTCH97",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXCRIMSON10",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXCYBER74",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXGRIFFIN93",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXINVISIBLE85",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXKAPAK50",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXKAYA75",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXKELAPA50",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXKOMET48",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXLOOT47",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXMAXWIN68",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXMETEOR59",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXPANGGUNG86",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXPHOENIX34",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXROOKIE62",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXSERVER45",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXSLIPSTREAM72",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXSPAWNKILL23",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXTETEP44",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXTIKUNGAN57",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXTRISULA68",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXWADUL20",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIPELLACE64",
             "reward": 10000000,
             "token": 0,
@@ -1197,6 +1347,156 @@
         {
             "code": "HSIPELLVENOM50",
             "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXBALIKPAPAN05",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXBELATI05",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXBELATI49",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXBISIK18",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXCAPPUCINO92",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXCHAKRA67",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXCRIMSON58",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXCYBER99",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXDATA09",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXDURIAN48",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXGANK59",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXGARUDA78",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXGARUDA93",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXHARIMAU78",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXHATUR42",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXINVISIBLE55",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXJERUK27",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXKABUT58",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXKNALPOT61",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXLAMPUNG91",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXLEMON85",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXMVP54",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXNASGOR67",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXROVER68",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXSOLO32",
+            "reward": 2500000,
             "token": 0,
             "prank": 0
         },
@@ -1801,6 +2101,156 @@
             "prank": 0
         },
         {
+            "code": "STGEBERADIKA96",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERCAPPUCINO95",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERCRIMSON72",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERDEPOK80",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERDEWA75",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERDIMSUM94",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERGRANAT35",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERHERO15",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERHIU52",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERJACKPOT30",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERMAXWIN55",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERMECHA74",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERMVP01",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERORBIT84",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERRAJAWALI27",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERRAKUN08",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERREZEKI84",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERSAVAGE97",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERSENTINEL41",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERSIGNAL04",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERSURABAYA22",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERTEAMFIGHT00",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERTOSCA33",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERTRISULA02",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERTURBO39",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "WISNUACE98",
             "reward": 100000000,
             "token": 0,
@@ -2097,6 +2547,156 @@
         {
             "code": "WISNUWADUL98",
             "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZOUBAGEUR81",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZOUBANKAI05",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZOUBOM02",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZOUCAKRA12",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZOUCAPCUS03",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZOUDATA15",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZOUELANG17",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZOUEPIC76",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZOUGUYUB89",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZOUHIU65",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZOUKENDARI11",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZOUKOBRA44",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZOUMATUR51",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZOUOTAKU82",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZOUPEDANG15",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZOUPEPAYA77",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZOUPERAK20",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZOUREJEKI32",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZOURENDANG86",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZOUSIRKUIT25",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZOUSTOPPIE81",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZOUTEAMFIGHT26",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZOUTEH54",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZOUWEDANG40",
+            "reward": 2500000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZOUWILUJENG03",
+            "reward": 2500000,
             "token": 0,
             "prank": 0
         }
