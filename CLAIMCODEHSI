@@ -4009,6 +4009,234 @@
             "prank": 0
         },
         {
+            "code": "HSIDITBAPER32",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITBIDADARI98",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITBUAYA99",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITBUBUR76",
+            "reward": 100000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITCHAKRA01",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITCHEETAH00",
+            "reward": 100000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITCRITICAL65",
+            "reward": 100000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITDIMSUM28",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITGRANAT68",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITGUNDAM73",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITGUNDAM78",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITHATUR52",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITHITBOX69",
+            "reward": 100000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITJAYA99",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITJOGJA72",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITJOGJA79",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITKAYA59",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITKELAPA64",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITKETUPAT62",
+            "reward": 100000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITKOPI53",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITMACAN15",
+            "reward": 100000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITMAKASSAR90",
+            "reward": 100000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITMAKASSAR91",
+            "reward": 100000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITMEDAN22",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITMENTARI13",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITMERAH43",
+            "reward": 100000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITPANAH92",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITPIXEL07",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITPIXELART57",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITPODIUM26",
+            "reward": 100000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITRAJAWALI66",
+            "reward": 100000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITRUJAK11",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITSOLAR01",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITSPAWNKILL10",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITSPION69",
+            "reward": 100000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITTEH31",
+            "reward": 100000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITVELG55",
+            "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITWILUJENG58",
+            "reward": 100000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIDOACEH96",
             "reward": 100000000,
             "token": 0,
