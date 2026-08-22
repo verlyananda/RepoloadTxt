@@ -5035,6 +5035,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXOPLFA",
+            "reward": 0,
+            "token": 0,
+            "prank": 1
+        },
+        {
             "code": "HSIMAXPERISAI58",
             "reward": 100000000,
             "token": 0,
