@@ -4045,26 +4045,8 @@
             "prank": 0
         },
         {
-            "code": "HSIMAXHOLOGRAM45",
-            "reward": 5000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIMAXPIXELART82",
-            "reward": 5000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "HSIMAXSEPUH999",
             "reward": 25000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIMAXTHROTTLE14",
-            "reward": 5000000,
             "token": 0,
             "prank": 0
         },
@@ -5455,18 +5437,6 @@
             "prank": 0
         },
         {
-            "code": "MAUL5EMTX",
-            "reward": 100000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "MAUL6FXGH",
-            "reward": 100000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "MAUL7BGY3",
             "reward": 10000000,
             "token": 0,
@@ -5491,18 +5461,6 @@
             "prank": 0
         },
         {
-            "code": "MAULA839F",
-            "reward": 100000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "MAULC92WB",
-            "reward": 100000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "MAULCVBQ6",
             "reward": 1000,
             "token": 0,
@@ -5511,12 +5469,6 @@
         {
             "code": "MAULD2STY",
             "reward": 10000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "MAULDLXFP",
-            "reward": 100000000,
             "token": 0,
             "prank": 0
         },
@@ -5535,12 +5487,6 @@
         {
             "code": "MAULG2DLL",
             "reward": 10000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "MAULJ94NN",
-            "reward": 100000000,
             "token": 0,
             "prank": 0
         },
@@ -5575,36 +5521,6 @@
             "prank": 0
         },
         {
-            "code": "MAULNYUDF",
-            "reward": 100000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "MAULPLYU7",
-            "reward": 100000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "MAULPPPHB",
-            "reward": 100000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "MAULPTKXU",
-            "reward": 100000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "MAULPWLPH",
-            "reward": 100000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "MAULRAHUS",
             "reward": 10000000,
             "token": 0,
@@ -5619,12 +5535,6 @@
         {
             "code": "MAULSPV35",
             "reward": 10000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "MAULSVPCL",
-            "reward": 100000000,
             "token": 0,
             "prank": 0
         },
@@ -5653,20 +5563,8 @@
             "prank": 0
         },
         {
-            "code": "MAULYNL23",
-            "reward": 100000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "MAULZPUFM",
             "reward": 10000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "MAULZZVSM",
-            "reward": 100000000,
             "token": 0,
             "prank": 0
         },
@@ -5679,12 +5577,6 @@
         {
             "code": "NEBULA2WF29",
             "reward": 10000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "NEBULA2YNXA",
-            "reward": 100000000,
             "token": 0,
             "prank": 0
         },
@@ -5707,32 +5599,8 @@
             "prank": 0
         },
         {
-            "code": "NEBULA4JCJR",
-            "reward": 100000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "NEBULA4QY52",
             "reward": 10000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "NEBULA7DEUH",
-            "reward": 100000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "NEBULA9923M",
-            "reward": 100000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "NEBULAAVKSX",
-            "reward": 100000000,
             "token": 0,
             "prank": 0
         },
@@ -5791,12 +5659,6 @@
             "prank": 0
         },
         {
-            "code": "NEBULACWD6U",
-            "reward": 100000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "NEBULADHELIKADJNH7",
             "reward": 9523000,
             "token": 0,
@@ -5815,12 +5677,6 @@
             "prank": 0
         },
         {
-            "code": "NEBULAEU8QC",
-            "reward": 100000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "NEBULAF5QLR",
             "reward": 10000000,
             "token": 0,
@@ -5835,12 +5691,6 @@
         {
             "code": "NEBULAFIX",
             "reward": 10000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "NEBULAFS6Z6",
-            "reward": 100000000,
             "token": 0,
             "prank": 0
         },
