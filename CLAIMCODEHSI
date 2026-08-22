@@ -4939,6 +4939,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXAFGKJAI",
+            "reward": 0,
+            "token": 0,
+            "prank": 1
+        },
+        {
             "code": "HSIMAXAMBER90",
             "reward": 5000000,
             "token": 0,
