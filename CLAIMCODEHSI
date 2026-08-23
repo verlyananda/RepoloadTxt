@@ -2257,6 +2257,24 @@
             "prank": 0
         },
         {
+            "code": "VGAMEDEVACE72",
+            "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVCOMEBACK11",
+            "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVCOMEBACK61",
+            "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "VGAMEDEVGLITCH29",
             "reward": 200000000,
             "token": 0,
@@ -2287,8 +2305,38 @@
             "prank": 0
         },
         {
+            "code": "VGAMEDEVLEGENDARY79",
+            "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVMETA47",
+            "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVMVP86",
+            "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "VGAMEDEVRONIN19",
             "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVSAVAGE96",
+            "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVSAVAGE97",
+            "reward": 300000000,
             "token": 0,
             "prank": 0
         },
@@ -2299,8 +2347,20 @@
             "prank": 0
         },
         {
+            "code": "VGAMEDEVTILTED85",
+            "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "VGAMEDEVTURTLE27",
             "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVTURTLE52",
+            "reward": 300000000,
             "token": 0,
             "prank": 0
         },
