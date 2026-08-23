@@ -1351,6 +1351,12 @@
             "prank": 0
         },
         {
+            "code": "HSIREHANSTORECOINYA",
+            "reward": 25000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "LIONXBALIKPAPAN05",
             "reward": 2500000,
             "token": 0,
