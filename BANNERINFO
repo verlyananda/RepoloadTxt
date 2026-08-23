@@ -1,10 +1,13 @@
 {
   "interval": 6,
   "urls": [
-"https://raw.githubusercontent.com/verlyananda/RepoloadTxt/main/bannerpildunfix.png",
-"https://raw.githubusercontent.com/verlyananda/RepoloadTxt/main/bannershow.png",
-    "https://raw.githubusercontent.com/verlyananda/RepoloadTxt/main/bannerinfo1.png",
-    "https://raw.githubusercontent.com/verlyananda/RepoloadTxt/main/bannerinfo2.png"
+"https://raw.githubusercontent.com/verlyananda/RepoloadTxt/main/BANNERFAQ.jpg",
+"https://raw.githubusercontent.com/verlyananda/RepoloadTxt/main/BANNERTIPS.jpg",
+    "https://raw.githubusercontent.com/verlyananda/RepoloadTxt/main/BANNERPREMIUM1.jpg",
+ "https://raw.githubusercontent.com/verlyananda/RepoloadTxt/main/BANNERINFOPREM2.jpg",
+ "https://raw.githubusercontent.com/verlyananda/RepoloadTxt/main/BANNERPREM3FIX.jpg",
+ "https://raw.githubusercontent.com/verlyananda/RepoloadTxt/main/BANNERINFOPREM4.jpg"
+ 
  
   ]
 }
