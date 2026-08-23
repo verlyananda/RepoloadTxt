@@ -2263,6 +2263,12 @@
             "prank": 0
         },
         {
+            "code": "VGAMEDEVBAPER53",
+            "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "VGAMEDEVCOMEBACK11",
             "reward": 300000000,
             "token": 0,
@@ -2270,6 +2276,18 @@
         },
         {
             "code": "VGAMEDEVCOMEBACK61",
+            "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVGASKEUN15",
+            "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVGASKEUN24",
             "reward": 300000000,
             "token": 0,
             "prank": 0
@@ -2305,7 +2323,19 @@
             "prank": 0
         },
         {
+            "code": "VGAMEDEVKUY04",
+            "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "VGAMEDEVLEGENDARY79",
+            "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVMAGER89",
             "reward": 300000000,
             "token": 0,
             "prank": 0
@@ -2323,8 +2353,26 @@
             "prank": 0
         },
         {
+            "code": "VGAMEDEVRECEH09",
+            "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVRECEH28",
+            "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "VGAMEDEVRONIN19",
             "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVSADIS58",
+            "reward": 300000000,
             "token": 0,
             "prank": 0
         },
@@ -2336,6 +2384,18 @@
         },
         {
             "code": "VGAMEDEVSAVAGE97",
+            "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVSIKAT78",
+            "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVSLEBEW62",
             "reward": 300000000,
             "token": 0,
             "prank": 0
