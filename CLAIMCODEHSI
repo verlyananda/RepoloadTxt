@@ -409,6 +409,12 @@
             "prank": 0
         },
         {
+            "code": "HSIDITKATANA24",
+            "reward": 40000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIDITKERAK41",
             "reward": 10000000,
             "token": 0,
@@ -753,6 +759,12 @@
         {
             "code": "HSIDOGUNDAM09",
             "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDOGUNDAM85",
+            "reward": 40000000000,
             "token": 0,
             "prank": 0
         },
@@ -1555,6 +1567,12 @@
             "prank": 0
         },
         {
+            "code": "HSIGASENSEI44",
+            "reward": 40000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGASENTINEL34",
             "reward": 100000000,
             "token": 0,
@@ -1659,6 +1677,12 @@
         {
             "code": "HSILABALI69",
             "reward": 5000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSILABANKAI23",
+            "reward": 40000000000,
             "token": 0,
             "prank": 0
         },
@@ -2677,6 +2701,12 @@
             "prank": 0
         },
         {
+            "code": "HSINUMECHA53",
+            "reward": 40000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSINUMERIAM45",
             "reward": 10000000,
             "token": 0,
@@ -3121,6 +3151,12 @@
             "prank": 0
         },
         {
+            "code": "HSIPELLGUNDAM83",
+            "reward": 40000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIPELLGURUN83",
             "reward": 10000000,
             "token": 0,
@@ -3489,6 +3525,12 @@
         {
             "code": "HSIULDEPOK15",
             "reward": 5000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIULDOJO11",
+            "reward": 40000000000,
             "token": 0,
             "prank": 0
         },
@@ -4009,6 +4051,12 @@
             "prank": 0
         },
         {
+            "code": "LIONXONIGIRI55",
+            "reward": 40000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "LIONXOTAKU43",
             "reward": 5000000,
             "token": 0,
@@ -4467,6 +4515,12 @@
         {
             "code": "ZOURAMBUTAN55",
             "reward": 5000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZOUSAIYAN41",
+            "reward": 40000000000,
             "token": 0,
             "prank": 0
         },
