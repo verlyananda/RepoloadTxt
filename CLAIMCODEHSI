@@ -1657,6 +1657,12 @@
             "prank": 0
         },
         {
+            "code": "HSIJUARA64",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSILAAMBER55",
             "reward": 10000000,
             "token": 0,
@@ -1923,6 +1929,12 @@
         {
             "code": "HSILAPERAK23",
             "reward": 5000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSILAPFINAL25",
+            "reward": 200000000,
             "token": 0,
             "prank": 0
         },
@@ -3447,6 +3459,54 @@
         {
             "code": "HSIPELLWADUL38",
             "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIPISTON97",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIPODIUM12",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIREM00",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIREM37",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSISPION05",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSISPION69",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSISPION96",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSITHROTTLE56",
+            "reward": 200000000,
             "token": 0,
             "prank": 0
         },
