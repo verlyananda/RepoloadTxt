@@ -211,6 +211,12 @@
             "prank": 0
         },
         {
+            "code": "HSI6000ASDJFSIJFIKSF",
+            "reward": 0,
+            "token": 6000,
+            "prank": 0
+        },
+        {
             "code": "HSIDITBAKSO06",
             "reward": 100000000,
             "token": 0,
