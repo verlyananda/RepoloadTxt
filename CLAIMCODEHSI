@@ -1825,12 +1825,6 @@
             "prank": 0
         },
         {
-            "code": "HSIJOSSDEH",
-            "reward": 0,
-            "token": 500,
-            "prank": 0
-        },
-        {
             "code": "HSIJUARA64",
             "reward": 200000000,
             "token": 0,
@@ -4653,6 +4647,66 @@
         {
             "code": "REHANWAKANDA16",
             "reward": 5000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEBOBA56",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEKOPI61",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMELEMON08",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEMOJITO16",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEMOJITO51",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEMOJITO60",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMESODA07",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMESODA22",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMETEH64",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMETEH90",
+            "reward": 200000000,
             "token": 0,
             "prank": 0
         },
