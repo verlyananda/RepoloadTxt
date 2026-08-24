@@ -1747,6 +1747,12 @@
             "prank": 0
         },
         {
+            "code": "HSIJIRGG",
+            "reward": 0,
+            "token": 0,
+            "prank": 1
+        },
+        {
             "code": "HSIJIRGUARDIAN66",
             "reward": 200000000,
             "token": 0,
