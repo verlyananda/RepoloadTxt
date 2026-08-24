@@ -1813,6 +1813,12 @@
             "prank": 0
         },
         {
+            "code": "HSIJOSSDEH",
+            "reward": 0,
+            "token": 500,
+            "prank": 0
+        },
+        {
             "code": "HSIJUARA64",
             "reward": 200000000,
             "token": 0,
