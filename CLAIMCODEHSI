@@ -223,6 +223,12 @@
             "prank": 1
         },
         {
+            "code": "DMJOSSDAHLAH",
+            "reward": 0,
+            "token": 0,
+            "prank": 1
+        },
+        {
             "code": "DMJOSSDEH1000",
             "reward": 0,
             "token": 1000,
