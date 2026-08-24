@@ -751,8 +751,20 @@
             "prank": 0
         },
         {
+            "code": "HSIDOEPIC89",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIDOGALACTUS66",
             "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDOGLORY21",
+            "reward": 500000000,
             "token": 0,
             "prank": 0
         },
@@ -807,6 +819,12 @@
         {
             "code": "HSIDOINVISIBLE75",
             "reward": 5000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDOJACKPOT25",
+            "reward": 500000000,
             "token": 0,
             "prank": 0
         },
@@ -951,6 +969,24 @@
         {
             "code": "HSIDOMAXWIN79",
             "reward": 10000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDOMENANG30",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDOMENANG62",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDOMYTHIC98",
+            "reward": 500000000,
             "token": 0,
             "prank": 0
         },
