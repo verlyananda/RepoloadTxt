@@ -223,6 +223,12 @@
             "prank": 1
         },
         {
+            "code": "DMJOSSDEH1000",
+            "reward": 0,
+            "token": 1000,
+            "prank": 0
+        },
+        {
             "code": "HSI6000ASDJFSIJFIKSF",
             "reward": 0,
             "token": 6000,
