@@ -217,6 +217,12 @@
             "prank": 1
         },
         {
+            "code": "DMBERKAH1000",
+            "reward": 0,
+            "token": 0,
+            "prank": 1
+        },
+        {
             "code": "HSI6000ASDJFSIJFIKSF",
             "reward": 0,
             "token": 6000,
