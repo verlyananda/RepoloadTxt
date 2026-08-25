@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "HSIDM1000COK",
+            "reward": 0,
+            "token": 0,
+            "prank": 1
+        },
+        {
             "code": "HSIDMJOSS",
             "reward": 0,
             "token": 0,
