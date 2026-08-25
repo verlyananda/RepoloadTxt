@@ -13,6 +13,12 @@
             "prank": 1
         },
         {
+            "code": "HSIDMNICH",
+            "reward": 0,
+            "token": 10,
+            "prank": 0
+        },
+        {
             "code": "HSIJUARA64",
             "reward": 200000000,
             "token": 0,
