@@ -65,6 +65,66 @@
             "reward": 200000000,
             "token": 0,
             "prank": 0
+        },
+        {
+            "code": "VGAMEDEVCAPCUS55",
+            "reward": 300000004,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVCIHUY33",
+            "reward": 300000004,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVCIHUY43",
+            "reward": 300000004,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVHALU14",
+            "reward": 300000004,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVJOSS12",
+            "reward": 300000004,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVJOSS46",
+            "reward": 300000004,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVNGABERS59",
+            "reward": 300000004,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVRECEH07",
+            "reward": 300000004,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVRECEH10",
+            "reward": 300000004,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVSANTUY16",
+            "reward": 300000004,
+            "token": 0,
+            "prank": 0
         }
     ]
 }
