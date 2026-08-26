@@ -1,9 +1,63 @@
 {
     "codes": [
         {
-            "code": "HSIDM1KDMNIH",
-            "reward": 0,
-            "token": 1000,
+            "code": "HSIDEVGALACTUS84",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDEVHERO88",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDEVINVISIBLE14",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDEVMULTIVERSE61",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDEVOMEGA23",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDEVPOWER55",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDEVSENTINEL39",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDEVSENTINEL63",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDEVSHIELD33",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDEVWAKANDA21",
+            "reward": 200000000,
+            "token": 0,
             "prank": 0
         },
         {
