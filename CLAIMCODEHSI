@@ -61,6 +61,66 @@
             "prank": 0
         },
         {
+            "code": "VGAMEDEVACE41",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVCARRY98",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVCHAMPION95",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVCLUTCH43",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVCOMEBACK24",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVFRAG42",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVGANK31",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVMETA09",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVPUSH28",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVSMURF17",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ZAKYDM5K",
             "reward": 0,
             "token": 5000,
