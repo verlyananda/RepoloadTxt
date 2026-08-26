@@ -59,6 +59,12 @@
             "reward": 200000000,
             "token": 0,
             "prank": 0
+        },
+        {
+            "code": "ZAKYDM5K",
+            "reward": 0,
+            "token": 5000,
+            "prank": 0
         }
     ]
 }
