@@ -13,6 +13,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXIDDM",
+            "reward": 0,
+            "token": 0,
+            "prank": 1
+        },
+        {
             "code": "HSIPISTON97",
             "reward": 200000000,
             "token": 0,
