@@ -1,18 +1,6 @@
 {
     "codes": [
         {
-            "code": "DMJOSJIS1000",
-            "reward": 0,
-            "token": 100,
-            "prank": 0
-        },
-        {
-            "code": "DMJOSS1000",
-            "reward": 0,
-            "token": 10,
-            "prank": 0
-        },
-        {
             "code": "HSICARRY41",
             "reward": 200000000,
             "token": 0,
@@ -20,12 +8,6 @@
         },
         {
             "code": "HSICOMEBACK13",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSICRIMSON95",
             "reward": 200000000,
             "token": 0,
             "prank": 0
@@ -91,61 +73,13 @@
             "prank": 0
         },
         {
-            "code": "HSIDMRILLDEH",
-            "reward": 0,
-            "token": 0,
-            "prank": 1
-        },
-        {
-            "code": "HSIELANG11",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIEMAS00",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "HSIFRAG09",
             "reward": 200000000,
             "token": 0,
             "prank": 0
         },
         {
-            "code": "HSIHARIMAU83",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIHIU58",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIJINGGA85",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "HSIJUARA64",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIKUDA21",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIKUDA86",
             "reward": 200000000,
             "token": 0,
             "prank": 0
@@ -169,96 +103,6 @@
             "prank": 0
         },
         {
-            "code": "HSIMACAN69",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIMAGENTA24",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIMAGENTA80",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIMAROON85",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIMAXDIMSUM58",
-            "reward": 300000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIMAXDONAT31",
-            "reward": 300000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIMAXNASGOR79",
-            "reward": 300000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIMAXPECEL99",
-            "reward": 300000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIMAXRENDANG28",
-            "reward": 300000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIMAXSATE85",
-            "reward": 300000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIMAXSOSIS58",
-            "reward": 300000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIMAXSOSIS94",
-            "reward": 300000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIMAXTAKOYAKI86",
-            "reward": 300000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIMAXTAKOYAKI90",
-            "reward": 300000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIMERAH31",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "HSIMETA70",
             "reward": 200000000,
             "token": 0,
@@ -271,43 +115,7 @@
             "prank": 0
         },
         {
-            "code": "HSIORCA12",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIORCA95",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIPERAK04",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIPERAK16",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIPHOENIX25",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "HSIPISTON97",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIPLATINUM41",
             "reward": 200000000,
             "token": 0,
             "prank": 0
@@ -326,12 +134,6 @@
         },
         {
             "code": "HSIREM37",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIRUSA59",
             "reward": 200000000,
             "token": 0,
             "prank": 0
@@ -374,66 +176,6 @@
         },
         {
             "code": "HSITILTED56",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "VGAMEDEVACE38",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "VGAMEDEVCOMEBACK51",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "VGAMEDEVLEGENDARY58",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "VGAMEDEVLORD11",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "VGAMEDEVMETA08",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "VGAMEDEVMETA15",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "VGAMEDEVMETA64",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "VGAMEDEVMVP56",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "VGAMEDEVPUSH90",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "VGAMEDEVTEAMFIGHT72",
             "reward": 200000000,
             "token": 0,
             "prank": 0
