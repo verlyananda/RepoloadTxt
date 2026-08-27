@@ -1,12 +1,6 @@
 {
     "codes": [
         {
-            "code": "DM1000NIH",
-            "reward": 0,
-            "token": 1000,
-            "prank": 0
-        },
-        {
             "code": "DMJOSJIS1000",
             "reward": 0,
             "token": 100,
@@ -16,6 +10,12 @@
             "code": "DMJOSS1000",
             "reward": 0,
             "token": 10,
+            "prank": 0
+        },
+        {
+            "code": "HSICRIMSON95",
+            "reward": 200000000,
+            "token": 0,
             "prank": 0
         },
         {
@@ -91,6 +91,12 @@
             "prank": 0
         },
         {
+            "code": "HSIEMAS00",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIHARIMAU83",
             "reward": 200000000,
             "token": 0,
@@ -98,6 +104,12 @@
         },
         {
             "code": "HSIHIU58",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIJINGGA85",
             "reward": 200000000,
             "token": 0,
             "prank": 0
@@ -128,6 +140,24 @@
         },
         {
             "code": "HSIMACAN69",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAGENTA24",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAGENTA80",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAROON85",
             "reward": 200000000,
             "token": 0,
             "prank": 0
@@ -193,6 +223,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMERAH31",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIORCA12",
             "reward": 200000000,
             "token": 0,
@@ -205,6 +241,18 @@
             "prank": 0
         },
         {
+            "code": "HSIPERAK04",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIPERAK16",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIPHOENIX25",
             "reward": 200000000,
             "token": 0,
@@ -212,6 +260,12 @@
         },
         {
             "code": "HSIPISTON97",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIPLATINUM41",
             "reward": 200000000,
             "token": 0,
             "prank": 0
