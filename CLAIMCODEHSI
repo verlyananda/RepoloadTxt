@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "DMJOSJIS1000",
+            "reward": 0,
+            "token": 100,
+            "prank": 0
+        },
+        {
             "code": "DMJOSS1000",
             "reward": 0,
             "token": 10,
