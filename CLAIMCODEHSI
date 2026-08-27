@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "DM1000NIH",
+            "reward": 0,
+            "token": 1000,
+            "prank": 0
+        },
+        {
             "code": "DMJOSJIS1000",
             "reward": 0,
             "token": 100,
