@@ -61,6 +61,12 @@
             "prank": 0
         },
         {
+            "code": "HSIDMRILLDEH",
+            "reward": 0,
+            "token": 0,
+            "prank": 1
+        },
+        {
             "code": "HSIELANG11",
             "reward": 200000000,
             "token": 0,
