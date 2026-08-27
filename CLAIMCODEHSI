@@ -13,6 +13,18 @@
             "prank": 0
         },
         {
+            "code": "HSICARRY41",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSICOMEBACK13",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSICRIMSON95",
             "reward": 200000000,
             "token": 0,
@@ -97,6 +109,12 @@
             "prank": 0
         },
         {
+            "code": "HSIFRAG09",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIHARIMAU83",
             "reward": 200000000,
             "token": 0,
@@ -134,6 +152,18 @@
         },
         {
             "code": "HSILAPFINAL25",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSILEGENDARY39",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSILEGENDARY77",
             "reward": 200000000,
             "token": 0,
             "prank": 0
@@ -229,6 +259,18 @@
             "prank": 0
         },
         {
+            "code": "HSIMETA70",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMVP05",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIORCA12",
             "reward": 200000000,
             "token": 0,
@@ -295,6 +337,18 @@
             "prank": 0
         },
         {
+            "code": "HSISAVAGE51",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSISNIPE74",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSISPION05",
             "reward": 200000000,
             "token": 0,
@@ -314,6 +368,12 @@
         },
         {
             "code": "HSITHROTTLE56",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSITILTED56",
             "reward": 200000000,
             "token": 0,
             "prank": 0
