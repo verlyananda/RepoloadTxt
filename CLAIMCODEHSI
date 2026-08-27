@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "DMJOSS1000",
+            "reward": 0,
+            "token": 10,
+            "prank": 0
+        },
+        {
             "code": "HSIDEVGALACTUS84",
             "reward": 200000000,
             "token": 0,
