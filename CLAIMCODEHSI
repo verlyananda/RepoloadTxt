@@ -61,13 +61,49 @@
             "prank": 0
         },
         {
+            "code": "HSIELANG11",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIHARIMAU83",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIHIU58",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIJUARA64",
             "reward": 200000000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "HSIKUDA21",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIKUDA86",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSILAPFINAL25",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMACAN69",
             "reward": 200000000,
             "token": 0,
             "prank": 0
@@ -133,6 +169,24 @@
             "prank": 0
         },
         {
+            "code": "HSIORCA12",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIORCA95",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIPHOENIX25",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIPISTON97",
             "reward": 200000000,
             "token": 0,
@@ -152,6 +206,12 @@
         },
         {
             "code": "HSIREM37",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIRUSA59",
             "reward": 200000000,
             "token": 0,
             "prank": 0
