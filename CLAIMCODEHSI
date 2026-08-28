@@ -97,6 +97,12 @@
             "prank": 0
         },
         {
+            "code": "HSIDMGILA1K",
+            "reward": 0,
+            "token": 1000,
+            "prank": 0
+        },
+        {
             "code": "HSIFRAG09",
             "reward": 200000000,
             "token": 0,
