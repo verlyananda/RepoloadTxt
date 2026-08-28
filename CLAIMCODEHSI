@@ -19,6 +19,12 @@
             "prank": 0
         },
         {
+            "code": "HSIBOCILGILADM",
+            "reward": 0,
+            "token": 100,
+            "prank": 0
+        },
+        {
             "code": "HSICARRY41",
             "reward": 200000000,
             "token": 0,
