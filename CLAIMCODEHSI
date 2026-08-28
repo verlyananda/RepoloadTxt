@@ -295,7 +295,19 @@
             "prank": 0
         },
         {
+            "code": "HSINSTAGRAMACE07",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSINSTAGRAMCARRY61",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINSTAGRAMCHAMPION09",
             "reward": 200000000,
             "token": 0,
             "prank": 0
@@ -313,7 +325,19 @@
             "prank": 0
         },
         {
+            "code": "HSINSTAGRAMGRANDFINAL61",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSINSTAGRAMMACRO26",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINSTAGRAMMACRO43",
             "reward": 200000000,
             "token": 0,
             "prank": 0
@@ -331,7 +355,25 @@
             "prank": 0
         },
         {
+            "code": "HSINSTAGRAMMETA89",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINSTAGRAMMVP32",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSINSTAGRAMMVP85",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINSTAGRAMPUSH20",
             "reward": 200000000,
             "token": 0,
             "prank": 0
@@ -349,7 +391,25 @@
             "prank": 0
         },
         {
+            "code": "HSINSTAGRAMROOKIE30",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINSTAGRAMTEAMFIGHT62",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSINSTAGRAMTILTED04",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINSTAGRAMTILTED44",
             "reward": 200000000,
             "token": 0,
             "prank": 0
