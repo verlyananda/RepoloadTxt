@@ -19,12 +19,6 @@
             "prank": 0
         },
         {
-            "code": "HSIBOCILGILADM",
-            "reward": 0,
-            "token": 100,
-            "prank": 0
-        },
-        {
             "code": "HSICARRY41",
             "reward": 200000000,
             "token": 0,
@@ -97,21 +91,9 @@
             "prank": 0
         },
         {
-            "code": "HSIDM1000NIHAH",
-            "reward": 0,
-            "token": 50,
-            "prank": 0
-        },
-        {
             "code": "HSIFRAG09",
             "reward": 200000000,
             "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIGILADMDEHAH",
-            "reward": 0,
-            "token": 10,
             "prank": 0
         },
         {
