@@ -19,6 +19,12 @@
             "prank": 0
         },
         {
+            "code": "HSICCKHUSUS",
+            "reward": 0,
+            "token": 10000,
+            "prank": 0
+        },
+        {
             "code": "HSICOMEBACK13",
             "reward": 200000000,
             "token": 0,
