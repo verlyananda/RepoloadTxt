@@ -97,6 +97,12 @@
             "prank": 0
         },
         {
+            "code": "HSIDM1000NIHAH",
+            "reward": 0,
+            "token": 50,
+            "prank": 0
+        },
+        {
             "code": "HSIDMGILA1K",
             "reward": 0,
             "token": 1000,
