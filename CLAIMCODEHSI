@@ -385,8 +385,56 @@
             "prank": 0
         },
         {
+            "code": "VGAMEDEVGEPREK98",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVHALU94",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVHEADSHOT02",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "VGAMEDEVISEKAI73",
             "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVKENDARI32",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVKEPO18",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVKRAKEN94",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVKRYPTON53",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVMANTAP39",
+            "reward": 200000000,
             "token": 0,
             "prank": 0
         },
@@ -399,6 +447,12 @@
         {
             "code": "VGAMEDEVNAGA56",
             "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVNERF77",
+            "reward": 200000000,
             "token": 0,
             "prank": 0
         },
@@ -429,6 +483,12 @@
         {
             "code": "VGAMEDEVSENSEI90",
             "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVSPEEDRUN80",
+            "reward": 200000000,
             "token": 0,
             "prank": 0
         },
