@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "ADIT2000DMNIH",
+            "reward": 0,
+            "token": 2000,
+            "prank": 0
+        },
+        {
             "code": "DHITBALIKIN500DM",
             "reward": 0,
             "token": 500,
