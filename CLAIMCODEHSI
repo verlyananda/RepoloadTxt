@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "HSIBUFF26",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSICARRY41",
             "reward": 200000000,
             "token": 0,
@@ -8,6 +14,24 @@
         },
         {
             "code": "HSICOMEBACK13",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSICOOLDOWN72",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSICRITICAL21",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSICRITICAL71",
             "reward": 200000000,
             "token": 0,
             "prank": 0
@@ -79,6 +103,24 @@
             "prank": 0
         },
         {
+            "code": "HSIGLITCH69",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIHEADSHOT00",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIHEADSHOT50",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIJUARA64",
             "reward": 200000000,
             "token": 0,
@@ -110,6 +152,12 @@
         },
         {
             "code": "HSIMVP05",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINERF44",
             "reward": 200000000,
             "token": 0,
             "prank": 0
@@ -271,6 +319,12 @@
             "prank": 0
         },
         {
+            "code": "HSISPEEDRUN54",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSISPION05",
             "reward": 200000000,
             "token": 0,
@@ -301,8 +355,8 @@
             "prank": 0
         },
         {
-            "code": "HSIZOUMAX9M",
-            "reward": 9000000000,
+            "code": "HSIULTIMATE88",
+            "reward": 200000000,
             "token": 0,
             "prank": 0
         }
