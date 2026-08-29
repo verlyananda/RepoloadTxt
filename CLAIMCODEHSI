@@ -299,18 +299,6 @@
             "reward": 200000000,
             "token": 0,
             "prank": 0
-        },
-        {
-            "code": "HSIZOUMAX18M",
-            "reward": 18000000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIZOUMAX9M",
-            "reward": 9000000000,
-            "token": 0,
-            "prank": 0
         }
     ]
 }
