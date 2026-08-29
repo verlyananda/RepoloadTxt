@@ -419,6 +419,66 @@
             "reward": 200000000,
             "token": 0,
             "prank": 0
+        },
+        {
+            "code": "VGAMEDEVBERUANG05",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVGORILA75",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVKEPO14",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVMEGA66",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVPUSAKA67",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVSALAK24",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVSANGKAN84",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVSIKAT21",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVSOTO81",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "VGAMEDEVSUMANGET25",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
         }
     ]
 }
