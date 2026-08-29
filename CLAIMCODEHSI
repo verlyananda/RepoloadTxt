@@ -553,6 +553,12 @@
             "prank": 0
         },
         {
+            "code": "HSIPULSAR220",
+            "reward": 0,
+            "token": 500,
+            "prank": 0
+        },
+        {
             "code": "HSIREM00",
             "reward": 200000000,
             "token": 0,
