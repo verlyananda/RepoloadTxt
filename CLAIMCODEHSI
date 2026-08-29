@@ -637,6 +637,12 @@
             "prank": 0
         },
         {
+            "code": "HSITEBAKDM",
+            "reward": 0,
+            "token": 500,
+            "prank": 0
+        },
+        {
             "code": "HSITHROTTLE56",
             "reward": 200000000,
             "token": 0,
