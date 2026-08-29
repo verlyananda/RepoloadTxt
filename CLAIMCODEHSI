@@ -211,7 +211,49 @@
             "prank": 0
         },
         {
+            "code": "HSIMEONGBAONG73",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMEONGBAONG89",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMEONGIMUT04",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMEONGIMUT09",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMEONGKERNEL30",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMEONGLUCU60",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMEONGLUCU75",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMEONGLUCU90",
             "reward": 0,
             "token": 0,
             "prank": 0
@@ -224,6 +266,24 @@
         },
         {
             "code": "HSIMEONGPOWERUP87",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMEONGPUTIH34",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMEONGPUTIH55",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMEONGPUTIH60",
             "reward": 0,
             "token": 0,
             "prank": 0
