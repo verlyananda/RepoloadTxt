@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "COINREZAARAP4M",
+            "reward": 4000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSICARRY41",
             "reward": 200000000,
             "token": 0,
@@ -85,20 +91,8 @@
             "prank": 0
         },
         {
-            "code": "HSIIDACEDONDO17",
-            "reward": 5000000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "HSIIDADIKA12",
             "reward": 25000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIIDAGIEGIAJD",
-            "reward": 2000000000,
             "token": 0,
             "prank": 0
         },
@@ -130,12 +124,6 @@
             "code": "HSIIDDAMANG85",
             "reward": 50000000,
             "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIIDDDIDIK09",
-            "reward": 0,
-            "token": 100,
             "prank": 0
         },
         {
@@ -205,27 +193,9 @@
             "prank": 0
         },
         {
-            "code": "HSIIDJAHAHAH99",
-            "reward": 0,
-            "token": 100,
-            "prank": 0
-        },
-        {
             "code": "HSIIDJAYA06",
             "reward": 25000000,
             "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIIDJUJURHEBAT17",
-            "reward": 1000000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIIDJURAHANIU",
-            "reward": 0,
-            "token": 100,
             "prank": 0
         },
         {
@@ -255,12 +225,6 @@
         {
             "code": "HSIIDMUTANT92",
             "reward": 25000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIIDNICEGIGI87",
-            "reward": 1000000000,
             "token": 0,
             "prank": 0
         },
@@ -343,12 +307,6 @@
             "prank": 0
         },
         {
-            "code": "HSIIDSUGISUGIHANU96",
-            "reward": 1000000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "HSIIDSUMANGET25",
             "reward": 25000000,
             "token": 0,
@@ -358,18 +316,6 @@
             "code": "HSIIDTENTREM70",
             "reward": 25000000,
             "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIIDTUTUTURUE100",
-            "reward": 0,
-            "token": 100,
-            "prank": 0
-        },
-        {
-            "code": "HSIIDUNTUNGGU78",
-            "reward": 0,
-            "token": 100,
             "prank": 0
         },
         {
