@@ -193,6 +193,12 @@
             "prank": 0
         },
         {
+            "code": "HSIIDJURAHANIU",
+            "reward": 0,
+            "token": 100,
+            "prank": 0
+        },
+        {
             "code": "HSIIDJUS48",
             "reward": 50000000,
             "token": 0,
