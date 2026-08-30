@@ -1,12 +1,6 @@
 {
     "codes": [
         {
-            "code": "COINREZAARAP4M",
-            "reward": 4000000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "HSICARRY41",
             "reward": 200000000,
             "token": 0,
