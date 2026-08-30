@@ -241,6 +241,12 @@
             "prank": 0
         },
         {
+            "code": "HSIIDNICEGIGI87",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIIDONIGIRI33",
             "reward": 25000000,
             "token": 0,
