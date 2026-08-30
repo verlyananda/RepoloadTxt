@@ -313,6 +313,12 @@
             "prank": 0
         },
         {
+            "code": "HSIIDTUTUTURUE100",
+            "reward": 0,
+            "token": 100,
+            "prank": 0
+        },
+        {
             "code": "HSIIDWIBU35",
             "reward": 25000000,
             "token": 0,
