@@ -139,6 +139,12 @@
             "prank": 0
         },
         {
+            "code": "HSIGG",
+            "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIJUARA64",
             "reward": 200000000,
             "token": 0,
