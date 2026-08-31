@@ -67,8 +67,20 @@
             "prank": 0
         },
         {
+            "code": "HSICHIP27",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSICOMEBACK13",
             "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSICYBER78",
+            "reward": 0,
             "token": 0,
             "prank": 0
         },
@@ -205,6 +217,12 @@
             "prank": 0
         },
         {
+            "code": "HSIHOLOGRAM67",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIJUARA64",
             "reward": 200000000,
             "token": 0,
@@ -217,6 +235,12 @@
             "prank": 0
         },
         {
+            "code": "HSILASER76",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSILEGENDARY39",
             "reward": 200000000,
             "token": 0,
@@ -225,6 +249,12 @@
         {
             "code": "HSILEGENDARY77",
             "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMATRIX33",
+            "reward": 0,
             "token": 0,
             "prank": 0
         },
@@ -361,14 +391,44 @@
             "prank": 0
         },
         {
+            "code": "HSINANO48",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINEON54",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIPISTON97",
             "reward": 200000000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "HSIPIXELART05",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIPLASMA97",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIPODIUM12",
             "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIQUANTUM26",
+            "reward": 0,
             "token": 0,
             "prank": 0
         },
