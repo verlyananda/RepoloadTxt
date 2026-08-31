@@ -343,6 +343,66 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXBADAI46",
+            "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXCHECKPOINT57",
+            "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXCRITICAL76",
+            "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXJAKARTA58",
+            "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXKOPLING09",
+            "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXKSATRIA21",
+            "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXMETA15",
+            "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXPLASMA60",
+            "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXPUSAKA85",
+            "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXRAHAYU05",
+            "reward": 300000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMETA70",
             "reward": 200000000,
             "token": 0,
