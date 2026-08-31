@@ -211,6 +211,12 @@
             "prank": 0
         },
         {
+            "code": "HSIKYYPREM3",
+            "reward": 15000000000,
+            "token": 8000,
+            "prank": 0
+        },
+        {
             "code": "HSILAPFINAL25",
             "reward": 200000000,
             "token": 0,
