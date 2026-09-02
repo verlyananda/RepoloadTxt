@@ -7,7 +7,19 @@
             "prank": 0
         },
         {
+            "code": "HSICLUTCH95",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSICOMEBACK13",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDAMANG21",
             "reward": 200000000,
             "token": 0,
             "prank": 0
@@ -68,6 +80,12 @@
         },
         {
             "code": "HSIDEVWAKANDA21",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDRIFT87",
             "reward": 200000000,
             "token": 0,
             "prank": 0
@@ -145,6 +163,12 @@
             "prank": 0
         },
         {
+            "code": "HSIKETOPRAK72",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSILAPFINAL25",
             "reward": 200000000,
             "token": 0,
@@ -158,6 +182,12 @@
         },
         {
             "code": "HSILEGENDARY77",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMARTABAK81",
             "reward": 200000000,
             "token": 0,
             "prank": 0
@@ -289,7 +319,19 @@
             "prank": 0
         },
         {
+            "code": "HSIMETEORID83",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMVP05",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINEMESIS55",
             "reward": 200000000,
             "token": 0,
             "prank": 0
@@ -326,6 +368,24 @@
         },
         {
             "code": "HSISNIPE74",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSISNIPE91",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSISPAWNKILL40",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSISPAWNKILL44",
             "reward": 200000000,
             "token": 0,
             "prank": 0
