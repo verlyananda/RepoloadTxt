@@ -751,6 +751,12 @@
             "prank": 0
         },
         {
+            "code": "HSIDMISRIL",
+            "reward": 0,
+            "token": 10,
+            "prank": 0
+        },
+        {
             "code": "HSIDMTERBARU",
             "reward": 0,
             "token": 0,
