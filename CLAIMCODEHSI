@@ -889,6 +889,12 @@
             "prank": 0
         },
         {
+            "code": "HSIULANGDM",
+            "reward": 0,
+            "token": 100,
+            "prank": 0
+        },
+        {
             "code": "LIONXHSIBADIK24",
             "reward": 50000000,
             "token": 0,
