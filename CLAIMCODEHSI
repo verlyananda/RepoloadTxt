@@ -751,6 +751,12 @@
             "prank": 0
         },
         {
+            "code": "HSIDMTERBARU",
+            "reward": 0,
+            "token": 0,
+            "prank": 1
+        },
+        {
             "code": "HSIMAXHEADSHOT91",
             "reward": 200000000,
             "token": 0,
