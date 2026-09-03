@@ -757,6 +757,12 @@
             "prank": 0
         },
         {
+            "code": "HSIDMOKE",
+            "reward": 0,
+            "token": 100,
+            "prank": 0
+        },
+        {
             "code": "HSIDMTERBARU",
             "reward": 0,
             "token": 0,
