@@ -19,12 +19,6 @@
             "prank": 0
         },
         {
-            "code": "ADITHSIBANKAI28",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "ADITHSIBOGOR31",
             "reward": 160000000,
             "token": 0,
@@ -79,12 +73,6 @@
             "prank": 0
         },
         {
-            "code": "ADITHSIGRIFFIN71",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "ADITHSIJERUK36",
             "reward": 160000000,
             "token": 0,
@@ -117,12 +105,6 @@
         {
             "code": "ADITHSILUNAR63",
             "reward": 80000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "ADITHSIMALANG72",
-            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -175,20 +157,8 @@
             "prank": 0
         },
         {
-            "code": "ADITHSIPADANG41",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "ADITHSIPANGGUNG79",
             "reward": 160000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "ADITHSIPEMPEK56",
-            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -230,12 +200,6 @@
         },
         {
             "code": "ADITHSISAMPURASUN11",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "ADITHSISIKAT41",
             "reward": 150000000,
             "token": 0,
             "prank": 0
@@ -283,12 +247,6 @@
             "prank": 0
         },
         {
-            "code": "ALDOHSIBEKASI72",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "ALDOHSIBOGOR16",
             "reward": 80000000,
             "token": 0,
@@ -313,38 +271,14 @@
             "prank": 0
         },
         {
-            "code": "ALDOHSICARRY65",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "ALDOHSICOMBO94",
             "reward": 80000000,
             "token": 0,
             "prank": 0
         },
         {
-            "code": "ALDOHSIDURIAN28",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "ALDOHSIEMBUN92",
             "reward": 80000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "ALDOHSIESKRIM30",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "ALDOHSIESKRIM60",
-            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -391,24 +325,6 @@
             "prank": 0
         },
         {
-            "code": "ALDOHSIKRAKEN66",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "ALDOHSIMANIAC17",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "ALDOHSIMANIAC93",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "ALDOHSIMANTAB78",
             "reward": 80000000,
             "token": 0,
@@ -429,18 +345,6 @@
         {
             "code": "ALDOHSIMVP34",
             "reward": 160000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "ALDOHSININJA64",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "ALDOHSINUWUN66",
-            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -471,12 +375,6 @@
         {
             "code": "ALDOHSIREZEKI30",
             "reward": 160000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "ALDOHSISADIS92",
-            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -529,20 +427,8 @@
             "prank": 0
         },
         {
-            "code": "ALDOHSITETEP84",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "ALDOHSITHROTTLE68",
             "reward": 80000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "ALDOHSITITAN87",
-            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -661,18 +547,6 @@
             "prank": 0
         },
         {
-            "code": "BAYHSIKETUPAT08",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "BAYHSIKRAKEN12",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "BAYHSILECI49",
             "reward": 160000000,
             "token": 0,
@@ -697,18 +571,6 @@
             "prank": 0
         },
         {
-            "code": "BAYHSIMAXWIN31",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "BAYHSIMAXWIN64",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "BAYHSIMYTHIC03",
             "reward": 160000000,
             "token": 0,
@@ -721,26 +583,8 @@
             "prank": 0
         },
         {
-            "code": "BAYHSIPELANGI23",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "BAYHSIPISTON29",
             "reward": 80000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "BAYHSIPISTON73",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "BAYHSIPOLEPOS71",
-            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -753,12 +597,6 @@
         {
             "code": "BAYHSISALJU46",
             "reward": 160000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "BAYHSISEBLAK70",
-            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -811,12 +649,6 @@
             "prank": 0
         },
         {
-            "code": "FOXXYHSIADEM10",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "FOXXYHSIBAGEUR36",
             "reward": 80000000,
             "token": 0,
@@ -835,26 +667,8 @@
             "prank": 0
         },
         {
-            "code": "FOXXYHSICARRY96",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "FOXXYHSICOMEBACK24",
             "reward": 160000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "FOXXYHSICYBER27",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "FOXXYHSIDATA20",
-            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -883,12 +697,6 @@
             "prank": 0
         },
         {
-            "code": "FOXXYHSIELING92",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "FOXXYHSIEMBUN25",
             "reward": 80000000,
             "token": 0,
@@ -897,12 +705,6 @@
         {
             "code": "FOXXYHSIGADA46",
             "reward": 160000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "FOXXYHSIGANK75",
-            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -955,20 +757,8 @@
             "prank": 0
         },
         {
-            "code": "FOXXYHSILECI40",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "FOXXYHSILUNAR66",
             "reward": 80000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "FOXXYHSIMECHA01",
-            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -1027,12 +817,6 @@
             "prank": 0
         },
         {
-            "code": "FOXXYHSIRUSA60",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "FOXXYHSIRUSUH60",
             "reward": 80000000,
             "token": 0,
@@ -1071,12 +855,6 @@
         {
             "code": "FOXXYHSISPIDEY30",
             "reward": 80000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "FOXXYHSISPION60",
-            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -1315,12 +1093,6 @@
             "prank": 0
         },
         {
-            "code": "MAULHSICHAKRA47",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "MAULHSICLUTCH95",
             "reward": 80000000,
             "token": 0,
@@ -1375,18 +1147,6 @@
             "prank": 0
         },
         {
-            "code": "MAULHSIISEKAI96",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "MAULHSIJERUK39",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "MAULHSIJERUK76",
             "reward": 80000000,
             "token": 0,
@@ -1423,20 +1183,8 @@
             "prank": 0
         },
         {
-            "code": "MAULHSILASER98",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "MAULHSILECI68",
             "reward": 80000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "MAULHSILEMBUR16",
-            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -1471,50 +1219,14 @@
             "prank": 0
         },
         {
-            "code": "MAULHSIMAXWIN82",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "MAULHSIMUTANT20",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "MAULHSINANAS66",
             "reward": 160000000,
             "token": 0,
             "prank": 0
         },
         {
-            "code": "MAULHSINGEBUT11",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "MAULHSIPISANG07",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "MAULHSIPODIUM53",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "MAULHSIPOWER52",
             "reward": 160000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "MAULHSIQUASAR34",
-            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -1544,18 +1256,6 @@
         },
         {
             "code": "MAULHSISRIGALA76",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "MAULHSITAJIR65",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "MAULHSITOMBAK27",
             "reward": 150000000,
             "token": 0,
             "prank": 0
