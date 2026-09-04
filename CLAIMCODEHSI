@@ -919,6 +919,18 @@
             "prank": 0
         },
         {
+            "code": "HSINUBOBA85",
+            "reward": 80000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUBOBA98",
+            "reward": 80000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSINUCOMEBACK76",
             "reward": 80000000,
             "token": 0,
@@ -938,6 +950,18 @@
         },
         {
             "code": "HSINUGRANDFINAL33",
+            "reward": 80000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUMATCHA23",
+            "reward": 80000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUMATCHA46",
             "reward": 80000000,
             "token": 0,
             "prank": 0
@@ -974,6 +998,42 @@
         },
         {
             "code": "HSINUROOKIE72",
+            "reward": 80000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUSIRUP31",
+            "reward": 80000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUTEH36",
+            "reward": 80000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUTEH46",
+            "reward": 80000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUWEDANG58",
+            "reward": 80000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUWEDANG74",
+            "reward": 80000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUWEDANG84",
             "reward": 80000000,
             "token": 0,
             "prank": 0
