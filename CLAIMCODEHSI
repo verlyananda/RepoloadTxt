@@ -1,6 +1,78 @@
 {
     "codes": [
         {
+            "code": "ADITHSIACE80",
+            "reward": 160000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ADITHSIBOGOR31",
+            "reward": 160000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ADITHSIBUFF26",
+            "reward": 160000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ADITHSIGARUDA23",
+            "reward": 160000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ADITHSIJERUK36",
+            "reward": 160000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ADITHSIKRAKEN28",
+            "reward": 160000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ADITHSIMERIAM53",
+            "reward": 160000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ADITHSINANAS48",
+            "reward": 160000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ADITHSIOMEGA15",
+            "reward": 160000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ADITHSIPANGGUNG79",
+            "reward": 160000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ADITHSIPISTON85",
+            "reward": 160000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ADITHSIWHEELIE56",
+            "reward": 160000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ALFAHSIAMBER06",
             "reward": 50000000,
             "token": 0,
