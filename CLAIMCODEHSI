@@ -1507,61 +1507,7 @@
             "prank": 0
         },
         {
-            "code": "HSIDITBERUANG03",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIDITGARUDA21",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "HSIDITKRAKEN67",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIDITMACAN54",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIDITNAGA16",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIDITNAGA57",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIDITNAGA71",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIDITPHOENIX07",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIDITRAJAWALI24",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIDITSRIGALA35",
             "reward": 150000000,
             "token": 0,
             "prank": 0
@@ -1990,12 +1936,6 @@
             "code": "HSIULANGDM",
             "reward": 0,
             "token": 100,
-            "prank": 0
-        },
-        {
-            "code": "IGHSIJOS29",
-            "reward": 200000000,
-            "token": 0,
             "prank": 0
         },
         {
