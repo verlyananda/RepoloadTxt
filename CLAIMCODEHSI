@@ -1543,6 +1543,12 @@
             "prank": 0
         },
         {
+            "code": "HDGD",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIBALI35",
             "reward": 200000000,
             "token": 0,
