@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "HSI500LAGI",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIBAYANGGUR11",
             "reward": 55000000,
             "token": 0,
