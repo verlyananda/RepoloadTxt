@@ -1813,6 +1813,12 @@
             "prank": 0
         },
         {
+            "code": "LAPETDM",
+            "reward": 0,
+            "token": 5000,
+            "prank": 0
+        },
+        {
             "code": "MIDSHSIALGORITMA11",
             "reward": 50000000,
             "token": 0,
