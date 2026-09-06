@@ -13,6 +13,12 @@
             "prank": 0
         },
         {
+            "code": "HSIALDO4DONAT",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIBAYANGGUR11",
             "reward": 55000000,
             "token": 0,
