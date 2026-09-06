@@ -1897,6 +1897,12 @@
             "prank": 0
         },
         {
+            "code": "LAST500LAGI",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "MIDSHSIALGORITMA11",
             "reward": 50000000,
             "token": 0,
