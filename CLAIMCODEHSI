@@ -1501,6 +1501,12 @@
             "prank": 0
         },
         {
+            "code": "HSIOKE500",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIPELLBANTENG19",
             "reward": 200000000,
             "token": 0,
