@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "DUITSENDIRI",
+            "reward": 500000000000,
+            "token": 1700,
+            "prank": 0
+        },
+        {
             "code": "HSIBAYANGGUR11",
             "reward": 55000000,
             "token": 0,
