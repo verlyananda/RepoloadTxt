@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "ALDOTOPIDEH",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "DUITSENDIRI",
             "reward": 500000000000,
             "token": 1700,
