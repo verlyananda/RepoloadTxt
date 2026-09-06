@@ -2167,6 +2167,12 @@
             "prank": 0
         },
         {
+            "code": "NEBULAOK",
+            "reward": 1160000000,
+            "token": 3000,
+            "prank": 0
+        },
+        {
             "code": "REHANLAPET",
             "reward": 0,
             "token": 1700,
