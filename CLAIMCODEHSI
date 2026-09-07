@@ -7,6 +7,12 @@
             "prank": 0
         },
         {
+            "code": "ADITBIONIC57",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ADITFALCON84",
             "reward": 50000000,
             "token": 0,
@@ -19,7 +25,43 @@
             "prank": 0
         },
         {
+            "code": "ADITGASSS29",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ADITGAUNTLET29",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ADITGOTHAM34",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ADITHARIMAU87",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ADITHIU16",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ADITHOKAGE12",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ADITKAIJU81",
             "reward": 150000000,
             "token": 0,
             "prank": 0
@@ -31,13 +73,49 @@
             "prank": 0
         },
         {
+            "code": "ADITKELAPA01",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ADITKNALPOT49",
             "reward": 50000000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "ADITLAPFINAL94",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ADITLORD16",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ADITMACAN83",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ADITMATUR41",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ADITMAXWIN62",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ADITMETAGAME80",
             "reward": 150000000,
             "token": 0,
             "prank": 0
@@ -61,14 +139,38 @@
             "prank": 0
         },
         {
+            "code": "ADITNASGOR91",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ADITPIXELART05",
             "reward": 50000000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "ADITPIZZA17",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ADITPONTIANAK91",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ADITPUSAKA30",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ADITRAJAWALI74",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -115,6 +217,12 @@
             "prank": 0
         },
         {
+            "code": "ADITSURABAYA26",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ADITTENTREM06",
             "reward": 150000000,
             "token": 0,
@@ -123,6 +231,18 @@
         {
             "code": "ADITTHROTTLE39",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ADITTIKUNGAN34",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ADITVELG25",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -139,7 +259,19 @@
             "prank": 0
         },
         {
+            "code": "ALDOCRIMSON92",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ALDOCYBER27",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALDODRONE06",
             "reward": 150000000,
             "token": 0,
             "prank": 0
@@ -147,6 +279,12 @@
         {
             "code": "ALDODRONE36",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALDOELING93",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -169,6 +307,18 @@
             "prank": 0
         },
         {
+            "code": "ALDOJACKPOT60",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALDOJACKPOT66",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ALDOKATANA03",
             "reward": 50000000,
             "token": 0,
@@ -181,7 +331,25 @@
             "prank": 0
         },
         {
+            "code": "ALDOKRAKEN65",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ALDOKUY25",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALDOMALANG06",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALDOMANADO03",
             "reward": 150000000,
             "token": 0,
             "prank": 0
@@ -205,8 +373,20 @@
             "prank": 0
         },
         {
+            "code": "ALDOPEMPEK31",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ALDOPOWER89",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALDOQUANTUM14",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -229,8 +409,26 @@
             "prank": 0
         },
         {
+            "code": "ALDOROOKIE68",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ALDORUJAK07",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALDORUSUH91",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALDOSAMUDRA79",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -241,14 +439,56 @@
             "prank": 0
         },
         {
+            "code": "ALDOSLAMET25",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALDOSOSIS59",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALDOSUSU96",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ALDOTETEP21",
             "reward": 50000000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "ALDOTILTED97",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ALDOTURBO17",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALDOTURBO18",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALDOULTRA60",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALDOVELG86",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -265,8 +505,26 @@
             "prank": 0
         },
         {
+            "code": "BAYBANDUNG92",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYBATAGOR91",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "BAYBEKASI83",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYBUCIN13",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -319,14 +577,68 @@
             "prank": 0
         },
         {
+            "code": "BAYKUY06",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYLASER05",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYLOGIC73",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "BAYMANEH75",
             "reward": 50000000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "BAYMENANG72",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYMERIAM07",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "BAYMETEORID75",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYMULTIVERSE36",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYNAGA21",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYNANO74",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYPADANG96",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -361,6 +673,12 @@
             "prank": 0
         },
         {
+            "code": "BAYRUJAK75",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "BAYSAMUDRA77",
             "reward": 150000000,
             "token": 0,
@@ -373,7 +691,55 @@
             "prank": 0
         },
         {
+            "code": "BAYSPIDEY59",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYTAHU50",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYTETEP91",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYTHROTTLE75",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYTORNADO42",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "BAYTRESNO62",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYULTIMATE08",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYWHEELIE31",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FOXXYADEM13",
             "reward": 150000000,
             "token": 0,
             "prank": 0
@@ -403,7 +769,55 @@
             "prank": 0
         },
         {
+            "code": "FOXXYCRITICAL03",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "FOXXYDIMSUM90",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FOXXYGALACTUS76",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FOXXYGASRUK76",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FOXXYGEPREK25",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FOXXYGORILA89",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FOXXYGUNUNG92",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FOXXYHERO42",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FOXXYHERO52",
             "reward": 150000000,
             "token": 0,
             "prank": 0
@@ -422,6 +836,12 @@
         },
         {
             "code": "FOXXYKOBRA94",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FOXXYKODE88",
             "reward": 150000000,
             "token": 0,
             "prank": 0
@@ -463,7 +883,43 @@
             "prank": 0
         },
         {
+            "code": "FOXXYPANAH62",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "FOXXYPETIR47",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FOXXYPROTON98",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FOXXYRECEH60",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FOXXYRIMBA66",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FOXXYROOKIE18",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FOXXYSAKTI25",
             "reward": 150000000,
             "token": 0,
             "prank": 0
@@ -471,6 +927,12 @@
         {
             "code": "FOXXYSAMUDRA08",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FOXXYSANTUY92",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -489,6 +951,24 @@
         {
             "code": "FOXXYSLEBEW82",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FOXXYSMOOTHIE89",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FOXXYSMOOTHIE94",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FOXXYSUMANGET22",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -1249,7 +1729,49 @@
             "prank": 0
         },
         {
+            "code": "MAULCUAN20",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "MAULCYBER41",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAULGADA78",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAULGAUNTLET51",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAULGLORY94",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAULGUARDIAN47",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAULIRIS61",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAULJERUK97",
             "reward": 150000000,
             "token": 0,
             "prank": 0
@@ -1261,8 +1783,20 @@
             "prank": 0
         },
         {
+            "code": "MAULKAIJU42",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "MAULKATANA49",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAULKITSUNE31",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -1273,14 +1807,44 @@
             "prank": 0
         },
         {
+            "code": "MAULKUMAHA73",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "MAULKUNING04",
             "reward": 50000000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "MAULLAMPUNG16",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "MAULLEMON80",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAULMACAN86",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAULMACRO38",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAULMELON18",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -1309,6 +1873,18 @@
             "prank": 0
         },
         {
+            "code": "MAULPEMPEK00",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAULPLATINUM79",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "MAULQUANTUM07",
             "reward": 50000000,
             "token": 0,
@@ -1333,8 +1909,26 @@
             "prank": 0
         },
         {
+            "code": "MAULSPIDEY65",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "MAULSUGIH53",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAULSUMANGET03",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAULSUMANGET77",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -1346,6 +1940,12 @@
         },
         {
             "code": "MAULVENOM73",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAULWAYANG18",
             "reward": 150000000,
             "token": 0,
             "prank": 0
