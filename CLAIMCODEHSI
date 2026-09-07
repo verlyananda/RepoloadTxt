@@ -1081,12 +1081,6 @@
             "prank": 0
         },
         {
-            "code": "HSIMER",
-            "reward": 0,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "HSIULBONDO10",
             "reward": 50000000,
             "token": 0,
