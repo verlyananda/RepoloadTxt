@@ -1105,6 +1105,12 @@
             "prank": 1
         },
         {
+            "code": "HSI700DMCOK",
+            "reward": 0,
+            "token": 70,
+            "prank": 0
+        },
+        {
             "code": "HSIBADIK37",
             "reward": 200000000,
             "token": 0,
