@@ -1129,6 +1129,12 @@
             "prank": 1
         },
         {
+            "code": "HSIDM800JOSS",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIDRONE18",
             "reward": 200000000,
             "token": 0,
