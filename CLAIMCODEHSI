@@ -1081,6 +1081,12 @@
             "prank": 0
         },
         {
+            "code": "HSI2MNIH",
+            "reward": 0,
+            "token": 0,
+            "prank": 1
+        },
+        {
             "code": "HSIHALU66",
             "reward": 200000000,
             "token": 0,
