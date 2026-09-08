@@ -1093,7 +1093,31 @@
             "prank": 0
         },
         {
+            "code": "HSIBADIK37",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDRONE18",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGADO36",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIHALU66",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIHATUR09",
             "reward": 200000000,
             "token": 0,
             "prank": 0
@@ -1141,7 +1165,19 @@
             "prank": 0
         },
         {
+            "code": "HSILUMBA15",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMANTUL83",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAROON32",
             "reward": 200000000,
             "token": 0,
             "prank": 0
@@ -1315,6 +1351,24 @@
             "prank": 0
         },
         {
+            "code": "HSIPHOENIX03",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIQUANTUM91",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIRAJAWALI28",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIRAKSASA37",
             "reward": 200000000,
             "token": 0,
@@ -1334,6 +1388,12 @@
         },
         {
             "code": "HSIRUSUH89",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSISADIS56",
             "reward": 200000000,
             "token": 0,
             "prank": 0
