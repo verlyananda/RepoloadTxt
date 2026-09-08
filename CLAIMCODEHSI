@@ -1081,6 +1081,12 @@
             "prank": 0
         },
         {
+            "code": "HSIHALU66",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIINDIGO84",
             "reward": 200000000,
             "token": 0,
@@ -1105,7 +1111,25 @@
             "prank": 0
         },
         {
+            "code": "HSIKEPO83",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIKUY69",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSILORD11",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMANTUL83",
             "reward": 200000000,
             "token": 0,
             "prank": 0
@@ -1261,6 +1285,12 @@
             "prank": 0
         },
         {
+            "code": "HSINGABERS13",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSINGABERS50",
             "reward": 200000000,
             "token": 0,
@@ -1279,6 +1309,30 @@
             "prank": 0
         },
         {
+            "code": "HSIRECEH08",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIRECEH37",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIRUSUH89",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSISANTUY75",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSISENSEI50",
             "reward": 200000000,
             "token": 0,
@@ -1286,6 +1340,12 @@
         },
         {
             "code": "HSIULTRA24",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIWIBU11",
             "reward": 200000000,
             "token": 0,
             "prank": 0
