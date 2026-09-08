@@ -1969,6 +1969,12 @@
             "prank": 0
         },
         {
+            "code": "MAULSPESIAL",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "MAULSPIDEY65",
             "reward": 150000000,
             "token": 0,
