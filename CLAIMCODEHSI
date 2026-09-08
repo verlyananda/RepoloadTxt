@@ -1111,6 +1111,12 @@
             "prank": 0
         },
         {
+            "code": "HSI800DM",
+            "reward": 0,
+            "token": 0,
+            "prank": 1
+        },
+        {
             "code": "HSIBADIK37",
             "reward": 200000000,
             "token": 0,
