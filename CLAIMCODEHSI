@@ -811,6 +811,12 @@
             "prank": 0
         },
         {
+            "code": "FOXSPESIAL1M",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "FOXXYADEM13",
             "reward": 150000000,
             "token": 0,
