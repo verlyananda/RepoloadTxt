@@ -1093,6 +1093,12 @@
             "prank": 0
         },
         {
+            "code": "HSI500ISREAL",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSI500JT",
             "reward": 0,
             "token": 0,
