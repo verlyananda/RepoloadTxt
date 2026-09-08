@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "800DMOK",
+            "reward": 0,
+            "token": 800,
+            "prank": 0
+        },
+        {
             "code": "ADITAMBER14",
             "reward": 50000000,
             "token": 0,
