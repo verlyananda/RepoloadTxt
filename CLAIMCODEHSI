@@ -151,6 +151,12 @@
             "prank": 0
         },
         {
+            "code": "ALDI500NIH",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ALDOACE94",
             "reward": 50000000,
             "token": 0,
