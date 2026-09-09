@@ -2557,6 +2557,12 @@
             "prank": 0
         },
         {
+            "code": "MAUL500JETI",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "MAULBURGER85",
             "reward": 50000000,
             "token": 0,
