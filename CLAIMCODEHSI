@@ -607,6 +607,12 @@
             "prank": 0
         },
         {
+            "code": "HSIAMBER64",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIBATAGOR14",
             "reward": 200000000,
             "token": 0,
@@ -883,6 +889,12 @@
             "prank": 0
         },
         {
+            "code": "HSIBIRU79",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIBOSS45",
             "reward": 200000000,
             "token": 0,
@@ -927,6 +939,12 @@
         {
             "code": "HSICRAZY88",
             "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSICRIMSON69",
+            "reward": 0,
             "token": 0,
             "prank": 0
         },
@@ -1795,6 +1813,18 @@
             "prank": 0
         },
         {
+            "code": "HSIKUNING32",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIKUNING95",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSILEGEND85",
             "reward": 200000000,
             "token": 0,
@@ -1803,6 +1833,12 @@
         {
             "code": "HSIMACRO04",
             "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAGENTA59",
+            "reward": 0,
             "token": 0,
             "prank": 0
         },
@@ -1963,6 +1999,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMERAH97",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMVP04",
             "reward": 200000000,
             "token": 0,
@@ -1971,6 +2013,12 @@
         {
             "code": "HSIMVP89",
             "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIPLATINUM32",
+            "reward": 0,
             "token": 0,
             "prank": 0
         },
@@ -1989,6 +2037,12 @@
         {
             "code": "HSISAVAGE20",
             "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSISCARLET38",
+            "reward": 0,
             "token": 0,
             "prank": 0
         },
@@ -2019,6 +2073,12 @@
         {
             "code": "HSISRIGALA04",
             "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSITOSCA99",
+            "reward": 0,
             "token": 0,
             "prank": 0
         },
