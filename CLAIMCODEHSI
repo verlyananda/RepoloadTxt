@@ -1,12 +1,6 @@
 {
     "codes": [
         {
-            "code": "2MGACOR",
-            "reward": 2000000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "ADITAMBER14",
             "reward": 50000000,
             "token": 0,
@@ -457,12 +451,6 @@
             "prank": 0
         },
         {
-            "code": "FOX5MNIH",
-            "reward": 5000000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "FOXXYANDROMEDA90",
             "reward": 50000000,
             "token": 0,
@@ -895,19 +883,7 @@
             "prank": 0
         },
         {
-            "code": "HSIBIRU79",
-            "reward": 0,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "HSIBOSS45",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIBUFF60",
             "reward": 200000000,
             "token": 0,
             "prank": 0
@@ -1507,12 +1483,6 @@
             "prank": 0
         },
         {
-            "code": "HSIEMAS34",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "HSIEPIC49",
             "reward": 200000000,
             "token": 0,
@@ -1801,12 +1771,6 @@
             "prank": 0
         },
         {
-            "code": "HSIJACKPOT41",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "HSIJAYA03",
             "reward": 200000000,
             "token": 0,
@@ -2041,12 +2005,6 @@
             "prank": 0
         },
         {
-            "code": "HSISAVAGE20",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "HSISCARLET38",
             "reward": 0,
             "token": 0,
@@ -2054,12 +2012,6 @@
         },
         {
             "code": "HSISMURF87",
-            "reward": 200000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSISOLO50",
             "reward": 200000000,
             "token": 0,
             "prank": 0
