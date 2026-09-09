@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "2MGACOR",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ADITAMBER14",
             "reward": 50000000,
             "token": 0,
