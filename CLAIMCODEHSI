@@ -421,6 +421,12 @@
             "prank": 0
         },
         {
+            "code": "BAYU1M",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "DITHSIADEM20",
             "reward": 50000000,
             "token": 0,
