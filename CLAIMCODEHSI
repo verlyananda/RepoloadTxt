@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "ALDO500JETI",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ALFAHSIAMBER64",
             "reward": 50000000,
             "token": 0,
