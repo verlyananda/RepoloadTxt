@@ -3529,6 +3529,12 @@
             "prank": 0
         },
         {
+            "code": "VGAMEDEV2MNIH",
+            "reward": 0,
+            "token": 0,
+            "prank": 1
+        },
+        {
             "code": "ZAKYHSIBALIKPAPAN21",
             "reward": 50000000,
             "token": 0,
