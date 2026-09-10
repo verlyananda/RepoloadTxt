@@ -1,6 +1,156 @@
 {
     "codes": [
         {
+            "code": "ALFAHSIAMBER64",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALFAHSIBANTENG35",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALFAHSIBANTENG88",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALFAHSIBIRU04",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALFAHSICARRY70",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALFAHSIFAJAR79",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALFAHSIHERO28",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALFAHSIKNALPOT03",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALFAHSIKOSMIK15",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALFAHSILASER05",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALFAHSILEMBUR62",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALFAHSILOGIC03",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALFAHSIMENANG22",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALFAHSIMENTARI59",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALFAHSIORCA30",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALFAHSIPANAH41",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALFAHSIPIZZA71",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALFAHSIQUANTUM34",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALFAHSIRANKED44",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALFAHSIROKET82",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALFAHSIROVER02",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALFAHSISADIS90",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALFAHSISHIELD95",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALFAHSITEAMFIGHT25",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALFAHSITHUNDERBOLT70",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "BAYHSIAPEL39",
             "reward": 150000000,
             "token": 0,
@@ -13,6 +163,18 @@
             "prank": 0
         },
         {
+            "code": "BAYHSIBEKASI01",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYHSIBLACKHOLE65",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "BAYHSIBLACKHOLE91",
             "reward": 150000000,
             "token": 0,
@@ -21,6 +183,18 @@
         {
             "code": "BAYHSIBYTE06",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYHSICAPPUCINO92",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYHSICRAZY48",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
@@ -61,8 +235,68 @@
             "prank": 0
         },
         {
+            "code": "BAYHSIGUNUNG74",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "BAYHSIJOSS18",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYHSIKENDARI19",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYHSIKOPI25",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYHSIKUNING98",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYHSILAPFINAL00",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYHSILOGIC88",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYHSIMACRO43",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYHSIMACRO50",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYHSIMANDALA75",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYHSIMEDAN27",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
@@ -91,8 +325,56 @@
             "prank": 0
         },
         {
+            "code": "BAYHSIPALEMBANG33",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYHSIPELANGI21",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "BAYHSIPIXELART09",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYHSIPIZZA43",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYHSIPULSAR84",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYHSIRESPAWN25",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYHSISEMANGKA96",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYHSISENJA42",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYHSISIGAN93",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
@@ -103,8 +385,20 @@
             "prank": 0
         },
         {
+            "code": "BAYHSISOSIS86",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "BAYHSISUPER91",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "BAYHSITAJIR15",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
@@ -121,14 +415,68 @@
             "prank": 0
         },
         {
+            "code": "BAYHSIWAYANG38",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DITHSIADEM20",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "DITHSIBANDUNG10",
             "reward": 150000000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "DITHSIBAPER02",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DITHSIBIONIC07",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DITHSIBLACKHOLE75",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DITHSIBYTE05",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "DITHSIFRAG33",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DITHSIFRAG58",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DITHSIGADA64",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DITHSIGALACTUS01",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
@@ -145,8 +493,32 @@
             "prank": 0
         },
         {
+            "code": "DITHSIGOTHAM18",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DITHSIGRIFFIN63",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "DITHSIJAKARTA82",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DITHSIJAYA12",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DITHSIJAYA13",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
@@ -163,14 +535,62 @@
             "prank": 0
         },
         {
+            "code": "DITHSILONTONG17",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DITHSIMANGGIS13",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DITHSIMANTAB05",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DITHSIMATCHA35",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "DITHSIMECHA44",
             "reward": 150000000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "DITHSIMENTARI63",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DITHSIMULTIVERSE49",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DITHSINANAS53",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "DITHSINANO43",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DITHSININJA17",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
@@ -211,14 +631,32 @@
             "prank": 0
         },
         {
+            "code": "DITHSISANGKAN19",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "DITHSISATELIT65",
             "reward": 150000000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "DITHSISHOGUN48",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "DITHSISIOMAY06",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DITHSISRIGALA99",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
@@ -231,6 +669,18 @@
         {
             "code": "DITHSITAKOYAKI85",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DITHSITEH85",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DITHSITOSCA91",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
@@ -253,6 +703,18 @@
             "prank": 0
         },
         {
+            "code": "DOHSIBALIKPAPAN86",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DOHSIBANTENG63",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "DOHSIBURGER00",
             "reward": 150000000,
             "token": 0,
@@ -265,8 +727,38 @@
             "prank": 0
         },
         {
+            "code": "DOHSICHAMPION28",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "DOHSICLUTCH05",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DOHSICOMEBACK62",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DOHSIDEWA20",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DOHSIDIMSUM45",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DOHSIDRONE42",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
@@ -289,8 +781,44 @@
             "prank": 0
         },
         {
+            "code": "DOHSIHEADSHOT48",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "DOHSIHIU08",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DOHSIJUS00",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DOHSIKATANA38",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DOHSIKERIS20",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DOHSIMANGGIS12",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DOHSIMEDAN69",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
@@ -307,8 +835,44 @@
             "prank": 0
         },
         {
+            "code": "DOHSIMYTHIC10",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "DOHSINITRO36",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DOHSIPEDANG94",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DOHSIPIXEL44",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DOHSIREJEKI25",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DOHSIREM49",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DOHSIROBOT30",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
@@ -319,14 +883,32 @@
             "prank": 0
         },
         {
+            "code": "DOHSIROVER69",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "DOHSIRUSA63",
             "reward": 150000000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "DOHSIRUSUH41",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "DOHSISALAK77",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DOHSISIKAT16",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
@@ -355,6 +937,24 @@
             "prank": 0
         },
         {
+            "code": "DOHSITENTREM50",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DOHSITORNADO74",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "DOHSIVORTEX65",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "DOHSIWAKANDA44",
             "reward": 150000000,
             "token": 0,
@@ -379,8 +979,26 @@
             "prank": 0
         },
         {
+            "code": "FXYHSICAPCUS35",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "FXYHSICLOUD89",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FXYHSICRIMSON47",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FXYHSIDATA74",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
@@ -391,14 +1009,50 @@
             "prank": 0
         },
         {
+            "code": "FXYHSIFLAWLESS13",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FXYHSIGAUNTLET84",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "FXYHSIGOLOK80",
             "reward": 150000000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "FXYHSIGORENG98",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "FXYHSIHEADSHOT18",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FXYHSIISEKAI02",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FXYHSIJERUK20",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FXYHSIKAPAK04",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
@@ -415,14 +1069,50 @@
             "prank": 0
         },
         {
+            "code": "FXYHSILAMPUNG48",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FXYHSIMACAN10",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FXYHSIMACRO11",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "FXYHSIMANUNGGAL28",
             "reward": 150000000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "FXYHSIMAROON13",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FXYHSIMERAH77",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "FXYHSIMVP62",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FXYHSINEMESIS28",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
@@ -439,8 +1129,50 @@
             "prank": 0
         },
         {
+            "code": "FXYHSIPEDANG69",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "FXYHSIPISTON72",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FXYHSIRAMBUTAN59",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FXYHSIRANTAI84",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FXYHSIREM01",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FXYHSIRENDANG15",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FXYHSIREZEKI37",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FXYHSISALJU02",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
@@ -457,6 +1189,12 @@
             "prank": 0
         },
         {
+            "code": "FXYHSISLEBEW77",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "FXYHSISONO28",
             "reward": 150000000,
             "token": 0,
@@ -465,6 +1203,18 @@
         {
             "code": "FXYHSITENTREM47",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FXYHSITHROTTLE51",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FXYHSITRESNO10",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
@@ -487,6 +1237,168 @@
             "prank": 1
         },
         {
+            "code": "HSIMAXACEH77",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXBERKAH35",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXCAPPUCINO43",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXDONAT68",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXGAUNTLET08",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXHOKI42",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXKERAK12",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXKETUPAT39",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXKRAKEN24",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXLAMPUNG11",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXMATRIX10",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXMENANG43",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXMYTHIC74",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXORBIT75",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXPUSH93",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXREJEKI37",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXSANGKAN68",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXSEDULUR05",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXSEMARANG49",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXSNIPE74",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXSOLAR80",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXTEH48",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXTENTREM88",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXTIKUNGAN66",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXTORNADO98",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMIDSADIKA15",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMIDSBAGEUR59",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMIDSBAPER84",
             "reward": 50000000,
             "token": 0,
@@ -499,7 +1411,31 @@
             "prank": 0
         },
         {
+            "code": "HSIMIDSCAMBUK30",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMIDSCHEETAH61",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMIDSCHIP18",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMIDSCOMBO11",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMIDSEPIC58",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -523,7 +1459,19 @@
             "prank": 0
         },
         {
+            "code": "HSIMIDSGUNDAM19",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMIDSHALU89",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMIDSJAKARTA83",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -547,6 +1495,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMIDSKRAKEN56",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMIDSLECI50",
             "reward": 50000000,
             "token": 0,
@@ -565,7 +1519,25 @@
             "prank": 0
         },
         {
+            "code": "HSIMIDSMENANG97",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMIDSMERIAM48",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMIDSMULTIVERSE17",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMIDSMYTHIC34",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -577,7 +1549,25 @@
             "prank": 0
         },
         {
+            "code": "HSIMIDSNERF79",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMIDSOMEGA31",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMIDSPETIR32",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMIDSPLASMA10",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -589,13 +1579,61 @@
             "prank": 0
         },
         {
+            "code": "HSIMIDSSAMBAL28",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMIDSSAMURAI24",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMIDSSANGKAN69",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMIDSSANTUY30",
             "reward": 50000000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "HSIMIDSSCARLET93",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMIDSSEDULUR25",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMIDSSENJA35",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMIDSSENSEI92",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMIDSSIOMAY43",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMIDSSUMANGET96",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -608,6 +1646,12 @@
         },
         {
             "code": "HSIMIDSSURABAYA95",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMIDSSUSU42",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -632,6 +1676,12 @@
         },
         {
             "code": "HSIMIDSWHEELIE18",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMIDSWIBU53",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -799,7 +1849,19 @@
             "prank": 0
         },
         {
+            "code": "HSIZOUBISIK43",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIZOUBOM99",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIZOUBOSS65",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -812,6 +1874,12 @@
         },
         {
             "code": "HSIZOUBUBUR86",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIZOUCHECKPOINT51",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -859,7 +1927,31 @@
             "prank": 0
         },
         {
+            "code": "HSIZOUINFINITY93",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIZOUISEKAI61",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIZOUJERUK09",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIZOUKATANA52",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIZOUKATANA76",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -883,6 +1975,12 @@
             "prank": 0
         },
         {
+            "code": "HSIZOUKSATRIA98",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIZOUKUY93",
             "reward": 50000000,
             "token": 0,
@@ -895,7 +1993,61 @@
             "prank": 0
         },
         {
+            "code": "HSIZOUMAGENTA61",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIZOUMARTABAK84",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIZOUMESIN29",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIZOUMETA64",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIZOUMIE67",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIZOUMYTHIC78",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIZOUNERF00",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIZOUPEPAYA01",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIZOUPETIR54",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIZOURAHAYU79",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -913,13 +2065,55 @@
             "prank": 0
         },
         {
+            "code": "HSIZOUROBOT64",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIZOURUSA14",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIZOUSENJA04",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIZOUSHURIKEN49",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIZOUSIKAT46",
             "reward": 50000000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "HSIZOUSINGA76",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIZOUSLEBEW88",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIZOUSPAWNKILL21",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIZOUSUGIH19",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -937,13 +2131,43 @@
             "prank": 0
         },
         {
+            "code": "HSIZOUUNGU34",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "LIONXHSIAPOLLO96",
             "reward": 50000000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "LIONXHSIBALI76",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "LIONXHSIBANDUNG19",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXHSIBANTENG12",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXHSIBOSTER20",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXHSIBUFF41",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -962,6 +2186,12 @@
         },
         {
             "code": "LIONXHSIEPIC85",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXHSIFRAG29",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -991,7 +2221,25 @@
             "prank": 0
         },
         {
+            "code": "LIONXHSIGOKIL12",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "LIONXHSIGOLOK73",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXHSIGUNDAM10",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXHSIGUSTI39",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -1009,6 +2257,24 @@
             "prank": 0
         },
         {
+            "code": "LIONXHSIKABUT04",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXHSIKABUT21",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXHSIKERAK70",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "LIONXHSIKOMET55",
             "reward": 50000000,
             "token": 0,
@@ -1021,6 +2287,12 @@
             "prank": 0
         },
         {
+            "code": "LIONXHSILEGEND87",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "LIONXHSILEMBUR95",
             "reward": 50000000,
             "token": 0,
@@ -1028,6 +2300,12 @@
         },
         {
             "code": "LIONXHSILOGIC35",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXHSILOOT47",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -1051,7 +2329,25 @@
             "prank": 0
         },
         {
+            "code": "LIONXHSIMIE14",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXHSINANAS92",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "LIONXHSINEON41",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXHSIORCA49",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -1075,6 +2371,54 @@
             "prank": 0
         },
         {
+            "code": "LIONXHSIRAMBUTAN05",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXHSIROVER76",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXHSIRUSH89",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXHSISENTINEL25",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXHSISMOOTHIE23",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXHSISMOOTHIE44",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXHSISOLO42",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXHSITHROTTLE19",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "LIONXHSITHROTTLE85",
             "reward": 50000000,
             "token": 0,
@@ -1082,6 +2426,12 @@
         },
         {
             "code": "LIONXHSIULTRA00",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "LIONXHSIWIBU81",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -1237,6 +2587,156 @@
             "prank": 0
         },
         {
+            "code": "RAPZBALI73",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RAPZBUCIN66",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RAPZCHAMPION18",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RAPZCRIMSON63",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RAPZFRAG14",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RAPZGALACTUS71",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RAPZGASKEUN06",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RAPZGASRUK63",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RAPZJAYA78",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RAPZKABUT58",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RAPZKENDARI33",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RAPZLEGEND43",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RAPZLUNAR20",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RAPZLUNAR90",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RAPZMATRIX59",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RAPZMEGA73",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RAPZNINJA50",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RAPZPISTON02",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RAPZRIMBA00",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RAPZROKET31",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RAPZROKET62",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RAPZSAMBAL75",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RAPZSANTUY64",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RAPZTEH70",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RAPZTEMPE01",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "REZAAMBER34",
             "reward": 50000000,
             "token": 0,
@@ -1286,6 +2786,156 @@
         },
         {
             "code": "REZAHEADSHOT50",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REZAHSIBIONIC96",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REZAHSICHECKPOINT83",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REZAHSICLUTCH15",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REZAHSICRIMSON37",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REZAHSIDRONE60",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REZAHSIFLAWLESS96",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REZAHSIGALACTUS79",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REZAHSIGEPREK19",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REZAHSIHATUR14",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REZAHSIJACKPOT84",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REZAHSIKAPAK43",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REZAHSIKRYPTON85",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REZAHSILEGENDARY12",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REZAHSIMANADO04",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REZAHSIMANADO91",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REZAHSIMANUNGGAL75",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REZAHSIMESIN19",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REZAHSINGEBUT68",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REZAHSINOSCOPE37",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REZAHSIPANDA60",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REZAHSIREZEKI23",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REZAHSISATELIT54",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REZAHSISODA88",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REZAHSISONO53",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REZAHSITHUNDERBOLT35",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -1387,8 +3037,464 @@
             "prank": 0
         },
         {
+            "code": "RYNHSIAMBER65",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RYNHSIBADIK44",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RYNHSIBAGEUR98",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RYNHSIBLACKHOLE27",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RYNHSIBOGOR30",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RYNHSICAPCUS63",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RYNHSICHECKPOINT62",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RYNHSICHEETAH44",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RYNHSIGADA13",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RYNHSIGORILA55",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RYNHSIGRIFFIN26",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RYNHSIHEADSHOT84",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RYNHSIHOKAGE27",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RYNHSIHOKAGE89",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RYNHSIMAROON25",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RYNHSIMUTANT82",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RYNHSIONIGIRI21",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RYNHSIPOLEPOS77",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RYNHSIRUJAK34",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RYNHSISAMURAI17",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RYNHSISHINOBI95",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RYNHSISLAMET37",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RYNHSISNIPE45",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RYNHSISUPERNOVA58",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "RYNHSITAJIR79",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERBALIKPAPAN14",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERBERKAH38",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERBOGOR35",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERCHAKRA32",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERELING76",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERGRIFFIN81",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERJINGGA94",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERKABUT79",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERKOPI31",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERKOPLING30",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERLEMBUR26",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERMAGER87",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERMECHA67",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERMIE79",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERMULTIVERSE58",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERMUTANT26",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERRAHAYU20",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERRAMBUTAN75",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERSAMURAI35",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERSAMURAI91",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERSAVAGE55",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERSIRKUIT46",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERSPEEDRUN68",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERSTELLAR79",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "STGEBERVORTEX34",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "SYADHSIANGGUR65",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "SYADHSICAKRA78",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "SYADHSICAMBUK98",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "SYADHSIEMAS99",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "SYADHSIGALAKSI04",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "SYADHSIGAUNTLET08",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "SYADHSIGUNDAM44",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "SYADHSIGUSTI72",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "SYADHSIINFINITY49",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "SYADHSIMARTABAK03",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "SYADHSIMARTABAK36",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "SYADHSIMATUR23",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "SYADHSINEMESIS88",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "SYADHSIPANAH90",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "SYADHSIPANGGUNG64",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "SYADHSIPELANGI68",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "SYADHSIPETIR14",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "SYADHSIPISANG98",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "SYADHSIREM94",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "SYADHSIRIMBA14",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "SYADHSISAMURAI95",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "SYADHSISEMARANG26",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "SYADHSISENPAI44",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "SYADHSISOLAR39",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "SYADHSIWHEELIE49",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ULHSIANDROMEDA52",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ULHSIAPEL55",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
@@ -1405,6 +3511,12 @@
             "prank": 0
         },
         {
+            "code": "ULHSIBLACKHOLE15",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ULHSIBOSS04",
             "reward": 150000000,
             "token": 0,
@@ -1413,6 +3525,18 @@
         {
             "code": "ULHSICAKRA35",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ULHSICHEETAH51",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ULHSICLUTCH65",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
@@ -1429,14 +3553,44 @@
             "prank": 0
         },
         {
+            "code": "ULHSIELANG94",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ULHSIFALCON62",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ULHSIGASKEUN30",
             "reward": 150000000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "ULHSIHATUR76",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ULHSIHATUR96",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ULHSIINDIGO02",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ULHSIKELAPA75",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
@@ -1465,6 +3619,12 @@
             "prank": 0
         },
         {
+            "code": "ULHSILEMBUR83",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ULHSILEMBUR98",
             "reward": 150000000,
             "token": 0,
@@ -1477,8 +3637,44 @@
             "prank": 0
         },
         {
+            "code": "ULHSIMAROON09",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ULHSIMAROON15",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ULHSIMAROON37",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ULHSIMETA25",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ULHSINEON35",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ULHSIPECEL67",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ULHSIPELANGI39",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
@@ -1489,14 +3685,68 @@
             "prank": 0
         },
         {
+            "code": "ULHSIPROTON79",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ULHSIRANTAI52",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ULHSIROVER09",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ULHSISAMURAI10",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ULHSISERVER07",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ULHSISNIPE37",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ULHSISOLAR14",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ULHSITAJIR26",
             "reward": 150000000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "ULHSITILTED42",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ULHSIVIGILANTE39",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ULHSIWAKANDA33",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
@@ -1657,13 +3907,37 @@
             "prank": 0
         },
         {
+            "code": "ZAKYHSIBALIKPAPAN21",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZAKYHSIBANDUNG51",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ZAKYHSIBOM11",
             "reward": 50000000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "ZAKYHSICAPCUS44",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ZAKYHSICAPCUS59",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZAKYHSICARRY24",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -1699,7 +3973,25 @@
             "prank": 0
         },
         {
+            "code": "ZAKYHSIGOKIL09",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ZAKYHSIGOTHAM46",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZAKYHSIGOTHAM67",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZAKYHSIIRIS71",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -1711,7 +4003,25 @@
             "prank": 0
         },
         {
+            "code": "ZAKYHSIJOGJA05",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZAKYHSIKABUT43",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ZAKYHSIKERIS60",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZAKYHSIKRAKEN16",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -1729,6 +4039,12 @@
             "prank": 0
         },
         {
+            "code": "ZAKYHSILUNAR91",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ZAKYHSIMECHA13",
             "reward": 50000000,
             "token": 0,
@@ -1741,7 +4057,25 @@
             "prank": 0
         },
         {
+            "code": "ZAKYHSIMETAGAME26",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ZAKYHSIMVP37",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZAKYHSIMYTHIC99",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZAKYHSIPECEL17",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -1753,7 +4087,49 @@
             "prank": 0
         },
         {
+            "code": "ZAKYHSIPERISAI03",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZAKYHSIPIXEL72",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZAKYHSIPOWERUP81",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZAKYHSIRANTAI52",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ZAKYHSIREJEKI78",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZAKYHSIRENDANG46",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZAKYHSISALJU53",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZAKYHSISENSEI82",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -1766,6 +4142,12 @@
         },
         {
             "code": "ZAKYHSISIRUP39",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZAKYHSISLIPSTREAM94",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -1789,13 +4171,31 @@
             "prank": 0
         },
         {
+            "code": "ZAKYHSITHUNDERBOLT58",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ZAKYHSITORNADO63",
             "reward": 50000000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "ZAKYHSITRISULA65",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ZAKYHSIVIGILANTE10",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ZAKYHSIWIBU40",
             "reward": 50000000,
             "token": 0,
             "prank": 0
