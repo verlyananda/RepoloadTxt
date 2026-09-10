@@ -1237,10 +1237,34 @@
             "prank": 0
         },
         {
+            "code": "HSIANGGUR15",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIAPEL45",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIDM700",
             "reward": 0,
             "token": 0,
             "prank": 1
+        },
+        {
+            "code": "HSIKELAPA85",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSILECI96",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
         },
         {
             "code": "HSIMAXACEH77",
@@ -1689,6 +1713,42 @@
         {
             "code": "HSIMIDSWIBU53",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIPEPAYA17",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIPEPAYA21",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIPEPAYA54",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIRAMBUTAN19",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSISEMANGKA40",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSISEMANGKA56",
+            "reward": 200000000,
             "token": 0,
             "prank": 0
         },
@@ -2143,19 +2203,7 @@
             "prank": 0
         },
         {
-            "code": "LIONXHSIAPOLLO96",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "LIONXHSIBALI76",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "LIONXHSIBANDUNG19",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -2179,61 +2227,13 @@
             "prank": 0
         },
         {
-            "code": "LIONXHSICYBER18",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "LIONXHSIDURIAN75",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "LIONXHSIEPIC85",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "LIONXHSIFRAG29",
             "reward": 50000000,
             "token": 0,
             "prank": 0
         },
         {
-            "code": "LIONXHSIGARUDA85",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "LIONXHSIGASPOL09",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "LIONXHSIGASSS60",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "LIONXHSIGLORY70",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "LIONXHSIGOKIL12",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "LIONXHSIGOLOK73",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -2246,18 +2246,6 @@
         },
         {
             "code": "LIONXHSIGUSTI39",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "LIONXHSIHOKAGE47",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "LIONXHSIINDIGO08",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -2281,55 +2269,13 @@
             "prank": 0
         },
         {
-            "code": "LIONXHSIKOMET55",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "LIONXHSIKRAKEN03",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "LIONXHSILEGEND87",
             "reward": 50000000,
             "token": 0,
             "prank": 0
         },
         {
-            "code": "LIONXHSILEMBUR95",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "LIONXHSILOGIC35",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "LIONXHSILOOT47",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "LIONXHSIMANUNGGAL84",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "LIONXHSIMATRIX38",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "LIONXHSIMETEORID63",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -2347,31 +2293,7 @@
             "prank": 0
         },
         {
-            "code": "LIONXHSINEON41",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "LIONXHSIORCA49",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "LIONXHSIPECEL41",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "LIONXHSIPETIR60",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "LIONXHSIPHOENIX34",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -2420,18 +2342,6 @@
         },
         {
             "code": "LIONXHSITHROTTLE19",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "LIONXHSITHROTTLE85",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "LIONXHSIULTRA00",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -2743,60 +2653,6 @@
             "prank": 0
         },
         {
-            "code": "REZAAMBER34",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "REZABEKASI87",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "REZACAPPUCINO87",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "REZADRIFT13",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "REZAELING29",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "REZAGACOR53",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "REZAGARUDA96",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "REZAGASRUK45",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "REZAHEADSHOT50",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "REZAHSIBIONIC96",
             "reward": 50000000,
             "token": 0,
@@ -2942,102 +2798,6 @@
         },
         {
             "code": "REZAHSITHUNDERBOLT35",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "REZAKETUPAT06",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "REZAMECHA48",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "REZAMETEORID11",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "REZANEON12",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "REZAPANAH62",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "REZAPANGGUNG95",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "REZAPHOENIX01",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "REZAPUSH80",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "REZARAJAWALI96",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "REZARANTAI77",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "REZASIGAN30",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "REZASIRUP91",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "REZASOLO62",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "REZASOSIS28",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "REZASTOPPIE75",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "REZATAKOYAKI55",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -3759,156 +3519,6 @@
         {
             "code": "ULHSIWILUJENG97",
             "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "WISNUCHIP71",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "WISNUDIMSUM94",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "WISNUESKRIM34",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "WISNUFRAG63",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "WISNUGRAVITY51",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "WISNUINFINITY60",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "WISNUKETOPRAK98",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "WISNUKRYPTON97",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "WISNULUNAR65",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "WISNUMAGER31",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "WISNUMARTABAK25",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "WISNUMENANG79",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "WISNUMETEORID57",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "WISNUNASGOR56",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "WISNUNEBULA07",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "WISNUNOSCOPE40",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "WISNUONIGIRI17",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "WISNUOTAKU12",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "WISNUPEDANG29",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "WISNUPODIUM39",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "WISNURENCONG30",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "WISNURESPAWN71",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "WISNUROKET42",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "WISNURUSA48",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "WISNUSEMANGKA69",
-            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
