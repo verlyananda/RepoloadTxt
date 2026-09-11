@@ -763,6 +763,12 @@
             "prank": 0
         },
         {
+            "code": "HSI1KDMOKEDAH",
+            "reward": 0,
+            "token": 0,
+            "prank": 1
+        },
+        {
             "code": "HSI2MNIHBOS",
             "reward": 2000000000,
             "token": 0,
