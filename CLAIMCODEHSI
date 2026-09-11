@@ -1027,6 +1027,12 @@
             "prank": 0
         },
         {
+            "code": "HSIBGDOCOIN7EM",
+            "reward": 7000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIDITACEH88",
             "reward": 150000000,
             "token": 0,
