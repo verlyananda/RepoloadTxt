@@ -757,6 +757,12 @@
             "prank": 0
         },
         {
+            "code": "HSI2MNIHBOS",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIBAYAPOLLO56",
             "reward": 150000000,
             "token": 0,
