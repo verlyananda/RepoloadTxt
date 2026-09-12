@@ -721,6 +721,12 @@
             "prank": 0
         },
         {
+            "code": "DHITMAX500",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "DITHSIACEH19",
             "reward": 150000000,
             "token": 0,
