@@ -4777,6 +4777,12 @@
             "prank": 0
         },
         {
+            "code": "ONTEL500DM",
+            "reward": 0,
+            "token": 0,
+            "prank": 1
+        },
+        {
             "code": "RAFHSIBANDUNG21",
             "reward": 50000000,
             "token": 0,
