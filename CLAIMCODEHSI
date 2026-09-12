@@ -3703,12 +3703,6 @@
             "prank": 0
         },
         {
-            "code": "HSIONTEL500",
-            "reward": 0,
-            "token": 500,
-            "prank": 0
-        },
-        {
             "code": "HSIPANGGUNG55",
             "reward": 200000000,
             "token": 0,
