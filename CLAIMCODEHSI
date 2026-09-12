@@ -2641,6 +2641,12 @@
             "prank": 0
         },
         {
+            "code": "HSIFOXGOTHAM17",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIFOXMANEH92",
             "reward": 1000000000,
             "token": 0,
@@ -2655,6 +2661,12 @@
         {
             "code": "HSIFOXRANTAI01",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIFOXWILUJENG37",
+            "reward": 500000000,
             "token": 0,
             "prank": 0
         },
