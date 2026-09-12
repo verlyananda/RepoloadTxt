@@ -1,12 +1,6 @@
 {
     "codes": [
         {
-            "code": "AKUNHILANG1",
-            "reward": 70000000000,
-            "token": 5000,
-            "prank": 0
-        },
-        {
             "code": "ALFAHSIAMBER64",
             "reward": 50000000,
             "token": 0,
