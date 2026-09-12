@@ -2137,6 +2137,12 @@
             "prank": 0
         },
         {
+            "code": "HSIBAGEUR73",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIBAYBIONIC69",
             "reward": 50000000,
             "token": 0,
@@ -2283,6 +2289,18 @@
         {
             "code": "HSIBAYTOMBAK40",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSICAGEUR31",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDAMANG47",
+            "reward": 200000000,
             "token": 0,
             "prank": 0
         },
@@ -2889,6 +2907,18 @@
         {
             "code": "HSIFYNWAYANG01",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMANEH50",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMANEH66",
+            "reward": 200000000,
             "token": 0,
             "prank": 0
         },
@@ -3643,6 +3673,18 @@
             "prank": 0
         },
         {
+            "code": "HSIPANGGUNG55",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIRAHAYU79",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIRYNACEH05",
             "reward": 50000000,
             "token": 0,
@@ -3789,6 +3831,18 @@
         {
             "code": "HSIRYNSULTAN14",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSISAMPURASUN21",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSISANGKAN26",
+            "reward": 200000000,
             "token": 0,
             "prank": 0
         },
@@ -3945,6 +3999,12 @@
         {
             "code": "HSIVI123",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIWILUJENG11",
+            "reward": 200000000,
             "token": 0,
             "prank": 0
         },
