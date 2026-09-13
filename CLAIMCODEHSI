@@ -7,6 +7,12 @@
             "prank": 1
         },
         {
+            "code": "ALDOSTORE16K",
+            "reward": 0,
+            "token": 16100,
+            "prank": 0
+        },
+        {
             "code": "ALFAHSICAMBUK91",
             "reward": 50000000,
             "token": 0,
