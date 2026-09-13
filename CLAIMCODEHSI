@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "500ADITHSI",
+            "reward": 0,
+            "token": 0,
+            "prank": 1
+        },
+        {
             "code": "ALFAHSICAMBUK91",
             "reward": 50000000,
             "token": 0,
