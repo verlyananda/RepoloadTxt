@@ -907,6 +907,12 @@
             "prank": 0
         },
         {
+            "code": "FOXXYGACOR500",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "FOXXYGORENG98",
             "reward": 50000000,
             "token": 0,
