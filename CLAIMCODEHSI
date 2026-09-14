@@ -1273,6 +1273,36 @@
             "prank": 0
         },
         {
+            "code": "HSICAPCUS03",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSICIHUY22",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGASSS22",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGASSS56",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGASSS98",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGOLOK59",
             "reward": 200000000,
             "token": 0,
@@ -1280,6 +1310,12 @@
         },
         {
             "code": "HSIGRANAT00",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIJOSS81",
             "reward": 200000000,
             "token": 0,
             "prank": 0
@@ -1304,6 +1340,18 @@
         },
         {
             "code": "HSIKUJANG55",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIKUY25",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMANTAB51",
             "reward": 200000000,
             "token": 0,
             "prank": 0
@@ -1915,7 +1963,19 @@
             "prank": 0
         },
         {
+            "code": "HSISKENA04",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSITOMBAK73",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIWIBU34",
             "reward": 200000000,
             "token": 0,
             "prank": 0
