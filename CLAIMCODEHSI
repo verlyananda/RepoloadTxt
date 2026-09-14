@@ -421,6 +421,12 @@
             "prank": 0
         },
         {
+            "code": "BGDOSTORE",
+            "reward": 0,
+            "token": 8400,
+            "prank": 0
+        },
+        {
             "code": "DHITMAXADEM08",
             "reward": 150000000,
             "token": 0,
