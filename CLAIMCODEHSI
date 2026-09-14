@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "ALDO500KEYSA",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ALDOACEH58",
             "reward": 150000000,
             "token": 0,
