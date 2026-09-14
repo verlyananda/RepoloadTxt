@@ -1,18 +1,6 @@
 {
     "codes": [
         {
-            "code": "1MFOXXYNIH",
-            "reward": 0,
-            "token": 0,
-            "prank": 1
-        },
-        {
-            "code": "1MMAULALAMAK",
-            "reward": 1000000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "ALDOACEH58",
             "reward": 150000000,
             "token": 0,
@@ -859,18 +847,6 @@
             "prank": 0
         },
         {
-            "code": "FOX1MMELEDAK",
-            "reward": 1000000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "FOXXY500LGDAH",
-            "reward": 500000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "FOXXYANDROMEDA83",
             "reward": 50000000,
             "token": 0,
@@ -927,12 +903,6 @@
         {
             "code": "FOXXYFALCON69",
             "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "FOXXYGACOR500",
-            "reward": 500000000,
             "token": 0,
             "prank": 0
         },
