@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "5MCOIN",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ALDOACEH58",
             "reward": 150000000,
             "token": 0,
