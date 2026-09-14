@@ -1,12 +1,6 @@
 {
     "codes": [
         {
-            "code": "ALDO500KEYSA",
-            "reward": 500000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "ALDOACEH58",
             "reward": 150000000,
             "token": 0,
@@ -425,12 +419,6 @@
             "reward": 50000000,
             "token": 0,
             "prank": 0
-        },
-        {
-            "code": "DHITMAX1MRIL",
-            "reward": 0,
-            "token": 0,
-            "prank": 1
         },
         {
             "code": "DHITMAXADEM08",
