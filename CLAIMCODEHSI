@@ -1729,6 +1729,12 @@
             "prank": 0
         },
         {
+            "code": "HSIFOXXYKETUPAT30",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAX2MMAUL",
             "reward": 2000000000,
             "token": 0,
