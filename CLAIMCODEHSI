@@ -2317,6 +2317,12 @@
             "prank": 0
         },
         {
+            "code": "HSIUPDATENIH",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "MAULACEH53",
             "reward": 150000000,
             "token": 0,
