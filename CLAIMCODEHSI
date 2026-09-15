@@ -1213,12 +1213,6 @@
             "prank": 0
         },
         {
-            "code": "FOXXYCLUTCH18",
-            "reward": 500000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "FOXXYCRAZY76",
             "reward": 50000000,
             "token": 0,
@@ -1555,12 +1549,6 @@
             "prank": 0
         },
         {
-            "code": "FOXXYVORTEX70",
-            "reward": 500000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "FOXXYVORTEX98",
             "reward": 50000000,
             "token": 0,
@@ -1723,28 +1711,10 @@
             "prank": 0
         },
         {
-            "code": "HSIFOXXYBOSTER36",
-            "reward": 1000000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIFOXXYKETUPAT30",
-            "reward": 1000000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "HSIFOXXYVORTEX72",
             "reward": 0,
             "token": 0,
             "prank": 1
-        },
-        {
-            "code": "HSIMAX2MMAUL",
-            "reward": 2000000000,
-            "token": 0,
-            "prank": 0
         },
         {
             "code": "HSIMAXBIDADARI99",
@@ -4358,12 +4328,6 @@
         },
         {
             "code": "ZOUSTELLAR49",
-            "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "ZOUTEH12",
             "reward": 50000000,
             "token": 0,
             "prank": 0
