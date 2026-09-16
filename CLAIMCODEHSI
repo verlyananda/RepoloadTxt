@@ -1147,12 +1147,6 @@
             "prank": 0
         },
         {
-            "code": "HSIREZAMAXID10RB",
-            "reward": 0,
-            "token": 10000,
-            "prank": 0
-        },
-        {
             "code": "HSISAVAGE65",
             "reward": 200000000,
             "token": 0,
