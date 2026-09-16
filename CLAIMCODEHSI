@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "ALDO500JOSS",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "BAYHSIADEM01",
             "reward": 150000000,
             "token": 0,
@@ -2189,18 +2195,6 @@
             "reward": 0,
             "token": 0,
             "prank": 1
-        },
-        {
-            "code": "HSIFXYMAGENTA32",
-            "reward": 1000000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIFXYPONTIANAK82",
-            "reward": 1000000000,
-            "token": 0,
-            "prank": 0
         },
         {
             "code": "HSIGANK44",
