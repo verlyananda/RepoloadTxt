@@ -1663,6 +1663,12 @@
             "prank": 0
         },
         {
+            "code": "SPESIALADITHSI",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ZAKYBUBUR23",
             "reward": 50000000,
             "token": 0,
