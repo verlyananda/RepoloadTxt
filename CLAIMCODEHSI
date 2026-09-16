@@ -1657,6 +1657,12 @@
             "prank": 0
         },
         {
+            "code": "SEMANGATPAGI",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ZAKYBUBUR23",
             "reward": 50000000,
             "token": 0,
