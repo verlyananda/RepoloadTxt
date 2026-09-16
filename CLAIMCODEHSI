@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "HSIACE18",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIBAYAMBER17",
             "reward": 50000000,
             "token": 0,
@@ -267,6 +273,12 @@
         {
             "code": "HSIBAYWADUL58",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSICHAMPION88",
+            "reward": 200000000,
             "token": 0,
             "prank": 0
         },
@@ -1085,6 +1097,54 @@
             "reward": 0,
             "token": 0,
             "prank": 1
+        },
+        {
+            "code": "HSIGANK44",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMETA64",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMVP71",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSISAVAGE65",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSISMURF32",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSISNIPE54",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSITEAMFIGHT80",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSITILTED07",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
         },
         {
             "code": "HSIULACE30",
