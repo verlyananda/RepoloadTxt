@@ -1429,6 +1429,12 @@
             "prank": 0
         },
         {
+            "code": "HSIPREM3REHAN",
+            "reward": 100000000,
+            "token": 9000,
+            "prank": 0
+        },
+        {
             "code": "HSIRESPAWN38",
             "reward": 200000000,
             "token": 0,
