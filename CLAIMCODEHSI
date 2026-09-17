@@ -1231,6 +1231,30 @@
             "prank": 0
         },
         {
+            "code": "HSIBOSSFIGHT73",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSICOMBO06",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSICOOLDOWN43",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSICOOLDOWN63",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIDHITMAXNASGORSPECIAL",
             "reward": 2000000000,
             "token": 0,
@@ -1389,6 +1413,42 @@
         {
             "code": "HSIMAXVORTEX42",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMETAGAME70",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINOSCOPE86",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIRESPAWN38",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSISPEEDRUN56",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSITRYHARD82",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIULTIMATE45",
+            "reward": 200000000,
             "token": 0,
             "prank": 0
         },
