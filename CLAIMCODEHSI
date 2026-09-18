@@ -541,6 +541,12 @@
             "prank": 0
         },
         {
+            "code": "DHITMAX1MWELL",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "DHITMAX500WELL",
             "reward": 500000000,
             "token": 0,
