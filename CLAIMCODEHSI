@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "ADITTESTDM",
+            "reward": 0,
+            "token": 5000,
+            "prank": 0
+        },
+        {
             "code": "BAYHSIALGORITMA98",
             "reward": 150000000,
             "token": 0,
