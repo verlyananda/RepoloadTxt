@@ -961,6 +961,12 @@
             "prank": 0
         },
         {
+            "code": "FOXSPESIALCOIN",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "FOXSPESIALDM",
             "reward": 0,
             "token": 1000,
