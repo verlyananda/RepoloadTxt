@@ -1855,6 +1855,18 @@
             "prank": 0
         },
         {
+            "code": "HSIMXKOSMIK26",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMXKUJANG31",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMXMELON79",
             "reward": 500000000,
             "token": 0,
@@ -1897,6 +1909,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMXSONO78",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMXSUSU10",
             "reward": 500000000,
             "token": 0,
@@ -1905,6 +1923,12 @@
         {
             "code": "HSIMXTITAN73",
             "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMXULTRA87",
+            "reward": 2000000000,
             "token": 0,
             "prank": 0
         },
