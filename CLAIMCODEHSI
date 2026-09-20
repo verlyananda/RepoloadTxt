@@ -1843,14 +1843,50 @@
             "prank": 0
         },
         {
+            "code": "HSIMXCOMEBACK41",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMXKELAPA73",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMXMELON79",
             "reward": 500000000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "HSIMXMETEORID46",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMXORBIT84",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMXPELANGI99",
             "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMXRAHAYU96",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMXROOKIE61",
+            "reward": 1000000000,
             "token": 0,
             "prank": 0
         },
