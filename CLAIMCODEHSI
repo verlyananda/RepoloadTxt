@@ -1405,6 +1405,12 @@
             "prank": 0
         },
         {
+            "code": "HSIFXYSONO36",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIFXYSOTO48",
             "reward": 500000000,
             "token": 0,
