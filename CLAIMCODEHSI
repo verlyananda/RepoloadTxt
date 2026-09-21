@@ -1387,6 +1387,18 @@
             "prank": 1
         },
         {
+            "code": "HSIFXYSAMURAI44",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIFXYSOTO48",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXANDROMEDA52",
             "reward": 50000000,
             "token": 0,
