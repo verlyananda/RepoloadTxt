@@ -1,5 +1,5 @@
 {
   "trials": [
-    { "motorID": "SepedaOntel", "on": false, "hours": 5 }
+    { "motorID": "SepedaOntel", "on": true, "hours": 5 }
   ]
 }
