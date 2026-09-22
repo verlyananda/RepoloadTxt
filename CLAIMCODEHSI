@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "2MBAYUONTEL",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "ADIT2MJOSJIS",
             "reward": 2000000000,
             "token": 0,
