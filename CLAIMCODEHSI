@@ -1357,8 +1357,20 @@
             "prank": 0
         },
         {
+            "code": "NUHSIBOSSFIGHT30",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "NUHSICOOLDOWN97",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "NUHSIGALAKSI44",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
@@ -1381,6 +1393,18 @@
             "prank": 0
         },
         {
+            "code": "NUHSIKATANA77",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "NUHSIKENDARI25",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "NUHSIKENDARI99",
             "reward": 150000000,
             "token": 0,
@@ -1393,14 +1417,44 @@
             "prank": 0
         },
         {
+            "code": "NUHSIKITSUNE07",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "NUHSIKOPI15",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "NUHSIKRAKEN89",
             "reward": 150000000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "NUHSIKUY04",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "NUHSILAMPUNG84",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "NUHSIMATUR52",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "NUHSIMERIAM69",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
@@ -1413,6 +1467,24 @@
         {
             "code": "NUHSINEBULA29",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "NUHSINEON85",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "NUHSIPIXELART06",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "NUHSIPOWER27",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
@@ -1435,6 +1507,18 @@
             "prank": 0
         },
         {
+            "code": "NUHSIRECEH08",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "NUHSIRONIN80",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "NUHSISEMANGKA62",
             "reward": 150000000,
             "token": 0,
@@ -1443,6 +1527,12 @@
         {
             "code": "NUHSISUMANGET88",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "NUHSITANA35",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
