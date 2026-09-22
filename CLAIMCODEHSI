@@ -1123,6 +1123,12 @@
             "prank": 0
         },
         {
+            "code": "MAULHALU15",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "MAULHSIAMBER51",
             "reward": 50000000,
             "token": 0,
@@ -1389,6 +1395,12 @@
         {
             "code": "MAULHSIVIGILANTE57",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAULSMOOTHIE24",
+            "reward": 1000000000,
             "token": 0,
             "prank": 0
         },
