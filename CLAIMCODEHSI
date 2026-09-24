@@ -907,6 +907,12 @@
             "prank": 0
         },
         {
+            "code": "FOXJOSJIS5M",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "FOXJOSJISAH",
             "reward": 500000000,
             "token": 0,
