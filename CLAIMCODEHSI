@@ -1219,7 +1219,19 @@
             "prank": 0
         },
         {
+            "code": "HSIIDBISIK02",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIIDJINGGA50",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIIDNOSCOPE48",
             "reward": 5000000000,
             "token": 0,
             "prank": 0
