@@ -601,6 +601,12 @@
             "prank": 0
         },
         {
+            "code": "DHITONTEL3M",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "DOHSIALGORITMA55",
             "reward": 150000000,
             "token": 0,
