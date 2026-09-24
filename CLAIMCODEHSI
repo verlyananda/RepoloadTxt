@@ -1207,6 +1207,18 @@
             "prank": 0
         },
         {
+            "code": "HSIBAGEUR48",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIEMBUN33",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIIDJINGGA50",
             "reward": 5000000000,
             "token": 0,
