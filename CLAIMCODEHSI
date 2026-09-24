@@ -301,6 +301,12 @@
             "prank": 0
         },
         {
+            "code": "BAYUBOLOS2M",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "DHITHSIACEH28",
             "reward": 150000000,
             "token": 0,
