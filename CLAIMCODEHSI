@@ -1267,6 +1267,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXJOSJIS",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "MAULHSIBIONIC23",
             "reward": 150000000,
             "token": 0,
