@@ -2407,6 +2407,12 @@
             "prank": 0
         },
         {
+            "code": "ONTEL1M",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "RAPZZBAGEUR76",
             "reward": 50000000,
             "token": 0,
