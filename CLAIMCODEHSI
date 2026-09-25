@@ -1393,8 +1393,20 @@
             "prank": 0
         },
         {
+            "code": "GEBRAKANHSIGANK14",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "GEBRAKANHSIHOKI66",
             "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "GEBRAKANHSIKERNEL75",
+            "reward": 5000000000,
             "token": 0,
             "prank": 0
         },
@@ -1449,6 +1461,18 @@
         {
             "code": "GEBRAKANHSISAMARINDA53",
             "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "GEBRAKANHSISANTUY68",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "GEBRAKANHSISUGIH83",
+            "reward": 5000000000,
             "token": 0,
             "prank": 0
         },
