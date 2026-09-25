@@ -1381,6 +1381,12 @@
             "prank": 0
         },
         {
+            "code": "HSIJOSDAH",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAX",
             "reward": 100000000,
             "token": 0,
