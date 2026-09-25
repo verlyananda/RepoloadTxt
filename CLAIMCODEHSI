@@ -1387,8 +1387,20 @@
             "prank": 0
         },
         {
+            "code": "GEBRAKANHSIMANIAC30",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "GEBRAKANHSIMAROON67",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "GEBRAKANHSIMERAH19",
+            "reward": 2000000000,
             "token": 0,
             "prank": 0
         },
@@ -1399,8 +1411,20 @@
             "prank": 0
         },
         {
+            "code": "GEBRAKANHSIRAMBUTAN89",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "GEBRAKANHSIROOKIE99",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "GEBRAKANHSISAMARINDA53",
+            "reward": 2000000000,
             "token": 0,
             "prank": 0
         },
