@@ -1381,6 +1381,30 @@
             "prank": 0
         },
         {
+            "code": "GEBRAKANHSIFLAWLESS96",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "GEBRAKANHSIMAROON67",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "GEBRAKANHSINEMESIS23",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "GEBRAKANHSIROOKIE99",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXBOSTER77",
             "reward": 50000000,
             "token": 0,
