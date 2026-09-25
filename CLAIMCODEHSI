@@ -1381,12 +1381,6 @@
             "prank": 0
         },
         {
-            "code": "HSIJOSONTEL",
-            "reward": 1000000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "HSIMAX",
             "reward": 100000000,
             "token": 0,
@@ -1539,12 +1533,6 @@
         {
             "code": "HSIMAXSPIDEY20",
             "reward": 50000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIONTELDAH",
-            "reward": 1000000000,
             "token": 0,
             "prank": 0
         },
