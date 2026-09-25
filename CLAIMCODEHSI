@@ -2413,6 +2413,12 @@
             "prank": 0
         },
         {
+            "code": "ONTELMANIA",
+            "reward": 0,
+            "token": 0,
+            "prank": 1
+        },
+        {
             "code": "RAPZZBAGEUR76",
             "reward": 50000000,
             "token": 0,
