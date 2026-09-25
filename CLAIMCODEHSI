@@ -1381,6 +1381,12 @@
             "prank": 0
         },
         {
+            "code": "HSIDIT800PENONTON",
+            "reward": 4000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXBOSTER77",
             "reward": 50000000,
             "token": 0,
