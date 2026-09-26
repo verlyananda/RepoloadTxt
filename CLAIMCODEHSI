@@ -1477,6 +1477,12 @@
             "prank": 0
         },
         {
+            "code": "GEBYAR5MDHITMAX",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGRAVITY47",
             "reward": 200000000,
             "token": 0,
