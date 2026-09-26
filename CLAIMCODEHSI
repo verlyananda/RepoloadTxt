@@ -1483,6 +1483,18 @@
             "prank": 0
         },
         {
+            "code": "HSIBUMMENTARI83",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIBUMPANDA46",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGRAVITY47",
             "reward": 200000000,
             "token": 0,
