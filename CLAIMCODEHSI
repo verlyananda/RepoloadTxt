@@ -2785,6 +2785,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXGORENG87",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXGRAVITY56",
             "reward": 50000000,
             "token": 0,
@@ -2811,6 +2817,12 @@
         {
             "code": "HSIMAXJUARA01",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXKATANA42",
+            "reward": 500000000,
             "token": 0,
             "prank": 0
         },
