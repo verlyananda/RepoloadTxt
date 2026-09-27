@@ -2755,6 +2755,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXCHECKPOINT47",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXGARUDA13",
             "reward": 50000000,
             "token": 0,
@@ -2895,6 +2901,12 @@
         {
             "code": "HSIMAXSPIDEY20",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXULTRA35",
+            "reward": 3000000000,
             "token": 0,
             "prank": 0
         },
