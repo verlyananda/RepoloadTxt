@@ -2761,6 +2761,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXFRAG43",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXGARUDA13",
             "reward": 50000000,
             "token": 0,
@@ -2851,6 +2857,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXNANAS88",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXNEMESIS90",
             "reward": 50000000,
             "token": 0,
@@ -2865,6 +2877,12 @@
         {
             "code": "HSIMAXPANAH44",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXPETIR35",
+            "reward": 1000000000,
             "token": 0,
             "prank": 0
         },
