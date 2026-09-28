@@ -2065,6 +2065,12 @@
             "prank": 0
         },
         {
+            "code": "HSIOKOC",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "LIONXBALIKPAPAN27",
             "reward": 50000000,
             "token": 0,
