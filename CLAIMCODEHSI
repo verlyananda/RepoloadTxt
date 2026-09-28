@@ -1741,6 +1741,18 @@
             "prank": 0
         },
         {
+            "code": "HSIMAULGLITCH68",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAULGOTHAM38",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAULGUSTI90",
             "reward": 50000000,
             "token": 0,
