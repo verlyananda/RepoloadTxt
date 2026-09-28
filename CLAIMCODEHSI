@@ -1573,6 +1573,12 @@
             "prank": 0
         },
         {
+            "code": "HSIJOSLAH",
+            "reward": 200000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAULACE83",
             "reward": 150000000,
             "token": 0,
