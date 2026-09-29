@@ -19,8 +19,26 @@
             "prank": 0
         },
         {
+            "code": "FOXXYKOPI67",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "FOXXYLUNAR99",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FOXXYMANGGIS73",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FOXXYMETEORID76",
+            "reward": 3000000000,
             "token": 0,
             "prank": 0
         },
