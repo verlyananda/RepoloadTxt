@@ -29,6 +29,12 @@
             "reward": 500000000,
             "token": 0,
             "prank": 0
+        },
+        {
+            "code": "HSIMAULTURTLE21",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
         }
     ]
 }
