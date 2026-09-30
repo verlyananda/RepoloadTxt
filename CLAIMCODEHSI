@@ -1351,6 +1351,18 @@
             "prank": 0
         },
         {
+            "code": "HSIGEBRAKBLACKHOLE91",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGEBRAKBOSS44",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGEBRAKDEWA03",
             "reward": 1000000000,
             "token": 0,
@@ -1363,6 +1375,12 @@
             "prank": 0
         },
         {
+            "code": "HSIGEBRAKFAJAR31",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGEBRAKGADA45",
             "reward": 1000000000,
             "token": 0,
@@ -1371,6 +1389,12 @@
         {
             "code": "HSIGEBRAKGANK52",
             "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGEBRAKGAUNTLET68",
+            "reward": 3000000000,
             "token": 0,
             "prank": 0
         },
@@ -1405,8 +1429,20 @@
             "prank": 0
         },
         {
+            "code": "HSIGEBRAKKRAKEN86",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGEBRAKKUNING40",
             "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGEBRAKLUNAR27",
+            "reward": 3000000000,
             "token": 0,
             "prank": 0
         },
@@ -1419,6 +1455,18 @@
         {
             "code": "HSIGEBRAKMERIAM14",
             "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGEBRAKOMEGA12",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGEBRAKOMEGA38",
+            "reward": 3000000000,
             "token": 0,
             "prank": 0
         },
@@ -1459,6 +1507,12 @@
             "prank": 0
         },
         {
+            "code": "HSIGEBRAKSMURF32",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGEBRAKSOTO52",
             "reward": 500000000,
             "token": 0,
@@ -1467,6 +1521,12 @@
         {
             "code": "HSIGEBRAKSPIDEY54",
             "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGEBRAKVORTEX69",
+            "reward": 3000000000,
             "token": 0,
             "prank": 0
         },
