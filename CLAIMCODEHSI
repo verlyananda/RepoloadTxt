@@ -1351,6 +1351,18 @@
             "prank": 0
         },
         {
+            "code": "HSIGEBRAKBALAP04",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGEBRAKBANTENG76",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGEBRAKBIDADARI82",
             "reward": 2000000000,
             "token": 0,
@@ -1365,6 +1377,12 @@
         {
             "code": "HSIGEBRAKBOSS44",
             "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGEBRAKBUAYA31",
+            "reward": 5000000000,
             "token": 0,
             "prank": 0
         },
@@ -1483,6 +1501,12 @@
             "prank": 0
         },
         {
+            "code": "HSIGEBRAKMAROON53",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGEBRAKMAROON78",
             "reward": 2000000000,
             "token": 0,
@@ -1563,6 +1587,12 @@
         {
             "code": "HSIGEBRAKSAMURAI66",
             "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGEBRAKSAVAGE45",
+            "reward": 5000000000,
             "token": 0,
             "prank": 0
         },
