@@ -1243,6 +1243,24 @@
             "prank": 0
         },
         {
+            "code": "HSIGEBERBERKAH67",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGEBERBONDO27",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGEBERBOSS44",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGEBERCLUTCH94",
             "reward": 50000000,
             "token": 0,
@@ -1257,6 +1275,12 @@
         {
             "code": "HSIGEBEREMBUN96",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGEBEREPIC67",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -1285,8 +1309,26 @@
             "prank": 0
         },
         {
+            "code": "HSIGEBERGASRUK62",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGEBERHIJAU41",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGEBERINDIGO11",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGEBERKOPLING80",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -1299,6 +1341,12 @@
         {
             "code": "HSIGEBERLONTONG32",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGEBERMAGER33",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -1321,14 +1369,50 @@
             "prank": 0
         },
         {
+            "code": "HSIGEBERMANIAC73",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGEBERMVP20",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGEBERMYTHIC39",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGEBERPIXEL26",
             "reward": 50000000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "HSIGEBERPIXEL31",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGEBERPULSAR54",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGEBERRAKSASA02",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGEBERREM15",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -1351,6 +1435,30 @@
             "prank": 0
         },
         {
+            "code": "HSIGEBERSHIELD50",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGEBERSINGA84",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGEBERSKENA13",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGEBERSOLAR75",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGEBERSONO11",
             "reward": 50000000,
             "token": 0,
@@ -1359,6 +1467,12 @@
         {
             "code": "HSIGEBERSPEEDRUN70",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGEBERTRESNO47",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -1377,6 +1491,12 @@
         {
             "code": "HSIGEBERVIGILANTE95",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGEBERWARAS90",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
