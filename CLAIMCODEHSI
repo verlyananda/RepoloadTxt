@@ -1819,8 +1819,26 @@
             "prank": 0
         },
         {
+            "code": "MAULFAJAR07",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAULPIXEL86",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "MAULTEMPE37",
             "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAULVENOM89",
+            "reward": 1000000000,
             "token": 0,
             "prank": 0
         },
