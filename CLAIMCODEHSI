@@ -931,6 +931,12 @@
             "prank": 0
         },
         {
+            "code": "HSIJOSONTEL",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIKACAU2M",
             "reward": 2000000000,
             "token": 0,
