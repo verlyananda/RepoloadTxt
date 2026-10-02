@@ -1651,6 +1651,12 @@
             "prank": 0
         },
         {
+            "code": "HSIONTEL2MAW",
+            "reward": 0,
+            "token": 0,
+            "prank": 1
+        },
+        {
             "code": "LIONXCHEETAH89",
             "reward": 50000000,
             "token": 0,
