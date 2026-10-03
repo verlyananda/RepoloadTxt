@@ -1369,6 +1369,12 @@
             "prank": 0
         },
         {
+            "code": "HSIGERAKBOBA97",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGERAKDRONE16",
             "reward": 1000000000,
             "token": 0,
@@ -1399,6 +1405,12 @@
             "prank": 0
         },
         {
+            "code": "HSIGERAKROVER91",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGERAKRUJAK25",
             "reward": 1000000000,
             "token": 0,
@@ -1411,8 +1423,32 @@
             "prank": 0
         },
         {
+            "code": "HSIGERAKSOLAR88",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGERAKSULTAN40",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGERAKTOSCA45",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGERAKTURBO95",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGERAKVORTEX72",
+            "reward": 5000000000,
             "token": 0,
             "prank": 0
         },
