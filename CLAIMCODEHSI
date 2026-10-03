@@ -1351,6 +1351,18 @@
             "prank": 0
         },
         {
+            "code": "HSIGERABURGER68",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGERACUAN31",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGERAKAMBER20",
             "reward": 1000000000,
             "token": 0,
@@ -1407,6 +1419,30 @@
         {
             "code": "HSIGERAKWAYANG35",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGERAMATCHA87",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGERAMATUR71",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGERAPHOENIX92",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGERASPIDEY29",
+            "reward": 3000000000,
             "token": 0,
             "prank": 0
         },
