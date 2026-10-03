@@ -1369,8 +1369,20 @@
             "prank": 0
         },
         {
+            "code": "HSIGERAKBATAGOR75",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGERAKBOBA97",
             "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGERAKCAGEUR54",
+            "reward": 500000000,
             "token": 0,
             "prank": 0
         },
@@ -1393,8 +1405,38 @@
             "prank": 0
         },
         {
+            "code": "HSIGERAKJUARA70",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGERAKMATCHA01",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGERAKMERAH61",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGERAKNEBULA48",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGERAKNINJA04",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGERAKPIXEL46",
+            "reward": 500000000,
             "token": 0,
             "prank": 0
         },
@@ -1417,6 +1459,12 @@
             "prank": 0
         },
         {
+            "code": "HSIGERAKSEBLAK79",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGERAKSKENA56",
             "reward": 1000000000,
             "token": 0,
@@ -1425,6 +1473,18 @@
         {
             "code": "HSIGERAKSOLAR88",
             "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGERAKSRIGALA33",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGERAKSULTAN35",
+            "reward": 500000000,
             "token": 0,
             "prank": 0
         },
