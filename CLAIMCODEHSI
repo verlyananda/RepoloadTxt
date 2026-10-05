@@ -7,6 +7,12 @@
             "prank": 0
         },
         {
+            "code": "FOXXYBLACKHOLE35",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "FOXXYBUFF04",
             "reward": 5000000000,
             "token": 0,
@@ -21,6 +27,18 @@
         {
             "code": "FOXXYORBIT19",
             "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FOXXYSOLO90",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FOXXYVIGILANTE64",
+            "reward": 1000000000,
             "token": 0,
             "prank": 0
         },
