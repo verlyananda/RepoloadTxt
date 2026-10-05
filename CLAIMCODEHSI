@@ -2017,12 +2017,6 @@
             "prank": 0
         },
         {
-            "code": "HSIGIFTSANGKAN02",
-            "reward": 500000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "HSIGIFTSMURF17",
             "reward": 2000000000,
             "token": 0,
