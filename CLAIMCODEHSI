@@ -1837,6 +1837,24 @@
             "prank": 0
         },
         {
+            "code": "HSIGIFTBUFF48",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGIFTDIMSUM55",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGIFTFALCON23",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGIFTGANK51",
             "reward": 1000000000,
             "token": 0,
@@ -1849,8 +1867,20 @@
             "prank": 0
         },
         {
+            "code": "HSIGIFTHEADSHOT06",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGIFTKOBRA26",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGIFTKODE68",
+            "reward": 2000000000,
             "token": 0,
             "prank": 0
         },
@@ -1879,6 +1909,30 @@
             "prank": 0
         },
         {
+            "code": "HSIGIFTPEPAYA64",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGIFTPODIUM49",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGIFTSAKTI71",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGIFTSMURF17",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGIFTSORANGAN56",
             "reward": 1000000000,
             "token": 0,
@@ -1887,6 +1941,12 @@
         {
             "code": "HSIGIFTTORNADO69",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGIFTVENOM26",
+            "reward": 2000000000,
             "token": 0,
             "prank": 0
         },
