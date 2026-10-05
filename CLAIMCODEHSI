@@ -7,6 +7,12 @@
             "prank": 0
         },
         {
+            "code": "HSI1MDEHNIH",
+            "reward": 0,
+            "token": 0,
+            "prank": 1
+        },
+        {
             "code": "HSIBAYAMBER89",
             "reward": 50000000,
             "token": 0,
