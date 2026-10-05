@@ -1861,6 +1861,12 @@
             "prank": 0
         },
         {
+            "code": "HSIGERAKMERAH61",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGERAKRAMBUTAN70",
             "reward": 1000000000,
             "token": 0,
