@@ -853,6 +853,12 @@
             "prank": 0
         },
         {
+            "code": "HSIDITHSIMAXGENK",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIDOBADAI14",
             "reward": 50000000,
             "token": 0,
