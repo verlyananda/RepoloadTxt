@@ -2569,6 +2569,12 @@
             "prank": 0
         },
         {
+            "code": "ONTEL1MDEHAH",
+            "reward": 0,
+            "token": 0,
+            "prank": 1
+        },
+        {
             "code": "ONTELHSI1MDEH",
             "reward": 1000000000,
             "token": 0,
