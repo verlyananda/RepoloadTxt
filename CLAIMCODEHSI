@@ -3049,6 +3049,12 @@
             "prank": 0
         },
         {
+            "code": "SPESIALKINGINDO",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "SYADZALGORITMA70",
             "reward": 50000000,
             "token": 0,
