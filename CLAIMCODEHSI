@@ -25,8 +25,20 @@
             "prank": 0
         },
         {
+            "code": "GEBRAKKITSUNE00",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "GEBRAKKOPI01",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "GEBRAKKUY91",
+            "reward": 2000000000,
             "token": 0,
             "prank": 0
         },
@@ -43,14 +55,38 @@
             "prank": 0
         },
         {
+            "code": "GEBRAKMACRO17",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "GEBRAKMANGGA74",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "GEBRAKNAGA78",
             "reward": 1000000000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "GEBRAKTEAMFIGHT20",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "GEBRAKTHROTTLE07",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "GEBRAKTHROTTLE09",
+            "reward": 2000000000,
             "token": 0,
             "prank": 0
         },
