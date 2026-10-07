@@ -1003,8 +1003,20 @@
             "prank": 0
         },
         {
+            "code": "HSIFOXXYKUDA39",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIFOXXYLEMON93",
             "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIFOXXYNEMESIS87",
+            "reward": 1000000000,
             "token": 0,
             "prank": 0
         },
