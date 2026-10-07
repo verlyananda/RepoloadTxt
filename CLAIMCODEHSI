@@ -1021,8 +1021,26 @@
             "prank": 0
         },
         {
+            "code": "HSIFOXXYSALAK78",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIFOXXYSIRKUIT78",
             "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIFOXXYSUGIH69",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIFOXXYSULTAN09",
+            "reward": 500000000,
             "token": 0,
             "prank": 0
         },
