@@ -7,6 +7,12 @@
             "prank": 0
         },
         {
+            "code": "GEBRAKBANTENG30",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "GEBRAKBELATI37",
             "reward": 1000000000,
             "token": 0,
@@ -15,6 +21,12 @@
         {
             "code": "GEBRAKBOBA79",
             "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "GEBRAKCAMBUK27",
+            "reward": 5000000000,
             "token": 0,
             "prank": 0
         },
@@ -67,6 +79,12 @@
             "prank": 0
         },
         {
+            "code": "GEBRAKKOBRA62",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "GEBRAKKOPI01",
             "reward": 1000000000,
             "token": 0,
@@ -75,6 +93,12 @@
         {
             "code": "GEBRAKKUY91",
             "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "GEBRAKLEGENDARY53",
+            "reward": 5000000000,
             "token": 0,
             "prank": 0
         },
@@ -93,6 +117,12 @@
         {
             "code": "GEBRAKMACRO17",
             "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "GEBRAKMAGER84",
+            "reward": 5000000000,
             "token": 0,
             "prank": 0
         },
@@ -117,6 +147,12 @@
         {
             "code": "GEBRAKRIMBA61",
             "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "GEBRAKSEMANGKA20",
+            "reward": 5000000000,
             "token": 0,
             "prank": 0
         },
