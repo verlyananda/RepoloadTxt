@@ -13,6 +13,12 @@
             "prank": 0
         },
         {
+            "code": "GEBRAKBOBA79",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "GEBRAKCHECKPOINT94",
             "reward": 1000000000,
             "token": 0,
@@ -21,6 +27,36 @@
         {
             "code": "GEBRAKCYBER57",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "GEBRAKGADO87",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "GEBRAKGLITCH07",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "GEBRAKGLORY62",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "GEBRAKKAPAK66",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "GEBRAKKERNEL37",
+            "reward": 500000000,
             "token": 0,
             "prank": 0
         },
@@ -73,6 +109,24 @@
             "prank": 0
         },
         {
+            "code": "GEBRAKPELANGI68",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "GEBRAKRIMBA61",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "GEBRAKSHIELD21",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "GEBRAKTEAMFIGHT20",
             "reward": 2000000000,
             "token": 0,
@@ -93,6 +147,12 @@
         {
             "code": "GEBRAKTHROTTLE84",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "GEBRAKWADUL63",
+            "reward": 500000000,
             "token": 0,
             "prank": 0
         },
