@@ -1489,6 +1489,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAULBURGER95",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAULBYTE09",
             "reward": 50000000,
             "token": 0,
@@ -1653,6 +1659,12 @@
         {
             "code": "HSIMAULRIMBA76",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAULSATELIT68",
+            "reward": 1000000000,
             "token": 0,
             "prank": 0
         },
