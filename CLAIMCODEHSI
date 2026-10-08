@@ -1111,6 +1111,12 @@
             "prank": 0
         },
         {
+            "code": "HSIGIFTACE80",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGIFTADEM44",
             "reward": 1000000000,
             "token": 0,
@@ -1123,8 +1129,20 @@
             "prank": 0
         },
         {
+            "code": "HSIGIFTESCAMPUR58",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGIFTGASPOL13",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGIFTKAYA66",
+            "reward": 2000000000,
             "token": 0,
             "prank": 0
         },
@@ -1135,8 +1153,26 @@
             "prank": 0
         },
         {
+            "code": "HSIGIFTNEON11",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGIFTNERF16",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGIFTORBIT81",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGIFTPETIR01",
+            "reward": 2000000000,
             "token": 0,
             "prank": 0
         },
@@ -1159,6 +1195,24 @@
             "prank": 0
         },
         {
+            "code": "HSIGIFTSENSEI98",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGIFTSHINOBI51",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGIFTSLIPSTREAM13",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGIFTSLIPSTREAM54",
             "reward": 1000000000,
             "token": 0,
@@ -1167,6 +1221,12 @@
         {
             "code": "HSIGIFTTURBO07",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGIFTVULKANIK18",
+            "reward": 2000000000,
             "token": 0,
             "prank": 0
         },
