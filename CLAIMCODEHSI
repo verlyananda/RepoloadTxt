@@ -1153,6 +1153,12 @@
             "prank": 0
         },
         {
+            "code": "HSIGIFTGERHANA41",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGIFTKAYA66",
             "reward": 2000000000,
             "token": 0,
@@ -1191,6 +1197,12 @@
         {
             "code": "HSIGIFTORBIT81",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGIFTORBIT83",
+            "reward": 5000000000,
             "token": 0,
             "prank": 0
         },
