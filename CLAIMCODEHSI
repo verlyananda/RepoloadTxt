@@ -1,6 +1,30 @@
 {
     "codes": [
         {
+            "code": "ALDOCARRY63",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALDOJAYA50",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALDOMANADO60",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALDOORBIT96",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIBAYALGORITMA03",
             "reward": 150000000,
             "token": 0,
