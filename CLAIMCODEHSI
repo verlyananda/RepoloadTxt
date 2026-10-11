@@ -1243,8 +1243,44 @@
             "prank": 0
         },
         {
+            "code": "HSIGGBIDADARI06",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGGBURGER68",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGGGORILA14",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGGGURUN68",
             "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGGRAKSASA73",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGGSAIYAN34",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGGSENPAI75",
+            "reward": 1000000000,
             "token": 0,
             "prank": 0
         },
