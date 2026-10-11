@@ -1237,6 +1237,18 @@
             "prank": 0
         },
         {
+            "code": "HSIGGBADAI15",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGGGURUN68",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAULADIKA14",
             "reward": 150000000,
             "token": 0,
