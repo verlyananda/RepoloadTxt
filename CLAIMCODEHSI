@@ -2255,6 +2255,12 @@
             "reward": 50000000,
             "token": 0,
             "prank": 0
+        },
+        {
+            "code": "ULTAHDHITMAX",
+            "reward": 0,
+            "token": 10,
+            "prank": 0
         }
     ]
 }
