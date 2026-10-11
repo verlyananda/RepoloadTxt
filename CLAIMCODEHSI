@@ -2257,6 +2257,12 @@
             "prank": 0
         },
         {
+            "code": "ULTAHADITSEHATSELALU",
+            "reward": 0,
+            "token": 50,
+            "prank": 0
+        },
+        {
             "code": "ULTAHDHITMAX",
             "reward": 0,
             "token": 10,
