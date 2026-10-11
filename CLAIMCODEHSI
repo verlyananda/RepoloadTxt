@@ -1267,6 +1267,12 @@
             "prank": 0
         },
         {
+            "code": "HSIGGMANIAC19",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIGGRAKSASA73",
             "reward": 1000000000,
             "token": 0,
@@ -1281,6 +1287,12 @@
         {
             "code": "HSIGGSENPAI75",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIGGSTELLAR59",
+            "reward": 3000000000,
             "token": 0,
             "prank": 0
         },
