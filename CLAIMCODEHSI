@@ -2245,6 +2245,12 @@
             "prank": 0
         },
         {
+            "code": "MAULHSIMAXCREATOR",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "REHANAPOLLO51",
             "reward": 50000000,
             "token": 0,
