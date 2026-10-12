@@ -2389,6 +2389,18 @@
             "prank": 0
         },
         {
+            "code": "REHANSTOREAPOLLO05",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REHANSTOREBLACKHOLE74",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "REHANSTOREBOSS66",
             "reward": 50000000,
             "token": 0,
@@ -2407,8 +2419,32 @@
             "prank": 0
         },
         {
+            "code": "REHANSTORECAGEUR24",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REHANSTORECAKRA27",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REHANSTORECAMBUK83",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "REHANSTORECARRY57",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REHANSTOREFLAWLESS24",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -2419,8 +2455,26 @@
             "prank": 0
         },
         {
+            "code": "REHANSTOREGASKEUN05",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "REHANSTOREGATOTKACA25",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REHANSTOREGUARDIAN39",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REHANSTOREHOKI64",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -2437,6 +2491,12 @@
             "prank": 0
         },
         {
+            "code": "REHANSTOREKETOPRAK68",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "REHANSTOREKETUPAT69",
             "reward": 50000000,
             "token": 0,
@@ -2445,6 +2505,12 @@
         {
             "code": "REHANSTOREKUMAHA93",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REHANSTORELECI90",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -2461,8 +2527,38 @@
             "prank": 0
         },
         {
+            "code": "REHANSTOREMATRIX30",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REHANSTOREMATRIX89",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REHANSTOREMENANG69",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REHANSTOREMETA05",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "REHANSTOREMIE67",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REHANSTOREONIGIRI15",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -2503,8 +2599,26 @@
             "prank": 0
         },
         {
+            "code": "REHANSTORESATE17",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "REHANSTORESINGA82",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REHANSTORESMOOTHIE78",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REHANSTORESNIPE37",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -2529,6 +2643,12 @@
         {
             "code": "REHANSTORETURBO02",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "REHANSTOREUNGU59",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
