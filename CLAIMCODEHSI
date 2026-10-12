@@ -19,8 +19,20 @@
             "prank": 0
         },
         {
+            "code": "FOXXYMOJITO03",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "FOXXYNASGOR21",
             "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FOXXYRUJAK12",
+            "reward": 2000000000,
             "token": 0,
             "prank": 0
         },
