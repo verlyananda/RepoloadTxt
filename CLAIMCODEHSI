@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "HSIBADIK73",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIBAYASTRO97",
             "reward": 50000000,
             "token": 0,
@@ -807,6 +813,12 @@
         {
             "code": "HSIDOWILUJENG70",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDURIAN70",
+            "reward": 1000000000,
             "token": 0,
             "prank": 0
         },
@@ -1797,6 +1809,24 @@
         {
             "code": "HSIMAXTENTREM58",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMERAH34",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIPIXELART61",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIULTRA77",
+            "reward": 1000000000,
             "token": 0,
             "prank": 0
         },
