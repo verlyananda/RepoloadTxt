@@ -2275,6 +2275,12 @@
             "prank": 0
         },
         {
+            "code": "MAULPOWER51",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "REHANAPOLLO51",
             "reward": 50000000,
             "token": 0,
