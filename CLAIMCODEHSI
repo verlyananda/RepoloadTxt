@@ -25,8 +25,20 @@
             "prank": 0
         },
         {
+            "code": "FOXXYMUTANT19",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "FOXXYPIXELART19",
             "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FOXXYSADIS79",
+            "reward": 1000000000,
             "token": 0,
             "prank": 0
         },
