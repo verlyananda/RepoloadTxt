@@ -1471,6 +1471,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAULWAKANDA08",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAULWAYANG28",
             "reward": 50000000,
             "token": 0,
