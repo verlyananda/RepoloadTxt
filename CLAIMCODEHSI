@@ -1351,6 +1351,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAULPEMPEK99",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAULPERAK83",
             "reward": 150000000,
             "token": 0,
