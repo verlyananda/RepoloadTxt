@@ -589,6 +589,12 @@
             "prank": 0
         },
         {
+            "code": "HSIDOCOKELAT75",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIDOCRAZY61",
             "reward": 150000000,
             "token": 0,
@@ -619,6 +625,12 @@
             "prank": 0
         },
         {
+            "code": "HSIDOESCAMPUR10",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIDOESCAMPUR61",
             "reward": 150000000,
             "token": 0,
@@ -633,6 +645,18 @@
         {
             "code": "HSIDOJOGJA88",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDOJUS70",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDOJUS84",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
@@ -686,6 +710,12 @@
         },
         {
             "code": "HSIDOMANTAB86",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDOMATCHA88",
             "reward": 50000000,
             "token": 0,
             "prank": 0
@@ -811,8 +841,32 @@
             "prank": 0
         },
         {
+            "code": "HSIDOSODA48",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDOSODA59",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIDOSPIDEY08",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDOTEH21",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDOTEH53",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
@@ -825,6 +879,12 @@
         {
             "code": "HSIDOULTRA61",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDOWEDANG82",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
