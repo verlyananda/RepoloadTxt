@@ -1427,6 +1427,12 @@
             "reward": 2000000000,
             "token": 0,
             "prank": 0
+        },
+        {
+            "code": "MAULLOOT26",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
         }
     ]
 }
