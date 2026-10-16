@@ -541,8 +541,26 @@
             "prank": 0
         },
         {
+            "code": "HSIDITBADIK28",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIDITJINGGA32",
             "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITPUSH18",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDITWEDANG86",
+            "reward": 1000000000,
             "token": 0,
             "prank": 0
         },
