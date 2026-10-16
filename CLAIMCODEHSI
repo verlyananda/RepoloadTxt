@@ -1,6 +1,30 @@
 {
     "codes": [
         {
+            "code": "ADITHSIGORENG12",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ADITHSIMATUR29",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ADITHSIMIE44",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ADITHSIPECEL21",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIBAYACEH91",
             "reward": 150000000,
             "token": 0,
