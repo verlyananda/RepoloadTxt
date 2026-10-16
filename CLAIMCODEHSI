@@ -1,8 +1,26 @@
 {
     "codes": [
         {
+            "code": "FOXXYBIDADARI46",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FOXXYSINGA94",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "FOXXYSMURF55",
             "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FOXXYSTOPPIE37",
+            "reward": 500000000,
             "token": 0,
             "prank": 0
         },
