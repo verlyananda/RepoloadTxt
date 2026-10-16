@@ -1421,6 +1421,12 @@
             "reward": 150000000,
             "token": 0,
             "prank": 0
+        },
+        {
+            "code": "MAULACE21",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
         }
     ]
 }
