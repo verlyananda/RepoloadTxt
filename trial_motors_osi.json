@@ -1,0 +1,5 @@
+{
+  "trials": [
+    { "motorID": "Meybo", "on": true, "hours": 24 }
+  ]
+}
