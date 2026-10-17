@@ -1643,6 +1643,12 @@
             "reward": 50000000,
             "token": 0,
             "prank": 0
+        },
+        {
+            "code": "TANTANGANALDODAYM",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
         }
     ]
 }
