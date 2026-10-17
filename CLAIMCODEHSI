@@ -283,8 +283,32 @@
             "prank": 0
         },
         {
+            "code": "HSIBIGINVISIBLE89",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIBIGKRAKEN74",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIBIGLASER02",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIBIGMAXWIN75",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIBIGNANAS15",
+            "reward": 500000000,
             "token": 0,
             "prank": 0
         },
@@ -307,6 +331,12 @@
             "prank": 0
         },
         {
+            "code": "HSIBIGRAMBUTAN13",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIBIGRANTAI28",
             "reward": 1000000000,
             "token": 0,
@@ -321,6 +351,12 @@
         {
             "code": "HSIBIGSUPERNOVA78",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIBIGTAHU80",
+            "reward": 500000000,
             "token": 0,
             "prank": 0
         },
