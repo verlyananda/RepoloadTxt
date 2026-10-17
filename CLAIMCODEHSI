@@ -277,6 +277,12 @@
             "prank": 0
         },
         {
+            "code": "HSIBIGBALI23",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIBIGBERKAH36",
             "reward": 5000000000,
             "token": 0,
@@ -297,6 +303,12 @@
         {
             "code": "HSIBIGINVISIBLE89",
             "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIBIGKOSMIK26",
+            "reward": 3000000000,
             "token": 0,
             "prank": 0
         },
@@ -337,6 +349,12 @@
             "prank": 0
         },
         {
+            "code": "HSIBIGPHOENIX26",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIBIGRAHAYU86",
             "reward": 1000000000,
             "token": 0,
@@ -369,6 +387,12 @@
         {
             "code": "HSIBIGSOSIS52",
             "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIBIGSUPERNOVA63",
+            "reward": 3000000000,
             "token": 0,
             "prank": 0
         },
