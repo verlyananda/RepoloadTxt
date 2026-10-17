@@ -277,8 +277,20 @@
             "prank": 0
         },
         {
+            "code": "HSIBIGBERKAH36",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIBIGBUAYA75",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIBIGGERHANA12",
+            "reward": 5000000000,
             "token": 0,
             "prank": 0
         },
@@ -297,6 +309,12 @@
         {
             "code": "HSIBIGLASER02",
             "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIBIGMAROON17",
+            "reward": 5000000000,
             "token": 0,
             "prank": 0
         },
@@ -345,6 +363,12 @@
         {
             "code": "HSIBIGSENSEI52",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIBIGSOSIS52",
+            "reward": 5000000000,
             "token": 0,
             "prank": 0
         },
