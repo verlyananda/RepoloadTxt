@@ -1,8 +1,26 @@
 {
     "codes": [
         {
+            "code": "HSIADITHOKI06",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIADITORCA67",
             "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIADITSTELLAR72",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIADITTOMBAK20",
+            "reward": 1000000000,
             "token": 0,
             "prank": 0
         },
