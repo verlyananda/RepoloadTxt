@@ -1,6 +1,24 @@
 {
     "codes": [
         {
+            "code": "ALDOHSIAPEL68",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALDOHSIBADAI31",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ALDOHSIBEKASI26",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "FOXXYHSIELING77",
             "reward": 1000000000,
             "token": 0,
