@@ -1,102 +1,27 @@
 {
-    "version": 1,
+    "version": 2,
     "recipes": [
         {
             "motorID": "AbsoluteRevo",
             "slots": [
                 {
                     "slot": "Coil",
-                    "best": "Coil_KTC",
+                    "best": "Coil_BlueThunder",
                     "good": [
-                        "Coil_Faito"
+                        "Coil_KTC"
                     ],
                     "bad": [
-                        "Coil_BlueThunder"
+                        "Coil_Faito"
                     ]
                 },
                 {
                     "slot": "Busi",
-                    "best": "Busi_Daytona",
+                    "best": "Busi_Denso",
                     "good": [
                         "Busi_Champion"
                     ],
                     "bad": [
-                        "Busi_Denso"
-                    ]
-                },
-                {
-                    "slot": "ECU",
-                    "best": "Ecu_Daytona",
-                    "good": [
-                        "Ecu_Aracer"
-                    ],
-                    "bad": [
-                        "Ecu_Juken"
-                    ]
-                },
-                {
-                    "slot": "Roller",
-                    "best": "Roller_BRT",
-                    "good": [
-                        "Roller_Kawahara"
-                    ],
-                    "bad": [
-                        "Roller_Daytona"
-                    ]
-                },
-                {
-                    "slot": "Piston",
-                    "best": "Piston74",
-                    "good": [
-                        "Piston68"
-                    ],
-                    "bad": [
-                        "Piston70"
-                    ]
-                },
-                {
-                    "slot": "Karburator",
-                    "best": "KarbuYoshimura",
-                    "good": [
-                        "KarbuBlackRaven"
-                    ],
-                    "bad": [
-                        "KarbuSND"
-                    ]
-                },
-                {
-                    "slot": "Oli",
-                    "best": "Oli_Shell",
-                    "good": [
-                        "Oli_Castrol"
-                    ],
-                    "bad": [
-                        "Oli_Deltalube"
-                    ]
-                }
-            ]
-        },
-        {
-            "motorID": "AeroxNew",
-            "slots": [
-                {
-                    "slot": "Coil",
-                    "best": "Coil_Faito",
-                    "good": [
-                        "Coil Cpo"
-                    ],
-                    "bad": [
-                        "Coil_KTC"
-                    ]
-                },
-                {
-                    "slot": "Busi",
-                    "best": "Busi_Daytona",
-                    "good": [
                         "Busi_Brisk"
-                    ],
-                    "bad": [
-                        "Busi_NGK"
                     ]
                 },
                 {
@@ -111,19 +36,19 @@
                 },
                 {
                     "slot": "Roller",
-                    "best": "Roller_LHK",
+                    "best": "Roller_TDR",
                     "good": [
                         "Roller_Daytona"
                     ],
                     "bad": [
-                        "Roller_Kawahara"
+                        "Roller_BRT"
                     ]
                 },
                 {
                     "slot": "Piston",
-                    "best": "Piston74",
+                    "best": "Piston70",
                     "good": [
-                        "Piston70"
+                        "Piston68"
                     ],
                     "bad": [
                         "Piston72"
@@ -131,17 +56,92 @@
                 },
                 {
                     "slot": "Karburator",
-                    "best": "KarbuBRT",
+                    "best": "KarbuLectron",
                     "good": [
-                        "KarbuSND"
+                        "KarbuYoshimura"
                     ],
                     "bad": [
-                        "KarbuBlackRaven"
+                        "KarbuSND"
                     ]
                 },
                 {
                     "slot": "Oli",
-                    "best": "Oli_Deltalube",
+                    "best": "Oli_Motul",
+                    "good": [
+                        "Oli_Deltalube"
+                    ],
+                    "bad": [
+                        "Oli_Shell"
+                    ]
+                }
+            ]
+        },
+        {
+            "motorID": "AeroxNew",
+            "slots": [
+                {
+                    "slot": "Coil",
+                    "best": "Coil_KTC",
+                    "good": [
+                        "Coil_Faito"
+                    ],
+                    "bad": [
+                        "Coil Cpo"
+                    ]
+                },
+                {
+                    "slot": "Busi",
+                    "best": "Busi_Denso",
+                    "good": [
+                        "Busi_Brisk"
+                    ],
+                    "bad": [
+                        "Busi_Champion"
+                    ]
+                },
+                {
+                    "slot": "ECU",
+                    "best": "Ecu_Aracer",
+                    "good": [
+                        "Ecu_Daytona"
+                    ],
+                    "bad": [
+                        "Ecu_Juken"
+                    ]
+                },
+                {
+                    "slot": "Roller",
+                    "best": "Roller_TDR",
+                    "good": [
+                        "Roller_Kawahara"
+                    ],
+                    "bad": [
+                        "Roller_LHK"
+                    ]
+                },
+                {
+                    "slot": "Piston",
+                    "best": "Piston70",
+                    "good": [
+                        "Piston74"
+                    ],
+                    "bad": [
+                        "Piston68"
+                    ]
+                },
+                {
+                    "slot": "Karburator",
+                    "best": "KarbuBlackRaven",
+                    "good": [
+                        "KarbuBRT"
+                    ],
+                    "bad": [
+                        "KarbuSND"
+                    ]
+                },
+                {
+                    "slot": "Oli",
+                    "best": "Oli_Shell",
                     "good": [
                         "Oli_Castrol"
                     ],
@@ -156,9 +156,459 @@
             "slots": [
                 {
                     "slot": "Coil",
+                    "best": "Coil_BlueThunder",
+                    "good": [
+                        "Coil_KTC"
+                    ],
+                    "bad": [
+                        "Coil_Faito"
+                    ]
+                },
+                {
+                    "slot": "Busi",
+                    "best": "Busi_Brisk",
+                    "good": [
+                        "Busi_Daytona"
+                    ],
+                    "bad": [
+                        "Busi_NGK"
+                    ]
+                },
+                {
+                    "slot": "ECU",
+                    "best": "Ecu_Aracer",
+                    "good": [
+                        "Ecu_Daytona"
+                    ],
+                    "bad": [
+                        "Ecu_Juken"
+                    ]
+                },
+                {
+                    "slot": "Roller",
+                    "best": "Roller_BRT",
+                    "good": [
+                        "Roller_Daytona"
+                    ],
+                    "bad": [
+                        "Roller_LHK"
+                    ]
+                },
+                {
+                    "slot": "Piston",
+                    "best": "Piston68",
+                    "good": [
+                        "Piston70"
+                    ],
+                    "bad": [
+                        "Piston74"
+                    ]
+                },
+                {
+                    "slot": "Karburator",
+                    "best": "KarbuYoshimura",
+                    "good": [
+                        "KarbuBRT"
+                    ],
+                    "bad": [
+                        "KarbuSND"
+                    ]
+                },
+                {
+                    "slot": "Oli",
+                    "best": "Oli_Motul",
+                    "good": [
+                        "Oli_Shell"
+                    ],
+                    "bad": [
+                        "Oli_Castrol"
+                    ]
+                }
+            ]
+        },
+        {
+            "motorID": "Astrea",
+            "slots": [
+                {
+                    "slot": "Coil",
+                    "best": "Coil_BlueThunder",
+                    "good": [
+                        "Coil Cpo"
+                    ],
+                    "bad": [
+                        "Coil_KTC"
+                    ]
+                },
+                {
+                    "slot": "Busi",
+                    "best": "Busi_Champion",
+                    "good": [
+                        "Busi_Daytona"
+                    ],
+                    "bad": [
+                        "Busi_Brisk"
+                    ]
+                },
+                {
+                    "slot": "ECU",
+                    "best": "Ecu_Daytona",
+                    "good": [
+                        "Ecu_Aracer"
+                    ],
+                    "bad": [
+                        "Ecu_Juken"
+                    ]
+                },
+                {
+                    "slot": "Roller",
+                    "best": "Roller_LHK",
+                    "good": [
+                        "Roller_Kawahara"
+                    ],
+                    "bad": [
+                        "Roller_BRT"
+                    ]
+                },
+                {
+                    "slot": "Piston",
+                    "best": "Piston70",
+                    "good": [
+                        "Piston72"
+                    ],
+                    "bad": [
+                        "Piston74"
+                    ]
+                },
+                {
+                    "slot": "Karburator",
+                    "best": "KarbuSND",
+                    "good": [
+                        "KarbuBlackRaven"
+                    ],
+                    "bad": [
+                        "KarbuYoshimura"
+                    ]
+                },
+                {
+                    "slot": "Oli",
+                    "best": "Oli_Ipone",
+                    "good": [
+                        "Oli_Shell"
+                    ],
+                    "bad": [
+                        "Oli_Castrol"
+                    ]
+                }
+            ]
+        },
+        {
+            "motorID": "BeatDealuxeGen1",
+            "slots": [
+                {
+                    "slot": "Coil",
+                    "best": "Coil_Faito",
+                    "good": [
+                        "Coil_BlueThunder"
+                    ],
+                    "bad": [
+                        "Coil Cpo"
+                    ]
+                },
+                {
+                    "slot": "Busi",
+                    "best": "Busi_Daytona",
+                    "good": [
+                        "Busi_Brisk"
+                    ],
+                    "bad": [
+                        "Busi_Denso"
+                    ]
+                },
+                {
+                    "slot": "ECU",
+                    "best": "Ecu_Juken",
+                    "good": [
+                        "Ecu_Daytona"
+                    ],
+                    "bad": [
+                        "Ecu_Aracer"
+                    ]
+                },
+                {
+                    "slot": "Roller",
+                    "best": "Roller_Kawahara",
+                    "good": [
+                        "Roller_BRT"
+                    ],
+                    "bad": [
+                        "Roller_Daytona"
+                    ]
+                },
+                {
+                    "slot": "Piston",
+                    "best": "Piston74",
+                    "good": [
+                        "Piston68"
+                    ],
+                    "bad": [
+                        "Piston70"
+                    ]
+                },
+                {
+                    "slot": "Karburator",
+                    "best": "KarbuYoshimura",
+                    "good": [
+                        "KarbuSND"
+                    ],
+                    "bad": [
+                        "KarbuBRT"
+                    ]
+                },
+                {
+                    "slot": "Oli",
+                    "best": "Oli_Castrol",
+                    "good": [
+                        "Oli_Deltalube"
+                    ],
+                    "bad": [
+                        "Oli_Motul"
+                    ]
+                }
+            ]
+        },
+        {
+            "motorID": "BeatDeluxeGen2",
+            "slots": [
+                {
+                    "slot": "Coil",
+                    "best": "Coil_BlueThunder",
+                    "good": [
+                        "Coil_KTC"
+                    ],
+                    "bad": [
+                        "Coil_Faito"
+                    ]
+                },
+                {
+                    "slot": "Busi",
+                    "best": "Busi_Champion",
+                    "good": [
+                        "Busi_Brisk"
+                    ],
+                    "bad": [
+                        "Busi_Daytona"
+                    ]
+                },
+                {
+                    "slot": "ECU",
+                    "best": "Ecu_Aracer",
+                    "good": [
+                        "Ecu_Daytona"
+                    ],
+                    "bad": [
+                        "Ecu_Juken"
+                    ]
+                },
+                {
+                    "slot": "Roller",
+                    "best": "Roller_TDR",
+                    "good": [
+                        "Roller_Daytona"
+                    ],
+                    "bad": [
+                        "Roller_LHK"
+                    ]
+                },
+                {
+                    "slot": "Piston",
+                    "best": "Piston70",
+                    "good": [
+                        "Piston74"
+                    ],
+                    "bad": [
+                        "Piston68"
+                    ]
+                },
+                {
+                    "slot": "Karburator",
+                    "best": "KarbuLectron",
+                    "good": [
+                        "KarbuBRT"
+                    ],
+                    "bad": [
+                        "KarbuYoshimura"
+                    ]
+                },
+                {
+                    "slot": "Oli",
+                    "best": "Oli_Shell",
+                    "good": [
+                        "Oli_Deltalube"
+                    ],
+                    "bad": [
+                        "Oli_Ipone"
+                    ]
+                }
+            ]
+        },
+        {
+            "motorID": "BeatEsp",
+            "slots": [
+                {
+                    "slot": "Coil",
+                    "best": "Coil_BlueThunder",
+                    "good": [
+                        "Coil_KTC"
+                    ],
+                    "bad": [
+                        "Coil_Faito"
+                    ]
+                },
+                {
+                    "slot": "Busi",
+                    "best": "Busi_Daytona",
+                    "good": [
+                        "Busi_Denso"
+                    ],
+                    "bad": [
+                        "Busi_NGK"
+                    ]
+                },
+                {
+                    "slot": "ECU",
+                    "best": "Ecu_Daytona",
+                    "good": [
+                        "Ecu_Juken"
+                    ],
+                    "bad": [
+                        "Ecu_Aracer"
+                    ]
+                },
+                {
+                    "slot": "Roller",
+                    "best": "Roller_Daytona",
+                    "good": [
+                        "Roller_Kawahara"
+                    ],
+                    "bad": [
+                        "Roller_BRT"
+                    ]
+                },
+                {
+                    "slot": "Piston",
+                    "best": "Piston74",
+                    "good": [
+                        "Piston70"
+                    ],
+                    "bad": [
+                        "Piston72"
+                    ]
+                },
+                {
+                    "slot": "Karburator",
+                    "best": "KarbuBRT",
+                    "good": [
+                        "KarbuSND"
+                    ],
+                    "bad": [
+                        "KarbuYoshimura"
+                    ]
+                },
+                {
+                    "slot": "Oli",
+                    "best": "Oli_Ipone",
+                    "good": [
+                        "Oli_Deltalube"
+                    ],
+                    "bad": [
+                        "Oli_Castrol"
+                    ]
+                }
+            ]
+        },
+        {
+            "motorID": "BeatFI",
+            "slots": [
+                {
+                    "slot": "Coil",
+                    "best": "Coil_Faito",
+                    "good": [
+                        "Coil_BlueThunder"
+                    ],
+                    "bad": [
+                        "Coil Cpo"
+                    ]
+                },
+                {
+                    "slot": "Busi",
+                    "best": "Busi_NGK",
+                    "good": [
+                        "Busi_Daytona"
+                    ],
+                    "bad": [
+                        "Busi_Denso"
+                    ]
+                },
+                {
+                    "slot": "ECU",
+                    "best": "Ecu_Aracer",
+                    "good": [
+                        "Ecu_Juken"
+                    ],
+                    "bad": [
+                        "Ecu_Daytona"
+                    ]
+                },
+                {
+                    "slot": "Roller",
+                    "best": "Roller_Daytona",
+                    "good": [
+                        "Roller_BRT"
+                    ],
+                    "bad": [
+                        "Roller_TDR"
+                    ]
+                },
+                {
+                    "slot": "Piston",
+                    "best": "Piston68",
+                    "good": [
+                        "Piston74"
+                    ],
+                    "bad": [
+                        "Piston70"
+                    ]
+                },
+                {
+                    "slot": "Karburator",
+                    "best": "KarbuLectron",
+                    "good": [
+                        "KarbuYoshimura"
+                    ],
+                    "bad": [
+                        "KarbuSND"
+                    ]
+                },
+                {
+                    "slot": "Oli",
+                    "best": "Oli_Shell",
+                    "good": [
+                        "Oli_Motul"
+                    ],
+                    "bad": [
+                        "Oli_Castrol"
+                    ]
+                }
+            ]
+        },
+        {
+            "motorID": "BeatKarbu",
+            "slots": [
+                {
+                    "slot": "Coil",
                     "best": "Coil_KTC",
                     "good": [
-                        "Coil_Faito"
+                        "Coil Cpo"
                     ],
                     "bad": [
                         "Coil_BlueThunder"
@@ -166,7 +616,232 @@
                 },
                 {
                     "slot": "Busi",
-                    "best": "Busi_NGK",
+                    "best": "Busi_Denso",
+                    "good": [
+                        "Busi_NGK"
+                    ],
+                    "bad": [
+                        "Busi_Daytona"
+                    ]
+                },
+                {
+                    "slot": "ECU",
+                    "best": "Ecu_Juken",
+                    "good": [
+                        "Ecu_Aracer"
+                    ],
+                    "bad": [
+                        "Ecu_Daytona"
+                    ]
+                },
+                {
+                    "slot": "Roller",
+                    "best": "Roller_Kawahara",
+                    "good": [
+                        "Roller_TDR"
+                    ],
+                    "bad": [
+                        "Roller_Daytona"
+                    ]
+                },
+                {
+                    "slot": "Piston",
+                    "best": "Piston74",
+                    "good": [
+                        "Piston68"
+                    ],
+                    "bad": [
+                        "Piston70"
+                    ]
+                },
+                {
+                    "slot": "Karburator",
+                    "best": "KarbuYoshimura",
+                    "good": [
+                        "KarbuBRT"
+                    ],
+                    "bad": [
+                        "KarbuBlackRaven"
+                    ]
+                },
+                {
+                    "slot": "Oli",
+                    "best": "Oli_Castrol",
+                    "good": [
+                        "Oli_Ipone"
+                    ],
+                    "bad": [
+                        "Oli_Shell"
+                    ]
+                }
+            ]
+        },
+        {
+            "motorID": "CbIcikiwir",
+            "slots": [
+                {
+                    "slot": "Coil",
+                    "best": "Coil_KTC",
+                    "good": [
+                        "Coil_BlueThunder"
+                    ],
+                    "bad": [
+                        "Coil_Faito"
+                    ]
+                },
+                {
+                    "slot": "Busi",
+                    "best": "Busi_Denso",
+                    "good": [
+                        "Busi_Daytona"
+                    ],
+                    "bad": [
+                        "Busi_NGK"
+                    ]
+                },
+                {
+                    "slot": "ECU",
+                    "best": "Ecu_Daytona",
+                    "good": [
+                        "Ecu_Aracer"
+                    ],
+                    "bad": [
+                        "Ecu_Juken"
+                    ]
+                },
+                {
+                    "slot": "Roller",
+                    "best": "Roller_Daytona",
+                    "good": [
+                        "Roller_TDR"
+                    ],
+                    "bad": [
+                        "Roller_LHK"
+                    ]
+                },
+                {
+                    "slot": "Piston",
+                    "best": "Piston72",
+                    "good": [
+                        "Piston70"
+                    ],
+                    "bad": [
+                        "Piston74"
+                    ]
+                },
+                {
+                    "slot": "Karburator",
+                    "best": "KarbuLectron",
+                    "good": [
+                        "KarbuBRT"
+                    ],
+                    "bad": [
+                        "KarbuSND"
+                    ]
+                },
+                {
+                    "slot": "Oli",
+                    "best": "Oli_Deltalube",
+                    "good": [
+                        "Oli_Castrol"
+                    ],
+                    "bad": [
+                        "Oli_Ipone"
+                    ]
+                }
+            ]
+        },
+        {
+            "motorID": "Cbr250rr",
+            "slots": [
+                {
+                    "slot": "Coil",
+                    "best": "Coil Cpo",
+                    "good": [
+                        "Coil_KTC"
+                    ],
+                    "bad": [
+                        "Coil_Faito"
+                    ]
+                },
+                {
+                    "slot": "Busi",
+                    "best": "Busi_Brisk",
+                    "good": [
+                        "Busi_NGK"
+                    ],
+                    "bad": [
+                        "Busi_Denso"
+                    ]
+                },
+                {
+                    "slot": "ECU",
+                    "best": "Ecu_Daytona",
+                    "good": [
+                        "Ecu_Juken"
+                    ],
+                    "bad": [
+                        "Ecu_Aracer"
+                    ]
+                },
+                {
+                    "slot": "Roller",
+                    "best": "Roller_Kawahara",
+                    "good": [
+                        "Roller_Daytona"
+                    ],
+                    "bad": [
+                        "Roller_BRT"
+                    ]
+                },
+                {
+                    "slot": "Piston",
+                    "best": "Piston72",
+                    "good": [
+                        "Piston70"
+                    ],
+                    "bad": [
+                        "Piston74"
+                    ]
+                },
+                {
+                    "slot": "Karburator",
+                    "best": "KarbuYoshimura",
+                    "good": [
+                        "KarbuSND"
+                    ],
+                    "bad": [
+                        "KarbuBlackRaven"
+                    ]
+                },
+                {
+                    "slot": "Oli",
+                    "best": "Oli_Deltalube",
+                    "good": [
+                        "Oli_Motul"
+                    ],
+                    "bad": [
+                        "Oli_Shell"
+                    ]
+                }
+            ]
+        },
+        {
+            "motorID": "CopperTiger",
+            "slots": [
+                {
+                    "slot": "Coil",
+                    "best": "Coil_Faito",
+                    "good": [
+                        "Coil Cpo"
+                    ],
+                    "bad": [
+                        "Coil_KTC"
+                    ]
+                },
+                {
+                    "slot": "Busi",
+                    "best": "Busi_Daytona",
                     "good": [
                         "Busi_Champion"
                     ],
@@ -186,17 +861,17 @@
                 },
                 {
                     "slot": "Roller",
-                    "best": "Roller_Kawahara",
+                    "best": "Roller_Daytona",
                     "good": [
-                        "Roller_BRT"
+                        "Roller_Kawahara"
                     ],
                     "bad": [
-                        "Roller_TDR"
+                        "Roller_LHK"
                     ]
                 },
                 {
                     "slot": "Piston",
-                    "best": "Piston72",
+                    "best": "Piston68",
                     "good": [
                         "Piston74"
                     ],
@@ -206,34 +881,259 @@
                 },
                 {
                     "slot": "Karburator",
-                    "best": "KarbuBlackRaven",
+                    "best": "KarbuBRT",
                     "good": [
                         "KarbuYoshimura"
                     ],
                     "bad": [
-                        "KarbuLectron"
+                        "KarbuBlackRaven"
                     ]
                 },
                 {
                     "slot": "Oli",
-                    "best": "Oli_Castrol",
+                    "best": "Oli_Ipone",
                     "good": [
-                        "Oli_Shell"
+                        "Oli_Deltalube"
                     ],
                     "bad": [
-                        "Oli_Motul"
+                        "Oli_Shell"
                     ]
                 }
             ]
         },
         {
-            "motorID": "Astrea",
+            "motorID": "CRF150",
             "slots": [
                 {
                     "slot": "Coil",
-                    "best": "Coil_Faito",
+                    "best": "Coil_KTC",
                     "good": [
+                        "Coil Cpo"
+                    ],
+                    "bad": [
+                        "Coil_BlueThunder"
+                    ]
+                },
+                {
+                    "slot": "Busi",
+                    "best": "Busi_Denso",
+                    "good": [
+                        "Busi_Champion"
+                    ],
+                    "bad": [
+                        "Busi_Daytona"
+                    ]
+                },
+                {
+                    "slot": "ECU",
+                    "best": "Ecu_Aracer",
+                    "good": [
+                        "Ecu_Juken"
+                    ],
+                    "bad": [
+                        "Ecu_Daytona"
+                    ]
+                },
+                {
+                    "slot": "Roller",
+                    "best": "Roller_LHK",
+                    "good": [
+                        "Roller_Kawahara"
+                    ],
+                    "bad": [
+                        "Roller_BRT"
+                    ]
+                },
+                {
+                    "slot": "Piston",
+                    "best": "Piston68",
+                    "good": [
+                        "Piston72"
+                    ],
+                    "bad": [
+                        "Piston74"
+                    ]
+                },
+                {
+                    "slot": "Karburator",
+                    "best": "KarbuBRT",
+                    "good": [
+                        "KarbuSND"
+                    ],
+                    "bad": [
+                        "KarbuYoshimura"
+                    ]
+                },
+                {
+                    "slot": "Oli",
+                    "best": "Oli_Motul",
+                    "good": [
+                        "Oli_Castrol"
+                    ],
+                    "bad": [
+                        "Oli_Deltalube"
+                    ]
+                }
+            ]
+        },
+        {
+            "motorID": "DragNovDash",
+            "slots": [
+                {
+                    "slot": "Coil",
+                    "best": "Coil_BlueThunder",
+                    "good": [
+                        "Coil Cpo"
+                    ],
+                    "bad": [
                         "Coil_KTC"
+                    ]
+                },
+                {
+                    "slot": "Busi",
+                    "best": "Busi_NGK",
+                    "good": [
+                        "Busi_Brisk"
+                    ],
+                    "bad": [
+                        "Busi_Denso"
+                    ]
+                },
+                {
+                    "slot": "ECU",
+                    "best": "Ecu_Juken",
+                    "good": [
+                        "Ecu_Daytona"
+                    ],
+                    "bad": [
+                        "Ecu_Aracer"
+                    ]
+                },
+                {
+                    "slot": "Roller",
+                    "best": "Roller_TDR",
+                    "good": [
+                        "Roller_BRT"
+                    ],
+                    "bad": [
+                        "Roller_LHK"
+                    ]
+                },
+                {
+                    "slot": "Piston",
+                    "best": "Piston70",
+                    "good": [
+                        "Piston68"
+                    ],
+                    "bad": [
+                        "Piston74"
+                    ]
+                },
+                {
+                    "slot": "Karburator",
+                    "best": "KarbuBRT",
+                    "good": [
+                        "KarbuBlackRaven"
+                    ],
+                    "bad": [
+                        "KarbuYoshimura"
+                    ]
+                },
+                {
+                    "slot": "Oli",
+                    "best": "Oli_Deltalube",
+                    "good": [
+                        "Oli_Motul"
+                    ],
+                    "bad": [
+                        "Oli_Shell"
+                    ]
+                }
+            ]
+        },
+        {
+            "motorID": "Fizr",
+            "slots": [
+                {
+                    "slot": "Coil",
+                    "best": "Coil Cpo",
+                    "good": [
+                        "Coil_Faito"
+                    ],
+                    "bad": [
+                        "Coil_KTC"
+                    ]
+                },
+                {
+                    "slot": "Busi",
+                    "best": "Busi_Brisk",
+                    "good": [
+                        "Busi_NGK"
+                    ],
+                    "bad": [
+                        "Busi_Daytona"
+                    ]
+                },
+                {
+                    "slot": "ECU",
+                    "best": "Ecu_Juken",
+                    "good": [
+                        "Ecu_Aracer"
+                    ],
+                    "bad": [
+                        "Ecu_Daytona"
+                    ]
+                },
+                {
+                    "slot": "Roller",
+                    "best": "Roller_TDR",
+                    "good": [
+                        "Roller_BRT"
+                    ],
+                    "bad": [
+                        "Roller_Kawahara"
+                    ]
+                },
+                {
+                    "slot": "Piston",
+                    "best": "Piston68",
+                    "good": [
+                        "Piston74"
+                    ],
+                    "bad": [
+                        "Piston70"
+                    ]
+                },
+                {
+                    "slot": "Karburator",
+                    "best": "KarbuBRT",
+                    "good": [
+                        "KarbuLectron"
+                    ],
+                    "bad": [
+                        "KarbuSND"
+                    ]
+                },
+                {
+                    "slot": "Oli",
+                    "best": "Oli_Deltalube",
+                    "good": [
+                        "Oli_Shell"
+                    ],
+                    "bad": [
+                        "Oli_Ipone"
+                    ]
+                }
+            ]
+        },
+        {
+            "motorID": "FizrRebah",
+            "slots": [
+                {
+                    "slot": "Coil",
+                    "best": "Coil_KTC",
+                    "good": [
+                        "Coil_BlueThunder"
                     ],
                     "bad": [
                         "Coil Cpo"
@@ -241,12 +1141,87 @@
                 },
                 {
                     "slot": "Busi",
-                    "best": "Busi_Daytona",
+                    "best": "Busi_Champion",
                     "good": [
-                        "Busi_NGK"
+                        "Busi_Daytona"
                     ],
                     "bad": [
-                        "Busi_Denso"
+                        "Busi_Brisk"
+                    ]
+                },
+                {
+                    "slot": "ECU",
+                    "best": "Ecu_Juken",
+                    "good": [
+                        "Ecu_Aracer"
+                    ],
+                    "bad": [
+                        "Ecu_Daytona"
+                    ]
+                },
+                {
+                    "slot": "Roller",
+                    "best": "Roller_TDR",
+                    "good": [
+                        "Roller_LHK"
+                    ],
+                    "bad": [
+                        "Roller_Daytona"
+                    ]
+                },
+                {
+                    "slot": "Piston",
+                    "best": "Piston72",
+                    "good": [
+                        "Piston70"
+                    ],
+                    "bad": [
+                        "Piston74"
+                    ]
+                },
+                {
+                    "slot": "Karburator",
+                    "best": "KarbuBlackRaven",
+                    "good": [
+                        "KarbuLectron"
+                    ],
+                    "bad": [
+                        "KarbuBRT"
+                    ]
+                },
+                {
+                    "slot": "Oli",
+                    "best": "Oli_Ipone",
+                    "good": [
+                        "Oli_Motul"
+                    ],
+                    "bad": [
+                        "Oli_Castrol"
+                    ]
+                }
+            ]
+        },
+        {
+            "motorID": "Gl100-Kotak",
+            "slots": [
+                {
+                    "slot": "Coil",
+                    "best": "Coil_KTC",
+                    "good": [
+                        "Coil_BlueThunder"
+                    ],
+                    "bad": [
+                        "Coil_Faito"
+                    ]
+                },
+                {
+                    "slot": "Busi",
+                    "best": "Busi_Champion",
+                    "good": [
+                        "Busi_Brisk"
+                    ],
+                    "bad": [
+                        "Busi_NGK"
                     ]
                 },
                 {
@@ -266,157 +1241,7 @@
                         "Roller_Daytona"
                     ],
                     "bad": [
-                        "Roller_BRT"
-                    ]
-                },
-                {
-                    "slot": "Piston",
-                    "best": "Piston68",
-                    "good": [
-                        "Piston72"
-                    ],
-                    "bad": [
-                        "Piston70"
-                    ]
-                },
-                {
-                    "slot": "Karburator",
-                    "best": "KarbuLectron",
-                    "good": [
-                        "KarbuBRT"
-                    ],
-                    "bad": [
-                        "KarbuYoshimura"
-                    ]
-                },
-                {
-                    "slot": "Oli",
-                    "best": "Oli_Castrol",
-                    "good": [
-                        "Oli_Shell"
-                    ],
-                    "bad": [
-                        "Oli_Ipone"
-                    ]
-                }
-            ]
-        },
-        {
-            "motorID": "BeatDealuxeGen1",
-            "slots": [
-                {
-                    "slot": "Coil",
-                    "best": "Coil Cpo",
-                    "good": [
-                        "Coil_KTC"
-                    ],
-                    "bad": [
-                        "Coil_BlueThunder"
-                    ]
-                },
-                {
-                    "slot": "Busi",
-                    "best": "Busi_NGK",
-                    "good": [
-                        "Busi_Brisk"
-                    ],
-                    "bad": [
-                        "Busi_Denso"
-                    ]
-                },
-                {
-                    "slot": "ECU",
-                    "best": "Ecu_Juken",
-                    "good": [
-                        "Ecu_Aracer"
-                    ],
-                    "bad": [
-                        "Ecu_Daytona"
-                    ]
-                },
-                {
-                    "slot": "Roller",
-                    "best": "Roller_BRT",
-                    "good": [
                         "Roller_Kawahara"
-                    ],
-                    "bad": [
-                        "Roller_TDR"
-                    ]
-                },
-                {
-                    "slot": "Piston",
-                    "best": "Piston72",
-                    "good": [
-                        "Piston74"
-                    ],
-                    "bad": [
-                        "Piston70"
-                    ]
-                },
-                {
-                    "slot": "Karburator",
-                    "best": "KarbuBRT",
-                    "good": [
-                        "KarbuSND"
-                    ],
-                    "bad": [
-                        "KarbuLectron"
-                    ]
-                },
-                {
-                    "slot": "Oli",
-                    "best": "Oli_Ipone",
-                    "good": [
-                        "Oli_Deltalube"
-                    ],
-                    "bad": [
-                        "Oli_Shell"
-                    ]
-                }
-            ]
-        },
-        {
-            "motorID": "BeatDeluxeGen2",
-            "slots": [
-                {
-                    "slot": "Coil",
-                    "best": "Coil_KTC",
-                    "good": [
-                        "Coil_BlueThunder"
-                    ],
-                    "bad": [
-                        "Coil_Faito"
-                    ]
-                },
-                {
-                    "slot": "Busi",
-                    "best": "Busi_NGK",
-                    "good": [
-                        "Busi_Denso"
-                    ],
-                    "bad": [
-                        "Busi_Brisk"
-                    ]
-                },
-                {
-                    "slot": "ECU",
-                    "best": "Ecu_Juken",
-                    "good": [
-                        "Ecu_Daytona"
-                    ],
-                    "bad": [
-                        "Ecu_Aracer"
-                    ]
-                },
-                {
-                    "slot": "Roller",
-                    "best": "Roller_BRT",
-                    "good": [
-                        "Roller_LHK"
-                    ],
-                    "bad": [
-                        "Roller_Daytona"
                     ]
                 },
                 {
@@ -424,456 +1249,6 @@
                     "best": "Piston68",
                     "good": [
                         "Piston74"
-                    ],
-                    "bad": [
-                        "Piston70"
-                    ]
-                },
-                {
-                    "slot": "Karburator",
-                    "best": "KarbuLectron",
-                    "good": [
-                        "KarbuSND"
-                    ],
-                    "bad": [
-                        "KarbuBRT"
-                    ]
-                },
-                {
-                    "slot": "Oli",
-                    "best": "Oli_Motul",
-                    "good": [
-                        "Oli_Castrol"
-                    ],
-                    "bad": [
-                        "Oli_Ipone"
-                    ]
-                }
-            ]
-        },
-        {
-            "motorID": "BeatEsp",
-            "slots": [
-                {
-                    "slot": "Coil",
-                    "best": "Coil_BlueThunder",
-                    "good": [
-                        "Coil Cpo"
-                    ],
-                    "bad": [
-                        "Coil_Faito"
-                    ]
-                },
-                {
-                    "slot": "Busi",
-                    "best": "Busi_Champion",
-                    "good": [
-                        "Busi_Daytona"
-                    ],
-                    "bad": [
-                        "Busi_Denso"
-                    ]
-                },
-                {
-                    "slot": "ECU",
-                    "best": "Ecu_Daytona",
-                    "good": [
-                        "Ecu_Juken"
-                    ],
-                    "bad": [
-                        "Ecu_Aracer"
-                    ]
-                },
-                {
-                    "slot": "Roller",
-                    "best": "Roller_BRT",
-                    "good": [
-                        "Roller_Kawahara"
-                    ],
-                    "bad": [
-                        "Roller_LHK"
-                    ]
-                },
-                {
-                    "slot": "Piston",
-                    "best": "Piston72",
-                    "good": [
-                        "Piston68"
-                    ],
-                    "bad": [
-                        "Piston70"
-                    ]
-                },
-                {
-                    "slot": "Karburator",
-                    "best": "KarbuSND",
-                    "good": [
-                        "KarbuBlackRaven"
-                    ],
-                    "bad": [
-                        "KarbuLectron"
-                    ]
-                },
-                {
-                    "slot": "Oli",
-                    "best": "Oli_Shell",
-                    "good": [
-                        "Oli_Deltalube"
-                    ],
-                    "bad": [
-                        "Oli_Castrol"
-                    ]
-                }
-            ]
-        },
-        {
-            "motorID": "BeatFI",
-            "slots": [
-                {
-                    "slot": "Coil",
-                    "best": "Coil_BlueThunder",
-                    "good": [
-                        "Coil Cpo"
-                    ],
-                    "bad": [
-                        "Coil_Faito"
-                    ]
-                },
-                {
-                    "slot": "Busi",
-                    "best": "Busi_NGK",
-                    "good": [
-                        "Busi_Brisk"
-                    ],
-                    "bad": [
-                        "Busi_Daytona"
-                    ]
-                },
-                {
-                    "slot": "ECU",
-                    "best": "Ecu_Aracer",
-                    "good": [
-                        "Ecu_Juken"
-                    ],
-                    "bad": [
-                        "Ecu_Daytona"
-                    ]
-                },
-                {
-                    "slot": "Roller",
-                    "best": "Roller_Kawahara",
-                    "good": [
-                        "Roller_BRT"
-                    ],
-                    "bad": [
-                        "Roller_TDR"
-                    ]
-                },
-                {
-                    "slot": "Piston",
-                    "best": "Piston72",
-                    "good": [
-                        "Piston74"
-                    ],
-                    "bad": [
-                        "Piston70"
-                    ]
-                },
-                {
-                    "slot": "Karburator",
-                    "best": "KarbuBlackRaven",
-                    "good": [
-                        "KarbuLectron"
-                    ],
-                    "bad": [
-                        "KarbuBRT"
-                    ]
-                },
-                {
-                    "slot": "Oli",
-                    "best": "Oli_Shell",
-                    "good": [
-                        "Oli_Deltalube"
-                    ],
-                    "bad": [
-                        "Oli_Motul"
-                    ]
-                }
-            ]
-        },
-        {
-            "motorID": "BeatKarbu",
-            "slots": [
-                {
-                    "slot": "Coil",
-                    "best": "Coil_BlueThunder",
-                    "good": [
-                        "Coil_KTC"
-                    ],
-                    "bad": [
-                        "Coil_Faito"
-                    ]
-                },
-                {
-                    "slot": "Busi",
-                    "best": "Busi_Denso",
-                    "good": [
-                        "Busi_Brisk"
-                    ],
-                    "bad": [
-                        "Busi_Daytona"
-                    ]
-                },
-                {
-                    "slot": "ECU",
-                    "best": "Ecu_Daytona",
-                    "good": [
-                        "Ecu_Juken"
-                    ],
-                    "bad": [
-                        "Ecu_Aracer"
-                    ]
-                },
-                {
-                    "slot": "Roller",
-                    "best": "Roller_Daytona",
-                    "good": [
-                        "Roller_BRT"
-                    ],
-                    "bad": [
-                        "Roller_TDR"
-                    ]
-                },
-                {
-                    "slot": "Piston",
-                    "best": "Piston74",
-                    "good": [
-                        "Piston70"
-                    ],
-                    "bad": [
-                        "Piston72"
-                    ]
-                },
-                {
-                    "slot": "Karburator",
-                    "best": "KarbuLectron",
-                    "good": [
-                        "KarbuBRT"
-                    ],
-                    "bad": [
-                        "KarbuSND"
-                    ]
-                },
-                {
-                    "slot": "Oli",
-                    "best": "Oli_Shell",
-                    "good": [
-                        "Oli_Deltalube"
-                    ],
-                    "bad": [
-                        "Oli_Castrol"
-                    ]
-                }
-            ]
-        },
-        {
-            "motorID": "CbIcikiwir",
-            "slots": [
-                {
-                    "slot": "Coil",
-                    "best": "Coil Cpo",
-                    "good": [
-                        "Coil_BlueThunder"
-                    ],
-                    "bad": [
-                        "Coil_KTC"
-                    ]
-                },
-                {
-                    "slot": "Busi",
-                    "best": "Busi_Daytona",
-                    "good": [
-                        "Busi_Brisk"
-                    ],
-                    "bad": [
-                        "Busi_NGK"
-                    ]
-                },
-                {
-                    "slot": "ECU",
-                    "best": "Ecu_Aracer",
-                    "good": [
-                        "Ecu_Juken"
-                    ],
-                    "bad": [
-                        "Ecu_Daytona"
-                    ]
-                },
-                {
-                    "slot": "Roller",
-                    "best": "Roller_Daytona",
-                    "good": [
-                        "Roller_BRT"
-                    ],
-                    "bad": [
-                        "Roller_LHK"
-                    ]
-                },
-                {
-                    "slot": "Piston",
-                    "best": "Piston68",
-                    "good": [
-                        "Piston74"
-                    ],
-                    "bad": [
-                        "Piston72"
-                    ]
-                },
-                {
-                    "slot": "Karburator",
-                    "best": "KarbuYoshimura",
-                    "good": [
-                        "KarbuSND"
-                    ],
-                    "bad": [
-                        "KarbuLectron"
-                    ]
-                },
-                {
-                    "slot": "Oli",
-                    "best": "Oli_Shell",
-                    "good": [
-                        "Oli_Motul"
-                    ],
-                    "bad": [
-                        "Oli_Castrol"
-                    ]
-                }
-            ]
-        },
-        {
-            "motorID": "Cbr250rr",
-            "slots": [
-                {
-                    "slot": "Coil",
-                    "best": "Coil Cpo",
-                    "good": [
-                        "Coil_Faito"
-                    ],
-                    "bad": [
-                        "Coil_BlueThunder"
-                    ]
-                },
-                {
-                    "slot": "Busi",
-                    "best": "Busi_Daytona",
-                    "good": [
-                        "Busi_NGK"
-                    ],
-                    "bad": [
-                        "Busi_Champion"
-                    ]
-                },
-                {
-                    "slot": "ECU",
-                    "best": "Ecu_Daytona",
-                    "good": [
-                        "Ecu_Aracer"
-                    ],
-                    "bad": [
-                        "Ecu_Juken"
-                    ]
-                },
-                {
-                    "slot": "Roller",
-                    "best": "Roller_Daytona",
-                    "good": [
-                        "Roller_LHK"
-                    ],
-                    "bad": [
-                        "Roller_BRT"
-                    ]
-                },
-                {
-                    "slot": "Piston",
-                    "best": "Piston70",
-                    "good": [
-                        "Piston72"
-                    ],
-                    "bad": [
-                        "Piston74"
-                    ]
-                },
-                {
-                    "slot": "Karburator",
-                    "best": "KarbuLectron",
-                    "good": [
-                        "KarbuBlackRaven"
-                    ],
-                    "bad": [
-                        "KarbuYoshimura"
-                    ]
-                },
-                {
-                    "slot": "Oli",
-                    "best": "Oli_Deltalube",
-                    "good": [
-                        "Oli_Shell"
-                    ],
-                    "bad": [
-                        "Oli_Castrol"
-                    ]
-                }
-            ]
-        },
-        {
-            "motorID": "CopperTiger",
-            "slots": [
-                {
-                    "slot": "Coil",
-                    "best": "Coil_Faito",
-                    "good": [
-                        "Coil_BlueThunder"
-                    ],
-                    "bad": [
-                        "Coil Cpo"
-                    ]
-                },
-                {
-                    "slot": "Busi",
-                    "best": "Busi_Brisk",
-                    "good": [
-                        "Busi_Denso"
-                    ],
-                    "bad": [
-                        "Busi_Daytona"
-                    ]
-                },
-                {
-                    "slot": "ECU",
-                    "best": "Ecu_Daytona",
-                    "good": [
-                        "Ecu_Aracer"
-                    ],
-                    "bad": [
-                        "Ecu_Juken"
-                    ]
-                },
-                {
-                    "slot": "Roller",
-                    "best": "Roller_Kawahara",
-                    "good": [
-                        "Roller_TDR"
-                    ],
-                    "bad": [
-                        "Roller_LHK"
-                    ]
-                },
-                {
-                    "slot": "Piston",
-                    "best": "Piston72",
-                    "good": [
-                        "Piston68"
                     ],
                     "bad": [
                         "Piston70"
@@ -886,387 +1261,12 @@
                         "KarbuLectron"
                     ],
                     "bad": [
-                        "KarbuSND"
-                    ]
-                },
-                {
-                    "slot": "Oli",
-                    "best": "Oli_Castrol",
-                    "good": [
-                        "Oli_Deltalube"
-                    ],
-                    "bad": [
-                        "Oli_Ipone"
-                    ]
-                }
-            ]
-        },
-        {
-            "motorID": "CRF150",
-            "slots": [
-                {
-                    "slot": "Coil",
-                    "best": "Coil Cpo",
-                    "good": [
-                        "Coil_KTC"
-                    ],
-                    "bad": [
-                        "Coil_Faito"
-                    ]
-                },
-                {
-                    "slot": "Busi",
-                    "best": "Busi_Brisk",
-                    "good": [
-                        "Busi_Denso"
-                    ],
-                    "bad": [
-                        "Busi_Champion"
-                    ]
-                },
-                {
-                    "slot": "ECU",
-                    "best": "Ecu_Aracer",
-                    "good": [
-                        "Ecu_Juken"
-                    ],
-                    "bad": [
-                        "Ecu_Daytona"
-                    ]
-                },
-                {
-                    "slot": "Roller",
-                    "best": "Roller_Daytona",
-                    "good": [
-                        "Roller_TDR"
-                    ],
-                    "bad": [
-                        "Roller_LHK"
-                    ]
-                },
-                {
-                    "slot": "Piston",
-                    "best": "Piston68",
-                    "good": [
-                        "Piston70"
-                    ],
-                    "bad": [
-                        "Piston72"
-                    ]
-                },
-                {
-                    "slot": "Karburator",
-                    "best": "KarbuYoshimura",
-                    "good": [
-                        "KarbuLectron"
-                    ],
-                    "bad": [
                         "KarbuBlackRaven"
                     ]
                 },
                 {
                     "slot": "Oli",
                     "best": "Oli_Deltalube",
-                    "good": [
-                        "Oli_Motul"
-                    ],
-                    "bad": [
-                        "Oli_Castrol"
-                    ]
-                }
-            ]
-        },
-        {
-            "motorID": "DragNovDash",
-            "slots": [
-                {
-                    "slot": "Coil",
-                    "best": "Coil_Faito",
-                    "good": [
-                        "Coil_KTC"
-                    ],
-                    "bad": [
-                        "Coil_BlueThunder"
-                    ]
-                },
-                {
-                    "slot": "Busi",
-                    "best": "Busi_Denso",
-                    "good": [
-                        "Busi_Brisk"
-                    ],
-                    "bad": [
-                        "Busi_Champion"
-                    ]
-                },
-                {
-                    "slot": "ECU",
-                    "best": "Ecu_Daytona",
-                    "good": [
-                        "Ecu_Aracer"
-                    ],
-                    "bad": [
-                        "Ecu_Juken"
-                    ]
-                },
-                {
-                    "slot": "Roller",
-                    "best": "Roller_Kawahara",
-                    "good": [
-                        "Roller_Daytona"
-                    ],
-                    "bad": [
-                        "Roller_TDR"
-                    ]
-                },
-                {
-                    "slot": "Piston",
-                    "best": "Piston68",
-                    "good": [
-                        "Piston70"
-                    ],
-                    "bad": [
-                        "Piston72"
-                    ]
-                },
-                {
-                    "slot": "Karburator",
-                    "best": "KarbuYoshimura",
-                    "good": [
-                        "KarbuBlackRaven"
-                    ],
-                    "bad": [
-                        "KarbuSND"
-                    ]
-                },
-                {
-                    "slot": "Oli",
-                    "best": "Oli_Motul",
-                    "good": [
-                        "Oli_Castrol"
-                    ],
-                    "bad": [
-                        "Oli_Deltalube"
-                    ]
-                }
-            ]
-        },
-        {
-            "motorID": "Fizr",
-            "slots": [
-                {
-                    "slot": "Coil",
-                    "best": "Coil_Faito",
-                    "good": [
-                        "Coil_BlueThunder"
-                    ],
-                    "bad": [
-                        "Coil_KTC"
-                    ]
-                },
-                {
-                    "slot": "Busi",
-                    "best": "Busi_Champion",
-                    "good": [
-                        "Busi_Daytona"
-                    ],
-                    "bad": [
-                        "Busi_NGK"
-                    ]
-                },
-                {
-                    "slot": "ECU",
-                    "best": "Ecu_Daytona",
-                    "good": [
-                        "Ecu_Juken"
-                    ],
-                    "bad": [
-                        "Ecu_Aracer"
-                    ]
-                },
-                {
-                    "slot": "Roller",
-                    "best": "Roller_Kawahara",
-                    "good": [
-                        "Roller_Daytona"
-                    ],
-                    "bad": [
-                        "Roller_BRT"
-                    ]
-                },
-                {
-                    "slot": "Piston",
-                    "best": "Piston70",
-                    "good": [
-                        "Piston68"
-                    ],
-                    "bad": [
-                        "Piston72"
-                    ]
-                },
-                {
-                    "slot": "Karburator",
-                    "best": "KarbuYoshimura",
-                    "good": [
-                        "KarbuBRT"
-                    ],
-                    "bad": [
-                        "KarbuLectron"
-                    ]
-                },
-                {
-                    "slot": "Oli",
-                    "best": "Oli_Ipone",
-                    "good": [
-                        "Oli_Deltalube"
-                    ],
-                    "bad": [
-                        "Oli_Shell"
-                    ]
-                }
-            ]
-        },
-        {
-            "motorID": "FizrRebah",
-            "slots": [
-                {
-                    "slot": "Coil",
-                    "best": "Coil_KTC",
-                    "good": [
-                        "Coil_Faito"
-                    ],
-                    "bad": [
-                        "Coil Cpo"
-                    ]
-                },
-                {
-                    "slot": "Busi",
-                    "best": "Busi_NGK",
-                    "good": [
-                        "Busi_Daytona"
-                    ],
-                    "bad": [
-                        "Busi_Brisk"
-                    ]
-                },
-                {
-                    "slot": "ECU",
-                    "best": "Ecu_Juken",
-                    "good": [
-                        "Ecu_Daytona"
-                    ],
-                    "bad": [
-                        "Ecu_Aracer"
-                    ]
-                },
-                {
-                    "slot": "Roller",
-                    "best": "Roller_Kawahara",
-                    "good": [
-                        "Roller_BRT"
-                    ],
-                    "bad": [
-                        "Roller_Daytona"
-                    ]
-                },
-                {
-                    "slot": "Piston",
-                    "best": "Piston74",
-                    "good": [
-                        "Piston72"
-                    ],
-                    "bad": [
-                        "Piston68"
-                    ]
-                },
-                {
-                    "slot": "Karburator",
-                    "best": "KarbuLectron",
-                    "good": [
-                        "KarbuBRT"
-                    ],
-                    "bad": [
-                        "KarbuYoshimura"
-                    ]
-                },
-                {
-                    "slot": "Oli",
-                    "best": "Oli_Deltalube",
-                    "good": [
-                        "Oli_Castrol"
-                    ],
-                    "bad": [
-                        "Oli_Shell"
-                    ]
-                }
-            ]
-        },
-        {
-            "motorID": "Gl100-Kotak",
-            "slots": [
-                {
-                    "slot": "Coil",
-                    "best": "Coil Cpo",
-                    "good": [
-                        "Coil_BlueThunder"
-                    ],
-                    "bad": [
-                        "Coil_KTC"
-                    ]
-                },
-                {
-                    "slot": "Busi",
-                    "best": "Busi_Champion",
-                    "good": [
-                        "Busi_Brisk"
-                    ],
-                    "bad": [
-                        "Busi_Daytona"
-                    ]
-                },
-                {
-                    "slot": "ECU",
-                    "best": "Ecu_Juken",
-                    "good": [
-                        "Ecu_Aracer"
-                    ],
-                    "bad": [
-                        "Ecu_Daytona"
-                    ]
-                },
-                {
-                    "slot": "Roller",
-                    "best": "Roller_TDR",
-                    "good": [
-                        "Roller_BRT"
-                    ],
-                    "bad": [
-                        "Roller_Daytona"
-                    ]
-                },
-                {
-                    "slot": "Piston",
-                    "best": "Piston72",
-                    "good": [
-                        "Piston74"
-                    ],
-                    "bad": [
-                        "Piston68"
-                    ]
-                },
-                {
-                    "slot": "Karburator",
-                    "best": "KarbuSND",
-                    "good": [
-                        "KarbuLectron"
-                    ],
-                    "bad": [
-                        "KarbuBRT"
-                    ]
-                },
-                {
-                    "slot": "Oli",
-                    "best": "Oli_Castrol",
                     "good": [
                         "Oli_Motul"
                     ],
@@ -1281,42 +1281,42 @@
             "slots": [
                 {
                     "slot": "Coil",
-                    "best": "Coil Cpo",
+                    "best": "Coil_BlueThunder",
                     "good": [
-                        "Coil_Faito"
+                        "Coil_KTC"
                     ],
                     "bad": [
-                        "Coil_KTC"
+                        "Coil Cpo"
                     ]
                 },
                 {
                     "slot": "Busi",
-                    "best": "Busi_Brisk",
+                    "best": "Busi_Champion",
                     "good": [
                         "Busi_NGK"
                     ],
                     "bad": [
-                        "Busi_Champion"
+                        "Busi_Brisk"
                     ]
                 },
                 {
                     "slot": "ECU",
-                    "best": "Ecu_Juken",
+                    "best": "Ecu_Daytona",
                     "good": [
-                        "Ecu_Aracer"
+                        "Ecu_Juken"
                     ],
                     "bad": [
-                        "Ecu_Daytona"
+                        "Ecu_Aracer"
                     ]
                 },
                 {
                     "slot": "Roller",
-                    "best": "Roller_TDR",
+                    "best": "Roller_Kawahara",
                     "good": [
-                        "Roller_Daytona"
+                        "Roller_BRT"
                     ],
                     "bad": [
-                        "Roller_BRT"
+                        "Roller_Daytona"
                     ]
                 },
                 {
@@ -1326,24 +1326,24 @@
                         "Piston68"
                     ],
                     "bad": [
-                        "Piston72"
+                        "Piston74"
                     ]
                 },
                 {
                     "slot": "Karburator",
-                    "best": "KarbuLectron",
+                    "best": "KarbuBRT",
                     "good": [
-                        "KarbuBlackRaven"
+                        "KarbuSND"
                     ],
                     "bad": [
-                        "KarbuYoshimura"
+                        "KarbuLectron"
                     ]
                 },
                 {
                     "slot": "Oli",
                     "best": "Oli_Ipone",
                     "good": [
-                        "Oli_Shell"
+                        "Oli_Deltalube"
                     ],
                     "bad": [
                         "Oli_Motul"
@@ -1356,22 +1356,22 @@
             "slots": [
                 {
                     "slot": "Coil",
-                    "best": "Coil_KTC",
+                    "best": "Coil_BlueThunder",
                     "good": [
                         "Coil Cpo"
                     ],
                     "bad": [
-                        "Coil_BlueThunder"
+                        "Coil_Faito"
                     ]
                 },
                 {
                     "slot": "Busi",
-                    "best": "Busi_Denso",
+                    "best": "Busi_NGK",
                     "good": [
-                        "Busi_Champion"
+                        "Busi_Brisk"
                     ],
                     "bad": [
-                        "Busi_NGK"
+                        "Busi_Champion"
                     ]
                 },
                 {
@@ -1386,29 +1386,29 @@
                 },
                 {
                     "slot": "Roller",
-                    "best": "Roller_TDR",
+                    "best": "Roller_LHK",
                     "good": [
                         "Roller_BRT"
                     ],
                     "bad": [
-                        "Roller_Kawahara"
+                        "Roller_Daytona"
                     ]
                 },
                 {
                     "slot": "Piston",
-                    "best": "Piston72",
+                    "best": "Piston70",
                     "good": [
-                        "Piston68"
+                        "Piston74"
                     ],
                     "bad": [
-                        "Piston70"
+                        "Piston72"
                     ]
                 },
                 {
                     "slot": "Karburator",
-                    "best": "KarbuBRT",
+                    "best": "KarbuYoshimura",
                     "good": [
-                        "KarbuLectron"
+                        "KarbuSND"
                     ],
                     "bad": [
                         "KarbuBlackRaven"
@@ -1416,12 +1416,12 @@
                 },
                 {
                     "slot": "Oli",
-                    "best": "Oli_Ipone",
+                    "best": "Oli_Shell",
                     "good": [
-                        "Oli_Castrol"
+                        "Oli_Motul"
                     ],
                     "bad": [
-                        "Oli_Shell"
+                        "Oli_Castrol"
                     ]
                 }
             ]
@@ -1433,20 +1433,20 @@
                     "slot": "Coil",
                     "best": "Coil Cpo",
                     "good": [
-                        "Coil_BlueThunder"
+                        "Coil_Faito"
                     ],
                     "bad": [
-                        "Coil_KTC"
+                        "Coil_BlueThunder"
                     ]
                 },
                 {
                     "slot": "Busi",
                     "best": "Busi_Denso",
                     "good": [
-                        "Busi_Champion"
+                        "Busi_NGK"
                     ],
                     "bad": [
-                        "Busi_Daytona"
+                        "Busi_Brisk"
                     ]
                 },
                 {
@@ -1461,9 +1461,9 @@
                 },
                 {
                     "slot": "Roller",
-                    "best": "Roller_Kawahara",
+                    "best": "Roller_TDR",
                     "good": [
-                        "Roller_Daytona"
+                        "Roller_LHK"
                     ],
                     "bad": [
                         "Roller_BRT"
@@ -1471,22 +1471,22 @@
                 },
                 {
                     "slot": "Piston",
-                    "best": "Piston68",
+                    "best": "Piston72",
                     "good": [
-                        "Piston72"
+                        "Piston70"
                     ],
                     "bad": [
-                        "Piston70"
+                        "Piston68"
                     ]
                 },
                 {
                     "slot": "Karburator",
-                    "best": "KarbuBRT",
+                    "best": "KarbuYoshimura",
                     "good": [
-                        "KarbuBlackRaven"
+                        "KarbuSND"
                     ],
                     "bad": [
-                        "KarbuSND"
+                        "KarbuLectron"
                     ]
                 },
                 {
@@ -1506,22 +1506,97 @@
             "slots": [
                 {
                     "slot": "Coil",
-                    "best": "Coil Cpo",
+                    "best": "Coil_BlueThunder",
                     "good": [
-                        "Coil_Faito"
+                        "Coil_KTC"
                     ],
                     "bad": [
-                        "Coil_BlueThunder"
+                        "Coil Cpo"
                     ]
                 },
                 {
                     "slot": "Busi",
-                    "best": "Busi_Daytona",
+                    "best": "Busi_Champion",
                     "good": [
                         "Busi_Brisk"
                     ],
                     "bad": [
+                        "Busi_Daytona"
+                    ]
+                },
+                {
+                    "slot": "ECU",
+                    "best": "Ecu_Aracer",
+                    "good": [
+                        "Ecu_Juken"
+                    ],
+                    "bad": [
+                        "Ecu_Daytona"
+                    ]
+                },
+                {
+                    "slot": "Roller",
+                    "best": "Roller_LHK",
+                    "good": [
+                        "Roller_TDR"
+                    ],
+                    "bad": [
+                        "Roller_Kawahara"
+                    ]
+                },
+                {
+                    "slot": "Piston",
+                    "best": "Piston74",
+                    "good": [
+                        "Piston72"
+                    ],
+                    "bad": [
+                        "Piston70"
+                    ]
+                },
+                {
+                    "slot": "Karburator",
+                    "best": "KarbuLectron",
+                    "good": [
+                        "KarbuBRT"
+                    ],
+                    "bad": [
+                        "KarbuBlackRaven"
+                    ]
+                },
+                {
+                    "slot": "Oli",
+                    "best": "Oli_Castrol",
+                    "good": [
+                        "Oli_Deltalube"
+                    ],
+                    "bad": [
+                        "Oli_Motul"
+                    ]
+                }
+            ]
+        },
+        {
+            "motorID": "VarioKzr",
+            "slots": [
+                {
+                    "slot": "Coil",
+                    "best": "Coil_BlueThunder",
+                    "good": [
+                        "Coil_Faito"
+                    ],
+                    "bad": [
+                        "Coil Cpo"
+                    ]
+                },
+                {
+                    "slot": "Busi",
+                    "best": "Busi_Brisk",
+                    "good": [
                         "Busi_Champion"
+                    ],
+                    "bad": [
+                        "Busi_Daytona"
                     ]
                 },
                 {
@@ -1536,19 +1611,244 @@
                 },
                 {
                     "slot": "Roller",
-                    "best": "Roller_Kawahara",
+                    "best": "Roller_LHK",
                     "good": [
-                        "Roller_Daytona"
+                        "Roller_BRT"
                     ],
                     "bad": [
-                        "Roller_LHK"
+                        "Roller_Daytona"
                     ]
                 },
                 {
                     "slot": "Piston",
-                    "best": "Piston72",
+                    "best": "Piston68",
                     "good": [
+                        "Piston70"
+                    ],
+                    "bad": [
+                        "Piston72"
+                    ]
+                },
+                {
+                    "slot": "Karburator",
+                    "best": "KarbuBlackRaven",
+                    "good": [
+                        "KarbuLectron"
+                    ],
+                    "bad": [
+                        "KarbuBRT"
+                    ]
+                },
+                {
+                    "slot": "Oli",
+                    "best": "Oli_Motul",
+                    "good": [
+                        "Oli_Deltalube"
+                    ],
+                    "bad": [
+                        "Oli_Castrol"
+                    ]
+                }
+            ]
+        },
+        {
+            "motorID": "MioM3",
+            "slots": [
+                {
+                    "slot": "Coil",
+                    "best": "Coil_KTC",
+                    "good": [
+                        "Coil_BlueThunder"
+                    ],
+                    "bad": [
+                        "Coil Cpo"
+                    ]
+                },
+                {
+                    "slot": "Busi",
+                    "best": "Busi_Brisk",
+                    "good": [
+                        "Busi_Denso"
+                    ],
+                    "bad": [
+                        "Busi_Daytona"
+                    ]
+                },
+                {
+                    "slot": "ECU",
+                    "best": "Ecu_Daytona",
+                    "good": [
+                        "Ecu_Aracer"
+                    ],
+                    "bad": [
+                        "Ecu_Juken"
+                    ]
+                },
+                {
+                    "slot": "Roller",
+                    "best": "Roller_TDR",
+                    "good": [
+                        "Roller_LHK"
+                    ],
+                    "bad": [
+                        "Roller_BRT"
+                    ]
+                },
+                {
+                    "slot": "Piston",
+                    "best": "Piston68",
+                    "good": [
+                        "Piston70"
+                    ],
+                    "bad": [
+                        "Piston72"
+                    ]
+                },
+                {
+                    "slot": "Karburator",
+                    "best": "KarbuLectron",
+                    "good": [
+                        "KarbuSND"
+                    ],
+                    "bad": [
+                        "KarbuYoshimura"
+                    ]
+                },
+                {
+                    "slot": "Oli",
+                    "best": "Oli_Motul",
+                    "good": [
+                        "Oli_Castrol"
+                    ],
+                    "bad": [
+                        "Oli_Ipone"
+                    ]
+                }
+            ]
+        },
+        {
+            "motorID": "MioRebah",
+            "slots": [
+                {
+                    "slot": "Coil",
+                    "best": "Coil_Faito",
+                    "good": [
+                        "Coil Cpo"
+                    ],
+                    "bad": [
+                        "Coil_BlueThunder"
+                    ]
+                },
+                {
+                    "slot": "Busi",
+                    "best": "Busi_Brisk",
+                    "good": [
+                        "Busi_Champion"
+                    ],
+                    "bad": [
+                        "Busi_NGK"
+                    ]
+                },
+                {
+                    "slot": "ECU",
+                    "best": "Ecu_Juken",
+                    "good": [
+                        "Ecu_Aracer"
+                    ],
+                    "bad": [
+                        "Ecu_Daytona"
+                    ]
+                },
+                {
+                    "slot": "Roller",
+                    "best": "Roller_TDR",
+                    "good": [
+                        "Roller_Kawahara"
+                    ],
+                    "bad": [
+                        "Roller_Daytona"
+                    ]
+                },
+                {
+                    "slot": "Piston",
+                    "best": "Piston68",
+                    "good": [
+                        "Piston72"
+                    ],
+                    "bad": [
                         "Piston74"
+                    ]
+                },
+                {
+                    "slot": "Karburator",
+                    "best": "KarbuLectron",
+                    "good": [
+                        "KarbuSND"
+                    ],
+                    "bad": [
+                        "KarbuBlackRaven"
+                    ]
+                },
+                {
+                    "slot": "Oli",
+                    "best": "Oli_Deltalube",
+                    "good": [
+                        "Oli_Motul"
+                    ],
+                    "bad": [
+                        "Oli_Ipone"
+                    ]
+                }
+            ]
+        },
+        {
+            "motorID": "MioSporty",
+            "slots": [
+                {
+                    "slot": "Coil",
+                    "best": "Coil Cpo",
+                    "good": [
+                        "Coil_Faito"
+                    ],
+                    "bad": [
+                        "Coil_KTC"
+                    ]
+                },
+                {
+                    "slot": "Busi",
+                    "best": "Busi_Daytona",
+                    "good": [
+                        "Busi_Brisk"
+                    ],
+                    "bad": [
+                        "Busi_NGK"
+                    ]
+                },
+                {
+                    "slot": "ECU",
+                    "best": "Ecu_Daytona",
+                    "good": [
+                        "Ecu_Aracer"
+                    ],
+                    "bad": [
+                        "Ecu_Juken"
+                    ]
+                },
+                {
+                    "slot": "Roller",
+                    "best": "Roller_Daytona",
+                    "good": [
+                        "Roller_BRT"
+                    ],
+                    "bad": [
+                        "Roller_Kawahara"
+                    ]
+                },
+                {
+                    "slot": "Piston",
+                    "best": "Piston68",
+                    "good": [
+                        "Piston72"
                     ],
                     "bad": [
                         "Piston70"
@@ -1558,32 +1858,32 @@
                     "slot": "Karburator",
                     "best": "KarbuSND",
                     "good": [
-                        "KarbuYoshimura"
+                        "KarbuLectron"
                     ],
                     "bad": [
-                        "KarbuBlackRaven"
+                        "KarbuYoshimura"
                     ]
                 },
                 {
                     "slot": "Oli",
-                    "best": "Oli_Motul",
+                    "best": "Oli_Ipone",
                     "good": [
-                        "Oli_Shell"
+                        "Oli_Deltalube"
                     ],
                     "bad": [
-                        "Oli_Castrol"
+                        "Oli_Motul"
                     ]
                 }
             ]
         },
         {
-            "motorID": "VarioKzr",
+            "motorID": "MxKingV2",
             "slots": [
                 {
                     "slot": "Coil",
-                    "best": "Coil Cpo",
+                    "best": "Coil_KTC",
                     "good": [
-                        "Coil_BlueThunder"
+                        "Coil Cpo"
                     ],
                     "bad": [
                         "Coil_Faito"
@@ -1591,12 +1891,87 @@
                 },
                 {
                     "slot": "Busi",
-                    "best": "Busi_Daytona",
+                    "best": "Busi_Champion",
+                    "good": [
+                        "Busi_Daytona"
+                    ],
+                    "bad": [
+                        "Busi_NGK"
+                    ]
+                },
+                {
+                    "slot": "ECU",
+                    "best": "Ecu_Aracer",
+                    "good": [
+                        "Ecu_Juken"
+                    ],
+                    "bad": [
+                        "Ecu_Daytona"
+                    ]
+                },
+                {
+                    "slot": "Roller",
+                    "best": "Roller_LHK",
+                    "good": [
+                        "Roller_Kawahara"
+                    ],
+                    "bad": [
+                        "Roller_Daytona"
+                    ]
+                },
+                {
+                    "slot": "Piston",
+                    "best": "Piston68",
+                    "good": [
+                        "Piston74"
+                    ],
+                    "bad": [
+                        "Piston72"
+                    ]
+                },
+                {
+                    "slot": "Karburator",
+                    "best": "KarbuYoshimura",
+                    "good": [
+                        "KarbuBRT"
+                    ],
+                    "bad": [
+                        "KarbuLectron"
+                    ]
+                },
+                {
+                    "slot": "Oli",
+                    "best": "Oli_Castrol",
+                    "good": [
+                        "Oli_Shell"
+                    ],
+                    "bad": [
+                        "Oli_Motul"
+                    ]
+                }
+            ]
+        },
+        {
+            "motorID": "NinjaFrameDrag",
+            "slots": [
+                {
+                    "slot": "Coil",
+                    "best": "Coil_Faito",
+                    "good": [
+                        "Coil_KTC"
+                    ],
+                    "bad": [
+                        "Coil Cpo"
+                    ]
+                },
+                {
+                    "slot": "Busi",
+                    "best": "Busi_Brisk",
                     "good": [
                         "Busi_Champion"
                     ],
                     "bad": [
-                        "Busi_Denso"
+                        "Busi_NGK"
                     ]
                 },
                 {
@@ -1626,82 +2001,7 @@
                         "Piston70"
                     ],
                     "bad": [
-                        "Piston68"
-                    ]
-                },
-                {
-                    "slot": "Karburator",
-                    "best": "KarbuBlackRaven",
-                    "good": [
-                        "KarbuBRT"
-                    ],
-                    "bad": [
-                        "KarbuSND"
-                    ]
-                },
-                {
-                    "slot": "Oli",
-                    "best": "Oli_Motul",
-                    "good": [
-                        "Oli_Castrol"
-                    ],
-                    "bad": [
-                        "Oli_Deltalube"
-                    ]
-                }
-            ]
-        },
-        {
-            "motorID": "MioM3",
-            "slots": [
-                {
-                    "slot": "Coil",
-                    "best": "Coil_Faito",
-                    "good": [
-                        "Coil_KTC"
-                    ],
-                    "bad": [
-                        "Coil_BlueThunder"
-                    ]
-                },
-                {
-                    "slot": "Busi",
-                    "best": "Busi_Champion",
-                    "good": [
-                        "Busi_Denso"
-                    ],
-                    "bad": [
-                        "Busi_NGK"
-                    ]
-                },
-                {
-                    "slot": "ECU",
-                    "best": "Ecu_Daytona",
-                    "good": [
-                        "Ecu_Juken"
-                    ],
-                    "bad": [
-                        "Ecu_Aracer"
-                    ]
-                },
-                {
-                    "slot": "Roller",
-                    "best": "Roller_LHK",
-                    "good": [
-                        "Roller_TDR"
-                    ],
-                    "bad": [
-                        "Roller_Kawahara"
-                    ]
-                },
-                {
-                    "slot": "Piston",
-                    "best": "Piston70",
-                    "good": [
                         "Piston72"
-                    ],
-                    "bad": [
-                        "Piston74"
                     ]
                 },
                 {
@@ -1716,22 +2016,97 @@
                 },
                 {
                     "slot": "Oli",
-                    "best": "Oli_Motul",
+                    "best": "Oli_Deltalube",
                     "good": [
                         "Oli_Shell"
                     ],
                     "bad": [
-                        "Oli_Castrol"
+                        "Oli_Ipone"
                     ]
                 }
             ]
         },
         {
-            "motorID": "MioRebah",
+            "motorID": "NinjaRROld",
             "slots": [
                 {
                     "slot": "Coil",
-                    "best": "Coil_Faito",
+                    "best": "Coil_BlueThunder",
+                    "good": [
+                        "Coil_KTC"
+                    ],
+                    "bad": [
+                        "Coil_Faito"
+                    ]
+                },
+                {
+                    "slot": "Busi",
+                    "best": "Busi_Denso",
+                    "good": [
+                        "Busi_NGK"
+                    ],
+                    "bad": [
+                        "Busi_Brisk"
+                    ]
+                },
+                {
+                    "slot": "ECU",
+                    "best": "Ecu_Daytona",
+                    "good": [
+                        "Ecu_Juken"
+                    ],
+                    "bad": [
+                        "Ecu_Aracer"
+                    ]
+                },
+                {
+                    "slot": "Roller",
+                    "best": "Roller_TDR",
+                    "good": [
+                        "Roller_LHK"
+                    ],
+                    "bad": [
+                        "Roller_Kawahara"
+                    ]
+                },
+                {
+                    "slot": "Piston",
+                    "best": "Piston68",
+                    "good": [
+                        "Piston74"
+                    ],
+                    "bad": [
+                        "Piston72"
+                    ]
+                },
+                {
+                    "slot": "Karburator",
+                    "best": "KarbuYoshimura",
+                    "good": [
+                        "KarbuBlackRaven"
+                    ],
+                    "bad": [
+                        "KarbuLectron"
+                    ]
+                },
+                {
+                    "slot": "Oli",
+                    "best": "Oli_Castrol",
+                    "good": [
+                        "Oli_Ipone"
+                    ],
+                    "bad": [
+                        "Oli_Shell"
+                    ]
+                }
+            ]
+        },
+        {
+            "motorID": "NinjaSS",
+            "slots": [
+                {
+                    "slot": "Coil",
+                    "best": "Coil_BlueThunder",
                     "good": [
                         "Coil Cpo"
                     ],
@@ -1741,84 +2116,9 @@
                 },
                 {
                     "slot": "Busi",
-                    "best": "Busi_Brisk",
-                    "good": [
-                        "Busi_NGK"
-                    ],
-                    "bad": [
-                        "Busi_Daytona"
-                    ]
-                },
-                {
-                    "slot": "ECU",
-                    "best": "Ecu_Juken",
-                    "good": [
-                        "Ecu_Aracer"
-                    ],
-                    "bad": [
-                        "Ecu_Daytona"
-                    ]
-                },
-                {
-                    "slot": "Roller",
-                    "best": "Roller_LHK",
-                    "good": [
-                        "Roller_Kawahara"
-                    ],
-                    "bad": [
-                        "Roller_BRT"
-                    ]
-                },
-                {
-                    "slot": "Piston",
-                    "best": "Piston74",
-                    "good": [
-                        "Piston72"
-                    ],
-                    "bad": [
-                        "Piston70"
-                    ]
-                },
-                {
-                    "slot": "Karburator",
-                    "best": "KarbuSND",
-                    "good": [
-                        "KarbuBlackRaven"
-                    ],
-                    "bad": [
-                        "KarbuYoshimura"
-                    ]
-                },
-                {
-                    "slot": "Oli",
-                    "best": "Oli_Deltalube",
-                    "good": [
-                        "Oli_Castrol"
-                    ],
-                    "bad": [
-                        "Oli_Ipone"
-                    ]
-                }
-            ]
-        },
-        {
-            "motorID": "MioSporty",
-            "slots": [
-                {
-                    "slot": "Coil",
-                    "best": "Coil_KTC",
-                    "good": [
-                        "Coil Cpo"
-                    ],
-                    "bad": [
-                        "Coil_BlueThunder"
-                    ]
-                },
-                {
-                    "slot": "Busi",
                     "best": "Busi_NGK",
                     "good": [
-                        "Busi_Daytona"
+                        "Busi_Champion"
                     ],
                     "bad": [
                         "Busi_Denso"
@@ -1841,7 +2141,7 @@
                         "Roller_Daytona"
                     ],
                     "bad": [
-                        "Roller_TDR"
+                        "Roller_LHK"
                     ]
                 },
                 {
@@ -1851,7 +2151,7 @@
                         "Piston70"
                     ],
                     "bad": [
-                        "Piston72"
+                        "Piston74"
                     ]
                 },
                 {
@@ -1866,34 +2166,34 @@
                 },
                 {
                     "slot": "Oli",
-                    "best": "Oli_Shell",
+                    "best": "Oli_Ipone",
                     "good": [
-                        "Oli_Ipone"
+                        "Oli_Shell"
                     ],
                     "bad": [
-                        "Oli_Deltalube"
+                        "Oli_Castrol"
                     ]
                 }
             ]
         },
         {
-            "motorID": "MxKingV2",
+            "motorID": "NmaxOld",
             "slots": [
                 {
                     "slot": "Coil",
                     "best": "Coil_Faito",
                     "good": [
-                        "Coil_KTC"
+                        "Coil_BlueThunder"
                     ],
                     "bad": [
-                        "Coil_BlueThunder"
+                        "Coil Cpo"
                     ]
                 },
                 {
                     "slot": "Busi",
-                    "best": "Busi_Champion",
+                    "best": "Busi_Brisk",
                     "good": [
-                        "Busi_Brisk"
+                        "Busi_Denso"
                     ],
                     "bad": [
                         "Busi_NGK"
@@ -1911,19 +2211,19 @@
                 },
                 {
                     "slot": "Roller",
-                    "best": "Roller_LHK",
+                    "best": "Roller_TDR",
                     "good": [
-                        "Roller_Kawahara"
+                        "Roller_LHK"
                     ],
                     "bad": [
-                        "Roller_BRT"
+                        "Roller_Kawahara"
                     ]
                 },
                 {
                     "slot": "Piston",
-                    "best": "Piston68",
+                    "best": "Piston70",
                     "good": [
-                        "Piston70"
+                        "Piston72"
                     ],
                     "bad": [
                         "Piston74"
@@ -1931,32 +2231,32 @@
                 },
                 {
                     "slot": "Karburator",
-                    "best": "KarbuBRT",
+                    "best": "KarbuLectron",
                     "good": [
-                        "KarbuBlackRaven"
+                        "KarbuYoshimura"
                     ],
                     "bad": [
-                        "KarbuLectron"
+                        "KarbuSND"
                     ]
                 },
                 {
                     "slot": "Oli",
                     "best": "Oli_Deltalube",
                     "good": [
-                        "Oli_Shell"
+                        "Oli_Castrol"
                     ],
                     "bad": [
-                        "Oli_Ipone"
+                        "Oli_Shell"
                     ]
                 }
             ]
         },
         {
-            "motorID": "NinjaFrameDrag",
+            "motorID": "NsrSp150",
             "slots": [
                 {
                     "slot": "Coil",
-                    "best": "Coil_BlueThunder",
+                    "best": "Coil_KTC",
                     "good": [
                         "Coil_Faito"
                     ],
@@ -1966,107 +2266,32 @@
                 },
                 {
                     "slot": "Busi",
-                    "best": "Busi_Brisk",
+                    "best": "Busi_Champion",
                     "good": [
-                        "Busi_Champion"
-                    ],
-                    "bad": [
-                        "Busi_Daytona"
-                    ]
-                },
-                {
-                    "slot": "ECU",
-                    "best": "Ecu_Juken",
-                    "good": [
-                        "Ecu_Aracer"
-                    ],
-                    "bad": [
-                        "Ecu_Daytona"
-                    ]
-                },
-                {
-                    "slot": "Roller",
-                    "best": "Roller_Kawahara",
-                    "good": [
-                        "Roller_TDR"
-                    ],
-                    "bad": [
-                        "Roller_Daytona"
-                    ]
-                },
-                {
-                    "slot": "Piston",
-                    "best": "Piston74",
-                    "good": [
-                        "Piston68"
-                    ],
-                    "bad": [
-                        "Piston72"
-                    ]
-                },
-                {
-                    "slot": "Karburator",
-                    "best": "KarbuBRT",
-                    "good": [
-                        "KarbuLectron"
-                    ],
-                    "bad": [
-                        "KarbuSND"
-                    ]
-                },
-                {
-                    "slot": "Oli",
-                    "best": "Oli_Castrol",
-                    "good": [
-                        "Oli_Deltalube"
-                    ],
-                    "bad": [
-                        "Oli_Ipone"
-                    ]
-                }
-            ]
-        },
-        {
-            "motorID": "NinjaRROld",
-            "slots": [
-                {
-                    "slot": "Coil",
-                    "best": "Coil_KTC",
-                    "good": [
-                        "Coil_Faito"
-                    ],
-                    "bad": [
-                        "Coil_BlueThunder"
-                    ]
-                },
-                {
-                    "slot": "Busi",
-                    "best": "Busi_NGK",
-                    "good": [
-                        "Busi_Daytona"
-                    ],
-                    "bad": [
                         "Busi_Denso"
+                    ],
+                    "bad": [
+                        "Busi_Brisk"
                     ]
                 },
                 {
                     "slot": "ECU",
-                    "best": "Ecu_Daytona",
+                    "best": "Ecu_Aracer",
                     "good": [
-                        "Ecu_Juken"
+                        "Ecu_Daytona"
                     ],
                     "bad": [
-                        "Ecu_Aracer"
+                        "Ecu_Juken"
                     ]
                 },
                 {
                     "slot": "Roller",
-                    "best": "Roller_BRT",
+                    "best": "Roller_Daytona",
                     "good": [
-                        "Roller_LHK"
+                        "Roller_Kawahara"
                     ],
                     "bad": [
-                        "Roller_TDR"
+                        "Roller_LHK"
                     ]
                 },
                 {
@@ -2081,9 +2306,9 @@
                 },
                 {
                     "slot": "Karburator",
-                    "best": "KarbuBRT",
+                    "best": "KarbuLectron",
                     "good": [
-                        "KarbuYoshimura"
+                        "KarbuBlackRaven"
                     ],
                     "bad": [
                         "KarbuSND"
@@ -2091,237 +2316,12 @@
                 },
                 {
                     "slot": "Oli",
-                    "best": "Oli_Ipone",
+                    "best": "Oli_Motul",
                     "good": [
                         "Oli_Castrol"
-                    ],
-                    "bad": [
-                        "Oli_Motul"
-                    ]
-                }
-            ]
-        },
-        {
-            "motorID": "NinjaSS",
-            "slots": [
-                {
-                    "slot": "Coil",
-                    "best": "Coil_KTC",
-                    "good": [
-                        "Coil Cpo"
-                    ],
-                    "bad": [
-                        "Coil_BlueThunder"
-                    ]
-                },
-                {
-                    "slot": "Busi",
-                    "best": "Busi_NGK",
-                    "good": [
-                        "Busi_Champion"
-                    ],
-                    "bad": [
-                        "Busi_Denso"
-                    ]
-                },
-                {
-                    "slot": "ECU",
-                    "best": "Ecu_Juken",
-                    "good": [
-                        "Ecu_Daytona"
-                    ],
-                    "bad": [
-                        "Ecu_Aracer"
-                    ]
-                },
-                {
-                    "slot": "Roller",
-                    "best": "Roller_BRT",
-                    "good": [
-                        "Roller_TDR"
-                    ],
-                    "bad": [
-                        "Roller_Daytona"
-                    ]
-                },
-                {
-                    "slot": "Piston",
-                    "best": "Piston70",
-                    "good": [
-                        "Piston68"
-                    ],
-                    "bad": [
-                        "Piston72"
-                    ]
-                },
-                {
-                    "slot": "Karburator",
-                    "best": "KarbuYoshimura",
-                    "good": [
-                        "KarbuSND"
-                    ],
-                    "bad": [
-                        "KarbuLectron"
-                    ]
-                },
-                {
-                    "slot": "Oli",
-                    "best": "Oli_Ipone",
-                    "good": [
-                        "Oli_Castrol"
-                    ],
-                    "bad": [
-                        "Oli_Deltalube"
-                    ]
-                }
-            ]
-        },
-        {
-            "motorID": "NmaxOld",
-            "slots": [
-                {
-                    "slot": "Coil",
-                    "best": "Coil Cpo",
-                    "good": [
-                        "Coil_Faito"
-                    ],
-                    "bad": [
-                        "Coil_KTC"
-                    ]
-                },
-                {
-                    "slot": "Busi",
-                    "best": "Busi_Denso",
-                    "good": [
-                        "Busi_Daytona"
-                    ],
-                    "bad": [
-                        "Busi_Champion"
-                    ]
-                },
-                {
-                    "slot": "ECU",
-                    "best": "Ecu_Aracer",
-                    "good": [
-                        "Ecu_Juken"
-                    ],
-                    "bad": [
-                        "Ecu_Daytona"
-                    ]
-                },
-                {
-                    "slot": "Roller",
-                    "best": "Roller_BRT",
-                    "good": [
-                        "Roller_Daytona"
-                    ],
-                    "bad": [
-                        "Roller_TDR"
-                    ]
-                },
-                {
-                    "slot": "Piston",
-                    "best": "Piston70",
-                    "good": [
-                        "Piston72"
-                    ],
-                    "bad": [
-                        "Piston68"
-                    ]
-                },
-                {
-                    "slot": "Karburator",
-                    "best": "KarbuYoshimura",
-                    "good": [
-                        "KarbuLectron"
-                    ],
-                    "bad": [
-                        "KarbuBRT"
-                    ]
-                },
-                {
-                    "slot": "Oli",
-                    "best": "Oli_Deltalube",
-                    "good": [
-                        "Oli_Motul"
                     ],
                     "bad": [
                         "Oli_Ipone"
-                    ]
-                }
-            ]
-        },
-        {
-            "motorID": "NsrSp150",
-            "slots": [
-                {
-                    "slot": "Coil",
-                    "best": "Coil_BlueThunder",
-                    "good": [
-                        "Coil Cpo"
-                    ],
-                    "bad": [
-                        "Coil_KTC"
-                    ]
-                },
-                {
-                    "slot": "Busi",
-                    "best": "Busi_NGK",
-                    "good": [
-                        "Busi_Denso"
-                    ],
-                    "bad": [
-                        "Busi_Brisk"
-                    ]
-                },
-                {
-                    "slot": "ECU",
-                    "best": "Ecu_Juken",
-                    "good": [
-                        "Ecu_Daytona"
-                    ],
-                    "bad": [
-                        "Ecu_Aracer"
-                    ]
-                },
-                {
-                    "slot": "Roller",
-                    "best": "Roller_LHK",
-                    "good": [
-                        "Roller_TDR"
-                    ],
-                    "bad": [
-                        "Roller_Daytona"
-                    ]
-                },
-                {
-                    "slot": "Piston",
-                    "best": "Piston74",
-                    "good": [
-                        "Piston68"
-                    ],
-                    "bad": [
-                        "Piston72"
-                    ]
-                },
-                {
-                    "slot": "Karburator",
-                    "best": "KarbuBlackRaven",
-                    "good": [
-                        "KarbuLectron"
-                    ],
-                    "bad": [
-                        "KarbuSND"
-                    ]
-                },
-                {
-                    "slot": "Oli",
-                    "best": "Oli_Ipone",
-                    "good": [
-                        "Oli_Shell"
-                    ],
-                    "bad": [
-                        "Oli_Motul"
                     ]
                 }
             ]
@@ -2341,22 +2341,22 @@
                 },
                 {
                     "slot": "Busi",
-                    "best": "Busi_Brisk",
+                    "best": "Busi_Champion",
                     "good": [
-                        "Busi_Champion"
+                        "Busi_NGK"
                     ],
                     "bad": [
-                        "Busi_Daytona"
+                        "Busi_Denso"
                     ]
                 },
                 {
                     "slot": "ECU",
-                    "best": "Ecu_Aracer",
+                    "best": "Ecu_Daytona",
                     "good": [
-                        "Ecu_Daytona"
+                        "Ecu_Juken"
                     ],
                     "bad": [
-                        "Ecu_Juken"
+                        "Ecu_Aracer"
                     ]
                 },
                 {
@@ -2373,30 +2373,30 @@
                     "slot": "Piston",
                     "best": "Piston68",
                     "good": [
-                        "Piston72"
+                        "Piston74"
                     ],
                     "bad": [
-                        "Piston70"
+                        "Piston72"
                     ]
                 },
                 {
                     "slot": "Karburator",
-                    "best": "KarbuYoshimura",
+                    "best": "KarbuSND",
                     "good": [
-                        "KarbuBlackRaven"
+                        "KarbuLectron"
                     ],
                     "bad": [
-                        "KarbuSND"
+                        "KarbuBRT"
                     ]
                 },
                 {
                     "slot": "Oli",
-                    "best": "Oli_Ipone",
+                    "best": "Oli_Deltalube",
                     "good": [
-                        "Oli_Deltalube"
+                        "Oli_Castrol"
                     ],
                     "bad": [
-                        "Oli_Motul"
+                        "Oli_Shell"
                     ]
                 }
             ]
@@ -2406,9 +2406,9 @@
             "slots": [
                 {
                     "slot": "Coil",
-                    "best": "Coil_BlueThunder",
+                    "best": "Coil Cpo",
                     "good": [
-                        "Coil Cpo"
+                        "Coil_BlueThunder"
                     ],
                     "bad": [
                         "Coil_Faito"
@@ -2416,84 +2416,9 @@
                 },
                 {
                     "slot": "Busi",
-                    "best": "Busi_Denso",
-                    "good": [
-                        "Busi_NGK"
-                    ],
-                    "bad": [
-                        "Busi_Champion"
-                    ]
-                },
-                {
-                    "slot": "ECU",
-                    "best": "Ecu_Juken",
-                    "good": [
-                        "Ecu_Daytona"
-                    ],
-                    "bad": [
-                        "Ecu_Aracer"
-                    ]
-                },
-                {
-                    "slot": "Roller",
-                    "best": "Roller_BRT",
-                    "good": [
-                        "Roller_Kawahara"
-                    ],
-                    "bad": [
-                        "Roller_Daytona"
-                    ]
-                },
-                {
-                    "slot": "Piston",
-                    "best": "Piston70",
-                    "good": [
-                        "Piston68"
-                    ],
-                    "bad": [
-                        "Piston74"
-                    ]
-                },
-                {
-                    "slot": "Karburator",
-                    "best": "KarbuLectron",
-                    "good": [
-                        "KarbuBRT"
-                    ],
-                    "bad": [
-                        "KarbuYoshimura"
-                    ]
-                },
-                {
-                    "slot": "Oli",
-                    "best": "Oli_Ipone",
-                    "good": [
-                        "Oli_Castrol"
-                    ],
-                    "bad": [
-                        "Oli_Motul"
-                    ]
-                }
-            ]
-        },
-        {
-            "motorID": "Satria120",
-            "slots": [
-                {
-                    "slot": "Coil",
-                    "best": "Coil_Faito",
-                    "good": [
-                        "Coil_BlueThunder"
-                    ],
-                    "bad": [
-                        "Coil_KTC"
-                    ]
-                },
-                {
-                    "slot": "Busi",
                     "best": "Busi_NGK",
                     "good": [
-                        "Busi_Brisk"
+                        "Busi_Champion"
                     ],
                     "bad": [
                         "Busi_Denso"
@@ -2511,19 +2436,19 @@
                 },
                 {
                     "slot": "Roller",
-                    "best": "Roller_LHK",
+                    "best": "Roller_Kawahara",
                     "good": [
-                        "Roller_Kawahara"
+                        "Roller_Daytona"
                     ],
                     "bad": [
-                        "Roller_Daytona"
+                        "Roller_TDR"
                     ]
                 },
                 {
                     "slot": "Piston",
-                    "best": "Piston68",
+                    "best": "Piston72",
                     "good": [
-                        "Piston72"
+                        "Piston68"
                     ],
                     "bad": [
                         "Piston70"
@@ -2531,22 +2456,97 @@
                 },
                 {
                     "slot": "Karburator",
-                    "best": "KarbuYoshimura",
+                    "best": "KarbuBlackRaven",
                     "good": [
                         "KarbuBRT"
                     ],
                     "bad": [
-                        "KarbuBlackRaven"
+                        "KarbuSND"
                     ]
                 },
                 {
                     "slot": "Oli",
-                    "best": "Oli_Castrol",
+                    "best": "Oli_Shell",
                     "good": [
                         "Oli_Ipone"
                     ],
                     "bad": [
-                        "Oli_Shell"
+                        "Oli_Motul"
+                    ]
+                }
+            ]
+        },
+        {
+            "motorID": "Satria120",
+            "slots": [
+                {
+                    "slot": "Coil",
+                    "best": "Coil Cpo",
+                    "good": [
+                        "Coil_BlueThunder"
+                    ],
+                    "bad": [
+                        "Coil_KTC"
+                    ]
+                },
+                {
+                    "slot": "Busi",
+                    "best": "Busi_Denso",
+                    "good": [
+                        "Busi_NGK"
+                    ],
+                    "bad": [
+                        "Busi_Champion"
+                    ]
+                },
+                {
+                    "slot": "ECU",
+                    "best": "Ecu_Juken",
+                    "good": [
+                        "Ecu_Aracer"
+                    ],
+                    "bad": [
+                        "Ecu_Daytona"
+                    ]
+                },
+                {
+                    "slot": "Roller",
+                    "best": "Roller_BRT",
+                    "good": [
+                        "Roller_LHK"
+                    ],
+                    "bad": [
+                        "Roller_Daytona"
+                    ]
+                },
+                {
+                    "slot": "Piston",
+                    "best": "Piston70",
+                    "good": [
+                        "Piston68"
+                    ],
+                    "bad": [
+                        "Piston72"
+                    ]
+                },
+                {
+                    "slot": "Karburator",
+                    "best": "KarbuBRT",
+                    "good": [
+                        "KarbuBlackRaven"
+                    ],
+                    "bad": [
+                        "KarbuSND"
+                    ]
+                },
+                {
+                    "slot": "Oli",
+                    "best": "Oli_Shell",
+                    "good": [
+                        "Oli_Deltalube"
+                    ],
+                    "bad": [
+                        "Oli_Motul"
                     ]
                 }
             ]
@@ -2566,9 +2566,84 @@
                 },
                 {
                     "slot": "Busi",
-                    "best": "Busi_NGK",
+                    "best": "Busi_Champion",
                     "good": [
-                        "Busi_Brisk"
+                        "Busi_Daytona"
+                    ],
+                    "bad": [
+                        "Busi_NGK"
+                    ]
+                },
+                {
+                    "slot": "ECU",
+                    "best": "Ecu_Juken",
+                    "good": [
+                        "Ecu_Daytona"
+                    ],
+                    "bad": [
+                        "Ecu_Aracer"
+                    ]
+                },
+                {
+                    "slot": "Roller",
+                    "best": "Roller_Daytona",
+                    "good": [
+                        "Roller_BRT"
+                    ],
+                    "bad": [
+                        "Roller_TDR"
+                    ]
+                },
+                {
+                    "slot": "Piston",
+                    "best": "Piston68",
+                    "good": [
+                        "Piston72"
+                    ],
+                    "bad": [
+                        "Piston74"
+                    ]
+                },
+                {
+                    "slot": "Karburator",
+                    "best": "KarbuLectron",
+                    "good": [
+                        "KarbuBlackRaven"
+                    ],
+                    "bad": [
+                        "KarbuBRT"
+                    ]
+                },
+                {
+                    "slot": "Oli",
+                    "best": "Oli_Castrol",
+                    "good": [
+                        "Oli_Motul"
+                    ],
+                    "bad": [
+                        "Oli_Ipone"
+                    ]
+                }
+            ]
+        },
+        {
+            "motorID": "Scoopy2017",
+            "slots": [
+                {
+                    "slot": "Coil",
+                    "best": "Coil Cpo",
+                    "good": [
+                        "Coil_Faito"
+                    ],
+                    "bad": [
+                        "Coil_BlueThunder"
+                    ]
+                },
+                {
+                    "slot": "Busi",
+                    "best": "Busi_Brisk",
+                    "good": [
+                        "Busi_NGK"
                     ],
                     "bad": [
                         "Busi_Champion"
@@ -2576,9 +2651,9 @@
                 },
                 {
                     "slot": "ECU",
-                    "best": "Ecu_Juken",
+                    "best": "Ecu_Aracer",
                     "good": [
-                        "Ecu_Aracer"
+                        "Ecu_Juken"
                     ],
                     "bad": [
                         "Ecu_Daytona"
@@ -2586,9 +2661,159 @@
                 },
                 {
                     "slot": "Roller",
-                    "best": "Roller_BRT",
+                    "best": "Roller_LHK",
                     "good": [
-                        "Roller_Kawahara"
+                        "Roller_Daytona"
+                    ],
+                    "bad": [
+                        "Roller_BRT"
+                    ]
+                },
+                {
+                    "slot": "Piston",
+                    "best": "Piston68",
+                    "good": [
+                        "Piston74"
+                    ],
+                    "bad": [
+                        "Piston72"
+                    ]
+                },
+                {
+                    "slot": "Karburator",
+                    "best": "KarbuBlackRaven",
+                    "good": [
+                        "KarbuLectron"
+                    ],
+                    "bad": [
+                        "KarbuBRT"
+                    ]
+                },
+                {
+                    "slot": "Oli",
+                    "best": "Oli_Castrol",
+                    "good": [
+                        "Oli_Shell"
+                    ],
+                    "bad": [
+                        "Oli_Motul"
+                    ]
+                }
+            ]
+        },
+        {
+            "motorID": "SONIC150R",
+            "slots": [
+                {
+                    "slot": "Coil",
+                    "best": "Coil_BlueThunder",
+                    "good": [
+                        "Coil_Faito"
+                    ],
+                    "bad": [
+                        "Coil Cpo"
+                    ]
+                },
+                {
+                    "slot": "Busi",
+                    "best": "Busi_Daytona",
+                    "good": [
+                        "Busi_NGK"
+                    ],
+                    "bad": [
+                        "Busi_Denso"
+                    ]
+                },
+                {
+                    "slot": "ECU",
+                    "best": "Ecu_Daytona",
+                    "good": [
+                        "Ecu_Juken"
+                    ],
+                    "bad": [
+                        "Ecu_Aracer"
+                    ]
+                },
+                {
+                    "slot": "Roller",
+                    "best": "Roller_Daytona",
+                    "good": [
+                        "Roller_LHK"
+                    ],
+                    "bad": [
+                        "Roller_BRT"
+                    ]
+                },
+                {
+                    "slot": "Piston",
+                    "best": "Piston68",
+                    "good": [
+                        "Piston72"
+                    ],
+                    "bad": [
+                        "Piston70"
+                    ]
+                },
+                {
+                    "slot": "Karburator",
+                    "best": "KarbuYoshimura",
+                    "good": [
+                        "KarbuBRT"
+                    ],
+                    "bad": [
+                        "KarbuSND"
+                    ]
+                },
+                {
+                    "slot": "Oli",
+                    "best": "Oli_Castrol",
+                    "good": [
+                        "Oli_Deltalube"
+                    ],
+                    "bad": [
+                        "Oli_Ipone"
+                    ]
+                }
+            ]
+        },
+        {
+            "motorID": "Stylo160",
+            "slots": [
+                {
+                    "slot": "Coil",
+                    "best": "Coil_Faito",
+                    "good": [
+                        "Coil_KTC"
+                    ],
+                    "bad": [
+                        "Coil Cpo"
+                    ]
+                },
+                {
+                    "slot": "Busi",
+                    "best": "Busi_Denso",
+                    "good": [
+                        "Busi_Daytona"
+                    ],
+                    "bad": [
+                        "Busi_NGK"
+                    ]
+                },
+                {
+                    "slot": "ECU",
+                    "best": "Ecu_Aracer",
+                    "good": [
+                        "Ecu_Juken"
+                    ],
+                    "bad": [
+                        "Ecu_Daytona"
+                    ]
+                },
+                {
+                    "slot": "Roller",
+                    "best": "Roller_Kawahara",
+                    "good": [
+                        "Roller_BRT"
                     ],
                     "bad": [
                         "Roller_Daytona"
@@ -2596,12 +2821,12 @@
                 },
                 {
                     "slot": "Piston",
-                    "best": "Piston72",
+                    "best": "Piston70",
                     "good": [
-                        "Piston74"
+                        "Piston68"
                     ],
                     "bad": [
-                        "Piston68"
+                        "Piston74"
                     ]
                 },
                 {
@@ -2618,35 +2843,110 @@
                     "slot": "Oli",
                     "best": "Oli_Castrol",
                     "good": [
-                        "Oli_Shell"
+                        "Oli_Motul"
                     ],
                     "bad": [
-                        "Oli_Motul"
+                        "Oli_Shell"
                     ]
                 }
             ]
         },
         {
-            "motorID": "Scoopy2017",
+            "motorID": "SupraKPH",
             "slots": [
                 {
                     "slot": "Coil",
-                    "best": "Coil_Faito",
+                    "best": "Coil_KTC",
                     "good": [
-                        "Coil_BlueThunder"
+                        "Coil_Faito"
                     ],
                     "bad": [
-                        "Coil_KTC"
+                        "Coil Cpo"
                     ]
                 },
                 {
                     "slot": "Busi",
-                    "best": "Busi_NGK",
+                    "best": "Busi_Champion",
                     "good": [
                         "Busi_Denso"
                     ],
                     "bad": [
+                        "Busi_Brisk"
+                    ]
+                },
+                {
+                    "slot": "ECU",
+                    "best": "Ecu_Aracer",
+                    "good": [
+                        "Ecu_Juken"
+                    ],
+                    "bad": [
+                        "Ecu_Daytona"
+                    ]
+                },
+                {
+                    "slot": "Roller",
+                    "best": "Roller_Daytona",
+                    "good": [
+                        "Roller_Kawahara"
+                    ],
+                    "bad": [
+                        "Roller_LHK"
+                    ]
+                },
+                {
+                    "slot": "Piston",
+                    "best": "Piston70",
+                    "good": [
+                        "Piston68"
+                    ],
+                    "bad": [
+                        "Piston74"
+                    ]
+                },
+                {
+                    "slot": "Karburator",
+                    "best": "KarbuYoshimura",
+                    "good": [
+                        "KarbuBlackRaven"
+                    ],
+                    "bad": [
+                        "KarbuLectron"
+                    ]
+                },
+                {
+                    "slot": "Oli",
+                    "best": "Oli_Castrol",
+                    "good": [
+                        "Oli_Ipone"
+                    ],
+                    "bad": [
+                        "Oli_Deltalube"
+                    ]
+                }
+            ]
+        },
+        {
+            "motorID": "Tiger2000",
+            "slots": [
+                {
+                    "slot": "Coil",
+                    "best": "Coil_BlueThunder",
+                    "good": [
+                        "Coil_KTC"
+                    ],
+                    "bad": [
+                        "Coil_Faito"
+                    ]
+                },
+                {
+                    "slot": "Busi",
+                    "best": "Busi_Champion",
+                    "good": [
                         "Busi_Daytona"
+                    ],
+                    "bad": [
+                        "Busi_NGK"
                     ]
                 },
                 {
@@ -2673,45 +2973,45 @@
                     "slot": "Piston",
                     "best": "Piston74",
                     "good": [
-                        "Piston70"
+                        "Piston72"
                     ],
                     "bad": [
-                        "Piston68"
+                        "Piston70"
                     ]
                 },
                 {
                     "slot": "Karburator",
-                    "best": "KarbuLectron",
+                    "best": "KarbuBRT",
                     "good": [
-                        "KarbuBRT"
+                        "KarbuSND"
                     ],
                     "bad": [
-                        "KarbuSND"
+                        "KarbuYoshimura"
                     ]
                 },
                 {
                     "slot": "Oli",
-                    "best": "Oli_Shell",
+                    "best": "Oli_Ipone",
                     "good": [
                         "Oli_Castrol"
                     ],
                     "bad": [
-                        "Oli_Ipone"
+                        "Oli_Motul"
                     ]
                 }
             ]
         },
         {
-            "motorID": "SONIC150R",
+            "motorID": "Vario110Fi",
             "slots": [
                 {
                     "slot": "Coil",
-                    "best": "Coil_BlueThunder",
+                    "best": "Coil Cpo",
                     "good": [
-                        "Coil Cpo"
+                        "Coil_Faito"
                     ],
                     "bad": [
-                        "Coil_Faito"
+                        "Coil_KTC"
                     ]
                 },
                 {
@@ -2722,81 +3022,6 @@
                     ],
                     "bad": [
                         "Busi_Champion"
-                    ]
-                },
-                {
-                    "slot": "ECU",
-                    "best": "Ecu_Juken",
-                    "good": [
-                        "Ecu_Daytona"
-                    ],
-                    "bad": [
-                        "Ecu_Aracer"
-                    ]
-                },
-                {
-                    "slot": "Roller",
-                    "best": "Roller_Daytona",
-                    "good": [
-                        "Roller_BRT"
-                    ],
-                    "bad": [
-                        "Roller_TDR"
-                    ]
-                },
-                {
-                    "slot": "Piston",
-                    "best": "Piston74",
-                    "good": [
-                        "Piston70"
-                    ],
-                    "bad": [
-                        "Piston72"
-                    ]
-                },
-                {
-                    "slot": "Karburator",
-                    "best": "KarbuBRT",
-                    "good": [
-                        "KarbuLectron"
-                    ],
-                    "bad": [
-                        "KarbuSND"
-                    ]
-                },
-                {
-                    "slot": "Oli",
-                    "best": "Oli_Deltalube",
-                    "good": [
-                        "Oli_Ipone"
-                    ],
-                    "bad": [
-                        "Oli_Motul"
-                    ]
-                }
-            ]
-        },
-        {
-            "motorID": "Stylo160",
-            "slots": [
-                {
-                    "slot": "Coil",
-                    "best": "Coil_KTC",
-                    "good": [
-                        "Coil_Faito"
-                    ],
-                    "bad": [
-                        "Coil Cpo"
-                    ]
-                },
-                {
-                    "slot": "Busi",
-                    "best": "Busi_NGK",
-                    "good": [
-                        "Busi_Champion"
-                    ],
-                    "bad": [
-                        "Busi_Daytona"
                     ]
                 },
                 {
@@ -2811,32 +3036,32 @@
                 },
                 {
                     "slot": "Roller",
-                    "best": "Roller_LHK",
+                    "best": "Roller_Daytona",
                     "good": [
-                        "Roller_BRT"
+                        "Roller_Kawahara"
                     ],
                     "bad": [
-                        "Roller_Daytona"
+                        "Roller_LHK"
                     ]
                 },
                 {
                     "slot": "Piston",
-                    "best": "Piston68",
+                    "best": "Piston72",
                     "good": [
-                        "Piston74"
+                        "Piston70"
                     ],
                     "bad": [
-                        "Piston70"
+                        "Piston74"
                     ]
                 },
                 {
                     "slot": "Karburator",
-                    "best": "KarbuSND",
+                    "best": "KarbuBlackRaven",
                     "good": [
-                        "KarbuBlackRaven"
+                        "KarbuYoshimura"
                     ],
                     "bad": [
-                        "KarbuLectron"
+                        "KarbuSND"
                     ]
                 },
                 {
@@ -2846,49 +3071,49 @@
                         "Oli_Deltalube"
                     ],
                     "bad": [
-                        "Oli_Castrol"
+                        "Oli_Motul"
                     ]
                 }
             ]
         },
         {
-            "motorID": "SupraKPH",
+            "motorID": "Vario125",
             "slots": [
                 {
                     "slot": "Coil",
-                    "best": "Coil_BlueThunder",
+                    "best": "Coil_Faito",
                     "good": [
-                        "Coil Cpo"
+                        "Coil_BlueThunder"
                     ],
                     "bad": [
-                        "Coil_Faito"
+                        "Coil_KTC"
                     ]
                 },
                 {
                     "slot": "Busi",
-                    "best": "Busi_Brisk",
+                    "best": "Busi_Champion",
                     "good": [
-                        "Busi_Champion"
+                        "Busi_NGK"
                     ],
                     "bad": [
-                        "Busi_NGK"
+                        "Busi_Denso"
                     ]
                 },
                 {
                     "slot": "ECU",
-                    "best": "Ecu_Juken",
+                    "best": "Ecu_Aracer",
                     "good": [
-                        "Ecu_Aracer"
+                        "Ecu_Daytona"
                     ],
                     "bad": [
-                        "Ecu_Daytona"
+                        "Ecu_Juken"
                     ]
                 },
                 {
                     "slot": "Roller",
                     "best": "Roller_TDR",
                     "good": [
-                        "Roller_Kawahara"
+                        "Roller_BRT"
                     ],
                     "bad": [
                         "Roller_Daytona"
@@ -2896,54 +3121,54 @@
                 },
                 {
                     "slot": "Piston",
-                    "best": "Piston68",
+                    "best": "Piston74",
                     "good": [
-                        "Piston72"
+                        "Piston70"
                     ],
                     "bad": [
-                        "Piston74"
+                        "Piston68"
                     ]
                 },
                 {
                     "slot": "Karburator",
-                    "best": "KarbuSND",
+                    "best": "KarbuYoshimura",
                     "good": [
-                        "KarbuBlackRaven"
+                        "KarbuLectron"
                     ],
                     "bad": [
-                        "KarbuLectron"
+                        "KarbuSND"
                     ]
                 },
                 {
                     "slot": "Oli",
-                    "best": "Oli_Deltalube",
+                    "best": "Oli_Shell",
                     "good": [
-                        "Oli_Shell"
+                        "Oli_Deltalube"
                     ],
                     "bad": [
-                        "Oli_Castrol"
+                        "Oli_Motul"
                     ]
                 }
             ]
         },
         {
-            "motorID": "Tiger2000",
+            "motorID": "Vario150",
             "slots": [
                 {
                     "slot": "Coil",
-                    "best": "Coil_KTC",
+                    "best": "Coil_Faito",
                     "good": [
-                        "Coil_BlueThunder"
+                        "Coil Cpo"
                     ],
                     "bad": [
-                        "Coil Cpo"
+                        "Coil_BlueThunder"
                     ]
                 },
                 {
                     "slot": "Busi",
-                    "best": "Busi_Denso",
+                    "best": "Busi_Brisk",
                     "good": [
-                        "Busi_Champion"
+                        "Busi_Denso"
                     ],
                     "bad": [
                         "Busi_NGK"
@@ -2951,22 +3176,22 @@
                 },
                 {
                     "slot": "ECU",
-                    "best": "Ecu_Juken",
+                    "best": "Ecu_Daytona",
                     "good": [
-                        "Ecu_Daytona"
+                        "Ecu_Aracer"
                     ],
                     "bad": [
-                        "Ecu_Aracer"
+                        "Ecu_Juken"
                     ]
                 },
                 {
                     "slot": "Roller",
-                    "best": "Roller_Daytona",
+                    "best": "Roller_Kawahara",
                     "good": [
-                        "Roller_LHK"
+                        "Roller_BRT"
                     ],
                     "bad": [
-                        "Roller_BRT"
+                        "Roller_Daytona"
                     ]
                 },
                 {
@@ -2983,245 +3208,20 @@
                     "slot": "Karburator",
                     "best": "KarbuLectron",
                     "good": [
-                        "KarbuBlackRaven"
-                    ],
-                    "bad": [
                         "KarbuYoshimura"
-                    ]
-                },
-                {
-                    "slot": "Oli",
-                    "best": "Oli_Ipone",
-                    "good": [
-                        "Oli_Motul"
                     ],
                     "bad": [
-                        "Oli_Deltalube"
-                    ]
-                }
-            ]
-        },
-        {
-            "motorID": "Vario110Fi",
-            "slots": [
-                {
-                    "slot": "Coil",
-                    "best": "Coil_KTC",
-                    "good": [
-                        "Coil_BlueThunder"
-                    ],
-                    "bad": [
-                        "Coil Cpo"
-                    ]
-                },
-                {
-                    "slot": "Busi",
-                    "best": "Busi_NGK",
-                    "good": [
-                        "Busi_Daytona"
-                    ],
-                    "bad": [
-                        "Busi_Champion"
-                    ]
-                },
-                {
-                    "slot": "ECU",
-                    "best": "Ecu_Daytona",
-                    "good": [
-                        "Ecu_Juken"
-                    ],
-                    "bad": [
-                        "Ecu_Aracer"
-                    ]
-                },
-                {
-                    "slot": "Roller",
-                    "best": "Roller_BRT",
-                    "good": [
-                        "Roller_Daytona"
-                    ],
-                    "bad": [
-                        "Roller_LHK"
-                    ]
-                },
-                {
-                    "slot": "Piston",
-                    "best": "Piston72",
-                    "good": [
-                        "Piston74"
-                    ],
-                    "bad": [
-                        "Piston68"
-                    ]
-                },
-                {
-                    "slot": "Karburator",
-                    "best": "KarbuLectron",
-                    "good": [
                         "KarbuBlackRaven"
-                    ],
-                    "bad": [
-                        "KarbuSND"
-                    ]
-                },
-                {
-                    "slot": "Oli",
-                    "best": "Oli_Castrol",
-                    "good": [
-                        "Oli_Ipone"
-                    ],
-                    "bad": [
-                        "Oli_Motul"
-                    ]
-                }
-            ]
-        },
-        {
-            "motorID": "Vario125",
-            "slots": [
-                {
-                    "slot": "Coil",
-                    "best": "Coil Cpo",
-                    "good": [
-                        "Coil_BlueThunder"
-                    ],
-                    "bad": [
-                        "Coil_KTC"
-                    ]
-                },
-                {
-                    "slot": "Busi",
-                    "best": "Busi_NGK",
-                    "good": [
-                        "Busi_Denso"
-                    ],
-                    "bad": [
-                        "Busi_Brisk"
-                    ]
-                },
-                {
-                    "slot": "ECU",
-                    "best": "Ecu_Juken",
-                    "good": [
-                        "Ecu_Daytona"
-                    ],
-                    "bad": [
-                        "Ecu_Aracer"
-                    ]
-                },
-                {
-                    "slot": "Roller",
-                    "best": "Roller_LHK",
-                    "good": [
-                        "Roller_TDR"
-                    ],
-                    "bad": [
-                        "Roller_Daytona"
-                    ]
-                },
-                {
-                    "slot": "Piston",
-                    "best": "Piston72",
-                    "good": [
-                        "Piston74"
-                    ],
-                    "bad": [
-                        "Piston68"
-                    ]
-                },
-                {
-                    "slot": "Karburator",
-                    "best": "KarbuSND",
-                    "good": [
-                        "KarbuLectron"
-                    ],
-                    "bad": [
-                        "KarbuBRT"
-                    ]
-                },
-                {
-                    "slot": "Oli",
-                    "best": "Oli_Ipone",
-                    "good": [
-                        "Oli_Castrol"
-                    ],
-                    "bad": [
-                        "Oli_Shell"
-                    ]
-                }
-            ]
-        },
-        {
-            "motorID": "Vario150",
-            "slots": [
-                {
-                    "slot": "Coil",
-                    "best": "Coil_KTC",
-                    "good": [
-                        "Coil_BlueThunder"
-                    ],
-                    "bad": [
-                        "Coil Cpo"
-                    ]
-                },
-                {
-                    "slot": "Busi",
-                    "best": "Busi_Champion",
-                    "good": [
-                        "Busi_Daytona"
-                    ],
-                    "bad": [
-                        "Busi_Brisk"
-                    ]
-                },
-                {
-                    "slot": "ECU",
-                    "best": "Ecu_Juken",
-                    "good": [
-                        "Ecu_Daytona"
-                    ],
-                    "bad": [
-                        "Ecu_Aracer"
-                    ]
-                },
-                {
-                    "slot": "Roller",
-                    "best": "Roller_BRT",
-                    "good": [
-                        "Roller_Kawahara"
-                    ],
-                    "bad": [
-                        "Roller_TDR"
-                    ]
-                },
-                {
-                    "slot": "Piston",
-                    "best": "Piston72",
-                    "good": [
-                        "Piston68"
-                    ],
-                    "bad": [
-                        "Piston70"
-                    ]
-                },
-                {
-                    "slot": "Karburator",
-                    "best": "KarbuSND",
-                    "good": [
-                        "KarbuBRT"
-                    ],
-                    "bad": [
-                        "KarbuYoshimura"
                     ]
                 },
                 {
                     "slot": "Oli",
                     "best": "Oli_Motul",
                     "good": [
-                        "Oli_Deltalube"
+                        "Oli_Shell"
                     ],
                     "bad": [
-                        "Oli_Shell"
+                        "Oli_Deltalube"
                     ]
                 }
             ]
@@ -3231,97 +3231,22 @@
             "slots": [
                 {
                     "slot": "Coil",
-                    "best": "Coil_Faito",
+                    "best": "Coil_BlueThunder",
                     "good": [
-                        "Coil_BlueThunder"
-                    ],
-                    "bad": [
                         "Coil_KTC"
-                    ]
-                },
-                {
-                    "slot": "Busi",
-                    "best": "Busi_NGK",
-                    "good": [
-                        "Busi_Daytona"
                     ],
                     "bad": [
-                        "Busi_Denso"
-                    ]
-                },
-                {
-                    "slot": "ECU",
-                    "best": "Ecu_Daytona",
-                    "good": [
-                        "Ecu_Juken"
-                    ],
-                    "bad": [
-                        "Ecu_Aracer"
-                    ]
-                },
-                {
-                    "slot": "Roller",
-                    "best": "Roller_Daytona",
-                    "good": [
-                        "Roller_TDR"
-                    ],
-                    "bad": [
-                        "Roller_BRT"
-                    ]
-                },
-                {
-                    "slot": "Piston",
-                    "best": "Piston68",
-                    "good": [
-                        "Piston70"
-                    ],
-                    "bad": [
-                        "Piston74"
-                    ]
-                },
-                {
-                    "slot": "Karburator",
-                    "best": "KarbuBRT",
-                    "good": [
-                        "KarbuBlackRaven"
-                    ],
-                    "bad": [
-                        "KarbuSND"
-                    ]
-                },
-                {
-                    "slot": "Oli",
-                    "best": "Oli_Shell",
-                    "good": [
-                        "Oli_Castrol"
-                    ],
-                    "bad": [
-                        "Oli_Motul"
-                    ]
-                }
-            ]
-        },
-        {
-            "motorID": "VarioKarbu",
-            "slots": [
-                {
-                    "slot": "Coil",
-                    "best": "Coil_Faito",
-                    "good": [
-                        "Coil_BlueThunder"
-                    ],
-                    "bad": [
-                        "Coil Cpo"
+                        "Coil_Faito"
                     ]
                 },
                 {
                     "slot": "Busi",
                     "best": "Busi_Champion",
                     "good": [
-                        "Busi_NGK"
+                        "Busi_Brisk"
                     ],
                     "bad": [
-                        "Busi_Daytona"
+                        "Busi_NGK"
                     ]
                 },
                 {
@@ -3336,7 +3261,7 @@
                 },
                 {
                     "slot": "Roller",
-                    "best": "Roller_Daytona",
+                    "best": "Roller_BRT",
                     "good": [
                         "Roller_LHK"
                     ],
@@ -3356,12 +3281,162 @@
                 },
                 {
                     "slot": "Karburator",
+                    "best": "KarbuSND",
+                    "good": [
+                        "KarbuBRT"
+                    ],
+                    "bad": [
+                        "KarbuBlackRaven"
+                    ]
+                },
+                {
+                    "slot": "Oli",
+                    "best": "Oli_Castrol",
+                    "good": [
+                        "Oli_Ipone"
+                    ],
+                    "bad": [
+                        "Oli_Deltalube"
+                    ]
+                }
+            ]
+        },
+        {
+            "motorID": "VarioKarbu",
+            "slots": [
+                {
+                    "slot": "Coil",
+                    "best": "Coil_BlueThunder",
+                    "good": [
+                        "Coil Cpo"
+                    ],
+                    "bad": [
+                        "Coil_KTC"
+                    ]
+                },
+                {
+                    "slot": "Busi",
+                    "best": "Busi_Brisk",
+                    "good": [
+                        "Busi_NGK"
+                    ],
+                    "bad": [
+                        "Busi_Denso"
+                    ]
+                },
+                {
+                    "slot": "ECU",
+                    "best": "Ecu_Daytona",
+                    "good": [
+                        "Ecu_Juken"
+                    ],
+                    "bad": [
+                        "Ecu_Aracer"
+                    ]
+                },
+                {
+                    "slot": "Roller",
+                    "best": "Roller_Daytona",
+                    "good": [
+                        "Roller_LHK"
+                    ],
+                    "bad": [
+                        "Roller_Kawahara"
+                    ]
+                },
+                {
+                    "slot": "Piston",
+                    "best": "Piston70",
+                    "good": [
+                        "Piston68"
+                    ],
+                    "bad": [
+                        "Piston74"
+                    ]
+                },
+                {
+                    "slot": "Karburator",
+                    "best": "KarbuBRT",
+                    "good": [
+                        "KarbuBlackRaven"
+                    ],
+                    "bad": [
+                        "KarbuSND"
+                    ]
+                },
+                {
+                    "slot": "Oli",
+                    "best": "Oli_Motul",
+                    "good": [
+                        "Oli_Deltalube"
+                    ],
+                    "bad": [
+                        "Oli_Ipone"
+                    ]
+                }
+            ]
+        },
+        {
+            "motorID": "VarioLedOld",
+            "slots": [
+                {
+                    "slot": "Coil",
+                    "best": "Coil_Faito",
+                    "good": [
+                        "Coil Cpo"
+                    ],
+                    "bad": [
+                        "Coil_BlueThunder"
+                    ]
+                },
+                {
+                    "slot": "Busi",
+                    "best": "Busi_Daytona",
+                    "good": [
+                        "Busi_Brisk"
+                    ],
+                    "bad": [
+                        "Busi_Denso"
+                    ]
+                },
+                {
+                    "slot": "ECU",
+                    "best": "Ecu_Aracer",
+                    "good": [
+                        "Ecu_Daytona"
+                    ],
+                    "bad": [
+                        "Ecu_Juken"
+                    ]
+                },
+                {
+                    "slot": "Roller",
+                    "best": "Roller_TDR",
+                    "good": [
+                        "Roller_Kawahara"
+                    ],
+                    "bad": [
+                        "Roller_Daytona"
+                    ]
+                },
+                {
+                    "slot": "Piston",
+                    "best": "Piston74",
+                    "good": [
+                        "Piston72"
+                    ],
+                    "bad": [
+                        "Piston68"
+                    ]
+                },
+                {
+                    "slot": "Karburator",
                     "best": "KarbuBRT",
                     "good": [
                         "KarbuYoshimura"
                     ],
                     "bad": [
-                        "KarbuSND"
+                        "KarbuLectron"
                     ]
                 },
                 {
@@ -3377,43 +3452,43 @@
             ]
         },
         {
-            "motorID": "VarioLedOld",
+            "motorID": "VarioRebah",
             "slots": [
                 {
                     "slot": "Coil",
                     "best": "Coil_Faito",
                     "good": [
-                        "Coil_BlueThunder"
+                        "Coil_KTC"
                     ],
                     "bad": [
-                        "Coil_KTC"
+                        "Coil_BlueThunder"
                     ]
                 },
                 {
                     "slot": "Busi",
-                    "best": "Busi_Denso",
+                    "best": "Busi_Daytona",
                     "good": [
-                        "Busi_Daytona"
+                        "Busi_Champion"
                     ],
                     "bad": [
-                        "Busi_NGK"
+                        "Busi_Denso"
                     ]
                 },
                 {
                     "slot": "ECU",
                     "best": "Ecu_Juken",
                     "good": [
-                        "Ecu_Daytona"
+                        "Ecu_Aracer"
                     ],
                     "bad": [
-                        "Ecu_Aracer"
+                        "Ecu_Daytona"
                     ]
                 },
                 {
                     "slot": "Roller",
-                    "best": "Roller_Kawahara",
+                    "best": "Roller_LHK",
                     "good": [
-                        "Roller_TDR"
+                        "Roller_Kawahara"
                     ],
                     "bad": [
                         "Roller_Daytona"
@@ -3423,90 +3498,15 @@
                     "slot": "Piston",
                     "best": "Piston74",
                     "good": [
-                        "Piston70"
-                    ],
-                    "bad": [
-                        "Piston68"
-                    ]
-                },
-                {
-                    "slot": "Karburator",
-                    "best": "KarbuBlackRaven",
-                    "good": [
-                        "KarbuLectron"
-                    ],
-                    "bad": [
-                        "KarbuYoshimura"
-                    ]
-                },
-                {
-                    "slot": "Oli",
-                    "best": "Oli_Ipone",
-                    "good": [
-                        "Oli_Motul"
-                    ],
-                    "bad": [
-                        "Oli_Deltalube"
-                    ]
-                }
-            ]
-        },
-        {
-            "motorID": "VarioRebah",
-            "slots": [
-                {
-                    "slot": "Coil",
-                    "best": "Coil_BlueThunder",
-                    "good": [
-                        "Coil_Faito"
-                    ],
-                    "bad": [
-                        "Coil Cpo"
-                    ]
-                },
-                {
-                    "slot": "Busi",
-                    "best": "Busi_Denso",
-                    "good": [
-                        "Busi_NGK"
-                    ],
-                    "bad": [
-                        "Busi_Champion"
-                    ]
-                },
-                {
-                    "slot": "ECU",
-                    "best": "Ecu_Daytona",
-                    "good": [
-                        "Ecu_Juken"
-                    ],
-                    "bad": [
-                        "Ecu_Aracer"
-                    ]
-                },
-                {
-                    "slot": "Roller",
-                    "best": "Roller_Kawahara",
-                    "good": [
-                        "Roller_TDR"
-                    ],
-                    "bad": [
-                        "Roller_LHK"
-                    ]
-                },
-                {
-                    "slot": "Piston",
-                    "best": "Piston68",
-                    "good": [
-                        "Piston74"
-                    ],
-                    "bad": [
                         "Piston72"
+                    ],
+                    "bad": [
+                        "Piston70"
                     ]
                 },
                 {
                     "slot": "Karburator",
-                    "best": "KarbuSND",
+                    "best": "KarbuYoshimura",
                     "good": [
                         "KarbuBRT"
                     ],
@@ -3531,22 +3531,22 @@
             "slots": [
                 {
                     "slot": "Coil",
-                    "best": "Coil_KTC",
+                    "best": "Coil Cpo",
                     "good": [
-                        "Coil_Faito"
+                        "Coil_BlueThunder"
                     ],
                     "bad": [
-                        "Coil Cpo"
+                        "Coil_KTC"
                     ]
                 },
                 {
                     "slot": "Busi",
                     "best": "Busi_Daytona",
                     "good": [
-                        "Busi_NGK"
+                        "Busi_Brisk"
                     ],
                     "bad": [
-                        "Busi_Champion"
+                        "Busi_NGK"
                     ]
                 },
                 {
@@ -3561,9 +3561,9 @@
                 },
                 {
                     "slot": "Roller",
-                    "best": "Roller_LHK",
+                    "best": "Roller_Daytona",
                     "good": [
-                        "Roller_Kawahara"
+                        "Roller_LHK"
                     ],
                     "bad": [
                         "Roller_BRT"
@@ -3581,22 +3581,22 @@
                 },
                 {
                     "slot": "Karburator",
-                    "best": "KarbuBRT",
+                    "best": "KarbuSND",
                     "good": [
                         "KarbuYoshimura"
                     ],
                     "bad": [
-                        "KarbuLectron"
+                        "KarbuBlackRaven"
                     ]
                 },
                 {
                     "slot": "Oli",
-                    "best": "Oli_Shell",
+                    "best": "Oli_Ipone",
                     "good": [
-                        "Oli_Motul"
+                        "Oli_Shell"
                     ],
                     "bad": [
-                        "Oli_Deltalube"
+                        "Oli_Motul"
                     ]
                 }
             ]
@@ -3606,22 +3606,22 @@
             "slots": [
                 {
                     "slot": "Coil",
-                    "best": "Coil_Faito",
+                    "best": "Coil Cpo",
                     "good": [
                         "Coil_BlueThunder"
                     ],
                     "bad": [
-                        "Coil Cpo"
+                        "Coil_Faito"
                     ]
                 },
                 {
                     "slot": "Busi",
-                    "best": "Busi_Champion",
+                    "best": "Busi_Brisk",
                     "good": [
-                        "Busi_NGK"
+                        "Busi_Champion"
                     ],
                     "bad": [
-                        "Busi_Brisk"
+                        "Busi_Daytona"
                     ]
                 },
                 {
@@ -3636,42 +3636,42 @@
                 },
                 {
                     "slot": "Roller",
-                    "best": "Roller_TDR",
+                    "best": "Roller_Kawahara",
                     "good": [
-                        "Roller_BRT"
+                        "Roller_Daytona"
                     ],
                     "bad": [
-                        "Roller_Daytona"
+                        "Roller_TDR"
                     ]
                 },
                 {
                     "slot": "Piston",
                     "best": "Piston72",
                     "good": [
-                        "Piston74"
+                        "Piston70"
                     ],
                     "bad": [
-                        "Piston70"
+                        "Piston74"
                     ]
                 },
                 {
                     "slot": "Karburator",
-                    "best": "KarbuBlackRaven",
+                    "best": "KarbuYoshimura",
                     "good": [
-                        "KarbuSND"
+                        "KarbuLectron"
                     ],
                     "bad": [
-                        "KarbuLectron"
+                        "KarbuBRT"
                     ]
                 },
                 {
                     "slot": "Oli",
-                    "best": "Oli_Castrol",
+                    "best": "Oli_Motul",
                     "good": [
-                        "Oli_Motul"
+                        "Oli_Ipone"
                     ],
                     "bad": [
-                        "Oli_Shell"
+                        "Oli_Deltalube"
                     ]
                 }
             ]
@@ -3681,49 +3681,49 @@
             "slots": [
                 {
                     "slot": "Coil",
-                    "best": "Coil_Faito",
+                    "best": "Coil Cpo",
                     "good": [
                         "Coil_BlueThunder"
                     ],
                     "bad": [
-                        "Coil_KTC"
+                        "Coil_Faito"
                     ]
                 },
                 {
                     "slot": "Busi",
-                    "best": "Busi_NGK",
+                    "best": "Busi_Daytona",
                     "good": [
-                        "Busi_Brisk"
+                        "Busi_NGK"
                     ],
                     "bad": [
-                        "Busi_Denso"
+                        "Busi_Brisk"
                     ]
                 },
                 {
                     "slot": "ECU",
                     "best": "Ecu_Aracer",
                     "good": [
-                        "Ecu_Juken"
+                        "Ecu_Daytona"
                     ],
                     "bad": [
-                        "Ecu_Daytona"
+                        "Ecu_Juken"
                     ]
                 },
                 {
                     "slot": "Roller",
-                    "best": "Roller_Daytona",
+                    "best": "Roller_TDR",
                     "good": [
                         "Roller_Kawahara"
                     ],
                     "bad": [
-                        "Roller_LHK"
+                        "Roller_BRT"
                     ]
                 },
                 {
                     "slot": "Piston",
                     "best": "Piston74",
                     "good": [
-                        "Piston70"
+                        "Piston72"
                     ],
                     "bad": [
                         "Piston68"
@@ -3731,22 +3731,22 @@
                 },
                 {
                     "slot": "Karburator",
-                    "best": "KarbuLectron",
+                    "best": "KarbuSND",
                     "good": [
-                        "KarbuBRT"
+                        "KarbuYoshimura"
                     ],
                     "bad": [
-                        "KarbuBlackRaven"
+                        "KarbuLectron"
                     ]
                 },
                 {
                     "slot": "Oli",
-                    "best": "Oli_Ipone",
+                    "best": "Oli_Motul",
                     "good": [
-                        "Oli_Motul"
+                        "Oli_Shell"
                     ],
                     "bad": [
-                        "Oli_Shell"
+                        "Oli_Deltalube"
                     ]
                 }
             ]
@@ -3758,23 +3758,23 @@
                     "slot": "Coil",
                     "best": "Coil_Faito",
                     "good": [
-                        "Coil_KTC"
+                        "Coil Cpo"
                     ],
                     "bad": [
-                        "Coil Cpo",
+                        "Coil_KTC",
                         "Coil_BlueThunder"
                     ]
                 },
                 {
                     "slot": "Busi",
-                    "best": "Busi_Daytona",
+                    "best": "Busi_Denso",
                     "good": [
-                        "Busi_NGK"
+                        "Busi_Daytona"
                     ],
                     "bad": [
+                        "Busi_Brisk",
                         "Busi_Champion",
-                        "Busi_Denso",
-                        "Busi_Brisk"
+                        "Busi_NGK"
                     ]
                 },
                 {
@@ -3789,25 +3789,25 @@
                 },
                 {
                     "slot": "Roller",
-                    "best": "Roller_LHK",
+                    "best": "Roller_TDR",
                     "good": [
-                        "Roller_Kawahara"
+                        "Roller_Daytona"
                     ],
                     "bad": [
-                        "Roller_TDR",
+                        "Roller_Kawahara",
                         "Roller_BRT",
-                        "Roller_Daytona"
+                        "Roller_LHK"
                     ]
                 },
                 {
                     "slot": "Piston",
                     "best": "Piston72",
                     "good": [
-                        "Piston74"
+                        "Piston70"
                     ],
                     "bad": [
                         "Piston68",
-                        "Piston70"
+                        "Piston74"
                     ]
                 },
                 {
@@ -3817,21 +3817,21 @@
                         "KarbuSND"
                     ],
                     "bad": [
-                        "KarbuYoshimura",
                         "KarbuBRT",
+                        "KarbuYoshimura",
                         "KarbuBlackRaven"
                     ]
                 },
                 {
                     "slot": "Oli",
-                    "best": "Oli_Deltalube",
+                    "best": "Oli_Motul",
                     "good": [
-                        "Oli_Shell"
+                        "Oli_Castrol"
                     ],
                     "bad": [
-                        "Oli_Castrol",
-                        "Oli_Motul",
-                        "Oli_Ipone"
+                        "Oli_Shell",
+                        "Oli_Ipone",
+                        "Oli_Deltalube"
                     ]
                 }
             ]
