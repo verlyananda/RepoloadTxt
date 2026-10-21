@@ -1,3 +1,10 @@
 {
-    "codes": []
+    "codes": [
+        {
+            "code": "OSIRILISNIH2JT",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        }
+    ]
 }
