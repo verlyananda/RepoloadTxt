@@ -1651,6 +1651,12 @@
             "prank": 0
         },
         {
+            "code": "MAULHSIMAXFRIDAY",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "MAULNIHBOSSS",
             "reward": 10000000000,
             "token": 0,
