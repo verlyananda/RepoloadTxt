@@ -35,6 +35,12 @@
             "reward": 0,
             "token": 0,
             "prank": 1
+        },
+        {
+            "code": "OSIRILISIG",
+            "reward": 500000,
+            "token": 0,
+            "prank": 0
         }
     ]
 }
