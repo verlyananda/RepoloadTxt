@@ -7,6 +7,12 @@
             "prank": 1
         },
         {
+            "code": "OSIBOCILLANJUT500",
+            "reward": 250000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "OSIBOCILULANGNIH",
             "reward": 250000,
             "token": 0,
