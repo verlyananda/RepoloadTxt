@@ -49,6 +49,12 @@
             "prank": 0
         },
         {
+            "code": "OSIMERDEKANIH",
+            "reward": 0,
+            "token": 0,
+            "prank": 1
+        },
+        {
             "code": "OSIONTELSIMULATOR",
             "reward": 250000,
             "token": 0,
