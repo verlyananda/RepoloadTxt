@@ -1675,6 +1675,12 @@
             "prank": 0
         },
         {
+            "code": "OSI250RILISNIH",
+            "reward": 249997,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "RYNBOM60",
             "reward": 50000000,
             "token": 0,
