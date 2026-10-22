@@ -13,6 +13,12 @@
             "prank": 0
         },
         {
+            "code": "OSI250LAGINEH",
+            "reward": 250000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "OSIJOS250",
             "reward": 0,
             "token": 0,
