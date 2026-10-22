@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "BOCILBAJAKLAUT",
+            "reward": 250000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "BOCILLANJUT",
             "reward": 0,
             "token": 0,
