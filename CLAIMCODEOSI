@@ -19,6 +19,12 @@
             "prank": 1
         },
         {
+            "code": "BOCILOSITAMPAN",
+            "reward": 250000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "OSIBOCILLANJUT500",
             "reward": 250000,
             "token": 0,
