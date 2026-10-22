@@ -1,12 +1,6 @@
 {
     "codes": [
         {
-            "code": "250OSIAH",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "250OSILAGI",
             "reward": 250000,
             "token": 0,
