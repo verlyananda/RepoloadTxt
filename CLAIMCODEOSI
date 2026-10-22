@@ -1,12 +1,6 @@
 {
     "codes": [
         {
-            "code": "250OSILAGI",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "ONTELSIMULATOR250",
             "reward": 250000,
             "token": 0,
