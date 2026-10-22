@@ -19,40 +19,10 @@
             "prank": 1
         },
         {
-            "code": "BOCILOSIGAUL",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "BOCILOSISABAR",
             "reward": 0,
             "token": 0,
             "prank": 1
-        },
-        {
-            "code": "BOCILOSITAMPAN",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "OSIBOCILLANJUT500",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "OSIBOCILLANJUTKERAS",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "OSIBOCILULANGNIH",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
         },
         {
             "code": "OSIJOSJIS",
@@ -65,12 +35,6 @@
             "reward": 0,
             "token": 0,
             "prank": 1
-        },
-        {
-            "code": "OSIONTELSIMULATOR",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
         }
     ]
 }
