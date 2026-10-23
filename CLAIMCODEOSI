@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "300RBAGUSNGISING",
+            "reward": 300000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "AGUSINGINBERAKAJACURHAT",
             "reward": 100000,
             "token": 0,
