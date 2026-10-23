@@ -49,6 +49,12 @@
             "prank": 1
         },
         {
+            "code": "OSIBMX2026",
+            "reward": 111111,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "OSIRILIS100RB",
             "reward": 100000,
             "token": 0,
