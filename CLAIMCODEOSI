@@ -19,6 +19,12 @@
             "prank": 1
         },
         {
+            "code": "OSI100RBOSIREAL",
+            "reward": 100000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "OSI500RBCOIN",
             "reward": 500000,
             "token": 0,
