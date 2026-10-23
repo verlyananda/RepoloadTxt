@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "AGUSINGINBERAKAJACURHAT",
+            "reward": 100000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "OSI100RBBOCILOSI",
             "reward": 100000,
             "token": 0,
