@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "OSI100RBKEDUA",
+            "reward": 100000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "OSI500RBCOIN",
             "reward": 500000,
             "token": 0,
