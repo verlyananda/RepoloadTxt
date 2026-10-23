@@ -49,12 +49,6 @@
             "prank": 1
         },
         {
-            "code": "OSIBMX2026",
-            "reward": 111111,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "OSICOINLAGINIH250",
             "reward": 250000,
             "token": 0,
