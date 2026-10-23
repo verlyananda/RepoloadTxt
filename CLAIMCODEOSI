@@ -65,6 +65,12 @@
             "reward": 250000,
             "token": 0,
             "prank": 0
+        },
+        {
+            "code": "OSIUPDATENANTI250",
+            "reward": 250000,
+            "token": 0,
+            "prank": 0
         }
     ]
 }
