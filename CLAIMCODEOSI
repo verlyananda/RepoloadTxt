@@ -5,6 +5,12 @@
             "reward": 500000,
             "token": 0,
             "prank": 0
+        },
+        {
+            "code": "OSI500RBJOS",
+            "reward": 0,
+            "token": 0,
+            "prank": 1
         }
     ]
 }
