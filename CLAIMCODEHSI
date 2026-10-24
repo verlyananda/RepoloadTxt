@@ -1,6 +1,18 @@
 {
     "codes": [
         {
+            "code": "ADITHSIFAJAR00",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "ADITHSIMETAGAME27",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIBAYALGORITMA06",
             "reward": 50000000,
             "token": 0,
