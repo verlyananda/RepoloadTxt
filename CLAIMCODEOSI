@@ -1,100 +1,28 @@
 {
     "codes": [
         {
-            "code": "300RBAGUSNGISING",
-            "reward": 300000,
+            "code": "OSICRITICAL31",
+            "reward": 249998,
             "token": 0,
             "prank": 0
         },
         {
-            "code": "AGUSINGINBERAKAJACURHAT",
-            "reward": 100000,
+            "code": "OSIFLAWLESS02",
+            "reward": 249998,
             "token": 0,
             "prank": 0
         },
         {
-            "code": "OSI100RBBOCILOSI",
-            "reward": 100000,
+            "code": "OSIFLAWLESS45",
+            "reward": 249998,
             "token": 0,
             "prank": 0
         },
         {
-            "code": "OSI100RBKEDUA",
-            "reward": 100000,
+            "code": "OSISPEEDRUN24",
+            "reward": 249998,
             "token": 0,
             "prank": 0
-        },
-        {
-            "code": "OSI100RBLAGIHH",
-            "reward": 0,
-            "token": 0,
-            "prank": 1
-        },
-        {
-            "code": "OSI100RBOSIREAL",
-            "reward": 100000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "OSI500RBCOIN",
-            "reward": 500000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "OSI500RBJOS",
-            "reward": 0,
-            "token": 0,
-            "prank": 1
-        },
-        {
-            "code": "OSICOINLAGINIH250",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "OSIKESALAHANTEKNIS",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "OSILANJUT250",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "OSIOSILAGIDEH",
-            "reward": 0,
-            "token": 0,
-            "prank": 1
-        },
-        {
-            "code": "OSIRILIS100RB",
-            "reward": 100000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "OSISIAPSIAPAPDET",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "OSIUPDATENANTI250",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "OSIUPDATEPREPARE",
-            "reward": 0,
-            "token": 0,
-            "prank": 1
         }
     ]
 }
