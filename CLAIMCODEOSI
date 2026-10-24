@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "OSI450RBRILDAH",
+            "reward": 250000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "OSICRITICAL31",
             "reward": 249998,
             "token": 0,
