@@ -1657,8 +1657,32 @@
             "prank": 0
         },
         {
+            "code": "HSINUBALIKPAPAN00",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSINUBANKAI68",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUBERUANG17",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUCAMBUK58",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUCLOUD89",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -1675,6 +1699,18 @@
             "prank": 0
         },
         {
+            "code": "HSINUGALAKSI36",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUGASPOL77",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSINUGOLOK12",
             "reward": 50000000,
             "token": 0,
@@ -1687,8 +1723,26 @@
             "prank": 0
         },
         {
+            "code": "HSINUHARIMAU88",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUJERUK05",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSINUKAIJU55",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUKATANA54",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -1711,6 +1765,18 @@
             "prank": 0
         },
         {
+            "code": "HSINUKUMAHA31",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUKUY98",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSINUMANUNGGAL03",
             "reward": 50000000,
             "token": 0,
@@ -1719,6 +1785,12 @@
         {
             "code": "HSINUMAROON20",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUMELON54",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -1735,8 +1807,32 @@
             "prank": 0
         },
         {
+            "code": "HSINUOMEGA18",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUPEPAYA99",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUQUANTUM25",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSINURESPAWN38",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUROKET86",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -1753,6 +1849,12 @@
             "prank": 0
         },
         {
+            "code": "HSINUSALAK79",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSINUSALJU30",
             "reward": 50000000,
             "token": 0,
@@ -1761,6 +1863,12 @@
         {
             "code": "HSINUSIOMAY84",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUSOLO43",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
@@ -1783,8 +1891,20 @@
             "prank": 0
         },
         {
+            "code": "HSINUTRESNO90",
+            "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSINUVENOM09",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSINUVORTEX94",
+            "reward": 150000000,
             "token": 0,
             "prank": 0
         },
