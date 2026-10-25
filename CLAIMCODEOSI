@@ -1,38 +1,8 @@
 {
     "codes": [
         {
-            "code": "OSI450RBRILDAH",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "OSICODELAGI250",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "OSICRITICAL31",
-            "reward": 249998,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "OSIFLAWLESS02",
-            "reward": 249998,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "OSIFLAWLESS45",
-            "reward": 249998,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "OSISPEEDRUN24",
-            "reward": 249998,
+            "code": "SAPOEANGINHSIMAX",
+            "reward": 3000000000,
             "token": 0,
             "prank": 0
         }
