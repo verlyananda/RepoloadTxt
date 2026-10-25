@@ -2287,6 +2287,12 @@
             "prank": 0
         },
         {
+            "code": "SADADAFSFDF",
+            "reward": 0,
+            "token": 5000,
+            "prank": 0
+        },
+        {
             "code": "SAPOEANGINHSIMAX",
             "reward": 3000000000,
             "token": 0,
