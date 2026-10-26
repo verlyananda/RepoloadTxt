@@ -31,31 +31,13 @@
             "prank": 0
         },
         {
-            "code": "OSIBAIKHATI",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "OSIBOCILCODE",
             "reward": 500000,
             "token": 0,
             "prank": 0
         },
         {
-            "code": "OSIJOSJISNEH",
-            "reward": 1000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "OSIJOSLAHPOKOKE",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "OSILAGINIHTOP1",
             "reward": 250000,
             "token": 0,
             "prank": 0
@@ -109,25 +91,7 @@
             "prank": 0
         },
         {
-            "code": "OSITOP1ALHAMDULILAH",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "OSITOP1NIHBOS",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "OSITOPSATUBOS",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "OSITOPWAN",
             "reward": 250000,
             "token": 0,
             "prank": 0
