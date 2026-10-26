@@ -1531,6 +1531,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXBAPER73",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXBUAYA66",
             "reward": 50000000,
             "token": 0,
@@ -1569,6 +1575,12 @@
         {
             "code": "HSIMAXHALU32",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXJUS68",
+            "reward": 5000000000,
             "token": 0,
             "prank": 0
         },
