@@ -1531,6 +1531,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXADIKA00",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXBAKSO27",
             "reward": 2000000000,
             "token": 0,
@@ -1609,8 +1615,20 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXKUDA95",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXMATRIX93",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXMEGA64",
+            "reward": 1000000000,
             "token": 0,
             "prank": 0
         },
@@ -1645,8 +1663,20 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXPOWERUP84",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXQUANTUM62",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXQUASAR52",
+            "reward": 1000000000,
             "token": 0,
             "prank": 0
         },
@@ -1689,6 +1719,12 @@
         {
             "code": "HSIMAXSPION70",
             "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXTIKUNGAN76",
+            "reward": 1000000000,
             "token": 0,
             "prank": 0
         },
