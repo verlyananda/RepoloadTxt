@@ -7,6 +7,12 @@
             "prank": 0
         },
         {
+            "code": "OSIBAIKHATI",
+            "reward": 250000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "OSIBOCILCODE",
             "reward": 500000,
             "token": 0,
