@@ -25,6 +25,12 @@
             "prank": 1
         },
         {
+            "code": "OSIONTEL",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "OSITOP1",
             "reward": 250000,
             "token": 0,
