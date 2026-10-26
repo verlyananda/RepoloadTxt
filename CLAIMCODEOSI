@@ -11,6 +11,12 @@
             "reward": 0,
             "token": 0,
             "prank": 1
+        },
+        {
+            "code": "OSITOP1",
+            "reward": 250000,
+            "token": 0,
+            "prank": 0
         }
     ]
 }
