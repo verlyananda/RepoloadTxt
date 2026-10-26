@@ -31,6 +31,12 @@
             "prank": 0
         },
         {
+            "code": "OSIONTELNIH",
+            "reward": 250000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "OSITOP1",
             "reward": 250000,
             "token": 0,
