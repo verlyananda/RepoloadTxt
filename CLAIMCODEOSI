@@ -25,12 +25,6 @@
             "prank": 0
         },
         {
-            "code": "OSI250JOSJIS",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "OSIBOCILCODE",
             "reward": 500000,
             "token": 0,
@@ -55,43 +49,13 @@
             "prank": 1
         },
         {
-            "code": "OSILANJUTKEUN",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "OSINIHBOSS",
-            "reward": 0,
-            "token": 0,
-            "prank": 1
-        },
-        {
             "code": "OSIONTEL",
             "reward": 0,
             "token": 0,
             "prank": 0
         },
         {
-            "code": "OSIONTELNIH",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "OSIPENUTUPANLIVE",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "OSITOP1",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "OSITOPSATUBOS",
             "reward": 250000,
             "token": 0,
             "prank": 0
