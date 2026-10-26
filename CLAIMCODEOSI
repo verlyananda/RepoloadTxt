@@ -1,3 +1,10 @@
 {
-    "codes": []
+    "codes": [
+        {
+            "code": "OSI250JOSJIS",
+            "reward": 250000,
+            "token": 0,
+            "prank": 0
+        }
+    ]
 }
