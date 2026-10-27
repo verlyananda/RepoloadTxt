@@ -19,6 +19,12 @@
             "prank": 0
         },
         {
+            "code": "OSISESIPOTRET",
+            "reward": 0,
+            "token": 0,
+            "prank": 1
+        },
+        {
             "code": "OSITOP1ALAMAK",
             "reward": 250000,
             "token": 0,
