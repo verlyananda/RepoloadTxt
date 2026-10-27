@@ -13,6 +13,12 @@
             "prank": 1
         },
         {
+            "code": "OSIBEKPANIK",
+            "reward": 250000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "OSIONTEL",
             "reward": 0,
             "token": 0,
