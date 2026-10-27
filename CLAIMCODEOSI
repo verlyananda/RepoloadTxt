@@ -31,6 +31,12 @@
             "prank": 0
         },
         {
+            "code": "OSIGASIN",
+            "reward": 250000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "OSIJOSJISDER",
             "reward": 0,
             "token": 0,
