@@ -1,62 +1,14 @@
 {
     "codes": [
         {
-            "code": "BOBOIBOYOSI",
+            "code": "OSI250RBLAGI",
             "reward": 250000,
             "token": 0,
             "prank": 0
-        },
-        {
-            "code": "BOYOSIJOS",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "BOYOSINIH",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "ONTELSIMULATORXBOY",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "OSIBOCILCODE",
-            "reward": 500000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "OSIJOSLAHPOKOKE",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "OSILANJUTKANNIH",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "OSILANJUTKANRANK1",
-            "reward": 0,
-            "token": 0,
-            "prank": 1
         },
         {
             "code": "OSIONTEL",
             "reward": 0,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "OSITOP1",
-            "reward": 250000,
             "token": 0,
             "prank": 0
         }
