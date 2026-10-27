@@ -37,6 +37,12 @@
             "prank": 0
         },
         {
+            "code": "OSIRUDIKECAPBANGO",
+            "reward": 0,
+            "token": 0,
+            "prank": 1
+        },
+        {
             "code": "OSISESIPOTRET",
             "reward": 0,
             "token": 0,
