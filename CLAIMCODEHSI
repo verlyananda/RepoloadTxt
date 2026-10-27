@@ -1237,14 +1237,56 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXBIRU31",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXBOBA24",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXBOBA40",
             "reward": 1000000000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "HSIMAXCLOUD12",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXDONAT25",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXESCAMPUR74",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXGASPOL86",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXHOKI39",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXIRIS52",
+            "reward": 500000000,
             "token": 0,
             "prank": 0
         },
@@ -1279,6 +1321,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXRAKSASA54",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXREM25",
             "reward": 1000000000,
             "token": 0,
@@ -1287,6 +1335,18 @@
         {
             "code": "HSIMAXSALJU09",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXSLAMET17",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXTURBO57",
+            "reward": 500000000,
             "token": 0,
             "prank": 0
         },
