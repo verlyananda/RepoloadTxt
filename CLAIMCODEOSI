@@ -43,6 +43,12 @@
             "prank": 0
         },
         {
+            "code": "OSISIAPSIAPUPDATE",
+            "reward": 250000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "OSISLEBEW",
             "reward": 0,
             "token": 0,
