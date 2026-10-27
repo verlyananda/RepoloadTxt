@@ -17,6 +17,12 @@
             "reward": 0,
             "token": 0,
             "prank": 0
+        },
+        {
+            "code": "OSITOP1ALAMAK",
+            "reward": 250000,
+            "token": 0,
+            "prank": 0
         }
     ]
 }
