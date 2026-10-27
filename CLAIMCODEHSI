@@ -1237,6 +1237,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXBANDUNG14",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXBIRU31",
             "reward": 500000000,
             "token": 0,
@@ -1321,6 +1327,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXJAKARTA73",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXLASER55",
             "reward": 2000000000,
             "token": 0,
@@ -1329,6 +1341,12 @@
         {
             "code": "HSIMAXLECI52",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXLEMON61",
+            "reward": 3000000000,
             "token": 0,
             "prank": 0
         },
@@ -1363,6 +1381,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXNEBULA19",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXPHOENIX94",
             "reward": 2000000000,
             "token": 0,
@@ -1387,14 +1411,32 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXSADIS59",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXSALJU09",
             "reward": 1000000000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "HSIMAXSATE10",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXSLAMET17",
             "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXSONO04",
+            "reward": 3000000000,
             "token": 0,
             "prank": 0
         },
@@ -1407,6 +1449,24 @@
         {
             "code": "HSIMAXTURBO57",
             "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXUNGU66",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXWAKANDA42",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXWILUJENG70",
+            "reward": 3000000000,
             "token": 0,
             "prank": 0
         },
