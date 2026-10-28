@@ -1363,6 +1363,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXBUFF93",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXBURGER76",
             "reward": 2000000000,
             "token": 0,
@@ -1377,6 +1383,12 @@
         {
             "code": "HSIMAXCOMEBACK79",
             "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXDEPOK66",
+            "reward": 5000000000,
             "token": 0,
             "prank": 0
         },
@@ -1429,6 +1441,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXGUNDAM65",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXJACKPOT50",
             "reward": 2000000000,
             "token": 0,
@@ -1437,6 +1455,12 @@
         {
             "code": "HSIMAXKERNEL77",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXKRYPTON24",
+            "reward": 5000000000,
             "token": 0,
             "prank": 0
         },
@@ -1455,6 +1479,12 @@
         {
             "code": "HSIMAXNUHUN96",
             "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXOTAKU23",
+            "reward": 5000000000,
             "token": 0,
             "prank": 0
         },
@@ -1497,6 +1527,12 @@
         {
             "code": "HSIMAXSKENA92",
             "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXSUGIH71",
+            "reward": 5000000000,
             "token": 0,
             "prank": 0
         },
