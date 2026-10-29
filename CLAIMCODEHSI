@@ -1349,6 +1349,66 @@
             "reward": 50000000,
             "token": 0,
             "prank": 0
+        },
+        {
+            "code": "HSIMAXGASRUK00",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXGERHANA13",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXHIJAU54",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXHOKAGE85",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXINVISIBLE99",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXKATANA55",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXKUNING61",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXMIE01",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXPIXEL27",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXVULKANIK32",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
         }
     ]
 }
