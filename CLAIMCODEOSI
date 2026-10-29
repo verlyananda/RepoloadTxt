@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "BOBOIBOY5JTOSI",
+            "reward": 0,
+            "token": 0,
+            "prank": 1
+        },
+        {
             "code": "OSI250RBGASIN",
             "reward": 250000,
             "token": 0,
