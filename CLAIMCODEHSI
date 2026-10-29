@@ -1081,6 +1081,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAULABADI",
+            "reward": 2500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAULANDROMEDA57",
             "reward": 150000000,
             "token": 0,
