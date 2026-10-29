@@ -19,6 +19,12 @@
             "prank": 0
         },
         {
+            "code": "OSITIKTOK",
+            "reward": 250000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "OSIUPDATEDEH",
             "reward": 250000,
             "token": 0,
