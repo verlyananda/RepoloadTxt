@@ -5,6 +5,12 @@
             "reward": 250000,
             "token": 0,
             "prank": 0
+        },
+        {
+            "code": "OSILANJUTKANUPDATE",
+            "reward": 250000,
+            "token": 0,
+            "prank": 0
         }
     ]
 }
