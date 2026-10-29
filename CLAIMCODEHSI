@@ -1357,6 +1357,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXBALAP26",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXBONDO64",
             "reward": 500000000,
             "token": 0,
@@ -1375,8 +1381,38 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXCRAZY75",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXEMBUN53",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXGADO58",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXGASKEUN79",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXGASRUK00",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXGASSS09",
+            "reward": 2000000000,
             "token": 0,
             "prank": 0
         },
@@ -1423,6 +1459,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXKETOPRAK47",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXKUNING61",
             "reward": 1000000000,
             "token": 0,
@@ -1459,8 +1501,26 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXSAIYAN71",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXSEDULUR65",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXSEMARANG71",
             "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXSIGAN29",
+            "reward": 2000000000,
             "token": 0,
             "prank": 0
         },
