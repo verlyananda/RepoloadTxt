@@ -7,6 +7,12 @@
             "prank": 0
         },
         {
+            "code": "OSILANJUTKANBOS",
+            "reward": 250000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "OSISIAPAPDET",
             "reward": 0,
             "token": 0,
