@@ -17,6 +17,12 @@
             "reward": 250000,
             "token": 0,
             "prank": 0
+        },
+        {
+            "code": "OSIUPDATEGAKYAH",
+            "reward": 250000,
+            "token": 0,
+            "prank": 0
         }
     ]
 }
