@@ -1,3 +1,10 @@
 {
-    "codes": []
+    "codes": [
+        {
+            "code": "OSISIAPSIAP",
+            "reward": 250000,
+            "token": 0,
+            "prank": 0
+        }
+    ]
 }
