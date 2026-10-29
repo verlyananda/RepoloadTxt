@@ -1351,6 +1351,30 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXAMBER04",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXBONDO64",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXCAKRA75",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXCOKELAT33",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXGASRUK00",
             "reward": 1000000000,
             "token": 0,
@@ -1381,6 +1405,18 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXIRIS37",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXKABUT00",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXKATANA55",
             "reward": 1000000000,
             "token": 0,
@@ -1393,14 +1429,38 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXLEGENDARY45",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXMIE01",
             "reward": 1000000000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "HSIMAXNEON66",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXPIXEL27",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXQUANTUM97",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXSEMARANG71",
+            "reward": 500000000,
             "token": 0,
             "prank": 0
         },
