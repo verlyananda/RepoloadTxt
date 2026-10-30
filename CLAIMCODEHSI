@@ -1349,6 +1349,66 @@
             "reward": 150000000,
             "token": 0,
             "prank": 0
+        },
+        {
+            "code": "MAXAPEL98",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAXBANDUNG17",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAXCLUTCH41",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAXCUAN34",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAXFLAWLESS42",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAXORBIT90",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAXPEMPEK41",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAXPEPAYA34",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAXSENJA51",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAXSPIDEY70",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
         }
     ]
 }
