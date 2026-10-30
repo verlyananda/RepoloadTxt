@@ -1363,6 +1363,12 @@
             "prank": 0
         },
         {
+            "code": "MAXBAPER21",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "MAXBERKAH70",
             "reward": 500000000,
             "token": 0,
@@ -1411,6 +1417,12 @@
             "prank": 0
         },
         {
+            "code": "MAXKERAK76",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "MAXMAKASSAR99",
             "reward": 500000000,
             "token": 0,
@@ -1423,6 +1435,12 @@
             "prank": 0
         },
         {
+            "code": "MAXMETA35",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "MAXMETA38",
             "reward": 3000000000,
             "token": 0,
@@ -1431,6 +1449,12 @@
         {
             "code": "MAXMETEORID28",
             "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAXMIE43",
+            "reward": 0,
             "token": 0,
             "prank": 0
         },
@@ -1527,6 +1551,12 @@
         {
             "code": "MAXTHROTTLE55",
             "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAXVIGILANTE11",
+            "reward": 0,
             "token": 0,
             "prank": 0
         }
