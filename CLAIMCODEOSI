@@ -67,6 +67,12 @@
             "prank": 0
         },
         {
+            "code": "OSIPREPAREAPDETANNIH",
+            "reward": 250000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "OSISIAPSIAPAPDETNEHGEYS",
             "reward": 250000,
             "token": 0,
