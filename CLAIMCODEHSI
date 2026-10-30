@@ -1495,6 +1495,18 @@
             "prank": 0
         },
         {
+            "code": "MAXNITRO18",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAXNUHUN44",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "MAXORBIT90",
             "reward": 1000000000,
             "token": 0,
@@ -1567,8 +1579,20 @@
             "prank": 0
         },
         {
+            "code": "MAXSAVAGE50",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "MAXSENJA51",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAXSENPAI51",
+            "reward": 5000000000,
             "token": 0,
             "prank": 0
         },
@@ -1609,8 +1633,20 @@
             "prank": 0
         },
         {
+            "code": "MAXTHROTTLE07",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "MAXTHROTTLE55",
             "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAXTOSCA85",
+            "reward": 5000000000,
             "token": 0,
             "prank": 0
         },
