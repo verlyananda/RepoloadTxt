@@ -1,14 +1,44 @@
 {
     "codes": [
         {
+            "code": "HSIDOALPUKAT05",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDOBOM37",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDOBURGER24",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIDOEPIC85",
             "reward": 150000000,
             "token": 0,
             "prank": 0
         },
         {
+            "code": "HSIDOGASPOL71",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIDOGUYUB39",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDOKNALPOT40",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
@@ -21,6 +51,12 @@
         {
             "code": "HSIDOMAGER74",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDOMAGER95",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
@@ -43,6 +79,12 @@
             "prank": 0
         },
         {
+            "code": "HSIDORENCONG28",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIDOROOKIE98",
             "reward": 150000000,
             "token": 0,
@@ -51,6 +93,24 @@
         {
             "code": "HSIDOSADIS89",
             "reward": 150000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDOSALJU02",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDOSPAWNKILL88",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDOSRIGALA67",
+            "reward": 50000000,
             "token": 0,
             "prank": 0
         },
