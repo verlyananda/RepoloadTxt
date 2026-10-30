@@ -1369,6 +1369,12 @@
             "prank": 0
         },
         {
+            "code": "MAXBUCIN16",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "MAXCHIP18",
             "reward": 500000000,
             "token": 0,
@@ -1377,6 +1383,12 @@
         {
             "code": "MAXCLUTCH41",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAXCOMBO68",
+            "reward": 3000000000,
             "token": 0,
             "prank": 0
         },
@@ -1405,6 +1417,18 @@
             "prank": 0
         },
         {
+            "code": "MAXMELON48",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAXMETA38",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "MAXMETEORID28",
             "reward": 500000000,
             "token": 0,
@@ -1417,8 +1441,20 @@
             "prank": 0
         },
         {
+            "code": "MAXNGABERS05",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "MAXORBIT90",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAXPADANG24",
+            "reward": 3000000000,
             "token": 0,
             "prank": 0
         },
@@ -1431,6 +1467,24 @@
         {
             "code": "MAXPEPAYA34",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAXQUANTUM76",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAXRANTAI23",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAXRONIN72",
+            "reward": 3000000000,
             "token": 0,
             "prank": 0
         },
@@ -1467,6 +1521,12 @@
         {
             "code": "MAXSPIDEY70",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAXTHROTTLE55",
+            "reward": 3000000000,
             "token": 0,
             "prank": 0
         }
