@@ -1363,6 +1363,18 @@
             "prank": 0
         },
         {
+            "code": "MAXBERKAH70",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAXCHIP18",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "MAXCLUTCH41",
             "reward": 1000000000,
             "token": 0,
@@ -1377,6 +1389,30 @@
         {
             "code": "MAXFLAWLESS42",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAXJUARA73",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAXMAKASSAR99",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAXMETEORID28",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAXNEBULA57",
+            "reward": 500000000,
             "token": 0,
             "prank": 0
         },
@@ -1399,8 +1435,32 @@
             "prank": 0
         },
         {
+            "code": "MAXSAKTI95",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "MAXSENJA51",
             "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAXSERVER16",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAXSNIPE94",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "MAXSOLAR17",
+            "reward": 500000000,
             "token": 0,
             "prank": 0
         },
