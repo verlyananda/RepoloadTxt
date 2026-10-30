@@ -133,12 +133,6 @@
             "prank": 0
         },
         {
-            "code": "HSIMAULGADO00",
-            "reward": 150000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "HSIMAULHATUR91",
             "reward": 50000000,
             "token": 0,
