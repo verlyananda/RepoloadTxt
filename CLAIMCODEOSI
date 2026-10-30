@@ -1,28 +1,3 @@
 {
-    "codes": [
-        {
-            "code": "BOBOIBOYJOSAH",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "BOBOIBOYLOVEOSI",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "BOBOIBOYONTELNIH",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "LOVEOSIBOBOIBOY",
-            "reward": 250000,
-            "token": 0,
-            "prank": 0
-        }
-    ]
+    "codes": []
 }
