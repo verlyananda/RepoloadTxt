@@ -7,6 +7,12 @@
             "prank": 0
         },
         {
+            "code": "OSI2026",
+            "reward": 250000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "OSIBAGIBAGILAGI",
             "reward": 0,
             "token": 0,
