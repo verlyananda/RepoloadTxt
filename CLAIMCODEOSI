@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "AGUSGANTENGOSI",
+            "reward": 250000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "OSIBAGIBAGILAGI",
             "reward": 0,
             "token": 0,
