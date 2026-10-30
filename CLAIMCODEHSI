@@ -31,6 +31,12 @@
             "prank": 0
         },
         {
+            "code": "HSIBAYLASER76",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIBAYMAROON34",
             "reward": 150000000,
             "token": 0,
