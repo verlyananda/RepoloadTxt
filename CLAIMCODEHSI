@@ -61,6 +61,12 @@
             "prank": 0
         },
         {
+            "code": "DOHSIPISANG72",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "DOHSITRESNO39",
             "reward": 5000000000,
             "token": 0,
