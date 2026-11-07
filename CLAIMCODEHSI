@@ -271,6 +271,12 @@
             "prank": 0
         },
         {
+            "code": "HSIDOPIXEL21",
+            "reward": 50000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIDORAHAYU94",
             "reward": 0,
             "token": 0,
