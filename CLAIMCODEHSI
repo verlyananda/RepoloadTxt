@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "ADIT700JETIIII",
+            "reward": 700,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "FOXXYACE29",
             "reward": 75000000,
             "token": 0,
