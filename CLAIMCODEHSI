@@ -899,6 +899,36 @@
             "reward": 75000000,
             "token": 0,
             "prank": 0
+        },
+        {
+            "code": "HSIMAXBATAGOR59",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXGASRUK06",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXGRANAT91",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXMATUR43",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXPONTIANAK96",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
         }
     ]
 }
