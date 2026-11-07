@@ -169,6 +169,12 @@
             "prank": 0
         },
         {
+            "code": "HSIDOCAMBUK30",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIDOCLOUD53",
             "reward": 50000000,
             "token": 0,
