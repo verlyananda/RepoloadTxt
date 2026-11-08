@@ -835,6 +835,12 @@
             "prank": 0
         },
         {
+            "code": "HSIHITBOX53",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAULADEM02",
             "reward": 75000000,
             "token": 0,
@@ -2481,6 +2487,12 @@
         {
             "code": "HSIMAULWIBU87",
             "reward": 75000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIPEDANG80",
+            "reward": 1000000000,
             "token": 0,
             "prank": 0
         }
