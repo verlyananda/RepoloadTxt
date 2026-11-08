@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "FOXXYNASGOR88",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "FOXXYPOLEPOS99",
             "reward": 500000000,
             "token": 0,
@@ -20,6 +26,12 @@
         },
         {
             "code": "FOXXYSPEEDRUN29",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FOXXYTEH90",
             "reward": 500000000,
             "token": 0,
             "prank": 0
