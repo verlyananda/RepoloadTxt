@@ -25,6 +25,12 @@
             "prank": 0
         },
         {
+            "code": "FOXXYMETEOR66",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "FOXXYNASGOR88",
             "reward": 500000000,
             "token": 0,
@@ -50,6 +56,12 @@
         },
         {
             "code": "FOXXYSPEEDRUN29",
+            "reward": 500000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "FOXXYSPEEDRUN46",
             "reward": 500000000,
             "token": 0,
             "prank": 0
