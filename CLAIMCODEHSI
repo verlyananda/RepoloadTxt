@@ -2581,6 +2581,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAULBAKSO35",
+            "reward": 75000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAULBALIKPAPAN91",
             "reward": 75000000,
             "token": 0,
@@ -2606,6 +2612,12 @@
         },
         {
             "code": "HSIMAULBIDADARI55",
+            "reward": 75000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAULBIRU87",
             "reward": 75000000,
             "token": 0,
             "prank": 0
@@ -2677,6 +2689,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAULCOMBO64",
+            "reward": 75000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAULCRIMSON11",
             "reward": 75000000,
             "token": 0,
@@ -2684,6 +2702,12 @@
         },
         {
             "code": "HSIMAULCRIMSON60",
+            "reward": 75000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAULCRITICAL08",
             "reward": 75000000,
             "token": 0,
             "prank": 0
@@ -2732,6 +2756,12 @@
         },
         {
             "code": "HSIMAULGASSS41",
+            "reward": 75000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAULGEPREK58",
             "reward": 75000000,
             "token": 0,
             "prank": 0
@@ -2827,6 +2857,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAULJACKPOT73",
+            "reward": 75000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAULJAYA40",
             "reward": 75000000,
             "token": 0,
@@ -2851,6 +2887,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAULKAIJU18",
+            "reward": 75000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAULKAIJU73",
             "reward": 75000000,
             "token": 0,
@@ -2864,6 +2906,12 @@
         },
         {
             "code": "HSIMAULKAPAK83",
+            "reward": 75000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAULKEPO63",
             "reward": 75000000,
             "token": 0,
             "prank": 0
@@ -2930,6 +2978,18 @@
         },
         {
             "code": "HSIMAULLAKU16",
+            "reward": 75000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAULLAMPUNG01",
+            "reward": 75000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAULLAMPUNG28",
             "reward": 75000000,
             "token": 0,
             "prank": 0
@@ -3025,6 +3085,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAULMECHA40",
+            "reward": 75000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAULMEGA01",
             "reward": 75000000,
             "token": 0,
@@ -3067,6 +3133,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAULNASGOR81",
+            "reward": 75000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAULNEMESIS25",
             "reward": 75000000,
             "token": 0,
@@ -3098,6 +3170,12 @@
         },
         {
             "code": "HSIMAULNGEBUT29",
+            "reward": 75000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAULNUHUN72",
             "reward": 75000000,
             "token": 0,
             "prank": 0
@@ -3187,6 +3265,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAULQUASAR33",
+            "reward": 75000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAULQUASAR82",
             "reward": 75000000,
             "token": 0,
@@ -3194,6 +3278,12 @@
         },
         {
             "code": "HSIMAULRAHAYU49",
+            "reward": 75000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAULRAJAWALI59",
             "reward": 75000000,
             "token": 0,
             "prank": 0
@@ -3307,7 +3397,19 @@
             "prank": 0
         },
         {
+            "code": "HSIMAULSEBLAK08",
+            "reward": 75000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAULSENTINEL21",
+            "reward": 75000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAULSENTINEL60",
             "reward": 75000000,
             "token": 0,
             "prank": 0
@@ -3319,7 +3421,25 @@
             "prank": 0
         },
         {
+            "code": "HSIMAULSINGA91",
+            "reward": 75000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAULSIOMAY56",
+            "reward": 75000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAULSIRUP68",
+            "reward": 75000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAULSIRUP99",
             "reward": 75000000,
             "token": 0,
             "prank": 0
@@ -3367,7 +3487,25 @@
             "prank": 0
         },
         {
+            "code": "HSIMAULSUGIH83",
+            "reward": 75000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAULSULTAN56",
+            "reward": 75000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAULSUPER14",
+            "reward": 75000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAULTAJIR49",
             "reward": 75000000,
             "token": 0,
             "prank": 0
@@ -3391,6 +3529,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAULTILTED50",
+            "reward": 75000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAULTITAN04",
             "reward": 75000000,
             "token": 0,
@@ -3398,6 +3542,12 @@
         },
         {
             "code": "HSIMAULTOMBAK93",
+            "reward": 75000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAULTORNADO70",
             "reward": 75000000,
             "token": 0,
             "prank": 0
