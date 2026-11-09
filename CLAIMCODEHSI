@@ -31,6 +31,12 @@
             "prank": 0
         },
         {
+            "code": "HSIDODRONE54",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIDOGLORY19",
             "reward": 100000000,
             "token": 0,
@@ -75,6 +81,12 @@
         {
             "code": "HSIDOLUMBA94",
             "reward": 100000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIDOMENANG16",
+            "reward": 2000000000,
             "token": 0,
             "prank": 0
         },
