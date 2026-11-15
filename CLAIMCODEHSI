@@ -151,12 +151,6 @@
             "prank": 0
         },
         {
-            "code": "HSICLOUD67",
-            "reward": 2000000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "HSIDHITASTRO46",
             "reward": 75000000,
             "token": 0,
@@ -607,12 +601,6 @@
             "prank": 0
         },
         {
-            "code": "HSIKEPO66",
-            "reward": 1000000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
             "code": "HSIMAULBOSTER14",
             "reward": 75000000,
             "token": 0,
@@ -759,6 +747,18 @@
         {
             "code": "HSIMAULWHEELIE00",
             "reward": 75000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXCOMBO76",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXSIRKUIT38",
+            "reward": 2000000000,
             "token": 0,
             "prank": 0
         }
