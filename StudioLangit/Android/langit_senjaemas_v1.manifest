@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3423374161
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e1098328e2989375cfef50312813601
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cd6acaf1aaec159fb3b4e5ceab71b539
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9e1098328e2989375cfef50312813601
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/HSI_Studio/Langit/Langit_SenjaEmas.mat
+Dependencies: []

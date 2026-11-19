@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 947399916
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: langit_siang_v1
+      Dependencies: {}
+    Info_1:
+      Name: langit_senjaemas_v1
+      Dependencies: {}
+    Info_2:
+      Name: langit_senjajingga_v1
+      Dependencies: {}
+    Info_3:
+      Name: langit_malam_v1
+      Dependencies: {}
+    Info_4:
+      Name: langit_angkasa_v1
+      Dependencies: {}

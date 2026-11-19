@@ -1,0 +1,8 @@
+PAKET LANGIT STUDIO (Android) — versi 1, Unity 2022.3.62f3
+Upload file-file ini ke GitHub repo verlyananda/RepoloadTxt, folder StudioLangit/Android/ (branch main):
+  langit_siang_v1  (4.63 MB)  → https://raw.githubusercontent.com/verlyananda/RepoloadTxt/main/StudioLangit/Android/langit_siang_v1
+  langit_senjaemas_v1  (2.37 MB)  → https://raw.githubusercontent.com/verlyananda/RepoloadTxt/main/StudioLangit/Android/langit_senjaemas_v1
+  langit_senjajingga_v1  (5.03 MB)  → https://raw.githubusercontent.com/verlyananda/RepoloadTxt/main/StudioLangit/Android/langit_senjajingga_v1
+  langit_malam_v1  (2.32 MB)  → https://raw.githubusercontent.com/verlyananda/RepoloadTxt/main/StudioLangit/Android/langit_malam_v1
+  langit_angkasa_v1  (2.63 MB)  → https://raw.githubusercontent.com/verlyananda/RepoloadTxt/main/StudioLangit/Android/langit_angkasa_v1
+Total 16.98 MB (diunduh per langit, cuma kalau pemain memilihnya).
