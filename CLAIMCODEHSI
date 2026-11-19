@@ -751,8 +751,32 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXCOMBO75",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXELANG70",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXJINGGA97",
             "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXKUNING38",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXLEMON47",
+            "reward": 1000000000,
             "token": 0,
             "prank": 0
         },
@@ -763,8 +787,44 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXNGEBUT75",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXRECEH98",
             "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXSERVER46",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXSOLAR42",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXSUMANGET12",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXTIKUNGAN23",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXTIKUNGAN33",
+            "reward": 1000000000,
             "token": 0,
             "prank": 0
         }
