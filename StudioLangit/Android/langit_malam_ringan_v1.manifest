@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1644492418
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d71f13d6ac45a9c5570252d25160dda
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cd6acaf1aaec159fb3b4e5ceab71b539
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8d71f13d6ac45a9c5570252d25160dda
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/HSI_Studio/Langit/Langit_Malam_Ringan.mat
+Dependencies: []

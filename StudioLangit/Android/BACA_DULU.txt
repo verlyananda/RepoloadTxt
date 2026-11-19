@@ -5,4 +5,11 @@ Upload file-file ini ke GitHub repo verlyananda/RepoloadTxt, folder StudioLangit
   langit_senjajingga_v1  (5.03 MB)  → https://raw.githubusercontent.com/verlyananda/RepoloadTxt/main/StudioLangit/Android/langit_senjajingga_v1
   langit_malam_v1  (2.32 MB)  → https://raw.githubusercontent.com/verlyananda/RepoloadTxt/main/StudioLangit/Android/langit_malam_v1
   langit_angkasa_v1  (2.63 MB)  → https://raw.githubusercontent.com/verlyananda/RepoloadTxt/main/StudioLangit/Android/langit_angkasa_v1
-Total 16.98 MB (diunduh per langit, cuma kalau pemain memilihnya).
+  langit_siang_ringan_v1  (1.26 MB)  → https://raw.githubusercontent.com/verlyananda/RepoloadTxt/main/StudioLangit/Android/langit_siang_ringan_v1
+  langit_senjaemas_ringan_v1  (0.70 MB)  → https://raw.githubusercontent.com/verlyananda/RepoloadTxt/main/StudioLangit/Android/langit_senjaemas_ringan_v1
+  langit_senjajingga_ringan_v1  (1.25 MB)  → https://raw.githubusercontent.com/verlyananda/RepoloadTxt/main/StudioLangit/Android/langit_senjajingga_ringan_v1
+  langit_malam_ringan_v1  (0.67 MB)  → https://raw.githubusercontent.com/verlyananda/RepoloadTxt/main/StudioLangit/Android/langit_malam_ringan_v1
+  langit_angkasa_ringan_v1  (0.71 MB)  → https://raw.githubusercontent.com/verlyananda/RepoloadTxt/main/StudioLangit/Android/langit_angkasa_ringan_v1
+Total 21.57 MB di server. Pemain cuma unduh 1 versi per langit yang dipilih:
+  HP RAM ≥ 6000 MB → langit_*_v1 (HD), selain itu → langit_*_ringan_v1.
+Ukuran di atas → salin ke mbHD / mbRingan di HsiStudioRuangan.PaletLangit (teks 'unduh ±N MB' di tombol langit).

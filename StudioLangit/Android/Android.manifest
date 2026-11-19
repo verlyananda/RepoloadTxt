@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 947399916
+CRC: 2071002440
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -16,4 +16,19 @@ AssetBundleManifest:
       Dependencies: {}
     Info_4:
       Name: langit_angkasa_v1
+      Dependencies: {}
+    Info_5:
+      Name: langit_siang_ringan_v1
+      Dependencies: {}
+    Info_6:
+      Name: langit_senjaemas_ringan_v1
+      Dependencies: {}
+    Info_7:
+      Name: langit_senjajingga_ringan_v1
+      Dependencies: {}
+    Info_8:
+      Name: langit_malam_ringan_v1
+      Dependencies: {}
+    Info_9:
+      Name: langit_angkasa_ringan_v1
       Dependencies: {}
