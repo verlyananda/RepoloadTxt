@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "DHITMAX",
+            "reward": 75000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIBAYCHEETAH61",
             "reward": 75000000,
             "token": 0,
