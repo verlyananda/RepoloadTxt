@@ -7,6 +7,12 @@
             "prank": 0
         },
         {
+            "code": "HSIALDO3MLAGI",
+            "reward": 3000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIBAYBALIKPAPAN04",
             "reward": 75000000,
             "token": 0,
