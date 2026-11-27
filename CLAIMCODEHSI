@@ -763,6 +763,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXRUSUH00",
+            "reward": 2000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXSHINOBI01",
             "reward": 1000000000,
             "token": 0,
