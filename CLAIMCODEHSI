@@ -749,30 +749,6 @@
             "reward": 75000000,
             "token": 0,
             "prank": 0
-        },
-        {
-            "code": "HSIMAXGALACTUS64",
-            "reward": 1000000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIMAXKRAKEN69",
-            "reward": 1000000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIMAXNANO44",
-            "reward": 1000000000,
-            "token": 0,
-            "prank": 0
-        },
-        {
-            "code": "HSIMAXPELANGI98",
-            "reward": 1000000000,
-            "token": 0,
-            "prank": 0
         }
     ]
 }
