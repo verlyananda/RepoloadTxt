@@ -749,6 +749,24 @@
             "reward": 75000000,
             "token": 0,
             "prank": 0
+        },
+        {
+            "code": "HSIMAXNINJA03",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXQUASAR98",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXSHINOBI01",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
         }
     ]
 }
