@@ -749,6 +749,30 @@
             "reward": 7500000,
             "token": 0,
             "prank": 0
+        },
+        {
+            "code": "HSIMAXHITBOX96",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXPADANG89",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXSAMUDRA84",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXTIKUNGAN84",
+            "reward": 0,
+            "token": 0,
+            "prank": 0
         }
     ]
 }
