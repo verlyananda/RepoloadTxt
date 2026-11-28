@@ -769,6 +769,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXGORILA50",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXKODE91",
             "reward": 1000000000,
             "token": 0,
