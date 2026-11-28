@@ -749,6 +749,30 @@
             "reward": 7500000,
             "token": 0,
             "prank": 0
+        },
+        {
+            "code": "HSIMAXEPIC55",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXSOTO70",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXTAJIR64",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
+            "code": "HSIMAXTEMPE34",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
         }
     ]
 }
