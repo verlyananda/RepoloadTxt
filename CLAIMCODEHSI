@@ -751,6 +751,12 @@
             "prank": 0
         },
         {
+            "code": "HSIMAXDEWA71",
+            "reward": 1000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIMAXEPIC55",
             "reward": 1000000000,
             "token": 0,
