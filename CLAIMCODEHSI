@@ -1,6 +1,12 @@
 {
     "codes": [
         {
+            "code": "ALDOHSIMAXLG5M",
+            "reward": 5000000000,
+            "token": 0,
+            "prank": 0
+        },
+        {
             "code": "HSIBAYACEH92",
             "reward": 7500000,
             "token": 0,
